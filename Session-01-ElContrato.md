@@ -27,7 +27,9 @@ Estancia La Esperanza occupies roughly 4,000 hectares. It was prosperous once. T
 Practical details for the Keeper:
 - The zagúan skull has faint scratched marks on it — barely visible. Players who examine it closely and succeed on **Spot Hidden** will notice they resemble the marks on the hide they are shown later. Do not draw attention to this.
 - There is a locked study door visible from the main room. Tomás instinctively glances at it when Don Eusebio mentions the "tribal raids." The door leads to Don Eusebio's private study (not accessible this session).
-- A young servant girl, **Concepción** (13, quiet, large eyes), brings water without being asked and leaves without meeting anyone's gaze.
+- A young servant girl, **Concepción** (13, quiet, large eyes), brings water without being asked and leaves without meeting anyone's gaze. She is the orphaned daughter of a house servant who died of fever two years ago; Don Eusebio has kept her on. She sleeps in a small room behind the kitchen.
+  - **Important** (Keeper): Concepción has been walking toward the south pasture at night for three weeks. Don Eusebio has caught her twice and brought her back. He has not told anyone. She has a partial alignment to the geometry — subtler than Silvio's, because she is younger and the entity's touch has been lighter — but she can feel where the pit is, the way a bird feels which way is south. She will play a critical role at the end of this session.
+  - **Tells a perceptive investigator** (Spot Hidden, or any character paying attention to her): her feet are dusty and slightly scratched despite it being morning. Her eyes track to the southern wall of the sala when Don Eusebio mentions the south pasture. She does not flinch at the mention of the dead cattle. She has seen worse in her sleep.
 
 ---
 
@@ -228,16 +230,81 @@ In your game, La Luz Mala is not a ghost. It is a *sensor* — a probe or pseudo
 
 ---
 
-### The Awakening — Reanimated Cattle & The Fly Swarm
+### The Awakening — Concepción, the Reanimated Cattle, and the Fly Swarm
 
-**What triggers it**: Any deliberate disruption of the ritual geometry — attacking the light, digging at the pit's blood arcs, dragging a carcass off its position, or firing a weapon near the center. The geometry is the entity's working surface. Disturbing it draws its attention, and its response is mechanical: seal the disturbance.
+**THE INTERVENTION (new, primary trigger)**:
 
-**Read aloud when triggered**:
-> *The light stops. For two full seconds there is no sound, no wind, nothing. Then the flies — which have been orbiting at a distance — collapse inward, all at once, into a dense black mass near the pit's rim. And two of the cattle in the field begin to move.*
+This scene is designed to activate whether or not investigators have figured out what "breaking the geometry" means. If they are lost, confused, or passive at the pit, the situation will *come to them* through Concepción — and teach them the lesson in blood and hoofbeats.
+
+**What happens**: As the Luz Mala is still performing its arcs (Step 2–4 of the Behavior Sequence above), two figures appear at the northern edge of the cattle field. One small, one large. They are coming fast. **Spot Hidden** to identify at distance: **Concepción**, barefoot, in her work dress, walking quickly and in a straight line toward the pit. Behind her, running, is **Tomás** — shouting her name, losing distance. She is not running from him. She is walking *to the pit*.
+
+**Read aloud**:
+> *You hear Tomás before you see him. His voice carries in that wrong way voices carry in the pampa — too far and not far enough at once. "¡Concepción! ¡Concepción, volvé! ¡Volvé acá, por Dios!" He is running. His hat is gone. He is holding his facón in one hand — not as a threat, as if he forgot he was holding it.*
 >
-> *Not slowly. Not stumbling. They rise with the mechanical efficiency of something that has never been stiff — as if they simply forgot to be dead for a moment and are now correcting the oversight. Their wounds are still open. Their eyes are white and dry. They orient toward you.*
+> *The girl walking ahead of him doesn't turn around. She doesn't appear to hear him. She walks straight toward the pit's edge and stops — looks down into it with the expression of someone confirming something she already knew.*
+>
+> *Then she steps in.*
 
-**SAN Check**: 1/1D6 (the reanimation — this is wrong in a very physical, immediate way)
+**SAN Check**: 0/1 — the sight of a 13-year-old walking calmly into a ritual pit full of dead cattle.
+
+---
+
+**What Concepción Does**:
+
+She descends the gentle slope of the pit. She does not slip or hesitate. At the bottom, she kneels on the compacted earth where the blood arcs are drawn — and begins to scrape at them. With her fingernails. With a stone she picks up. Methodically. Not frantic, not in a trance — *working*. Like a child who has been given a task and is determined to finish it.
+
+She is erasing the geometry.
+
+**Why she's doing it**: The entity's light touch on her — the nights she has walked south — gave her something. Not the Wrong Returned's full alignment, but a thinner version: she knows, at a wordless level, that the arcs in the pit are doing something, and that scraping them breaks whatever that is. She cannot articulate it. She does not know what will happen if she succeeds. She is just working.
+
+**What she says, if asked** (she will respond — she is not catatonic, just focused):
+> *"Está muy grande ahí abajo. Hay que apagarlo un poco."* — *"It's very big down there. It has to be turned down a little."*
+
+**Keeper note**: This line is a direct foreshadowing of her S7 line (*"It's very big down there, Patrón. Don't be afraid."*). If the campaign reaches S7, Don Eusebio's confession about her will land with double weight.
+
+---
+
+**Tomás's Panic**:
+
+Tomás arrives at the pit's edge seconds after Concepción descends. He is gasping. He is terrified. He does not go into the pit — every instinct in him says not to — and he is equally unable to leave the girl in it alone. He grips the edge and shouts at her. He looks at the investigators with an expression that is pure desperation.
+
+> *"La encontré caminando para acá. La traje de vuelta dos veces esta semana. Esta vez no pude pararla. No puedo entrar ahí — Dios me perdone, no puedo entrar ahí — ¡sáquenla ustedes, por favor, sáquenla!"*
+>
+> *"I found her walking here. I brought her back twice this week. This time I couldn't stop her. I can't go in there — God forgive me, I can't go in there — YOU get her out, please, get her out!"*
+
+He will not descend into the pit himself. His hand shakes so badly he drops the facón. He is the foreman of this estancia, he has faced pumas with a whip, but he will not go down into that pit. He stays at the edge. His shame at this will surface later (S2 onward).
+
+---
+
+**THE TRIGGER FIRES**:
+
+The moment Concepción scrapes the first full arc apart — roughly 20 seconds after she begins — the entity responds.
+
+**Read aloud**:
+> *The Luz Mala stops mid-arc. It holds absolutely still for two full seconds. Then it pulses once — so bright that for an instant you can see Concepción's figure in the pit, her hands dark with dust and blood from scraping, still working.*
+>
+> *Then the light contracts to a point and shoots downward into the earth.*
+>
+> *The flies — which had been orbiting at a distance — collapse inward all at once, into a dense black mass near the pit's rim. Tomás shrieks and stumbles backward. And two of the cattle in the field — the closest ones, the ones between you and the pit's northern edge — begin to move.*
+>
+> *Not slowly. Not stumbling. They rise with the mechanical efficiency of something that has never been stiff, as if they simply forgot to be dead for a moment and are now correcting the oversight. Their wounds are still open. Their eyes are white and dry. They orient — not toward you. Toward the pit. Toward the girl in it.*
+
+**SAN Check**: 1/1D6 (the reanimation — and the realization of what they are targeting)
+
+---
+
+**What This Means for the Encounter**:
+
+Concepción is the target. The reanimated cattle are not defending the geometry in the abstract — they are converging on the person actively erasing it. She has maybe 60 seconds before the first one reaches the pit's edge and descends. Tomás is screaming. The players must act.
+
+**This is now a rescue, not a confrontation**. The players' options have changed:
+1. **Pull Concepción out** (STR check; she will not resist — if gripped firmly and pulled, she goes limp and lets herself be carried. But she will try to return if released.)
+2. **Protect Concepción while she finishes** (Defending the pit's edge from the cattle while she keeps scraping. This is the lesson the scene is designed to teach: if she finishes, the encounter ends.)
+3. **Join her in the work** (Descend into the pit, scrape the arcs alongside her. Doubling the labor finishes the work faster. Investigators in the pit are within the cattle's path.)
+
+**Teaching the lesson**: If investigators are still not connecting the scraping of arcs to the way out, Tomás — in his panic — shouts the obvious once the first cow falls after an arc is completed. *"¡Las marcas! ¡Está borrando las marcas y las vacas se caen! ¡SIGAN BORRANDO!"* — *"The marks! She's erasing the marks and the cows fall! KEEP ERASING!"*
+
+He is not smart. He is not brave. But he is watching, and he sees it happen, and he will say so.
 
 ---
 
@@ -293,10 +360,14 @@ The swarm condenses from the orbiting cloud within the same round the cattle ris
 
 The reanimated cattle and the swarm exist *because* the ritual diagram exists. They are sustained by it. Breaking the geometry ends the encounter immediately.
 
-**How to break it**:
-- Drag, scatter, or destroy at least three of the outer ring carcasses from their positions (STR checks, one per carcass, difficulty depending on weight — cattle weigh 400kg; a combined effort of two investigators reduces the check to Normal)
-- Scrape or obliterate the blood arcs in the pit floor (a tool or boot heel, one full round of deliberate effort while in the pit)
-- Disrupt the outer circle of body positions by moving or overturning them — the geometry requires the full arrangement; a significant gap collapses the field
+**Concepción is already doing it.** She is scraping the inner blood arcs by hand. If left undisturbed and uninjured, she will finish in approximately **four rounds**. Every arc she completes drops one active threat (first cow falls after arc 1; second cow falls after arc 2; swarm disperses after arc 3; residual field collapses after arc 4). Players who protect her while she works *are* solving the encounter — they do not need to do anything else.
+
+**If investigators want to speed things up or take over** (for example, if Concepción is being pulled out, knocked down, or targeted):
+- **Scrape or obliterate the blood arcs in the pit floor** (a tool, boot heel, or bare hands — one full round of deliberate effort while in the pit; each arc completed drops one threat, as above)
+- **Drag, scatter, or destroy at least three of the outer ring carcasses from their positions** (STR checks, one per carcass, difficulty Hard alone / Normal with two investigators cooperating; three completed displacements collapse the field entirely)
+- **Disrupt the outer circle of body positions** by moving or overturning them — the geometry requires the full arrangement; a significant gap collapses the field
+
+**If Concepción is removed from the pit before finishing**: The cattle immediately redirect toward whoever is still in the pit working on the arcs. If no one is working, the cattle circle the pit's edge, waiting, and the Luz Mala returns to hover over the center. The encounter does not end. The players must either put Concepción back (she will resume immediately if allowed) or take over the work themselves.
 
 **What happens when the geometry breaks**:
 
@@ -317,18 +388,53 @@ The reanimated cattle and the swarm exist *because* the ritual diagram exists. T
 
 ---
 
+## SCENE 6 — RETURN TO THE ESTANCIA (Don Eusebio Is Gone)
+
+After the geometry collapses, the investigators return to the main house — probably carrying Concepción (she will not speak on the ride back; she falls asleep in the saddle, exhausted, her fingertips raw from the scraping). Tomás follows silently, ashamed that he did not go into the pit. He holds his hat in both hands the entire way.
+
+**Read aloud on arrival**:
+> *The main house looks different in the late-afternoon light — or you look at it differently. The corral is half-empty. The palomino that was tethered to the hitching post when you arrived is gone. The saddle and bridle are gone. One of the kitchen women is standing on the veranda with a broom in her hand, doing nothing with it, watching you ride up.*
+
+**What the investigators find**:
+
+- **Don Eusebio is not at the estancia.** He left sometime in the early afternoon, while the investigators were at the pasture. He rode out alone on his palomino, taking a rifle, a saddlebag, and a small leather case from his study. He told no one where he was going. He left no written instructions.
+- **The kitchen woman, Dionisia** (52, rough hands, does not make eye contact with strangers), will confirm: *"El patrón se fue solito, como a la una. Tomó pa'l este. No dijo nada."* — *"The patrón left by himself, around one. Headed east. Didn't say anything."*
+- **Tomás reacts**: He becomes visibly upset. He was not told. He is the foreman — the patrón should have told him. *"¿Para el este? ¿Para qué carajo se fue para el este?"* — *"East? What the hell is he doing going east?"* He knows, and the investigators can hear it in his voice, that east leads to open pampa, then eventually to the old *camino real* that used to pass through San Ruiz. No one has gone east in months.
+- **The locked study door is still locked.** If investigators check it: the key is gone. Don Eusebio took it with him.
+- **Concepción, placed in her small room behind the kitchen**, sleeps through everything. She will not wake until morning.
+
+**Hooks for lingering investigators**:
+- If players search Don Eusebio's desk (not the locked study — the open rolltop in the sala), they find: a half-written letter to a name they do not yet know, *"Don A. Quirce, Calle Florida, Buenos Aires,"* which simply reads *"Urgent. Come quickly. It did not hold. —E."* The letter is not folded. Not sealed. Not sent. (This is the first seed of Aldao Quirce for S6.)
+- A rural-police **Track** or wilderness skill: fresh hoofprints leave the estancia's east gate. One horse. A canter, not a gallop — he was in a hurry but not fleeing for his life. He was going somewhere specific.
+- Tomás, if asked what is east: *"Antes había un pueblo. San Ruiz. Lo abandonaron. Nadie va para allá."* — *"There used to be a town. San Ruiz. They abandoned it. Nobody goes there."* This is the session's hard hook toward Session 2. Tomás does not know why the town was abandoned. He will say only that his cousin lived there and left with the others.
+
+**Why Don Eusebio actually left** (Keeper only):
+
+When Tomás came running back to the estancia from the pasture ahead of the investigators, shouting about Concepción, Don Eusebio understood immediately that the investigators had seen too much and that Concepción's alignment was deeper than he had believed possible. He panicked. He wrote the letter to Quirce and did not finish it. He took his horse and rode east — not to flee, but because he needed to check the ridge above the tribal camp to see whether Kuyen and the other curanderas were still performing the counter-ritual. If they were — the pressure on the pit would continue to escalate, and he needed to know how fast. He plans to be back in two or three days. He will not return before the end of Session 1.
+
+This is a mistake. His absence is exactly what gives the investigators the room to follow his trail east, find San Ruiz, and learn the truth he has been keeping from them. He has accidentally led them to the next clue.
+
+**Keeper note**: Do not reveal his reasoning to the players. Let them interpret his departure as suspicious — possibly an attempt to escape them. The truth, when they encounter it at the ridge in S3, will be worse.
+
+---
+
 ## END OF SESSION 1
 
 **What the players should now believe or suspect**:
 - The cattle deaths are not tribal raids.
 - The pit is significant — possibly a ritual site.
 - The strange light is connected to the geometry of the marks and the body placement.
-- Don Eusebio may know more than he said.
+- Don Eusebio knows more than he said, and he has fled (or is hiding from them).
+- Concepción is connected to this in a way no 13-year-old girl should be.
+- Whatever is happening, scraping the geometry makes it weaker.
+- East — toward a place called San Ruiz — is where the next answers are.
 
 **What the players should NOT yet know**:
 - Who did this, and why.
 - That the tribes are trying to stop it, not cause it.
 - What the entity actually is.
+- Who "Don A. Quirce" is, or why Don Eusebio was writing to him.
+- That Don Eusebio will return in a few days and claim he was "inspecting northern fences."
 
 ---
 
@@ -342,7 +448,11 @@ The reanimated cattle and the swarm exist *because* the ritual diagram exists. T
 
 **The false lead**: If players follow his directions toward "tribal lands," they find nothing threatening — old campsites, normal traces of movement. This should create doubt. Absence of evidence where there should be evidence is its own clue.
 
-**Concepción** (the servant girl): She is not a major NPC, but she is available as a soft hook. If approached gently by an investigator with good interpersonal skills, she will say only: *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again.
+**Concepción** (the servant girl): She is now a major through-line NPC. Her intervention at the pit is the pivot of the session. Keepers should make her quiet presence felt earlier so her later walk doesn't come out of nowhere — she should be seen at the edge of rooms, watched observing the investigators, humming under her breath (a tuneless pattern that matches the Luz Mala's rhythm, but no one will notice this until S2 or later). If approached gently before the pit, she will say only: *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again. Her words after the pit, if asked, stay consistent: *"Está muy grande ahí abajo."*
+
+**If the players try to protect Concepción going forward**: They should. This is the correct moral instinct and the campaign rewards it. In S4, Don Eusebio will have sent her to Azul "for her safety" — an action the players may, in hindsight, recognize as protective (even if his motives were mixed). Her reappearance in S7 will carry more weight the more the players invested in her here.
+
+**Don Eusebio's disappearance**: This is the primary bridge to Session 2. Do not let players get stuck waiting for him to return at the estancia. If they try to stay and wait, have Tomás — who is shaken, angry, and has no patrón to defer to — offer to lend them horses and a guide to follow the trail east. If players are still passive, a rural police runner arrives the next morning with a report of "strange lights seen over the old bell tower of San Ruiz, three nights running." The east pull should become irresistible.
 
 ---
 
@@ -353,6 +463,11 @@ The reanimated cattle and the swarm exist *because* the ritual diagram exists. T
 | The branded hide | Fragment of the opening ritual diagram |
 | Tomás's stone *(if given)* | Second fragment — different section |
 | The body placement pattern | Diagram's outer ring confirmed |
-| The blood arcs in the pit | Diagram's inner ring |
+| The blood arcs in the pit | Diagram's inner ring — now partially scraped away (pit will be reactivated by the time of S4) |
 | La Luz Mala's path | Diagram's full geometry — if anyone was tracking it |
 | Don Eusebio's behavioral tells | He is hiding something specific; he fears the south pasture at night |
+| **Don Eusebio's unfinished letter** | Addressed to Don A. Quirce, Calle Florida, Buenos Aires: *"Urgent. Come quickly. It did not hold. —E."* (Unsealed. On his desk. Seed for S6.) |
+| **Don Eusebio's eastward trail** | Fresh hoofprints leading east from the estancia. Tomás names the destination: San Ruiz, an abandoned town. |
+| **Tomás's shame** | He did not enter the pit to save Concepción. This will shape his availability and behavior in S2–S4. |
+| **Concepción's alignment** | She walked into the pit and broke the geometry herself. She is not a normal child. She hums the pit's rhythm under her breath. (Payoff in S7.) |
+| **The lesson** | Breaking the geometry ends the manifestation. This is now learned knowledge — it will come up again in S3 and S8. |
