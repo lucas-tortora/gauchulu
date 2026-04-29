@@ -105,7 +105,7 @@ flowchart TD
     S3C -->|Assist properly --<br/>Mythos/Occult check| S3D3(Ritual holds better.<br/>Nahuel survives intact<br/>if successful)
 
     S3D1 & S3D2 & S3D3 --> S3E{Anyone struck by the Hound?}
-    S3E -->|Yes, survived| S3F1(Investigator(s) Marked)
+    S3E -->|Yes, survived| S3F1("Investigator(s) Marked")
     S3E -->|No| S3F2(No investigator Marked.<br/>Silvio's Mark becomes only example)
 
     S3F1 & S3F2 --> S4A[Return to estancia]
