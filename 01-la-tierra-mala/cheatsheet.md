@@ -2,7 +2,7 @@
 
 ---
 
-## SESSION 1 — THE CONTRACT → THE PIT (1 PAGE)
+## CHAPTER 1 — THE CONTRACT → THE PIT (1 PAGE)
 
 **GOAL**: Sell false premise → reveal pattern → first supernatural event
 
@@ -48,7 +48,7 @@
 
 ---
 
-## SESSION 2 — SIGNS → THE CHAPEL (1 PAGE)
+## CHAPTER 2 — SIGNS → THE CHAPEL (1 PAGE)
 
 **GOAL**: Break assumptions → show counter-ritual → tragedy (La Llorona)
 
@@ -88,11 +88,11 @@
 **GM NOTES**
 
 * Emphasize: not all rituals are the same
-* Build doubt before Session 3
+* Build doubt before Chapter 3
 
 ---
 
-## SESSION 3 — BROKEN RITUAL → HOUND (1 PAGE)
+## CHAPTER 3 — BROKEN RITUAL → HOUND (1 PAGE)
 
 **GOAL**: Reveal truth → player-caused catastrophe → survival set-piece
 

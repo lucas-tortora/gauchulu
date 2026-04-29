@@ -1,5 +1,5 @@
 # ARC 2 — EL FAMILIAR
-## SESSION 4 — EL PATRÓN
+## CHAPTER 4 — EL PATRÓN
 ### *The Boss*
 
 **Arc 2 Goal**: Force the truth into the open. What Don Eusebio knows must be extracted — and what he set in motion cannot be stopped without him.
@@ -8,7 +8,7 @@
 
 ---
 
-**Session Goal**: Confront Don Eusebio. Retrieve the manuscript. Understand what was actually summoned — and discover that the estancia is further corrupted than anyone knew.
+**Chapter Goal**: Confront Don Eusebio. Retrieve the manuscript. Understand what was actually summoned — and discover that the estancia is further corrupted than anyone knew.
 **Emotional Arc**: Resolve → Unease → The horror of the familiar
 **Key Seed**: The thing that was opened has been growing inside the estancia walls for months. Not just in the south pasture.
 
@@ -32,7 +32,7 @@ The estancia has changed in one visible way: the gates are closed and bolted. Tw
 
 > *The estancia looks the same from a distance. The whitewashed walls, the corrugated iron water tower, the quebracho tree line. But the gates are drawn shut — heavy timber, new iron bolts — and two of the hands stand near them with expressions designed to look casual and failing at it. The cattle sounds from the north pasture are thin. Far fewer animals than there should be. The south pasture is completely silent.*
 
-**Keeper Notes — What Has Changed Since Session 1**:
+**Keeper Notes — What Has Changed Since Chapter 1**:
 - The skull above the zagúan doorframe is gone. A faint bleached outline on the whitewash shows where it hung. Nobody moved it deliberately — it was found in pieces in the courtyard one morning.
 - Concepción (the servant girl) is not visible at all. Tomás can reveal, if pressed very gently, that Don Eusebio sent her to a cousin's house in the town of Azul two weeks ago. He says it was for her education. His eyes say something else.
 - The locked study has a new feature: the window facing the courtyard now has a blanket nailed over it from the inside. Light leaks from the edges at night.
@@ -80,7 +80,7 @@ He will now answer questions. He will not lie about things he has already confir
 
 ## NPC: DON EUSEBIO VALDEZ — ARC 2 PORTRAIT
 
-*See Session 1 for initial description. This entry covers his changed state.*
+*See Chapter 1 for initial description. This entry covers his changed state.*
 
 **How He Has Changed**: He is thinner. The authority is still present but underlaid now by something exhausted. The ink stains on his right hand have spread — not just the index finger but across the palm, as if he has been writing frantically or drawing diagrams repeatedly. He doesn't appear to notice them.
 
@@ -161,7 +161,7 @@ A **Hard Occult or INT** check on the diagrams reveals: he has been trying to fi
 
 ## NPC: SILVIO MÉNDEZ
 
-**Role**: The ranch hand who came back wrong. Present since Session 1 — investigators may have glimpsed him in the background. He is now visible in a way he wasn't before, because he cannot be ignored.
+**Role**: The ranch hand who came back wrong. Present since Chapter 1 — investigators may have glimpsed him in the background. He is now visible in a way he wasn't before, because he cannot be ignored.
 
 **Background**: Silvio, 38, has worked at La Esperanza for four years. Seven months ago, during Don Eusebio's third ritual "maintenance" — when the lines in the south pasture had to be redrawn — Don Eusebio sent Silvio to check the outer markers at night. Silvio came back before dawn, resumed work at sunrise, and has not stopped working since.
 
@@ -179,6 +179,8 @@ A **Hard Occult or INT** check on the diagrams reveals: he has been trying to fi
 - He knows, in a way he cannot articulate, that there are other people like him. *"There are two others who can hear it. South. They're walking this way."* (The Wrong Returned from San Ruiz — not yet arrived, but coming.)
 - He wants to go to the pit. He holds himself back from it. He grips the fence post when he stands near the south pasture. His knuckles are always white on the side that faces south.
 
+> **Dust runner — Silvio's recognition (3b)**: When investigators first stand near him — close enough that he could touch a sleeve — Silvio looks at the cuff or the saddlebag of one of them. He says, in his slightly-displaced way: *"Tienen el polvo. Como yo."* — *"You have the dust. Like me."* He does not elaborate. The investigator who carries the most pit-dust (the one who descended into the pit in C1 to scrape arcs alongside Concepción, or who has spent the most time near the geometry since) is the one Silvio addresses. **This is the third naming of the dust runner** (after Rosa in C2, Kuyen in C3). Silvio's recognition is the first time it is identified *as kinship* — he and the dust-carrier share something. Marked PCs noting this should feel a chill. They are slightly *more like Silvio* than they were before they came here.
+
 **Roleplaying hook — Silvio**: He is one of the most effective horror tools in the arc precisely because he is not monstrous. He does his job. He answers questions politely. He is still, recognizably, a person. The wrongness is in the details — the shadow, the eyes, the grip on the fence. Let investigators decide whether he is a victim to be helped or a danger to be avoided. He is both, and neither fully.
 
 ---
@@ -195,7 +197,7 @@ At the far edge of the south pasture — approximately 400 meters distant — tw
 
 **Appearance**: A man (Héctor, 50s) and a woman (Marta, 40s). They look healthy — well-fed from wherever they've been, appropriately dressed for travel. What is wrong about them becomes apparent only when they are close: they don't speak except in response to direct questions. Their eyes move in a way that tracks geometry rather than people — they look at the corners of rooms before the inhabitants. They cast shadows at angles that don't quite match the light.
 
-**Behavior in this session**: They don't approach the estancia. They stand at the fence line and wait. If investigators approach them, they answer questions briefly. If asked why they came back: *"Something is finishing. We needed to be here for it."* They cannot articulate more than this.
+**Behavior in this chapter**: They don't approach the estancia. They stand at the fence line and wait. If investigators approach them, they answer questions briefly. If asked why they came back: *"Something is finishing. We needed to be here for it."* They cannot articulate more than this.
 
 They are not dangerous. They are, like Silvio, pulled — and like Silvio, they are resisting the pull with what remains of their will.
 
@@ -205,15 +207,15 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 
 ## GM NOTES
 
-**Don Eusebio is not redeemed yet**: This session he is frightened and partially honest. That is progress. It is not redemption. He still has not told investigators about Quirce's suspicious advance knowledge. He has not confessed to seeing the people walking to the pasture at night and doing nothing. Those truths come later, and they should cost him something when they arrive.
+**Don Eusebio is not redeemed yet**: This chapter he is frightened and partially honest. That is progress. It is not redemption. He still has not told investigators about Quirce's suspicious advance knowledge. He has not confessed to seeing the people walking to the pasture at night and doing nothing. Those truths come later, and they should cost him something when they arrive.
 
-**The study is the session's center of gravity**: Get investigators in there. Let them take time with the manuscript. The horror of recognizing Saens's situation as a mirror of theirs — he failed the same way, for the same reasons, and died before closing it — is more effective than any monster description.
+**The study is the chapter's center of gravity**: Get investigators in there. Let them take time with the manuscript. The horror of recognizing Saens's situation as a mirror of theirs — he failed the same way, for the same reasons, and died before closing it — is more effective than any monster description.
 
 **Silvio should unsettle, not threaten**: Do not make him aggressive. The wrongness is in the ordinariness. He does his job. He answers questions. He grips the fence post. That is more frightening than violence.
 
-**The Wrong Returned at the fence line**: End the session on this image — two figures at the far edge of the south pasture, standing, waiting. Don't resolve what they are this session. Let that sit until Session 5.
+**The Wrong Returned at the fence line**: End the chapter on this image — two figures at the far edge of the south pasture, standing, waiting. Don't resolve what they are this chapter. Let that sit until Chapter 5.
 
-**Pacing note**: This session is slower than Session 3. It should feel like the eye of a storm — the violence of Arc 1's end gives way to something worse: comprehension. Everything investigators discover this session is information they almost had, and the gap between what they knew and what they should have known is itself a form of dread.
+**Pacing note**: This chapter is slower than Chapter 3. It should feel like the eye of a storm — the violence of Arc 1's end gives way to something worse: comprehension. Everything investigators discover this chapter is information they almost had, and the gap between what they knew and what they should have known is itself a form of dread.
 
 ---
 
@@ -227,3 +229,93 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 | Don Eusebio's diagrams | He has been trying to find an alternative. There is none. He knows this. |
 | The Wrong Returned at the fence | Héctor and Marta, drawn back from Tres Lagunas. Coming home for something. |
 | Aldao Quirce | A "scholar" from Buenos Aires. Don Eusebio contacted him. His response contained advance knowledge. |
+
+---
+
+## EXPANSION NOTES — BRIDGING TO THE OVERVIEW FRAMING
+
+The detailed prep above maps the old draft of this chapter: confronting Don Eusebio Valdez at Estancia La Esperanza on the *campaña* in 1821. The `overview.md` framing reframes Arc 2 as **La Salamanca** — folklore underground, El Pombero as guide, the Great Wizard, first Necronomicon reference, El Patrón manipulating. Use the scenes below to bring the new framing onto the existing prep without rewriting it.
+
+### Reskinning summary
+
+- **Don Eusebio Valdez** is the opener — the desperate landowner who set the corruption in motion. (`overview.md` previously had him as *Álvarez*; *Valdez* is now canonical across all chapters.)
+- **Aldao Quirce** as "Buenos Aires scholar with hidden agenda" can be played in this chapter as a *correspondent*, not yet on stage. He is the network's distant face; in the overview framing he is also the future C6 visitor and a possible Keeper-adjacent operator the players will see again in Arc 4.
+- **El Patrón** (avatar of Nyarlathotep, in the overview): in this chapter, he is the *invisible hand behind the manuscript's transmission*. Don Eusebio received the manuscript not by accident — it was placed where he would find it, by an agent who has been moving Don Eusebio toward the opening for years. Add this to Don Eusebio's confession in the locked study scene: a hint, no more, that the wall cavity where the manuscript was found had been *opened from the other side*.
+
+### NEW SCENE — EL POMBERO ON THE RIDGE
+
+Insert this scene late in the chapter, after Don Eusebio has agreed in principle to help and the Wrong Returned have appeared at the fence. Before the ride back to the players' camp.
+
+> *You leave the estancia at dusk. The road south to your camp curves past a low rise — a *cuchilla* the locals call *El Pelón*, "the bald spot," because no grass grows on its crown. Tomás does not look at it as you ride past. Don Eusebio's *peones* won't speak its name. As your horses round its base, a small figure appears at the top — not climbing, simply *there*, as if he had always been standing.*
+>
+> *He is short. Brown skin, broad face, a straw hat too large for his head. He raises one hand and waves — not friendly, not threatening, just acknowledging that you are passing. He whistles. The whistle has more notes than there are notes a person should know.*
+
+**El Pombero** is the overview's guide-and-test. In this chapter he does not *do* anything yet. He whistles. He waves. He vanishes when the party looks away. **Spot Hidden** while passing: the grass on top of *El Pelón* has the same ring pattern as the cattle field's grass rings — older, smaller, but the same shape. *El Pelón* is a *previous* burial pit, ten generations old.
+
+Tomás, if pressed, will say in a strangled voice: *"El Pombero. Le silba a los que están por entrar a algo. No me pregunten más."* — *"El Pombero. He whistles to those who are about to enter into something. Don't ask me more."*
+
+This is the players' first folklore encounter and a foreshadowing of an underground entrance Arc 2 will return to. Do not open the entrance this chapter.
+
+### NEW SCENE — THE NECRONOMICON, BY NAME
+
+Insert this in the **locked study** scene. When the players are reading Padre Saens's manuscript, a **Library Use or Cthulhu Mythos** roll (Regular, *not* Hard) on the marginalia of page 47 reveals a single word in Saens's hand, in a different ink (later addition, not part of the original entry):
+
+> *"…es la misma figura del Necronomicón. Que Dios me perdone por haber escrito esa palabra."*  — *"…it is the same figure as the Necronomicón. May God forgive me for writing that word."*
+
+This is the campaign's first explicit Necronomicon reference. Saens — the historical opener — recognized the figure as one from the *Necronomicón* and noted it secretly in his own manuscript. The implication: **the closing of this scar may be incomplete because the full ritual is not in Saens's manuscript at all. It is in the Necronomicón.**
+
+> **C5 redundancy (clue retrieval)**: This clue is load-bearing for Arcs 3 and 4 — players who miss it will struggle to understand why Mercedes' offer in C8 matters. Three guarantees:
+>
+> 1. **Difficulty lowered** from Hard to Regular (above). The Library Use threshold is now within reach for any reasonably-skilled investigator.
+> 2. **Mercedes' first letter (later this chapter, in *A Letter from Buenos Aires*) names the marginal note**: she writes that Quirce mentioned the *Necronomicón* notation in Saens's manuscript in his correspondence with her, and she finds it significant. *Players who fail the Library Use roll but read Mercedes' letter are pointed back to page 47 with the answer pre-named.* (See updated letter text below.)
+> 3. **Marked PCs (post-C3) revisiting the manuscript see the marginal note unprompted** — the geometry of the diagram on page 47 reads as *referencing another book*, in the same way an annotated mathematical proof reads as referencing another proof. They will turn to the margin without being told to.
+
+Don Eusebio does not know this. If the players show him the marginal note, his response is:
+
+> *"Si está en otro libro, ese libro lo tiene alguien. Y alguien lo va a usar antes de que terminemos."* — *"If it is in another book, somebody has that book. And somebody will use it before we finish."*
+
+He is correct. This is the seed of the Buenos Aires arc and the Necronomicon thread.
+
+### NEW SCENE — A LETTER FROM BUENOS AIRES
+
+Add this as a closing scene of the chapter, after the Wrong Returned appear. Tomás brings a letter that arrived earlier in the day; he has been sitting on it because Don Eusebio is shaken and Tomás did not know what to do with mail in the middle of a confrontation.
+
+The letter is from **Doña Mercedes Solís**, Universidad de Buenos Aires, addressed to *"El Sr. Don Eusebio Valdez, Estancia La Esperanza, Provincia de Buenos Aires."* It is dated three weeks ago.
+
+> *"Estimado Sr. Valdez: Aldao Quirce me ha enviado parte de la correspondencia que él mantiene con usted, sin su consentimiento. Le adjunto copia. Me llamó la atención una nota al margen de la página 47 del manuscrito de Saens — Quirce la transcribió. Si la lectura de Quirce es correcta, esa palabra cambia mucho. Hay una segunda voz dispuesta a ayudar — no la suya. Si necesita una segunda opinión sobre lo que está sucediendo en sus tierras, puede escribirme a la dirección abajo. — M.S."*  — *"Dear Sr. Valdez: Aldao Quirce has sent me part of the correspondence he is maintaining with you, without his knowledge. I am enclosing a copy. A marginal note on page 47 of Saens's manuscript — which Quirce transcribed — caught my attention. If Quirce's reading is correct, that word changes a great deal. There is a second voice willing to help — not his. If you need a second opinion on what is happening on your lands, you may write to me at the address below. — M.S."*
+
+(*The "word" Mercedes alludes to but does not write is **Necronomicón**. Mercedes writes around the word in her own correspondence on principle; she will name it only in person or in a sealed reply. Players who have already found the marginal note recognize what she means; players who have not will be drawn to page 47 to find it.*)
+
+Don Eusebio has not replied. He hands the letter to the players. *"Si pasa algo y yo no estoy, escríbanle ustedes. Ella es de fiar. Quirce no."* — *"If something happens and I am not here, you write to her. She is trustworthy. Quirce is not."*
+
+Mercedes is the campaign's eventual moral and intellectual center (overview, Arc 3 onward). This letter introduces her as a name early, well before her Arc 4 reveal. Players who write to her will receive a reply in C5 or C6.
+
+### Continuity ledger
+
+Carry forward into C5 and C6:
+
+- El Pombero on *El Pelón*; he is owed something or owed nothing; he will be back.
+- The marginal note: *Necronomicón*, in Saens's hand.
+- Mercedes' letter; her address; her warning about Quirce.
+- The wall cavity in Don Eusebio's study, possibly opened from outside.
+
+---
+
+## BETWEEN-CHAPTER HOOK — THE MERCHANT WITH TARNISHED COPPER (5b)
+
+Run this scene at the table at the end of C4 or the very start of C5, on the night between the two chapters. It is short. It is environmental foreshadowing, not plot.
+
+A traveling merchant — **Don Crisanto Larrea**, mid-50s, grey-bearded, on the road from Tandil to Buenos Aires with a small cart of *yerba mate*, copper *bombillas* (mate-straws), copper buttons, copper kettle-fittings, and a few iron tools — arrives at the estancia at dusk with a cracked axle. Tomás examines it; the axle will need a smith and there is no smith on this road for half a day's ride. Don Eusebio, hospitable in the old gaucho way (this is one of the things he is *still* good at), offers Larrea the night.
+
+Larrea sleeps in the bunkhouse. He wakes at dawn with the rest of the working hands. **The cart, parked overnight in the courtyard within sight of the south paddock, has changed.**
+
+> *Every copper item in his cart has tarnished black overnight. Not the green of natural copper oxide — black, evenly, as if held in flame for an hour. The copper bombillas are unusable. The buttons are dull. The kettle-fittings are ruined. The iron tools are untouched. The yerba is fine. **Only the copper, and only the copper that was on the side of the cart facing south.** The copper on the north side of the cart is normal.*
+
+Larrea is bewildered. He has been a merchant for twenty years. He has never seen this. He asks the investigators if they know what could have caused it. *"Es como si algo hubiera mirado el cobre toda la noche. ¿Saben? Como si el cobre hubiera estado mirándolo a él también."* — *"It is as if something had looked at the copper all night. You know? As if the copper had been looking back."*
+
+> **What this is**: The geometry of the burial pit, even with Quirce's brass markers in the study extending its observable field, has *recognized* the copper as a metallically-similar material to the brass markers and tried to *use* it — pulling on it overnight to add to the diagram's measurable extent. It failed (the cart was too far from the central geometry, and Larrea moved on at dawn before the alignment could complete) but the metallurgical signature is unmistakable. **A Hard Cthulhu Mythos roll** identifies this as the same geometric-extension effect that Quirce's brass markers create — but applied at a distance, without the markers, suggesting the entity itself is now reaching outward.
+>
+> **What investigators can do**: Buy the ruined copper from Larrea at scrap price; he will be grateful (he was going to lose the value anyway). The copper, brought to the bone chamber in C5, will *re-tarnish* on contact with the walls — confirming the link. Mercedes, seeing the copper later, will recognize the signature.
+>
+> **Larrea's onward role**: He repairs the axle and rides on toward Buenos Aires. **He arrives in the city before the players do, two months later.** He tells the story of the tarnished copper to the *vigilantes urbanos* at the gate. The story reaches Saráchaga. Saráchaga writes a letter to Mercedes saying *"the pressure is now visible at the perimeter, not just at the centre."* This is one of the threads that brings Mercedes to the camp in C7. **Larrea is the campaign's first non-Keeper, non-curandera, non-tribal civilian witness to the entity's reach.** He never knows what he saw. He retires to a small farm outside Mercedes the next year and lives quietly. He dies of natural causes in 1843.
+

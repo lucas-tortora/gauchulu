@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  BUENOS AIRES — THE GRID AS GEOMETRY
+  La Tierra Mala, Arc 4 (C10–C12)
+
+  The city was traced in 1580 by Juan de Garay on an eleven-by-nine block grid.
+  The grid is the containment. The Manzana de las Luces is the vault below.
+  The transport in C12 draws the diagram at city scale: the carriage is the moving point.
+
+  Three places Galíndez cannot cover all his men at once (C11):
+    1. The University exit (Manzana de las Luces).
+    2. The corner of Belgrano and Defensa (the slow turn).
+    3. The transfer to the launch at the Riachuelo dock.
+
+  The geometry overlay shows the diagram as it lights up street-by-street while the
+  carriage moves. By the time the chest reaches the dock, the city has been drawn.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 900" width="1100" height="900">
+  <defs>
+    <radialGradient id="parchment2" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#f4ecd8"/>
+      <stop offset="80%" stop-color="#e6d8b8"/>
+      <stop offset="100%" stop-color="#bda988"/>
+    </radialGradient>
+    <pattern id="water" patternUnits="userSpaceOnUse" width="20" height="12">
+      <path d="M0 6 Q5 0 10 6 T20 6" stroke="#5a6a7a" fill="none" stroke-width="0.8" opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Field -->
+  <rect width="1100" height="900" fill="url(#parchment2)"/>
+
+  <!-- ===================================================== -->
+  <!-- RÍO DE LA PLATA (east edge of the grid)                -->
+  <!-- ===================================================== -->
+  <rect x="980" y="60" width="120" height="780" fill="url(#water)" opacity="0.75"/>
+  <text x="1040" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="13"
+        fill="#3a4a5a" opacity="0.8" font-style="italic" transform="rotate(90 1040 450)">
+    Río de la Plata
+  </text>
+
+  <!-- ===================================================== -->
+  <!-- THE GRID — 11 columns × 9 rows of manzanas             -->
+  <!-- ===================================================== -->
+  <!-- Each block: 80×80 px. Streets: ~6 px gaps.              -->
+  <!-- Origin (top-left of block 1,1): (100, 100).             -->
+  <!-- ===================================================== -->
+  <g stroke="#3d2f20" fill="none" stroke-width="1.2">
+    <!-- Block fills -->
+    <g fill="#e3d2a8" fill-opacity="0.6" stroke="#3d2f20" stroke-width="1">
+      <!-- 11 cols × 9 rows -->
+      <!-- Row 1 -->
+      <rect x="100" y="100" width="78" height="78"/>
+      <rect x="180" y="100" width="78" height="78"/>
+      <rect x="260" y="100" width="78" height="78"/>
+      <rect x="340" y="100" width="78" height="78"/>
+      <rect x="420" y="100" width="78" height="78"/>
+      <rect x="500" y="100" width="78" height="78"/>
+      <rect x="580" y="100" width="78" height="78"/>
+      <rect x="660" y="100" width="78" height="78"/>
+      <rect x="740" y="100" width="78" height="78"/>
+      <rect x="820" y="100" width="78" height="78"/>
+      <rect x="900" y="100" width="78" height="78"/>
+      <!-- Row 2 -->
+      <rect x="100" y="180" width="78" height="78"/>
+      <rect x="180" y="180" width="78" height="78"/>
+      <rect x="260" y="180" width="78" height="78"/>
+      <rect x="340" y="180" width="78" height="78"/>
+      <rect x="420" y="180" width="78" height="78"/>
+      <rect x="500" y="180" width="78" height="78"/>
+      <rect x="580" y="180" width="78" height="78"/>
+      <rect x="660" y="180" width="78" height="78"/>
+      <rect x="740" y="180" width="78" height="78"/>
+      <rect x="820" y="180" width="78" height="78"/>
+      <rect x="900" y="180" width="78" height="78"/>
+      <!-- Row 3 -->
+      <rect x="100" y="260" width="78" height="78"/>
+      <rect x="180" y="260" width="78" height="78"/>
+      <rect x="260" y="260" width="78" height="78"/>
+      <rect x="340" y="260" width="78" height="78"/>
+      <rect x="420" y="260" width="78" height="78"/>
+      <rect x="500" y="260" width="78" height="78"/>
+      <rect x="580" y="260" width="78" height="78"/>
+      <rect x="660" y="260" width="78" height="78"/>
+      <rect x="740" y="260" width="78" height="78"/>
+      <rect x="820" y="260" width="78" height="78"/>
+      <rect x="900" y="260" width="78" height="78"/>
+      <!-- Row 4 (Plaza de Mayo row) -->
+      <rect x="100" y="340" width="78" height="78"/>
+      <rect x="180" y="340" width="78" height="78"/>
+      <rect x="260" y="340" width="78" height="78"/>
+      <rect x="340" y="340" width="78" height="78"/>
+      <rect x="420" y="340" width="78" height="78"/>
+      <rect x="500" y="340" width="78" height="78"/>
+      <rect x="580" y="340" width="78" height="78"/>
+      <rect x="660" y="340" width="78" height="78"/>
+      <rect x="740" y="340" width="78" height="78"/>
+      <rect x="820" y="340" width="78" height="78"/>
+      <rect x="900" y="340" width="78" height="78"/>
+      <!-- Row 5 -->
+      <rect x="100" y="420" width="78" height="78"/>
+      <rect x="180" y="420" width="78" height="78"/>
+      <rect x="260" y="420" width="78" height="78"/>
+      <rect x="340" y="420" width="78" height="78"/>
+      <rect x="420" y="420" width="78" height="78"/>
+      <rect x="500" y="420" width="78" height="78"/>
+      <rect x="580" y="420" width="78" height="78"/>
+      <rect x="660" y="420" width="78" height="78"/>
+      <rect x="740" y="420" width="78" height="78"/>
+      <rect x="820" y="420" width="78" height="78"/>
+      <rect x="900" y="420" width="78" height="78"/>
+      <!-- Row 6 -->
+      <rect x="100" y="500" width="78" height="78"/>
+      <rect x="180" y="500" width="78" height="78"/>
+      <rect x="260" y="500" width="78" height="78"/>
+      <rect x="340" y="500" width="78" height="78"/>
+      <rect x="420" y="500" width="78" height="78"/>
+      <rect x="500" y="500" width="78" height="78"/>
+      <rect x="580" y="500" width="78" height="78"/>
+      <rect x="660" y="500" width="78" height="78"/>
+      <rect x="740" y="500" width="78" height="78"/>
+      <rect x="820" y="500" width="78" height="78"/>
+      <rect x="900" y="500" width="78" height="78"/>
+      <!-- Row 7 -->
+      <rect x="100" y="580" width="78" height="78"/>
+      <rect x="180" y="580" width="78" height="78"/>
+      <rect x="260" y="580" width="78" height="78"/>
+      <rect x="340" y="580" width="78" height="78"/>
+      <rect x="420" y="580" width="78" height="78"/>
+      <rect x="500" y="580" width="78" height="78"/>
+      <rect x="580" y="580" width="78" height="78"/>
+      <rect x="660" y="580" width="78" height="78"/>
+      <rect x="740" y="580" width="78" height="78"/>
+      <rect x="820" y="580" width="78" height="78"/>
+      <rect x="900" y="580" width="78" height="78"/>
+      <!-- Row 8 -->
+      <rect x="100" y="660" width="78" height="78"/>
+      <rect x="180" y="660" width="78" height="78"/>
+      <rect x="260" y="660" width="78" height="78"/>
+      <rect x="340" y="660" width="78" height="78"/>
+      <rect x="420" y="660" width="78" height="78"/>
+      <rect x="500" y="660" width="78" height="78"/>
+      <rect x="580" y="660" width="78" height="78"/>
+      <rect x="660" y="660" width="78" height="78"/>
+      <rect x="740" y="660" width="78" height="78"/>
+      <rect x="820" y="660" width="78" height="78"/>
+      <rect x="900" y="660" width="78" height="78"/>
+      <!-- Row 9 -->
+      <rect x="100" y="740" width="78" height="78"/>
+      <rect x="180" y="740" width="78" height="78"/>
+      <rect x="260" y="740" width="78" height="78"/>
+      <rect x="340" y="740" width="78" height="78"/>
+      <rect x="420" y="740" width="78" height="78"/>
+      <rect x="500" y="740" width="78" height="78"/>
+      <rect x="580" y="740" width="78" height="78"/>
+      <rect x="660" y="740" width="78" height="78"/>
+      <rect x="740" y="740" width="78" height="78"/>
+      <rect x="820" y="740" width="78" height="78"/>
+      <rect x="900" y="740" width="78" height="78"/>
+    </g>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- KEY LOCATIONS                                          -->
+  <!-- ===================================================== -->
+
+  <!-- Plaza de Mayo (eastern, by the river) -->
+  <g>
+    <rect x="820" y="340" width="78" height="78" fill="#d8c89c" stroke="#3d2f20" stroke-width="2"/>
+    <text x="859" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="9"
+          fill="#3d2f20" font-style="italic">Plaza</text>
+    <text x="859" y="396" text-anchor="middle" font-family="Georgia, serif" font-size="9"
+          fill="#3d2f20" font-style="italic">de Mayo</text>
+  </g>
+
+  <!-- Cabildo (just west of Plaza) -->
+  <g>
+    <rect x="740" y="340" width="78" height="78" fill="#c8b48a" stroke="#3d2f20" stroke-width="1.5"/>
+    <text x="779" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="10"
+          fill="#3d2f20" font-weight="bold">Cabildo</text>
+    <text x="779" y="395" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#3d2f20" opacity="0.8">(reloj)</text>
+  </g>
+
+  <!-- Manzana de las Luces (southwest of Plaza, two blocks south, one west) -->
+  <g>
+    <rect x="660" y="500" width="78" height="78" fill="#b89c70" stroke="#1f1610" stroke-width="2.5"/>
+    <text x="699" y="535" text-anchor="middle" font-family="Georgia, serif" font-size="9"
+          fill="#1f1610" font-weight="bold">Manzana de</text>
+    <text x="699" y="547" text-anchor="middle" font-family="Georgia, serif" font-size="9"
+          fill="#1f1610" font-weight="bold">las Luces</text>
+    <text x="699" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="7"
+          fill="#1f1610" font-style="italic">— vault below —</text>
+  </g>
+
+  <!-- Inocencia's boarding house (somewhere on Calle Belgrano, west side) -->
+  <g>
+    <circle cx="259" cy="619" r="6" fill="#3d2f20"/>
+    <text x="259" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#3d2f20" font-style="italic">Inocencia</text>
+  </g>
+
+  <!-- Saráchaga's casa chorizo (Barrio del Alto, north end) -->
+  <g>
+    <circle cx="338" cy="260" r="6" fill="#3d2f20"/>
+    <text x="338" y="248" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#3d2f20" font-style="italic">Saráchaga †</text>
+  </g>
+
+  <!-- Lacasa's town house (on Calle Reconquista, north of plaza) -->
+  <g>
+    <circle cx="660" cy="220" r="5" fill="#3d2f20" opacity="0.5"/>
+    <text x="660" y="207" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#3d2f20" opacity="0.6" font-style="italic">Lacasa (vacío)</text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- THE RIACHUELO (south edge)                             -->
+  <!-- ===================================================== -->
+  <rect x="60" y="840" width="930" height="50" fill="url(#water)" opacity="0.75"/>
+  <text x="500" y="875" text-anchor="middle" font-family="Georgia, serif" font-size="13"
+        fill="#3a4a5a" font-style="italic">Riachuelo</text>
+
+  <!-- The dock and the brig -->
+  <g>
+    <rect x="455" y="822" width="40" height="22" fill="#8b6f47" stroke="#3d2f20" stroke-width="1"/>
+    <text x="475" y="838" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#f4ecd8" font-weight="bold">muelle</text>
+    <!-- Brig anchored further out -->
+    <g transform="translate(415 870)">
+      <polygon points="0,0 30,0 25,-12 5,-12" fill="#3d2f20"/>
+      <line x1="15" y1="-12" x2="15" y2="-26" stroke="#3d2f20" stroke-width="1.2"/>
+      <line x1="8" y1="-26" x2="22" y2="-26" stroke="#3d2f20" stroke-width="1"/>
+      <text x="15" y="-32" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+            fill="#3d2f20" font-style="italic">Carmen del Pilar</text>
+    </g>
+  </g>
+
+  <!-- The Cursed Gaucho's tannery (south of the grid, west side, by the Riachuelo) -->
+  <g>
+    <rect x="180" y="822" width="36" height="22" fill="#5a4a36" stroke="#3d2f20" stroke-width="1"/>
+    <text x="198" y="838" text-anchor="middle" font-family="Georgia, serif" font-size="8"
+          fill="#f4ecd8">curtiembre</text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- THE TRANSPORT ROUTE (C12) — Manzana → Belgrano corner → dock -->
+  <!-- ===================================================== -->
+  <g fill="none" stroke="#8b1a1a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 699 539
+             L 699 580
+             L 415 580
+             L 415 619
+             L 415 740
+             L 475 740
+             L 475 822"
+          stroke-dasharray="0" opacity="0.85"/>
+    <!-- Direction arrowhead at the dock -->
+    <polygon points="475,822 469,810 481,810" fill="#8b1a1a" opacity="0.85"/>
+  </g>
+
+  <!-- Carriage in motion (mid-route, just past Belgrano/Defensa corner) -->
+  <g transform="translate(415 700)">
+    <rect x="-6" y="-9" width="12" height="18" fill="#1f1610" stroke="#8b1a1a" stroke-width="1"/>
+    <circle cx="-6" cy="-9" r="2.5" fill="#8b1a1a"/>
+    <circle cx="6"  cy="-9" r="2.5" fill="#8b1a1a"/>
+    <circle cx="-6" cy="9"  r="2.5" fill="#8b1a1a"/>
+    <circle cx="6"  cy="9"  r="2.5" fill="#8b1a1a"/>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- THREE AMBUSH POINTS (Galíndez's three uncoverable corners) -->
+  <!-- ===================================================== -->
+  <g>
+    <!-- 1. University exit -->
+    <circle cx="699" cy="580" r="14" fill="none" stroke="#8b1a1a" stroke-width="2.5" stroke-dasharray="3 3"/>
+    <text x="715" y="565" font-family="Georgia, serif" font-size="11" fill="#8b1a1a" font-weight="bold">`</text>
+
+    <!-- 2. Belgrano y Defensa corner -->
+    <circle cx="415" cy="619" r="14" fill="none" stroke="#8b1a1a" stroke-width="2.5" stroke-dasharray="3 3"/>
+    <text x="395" y="612" font-family="Georgia, serif" font-size="11" fill="#8b1a1a" font-weight="bold">a</text>
+
+    <!-- 3. Dock transfer -->
+    <circle cx="475" cy="822" r="14" fill="none" stroke="#8b1a1a" stroke-width="2.5" stroke-dasharray="3 3"/>
+    <text x="495" y="816" font-family="Georgia, serif" font-size="11" fill="#8b1a1a" font-weight="bold">b</text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- THE DUAL DIAGRAM AT CITY SCALE                          -->
+  <!-- Faint overlay — the geometry "lights up" as the carriage moves. -->
+  <!-- Centered approximately on the Manzana de las Luces vault.       -->
+  <!-- ===================================================== -->
+  <g transform="translate(699 539)" stroke="#1f1610" fill="none" opacity="0.18">
+    <!-- Outer containment ring (city-scale) -->
+    <circle r="380" stroke-width="2" stroke-dasharray="6 8"/>
+    <!-- Hexagram -->
+    <polygon points="0,-280 242.5,140 -242.5,140" stroke-width="1.5"/>
+    <polygon points="0,280 242.5,-140 -242.5,-140" stroke-width="1.5"/>
+    <!-- Three pressure points at hexagram top vertices -->
+    <circle cx="0" cy="-280" r="10" stroke-width="2"/>
+    <circle cx="242.5" cy="140" r="10" stroke-width="2"/>
+    <circle cx="-242.5" cy="140" r="10" stroke-width="2"/>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- COMPASS                                                -->
+  <!-- ===================================================== -->
+  <g transform="translate(60 80)" fill="#3d2f20" stroke="#3d2f20">
+    <circle cx="0" cy="0" r="22" fill="#f4ecd8" stroke-width="1.2"/>
+    <polygon points="0,-18 4,0 0,18 -4,0" fill="#3d2f20"/>
+    <text x="0" y="-28" text-anchor="middle" font-family="Georgia, serif" font-size="11"
+          font-weight="bold" stroke="none">N</text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- LEGEND                                                 -->
+  <!-- ===================================================== -->
+  <g transform="translate(60 700)" font-family="Georgia, serif" font-size="11" fill="#1f1610">
+    <rect x="-5" y="-5" width="240" height="135" fill="#f4ecd8" stroke="#3d2f20" stroke-width="1" opacity="0.95"/>
+    <text x="0" y="12" font-weight="bold" font-style="italic">El recorrido — la geometría</text>
+
+    <line x1="0" y1="32" x2="22" y2="32" stroke="#8b1a1a" stroke-width="3"/>
+    <text x="28" y="36">Ruta del transporte (C12)</text>
+
+    <circle cx="11" cy="52" r="7" fill="none" stroke="#8b1a1a" stroke-width="2" stroke-dasharray="2 2"/>
+    <text x="28" y="56">Tres puntos sin cobertura</text>
+
+    <rect x="3" y="68" width="16" height="10" fill="#b89c70" stroke="#1f1610" stroke-width="1"/>
+    <text x="28" y="78">La bóveda (Manzana de las Luces)</text>
+
+    <circle cx="11" cy="98" r="4" fill="#3d2f20"/>
+    <text x="28" y="102">Casas / actores</text>
+
+    <text x="0" y="123" font-style="italic" opacity="0.7" font-size="9">
+      11 × 9 manzanas. Trazado 1580.
+    </text>
+  </g>
+
+  <!-- ===================================================== -->
+  <!-- TITLE                                                  -->
+  <!-- ===================================================== -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1f1610">
+    <text x="550" y="42" text-anchor="middle" font-size="18" font-weight="bold" letter-spacing="3">
+      BUENOS AIRES — LA CUADRÍCULA
+    </text>
+    <text x="550" y="62" text-anchor="middle" font-size="11" font-style="italic" opacity="0.75">
+      el dibujo a escala de ciudad — C10 a C12
+    </text>
+  </g>
+</svg>

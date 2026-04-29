@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  THE DUAL DIAGRAM — La Tierra Mala
+  The opening and closing as one geometry.
+  Carved on the Saens stone at the Jesuit ruins (C5).
+  Repeated in scratched form on the chapel walls (C2).
+  Fingertraced in the air by Marta at midday.
+  At chamber-floor scale in the bone chamber, drawn in bones, with Padre Saens at the center.
+  At city scale in Buenos Aires (C12), with the carriage as the moving point.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="parchment" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#f4ecd8"/>
+      <stop offset="80%" stop-color="#e8dcc0"/>
+      <stop offset="100%" stop-color="#cbb88f"/>
+    </radialGradient>
+    <filter id="age" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="3"/>
+      <feColorMatrix values="0 0 0 0 0.25  0 0 0 0 0.18  0 0 0 0 0.10  0 0 0 0.08 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <!-- Aged parchment field -->
+  <rect width="800" height="800" fill="url(#parchment)"/>
+  <rect width="800" height="800" fill="#000" opacity="0.04" filter="url(#age)"/>
+
+  <g transform="translate(400 400)" stroke="#1f1610" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- ============================================================ -->
+    <!-- THE BINDING / CLOSING: outer ring                              -->
+    <!-- ============================================================ -->
+    <circle r="350" stroke-width="4"/>
+    <circle r="320" stroke-width="1" stroke-dasharray="3 5" opacity="0.55"/>
+
+    <!-- Twelve stations on the outer ring (one per 30°) -->
+    <!-- Solid pivots at every station -->
+    <g fill="#1f1610">
+      <circle cx="0"      cy="-350" r="5"/>
+      <circle cx="175"    cy="-303.1" r="5"/>
+      <circle cx="303.1"  cy="-175" r="5"/>
+      <circle cx="350"    cy="0"    r="5"/>
+      <circle cx="303.1"  cy="175"  r="5"/>
+      <circle cx="175"    cy="303.1" r="5"/>
+      <circle cx="0"      cy="350"  r="5"/>
+      <circle cx="-175"   cy="303.1" r="5"/>
+      <circle cx="-303.1" cy="175"  r="5"/>
+      <circle cx="-350"   cy="0"    r="5"/>
+      <circle cx="-303.1" cy="-175" r="5"/>
+      <circle cx="-175"   cy="-303.1" r="5"/>
+    </g>
+
+    <!-- Catholic cross-arms at the four cardinal stations -->
+    <g stroke-width="2.5">
+      <!-- N -->
+      <line x1="0" y1="-350" x2="0" y2="-385"/>
+      <line x1="-12" y1="-372" x2="12" y2="-372"/>
+      <!-- E -->
+      <line x1="350" y1="0" x2="385" y2="0"/>
+      <line x1="372" y1="-12" x2="372" y2="12"/>
+      <!-- S -->
+      <line x1="0" y1="350" x2="0" y2="385"/>
+      <line x1="-12" y1="372" x2="12" y2="372"/>
+      <!-- W -->
+      <line x1="-350" y1="0" x2="-385" y2="0"/>
+      <line x1="-372" y1="-12" x2="-372" y2="12"/>
+    </g>
+
+    <!-- Mapuche stepped triangular patterns at the four intercardinal stations -->
+    <!-- (small stepped triangles, three stacked) -->
+    <g stroke-width="1.8" fill="none">
+      <!-- NE (45°) at (247.5, -247.5) -->
+      <g transform="translate(247.5 -247.5) rotate(-45)">
+        <polyline points="-18,0 -9,-9 0,0 9,-9 18,0"/>
+        <polyline points="-12,8 -6,2 0,8 6,2 12,8"/>
+      </g>
+      <!-- SE (135°) at (247.5, 247.5) -->
+      <g transform="translate(247.5 247.5) rotate(45)">
+        <polyline points="-18,0 -9,-9 0,0 9,-9 18,0"/>
+        <polyline points="-12,8 -6,2 0,8 6,2 12,8"/>
+      </g>
+      <!-- SW (225°) at (-247.5, 247.5) -->
+      <g transform="translate(-247.5 247.5) rotate(-45)">
+        <polyline points="-18,0 -9,-9 0,0 9,-9 18,0"/>
+        <polyline points="-12,8 -6,2 0,8 6,2 12,8"/>
+      </g>
+      <!-- NW (315°) at (-247.5, -247.5) -->
+      <g transform="translate(-247.5 -247.5) rotate(45)">
+        <polyline points="-18,0 -9,-9 0,0 9,-9 18,0"/>
+        <polyline points="-12,8 -6,2 0,8 6,2 12,8"/>
+      </g>
+    </g>
+
+    <!-- ============================================================ -->
+    <!-- THE OPENING: hexagram (two interlocking triangles)             -->
+    <!-- The triangle pointing UP is the opening (radiating outward).  -->
+    <!-- The triangle pointing DOWN is the closing (converging inward). -->
+    <!-- They share six vertices on a circle of radius 260.            -->
+    <!-- ============================================================ -->
+    <g stroke-width="2.5">
+      <!-- Triangle UP (opening) -->
+      <polygon points="0,-260 225.2,130 -225.2,130" fill="none"/>
+      <!-- Triangle DOWN (closing) -->
+      <polygon points="0,260 225.2,-130 -225.2,-130" fill="none"/>
+    </g>
+
+    <!-- Spokes from center through hexagram vertices to the binding ring -->
+    <g stroke-width="1" opacity="0.6">
+      <line x1="0" y1="0" x2="0" y2="-350"/>
+      <line x1="0" y1="0" x2="303.1" y2="-175"/>
+      <line x1="0" y1="0" x2="303.1" y2="175"/>
+      <line x1="0" y1="0" x2="0" y2="350"/>
+      <line x1="0" y1="0" x2="-303.1" y2="175"/>
+      <line x1="0" y1="0" x2="-303.1" y2="-175"/>
+    </g>
+
+    <!-- Inner hexagonal containment (where the six triangle-edges cross) -->
+    <polygon points="0,-130 112.6,-65 112.6,65 0,130 -112.6,65 -112.6,-65" stroke-width="1.5" fill="none"/>
+
+    <!-- ============================================================ -->
+    <!-- VESICA PISCIS (the "fish form") — the doorway at the center   -->
+    <!-- Two overlapping circles forming a mandorla.                   -->
+    <!-- ============================================================ -->
+    <g stroke-width="1.6">
+      <circle cx="-30" cy="0" r="60" fill="none" opacity="0.85"/>
+      <circle cx="30"  cy="0" r="60" fill="none" opacity="0.85"/>
+    </g>
+
+    <!-- ============================================================ -->
+    <!-- THE THREE PRESSURE POINTS                                      -->
+    <!-- Where opening and closing arcs intersect — Marta presses these -->
+    <!-- to open the descent at the carved stone (C5).                  -->
+    <!-- Placed at the three "upward" hexagram vertices.                -->
+    <!-- ============================================================ -->
+    <g>
+      <circle cx="0"      cy="-260" r="13" fill="#f4ecd8" stroke="#1f1610" stroke-width="2.5"/>
+      <circle cx="0"      cy="-260" r="4"  fill="#1f1610"/>
+      <circle cx="225.2"  cy="130"  r="13" fill="#f4ecd8" stroke="#1f1610" stroke-width="2.5"/>
+      <circle cx="225.2"  cy="130"  r="4"  fill="#1f1610"/>
+      <circle cx="-225.2" cy="130"  r="13" fill="#f4ecd8" stroke="#1f1610" stroke-width="2.5"/>
+      <circle cx="-225.2" cy="130"  r="4"  fill="#1f1610"/>
+    </g>
+
+    <!-- ============================================================ -->
+    <!-- THE ANCHOR — center                                            -->
+    <!-- Saens lay here. Nahuel kneels here. The geometry needs a center.-->
+    <!-- ============================================================ -->
+    <circle cx="0" cy="0" r="9" fill="#1f1610"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#1f1610" stroke-width="1" stroke-dasharray="2 3" opacity="0.7"/>
+
+  </g>
+
+  <!-- Marginal annotation -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1f1610">
+    <text x="400" y="42" text-anchor="middle" font-size="14" font-style="italic" letter-spacing="2" opacity="0.85">EL DIBUJO DUAL</text>
+    <text x="400" y="64" text-anchor="middle" font-size="10" letter-spacing="1" opacity="0.6">apertura · cierre · ancla</text>
+    <text x="400" y="772" text-anchor="middle" font-size="10" font-style="italic" opacity="0.6">Hic locus est. Hic manet.</text>
+  </g>
+</svg>

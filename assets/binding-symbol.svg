@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  THE BINDING SYMBOL — La Tierra Mala
+  "Four lines meeting at angles. Not quite a cross."
+  Worn by Rosa at her throat in silver (C2).
+  Scratched on the doorframes of the houses of San Ruiz.
+  Scratched on the reverse of Tomás's vizcachera stone (C1).
+  The same shape as Mercedes' folded parchment in C11, but inside-out.
+  This is the counter-binding: the inverse of the opening's outward radiation.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <defs>
+    <radialGradient id="silver" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#f5f3ee"/>
+      <stop offset="60%" stop-color="#cfc9be"/>
+      <stop offset="100%" stop-color="#8a8377"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Tarnished silver field -->
+  <rect width="300" height="300" fill="#1a1612"/>
+  <circle cx="150" cy="150" r="125" fill="url(#silver)"/>
+  <circle cx="150" cy="150" r="125" fill="none" stroke="#3d362b" stroke-width="2" opacity="0.5"/>
+
+  <g transform="translate(150 150)" stroke="#1a1612" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- The four lines.
+         Not at the cardinal angles. Two pairs crossing, each pair offset 20° from the cross.
+         This is what makes it "not quite a cross." -->
+    <g stroke-width="3.5">
+      <!-- First pair: tilted ~20° clockwise from vertical -->
+      <line x1="0"   y1="0"   x2="32"  y2="-86"/>
+      <line x1="0"   y1="0"   x2="-32" y2="86"/>
+      <!-- Second pair: tilted ~20° counter-clockwise from horizontal -->
+      <line x1="0"   y1="0"   x2="86"  y2="32"/>
+      <line x1="0"   y1="0"   x2="-86" y2="-32"/>
+    </g>
+
+    <!-- Small angular barbs at each line's terminal — Mapuche stepped emphasis -->
+    <g stroke-width="2">
+      <!-- N-ish terminal -->
+      <polyline points="22,-78 32,-86 28,-74"/>
+      <!-- S-ish terminal -->
+      <polyline points="-22,78 -32,86 -28,74"/>
+      <!-- E-ish terminal -->
+      <polyline points="78,22 86,32 74,28"/>
+      <!-- W-ish terminal -->
+      <polyline points="-78,-22 -86,-32 -74,-28"/>
+    </g>
+
+    <!-- The center: the binding knot.
+         A small filled lens — the inverse of the dual diagram's vesica piscis. -->
+    <ellipse cx="0" cy="0" rx="6" ry="11" fill="#1a1612"/>
+
+  </g>
+
+  <!-- Suspension loop (the ornament hangs from a leather cord) -->
+  <g transform="translate(150 28)" fill="none" stroke="#3d362b" stroke-width="1.5">
+    <ellipse cx="0" cy="0" rx="8" ry="5" opacity="0.6"/>
+  </g>
+
+  <!-- Marginal annotation -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#3d362b" opacity="0.8">
+    <text x="150" y="290" text-anchor="middle" font-size="9" font-style="italic" letter-spacing="2">la atadura</text>
+  </g>
+</svg>

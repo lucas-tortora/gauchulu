@@ -1,4 +1,4 @@
-# SESSION 3 — EL RITUAL ROTO → EL SABUESO
+# CHAPTER 3 — EL RITUAL ROTO → EL SABUESO
 ### *The Broken Ritual → The Hound*
 
 **Arc Goal**: Reveal the truth → player-caused catastrophe → survival set-piece
@@ -13,7 +13,7 @@ The investigators know the truth now — or enough of it. They know Don Eusebio 
 
 The question is whether they believed Rosa when she said: *"Whatever you see them doing — let them finish."*
 
-The tension of this session is built into the investigators' prior decisions. If they reported Kuyen's camp location to Don Eusebio, if they were skeptical of Rosa, if they have been playing the middle — all of that pressure now arrives at once.
+The tension of this chapter is built into the investigators' prior decisions. If they reported Kuyen's camp location to Don Eusebio, if they were skeptical of Rosa, if they have been playing the middle — all of that pressure now arrives at once.
 
 **Finding the Encampment**: The tribe is two hours east of San Ruiz on foot. The trail is faint but consistent — fires banked low, careful movement. As investigators approach at night (or dusk — the ritual runs at dusk), they smell woodsmoke and hear chanting: low, rhythmic, not melodic. More like a repetition of angles than of notes.
 
@@ -25,7 +25,15 @@ The tension of this session is built into the investigators' prior decisions. If
 
 > *The fires burn without smoke. The chanting is low enough that you feel it more in the sternum than hear it with the ears. The drawn symbol on the earth glows faintly — or seems to. The air in the creek bed is cooler by at least ten degrees. At the center of the symbol, a young man kneels with his arms at his sides and his eyes open and fixed on something that is not there. He is not moving. Around him, six others move in a slow, deliberate pattern — maintaining the symbol, feeding the fires, sustaining the chant.*
 >
+> *The chant has a single repeating line, in Mapudungun: **"Antu kishu inchiñ ñi pewenmu. Antu kishu, lan amukey."** A Mapudungun speaker translates: "The sun [is] alone in our araucaria-grove. The sun alone, the dying does not pass." The seven voices return to that line every twelfth breath. Whatever else they are saying between, the line returns.*
+>
 > *One woman stands slightly apart, at the western edge. She is the only one who notices you.*
+
+> **Visual handout**: see `assets/tribal-binding.svg`. Print at A3 portrait. The eastern arc is *visibly thin and dashed* — that is where the Hound will enter. The four cardinal fires, the animal-track sympathies (guanaco N, puma S, condor W, *erased* E), and the four spiral motifs at the diagonals are the Tehuelche-Mapuche folk geometry — *the same closing aspect* of the dual diagram (`assets/dual-diagram.svg`), but in the visual vocabulary the entity does not yet recognize. **A Marked PC who later sees both handouts side by side will see the relationship instantly. Tonight, they should just feel the eastern wrongness.** Place the handout on the table when investigators reach the creek bed; let them locate the gap themselves.
+
+> **Atmospheric runner — the prayers (4)**: The Mapudungun chant *"Antu kishu inchiñ ñi pewenmu. Antu kishu, lan amukey"* is the campaign's second named prayer (see `flowmap.md`). It will return in C8 (the closing — every NPC in the outer ring will join the line, including Don Eusebio, including Mercedes; they will not know they have learned it) and in C12 (the Destroyed ending — Kuyen leads it as Mercedes reads). **Marked PCs who hear it tonight will dream it for the rest of the campaign in the same cadence.** Name it. Players will remember.
+
+![The binding at the creek bed — Kuyen's working](../assets/tribal-binding.svg)
 
 ---
 
@@ -57,11 +65,13 @@ The tension of this session is built into the investigators' prior decisions. If
 
 *(These conversations occur before the ritual reaches its critical phase. Once it begins in earnest, she cannot speak to investigators.)*
 
+> **Keeper note (D2)**: Kuyen describes *what she is doing and what she needs*. She does not tell the investigators what *they* should do. If they ask "what do we do?", she returns the question: *"What can you do?"* and waits. This is deliberate. Kuyen has been working without outsiders for eight months and is not about to start solving for them now. The Marked PC (post-ritual, into Arc 2 onward) will be the table's lens. Kuyen is technique and grief; she is not a tour guide.
+
 *"What are you doing?"*
 > "Binding. Slowing what was opened. Tonight we make the third approach — if we hold the circle for the full working, we move close enough to begin the final binding at the source next week." *(She does not take her eyes off the circle.)*
 
 *"Don Eusebio sent us here to stop you."*
-> "I know." *(No emotion — or rather, emotion so well-controlled it reads as none.)* "Did you come here to stop us?" *(She looks at you directly now.)*
+> "I know." *(No emotion — or rather, emotion so well-controlled it reads as none.)* "Did you come here to stop us?" *(She looks at you directly now. Her eyes drop briefly to the cuff of an investigator's jacket — to the dust along the seam — and then back up.)* *"Walked through the pit too. I see it on you. Did you come here to stop us?"* *(Her question is the same question. The dust is data, not accusation.)*
 
 *"We know now that it wasn't you."*
 > *(A long pause. Then:)* "Rosa." *(She says it like a name she trusts.)* "What do you know?"
@@ -263,9 +273,28 @@ This is the moment everything resolves based on player action.
 
 ## THE MARK (If hit by the entity and survive)
 
-Any investigator who was in contact with the Hound's geometric distortion field and survived rolls **2d6 at key moments of stress in future sessions**. Double 1: the entity's attention briefly returns — not fully manifested, but present, for 1D3 rounds. The investigator is aware of being *noticed*.
+Any investigator who was in contact with the Hound's geometric distortion field and survived rolls **2d6 at key moments of stress in future chapters**. Double 1: the entity's attention briefly returns — not fully manifested, but present, for 1D3 rounds. The investigator is aware of being *noticed*.
 
 This is not a curse. It is a consequence. The world remembers what you touched.
+
+### What the Mark grants — read this aloud at the end of C3
+
+The Marked PCs do not just have a sword over their heads. Starting now, **they perceive geometry the way other people perceive grammar**. Run the following short scene on the morning after C3, before C4 begins, with the Marked PC alone:
+
+> *You wake before dawn. Your wound itches. You walk outside the camp to clear your head. You look at the rock you sat on yesterday. It is a rock. You look at the cooking circle the Tehuelche used last night. It is — something. It is *organized*. The stones around the fire are not a circle, exactly. They are arranged on three radii of an arc that, if you traced it, would close at a point about four meters past the fire pit. You did not learn this. You see it. It is as obvious to you as the colour of the rock.*
+
+From this point forward, when a Marked PC enters a ritually-charged space (the chapel in C2 if revisited, the Salamanca ruins in C5, Quirce's study in C6, the Manzana de las Luces in C10, the dock in C12), the GM should describe the geometry of the space *to that player privately*, in spatial terms, not in occult vocabulary. The Marked PC then translates for the table — or doesn't.
+
+**The mechanical face of this**:
+- Cthulhu Mythos checks about pattern in real space (not text, not language) are at **one difficulty step lower** for Marked PCs.
+- A Marked PC can attempt a **Hard Spot Hidden** to read whether a ritual is *opening, closing, or sealing* by the geometry alone.
+- The Hound's approach (the 2d6 trigger) is preceded, for the Marked PC, by a *visible distortion* in the geometry of the room — they see it before the dice are rolled. This gives them one beat of warning to act, lie down, run, or speak.
+
+**The cost**:
+- Each scene in which the Marked PC actively uses geometric perception ("I look hard at the diagram"), the 2d6 trigger threshold raises from "double 1" to "double 1 or double 2" *for that scene only*.
+- Players who lean on the Mark heavily across the campaign will pay for it in C12 — see chapter-12 endings.
+
+**Why this exists**: Without this, every diagram, ritual, and binding has to be explained by an NPC (Rosa, Kuyen, Mercedes). With this, the Marked PCs are the campaign's interpretive engine, and the NPCs can stop solving puzzles for the table. **This is the campaign's central design solution to the players-can't-read-the-geometry problem.** See `assets/geometric-perception-cues.md` for the per-chapter trigger sheet.
 
 ---
 
@@ -291,7 +320,7 @@ Don Eusebio knows the ritual worked. He knows investigators helped. He will be d
 
 ## GM NOTES
 
-**The catastrophe is the lesson**: This session should hurt. Not because it's unfair, but because it is *fair* — the consequences are exactly proportional to the investigators' actions throughout the arc. If they did everything right, they still had to watch four people die because of the broken ritual. If they did things wrong, more people died, and they know why. The discomfort is the point.
+**The catastrophe is the lesson**: This chapter should hurt. Not because it's unfair, but because it is *fair* — the consequences are exactly proportional to the investigators' actions throughout the arc. If they did everything right, they still had to watch four people die because of the broken ritual. If they did things wrong, more people died, and they know why. The discomfort is the point.
 
 **Don't soften Kuyen's accusation**: *"You helped it grow."* Let it land. Don't have her immediately follow it with reassurance or explanation. Give the players five full seconds of silence. Then let her explain, if they ask.
 

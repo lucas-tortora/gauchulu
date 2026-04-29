@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  The Tribal Binding (Chapter 3)
+  Kuyen and Nahuel's working at the creek bed: ochre laid on tamped earth,
+  four cardinal fires, and the closing geometry that the players will see
+  contested by the Hound.
+  Visually distinct from the European/Catholic geometry of the carved Saens
+  stone (assets/dual-diagram.svg). This is FOLK GEOMETRY: hand-drawn lines,
+  spiral motifs from Tehuelche tradition, animal-track sympathies from
+  Mapuche practice, ochre on red earth. The shape is the same shape - the
+  closing aspect of the dual diagram - but rendered in the visual vocabulary
+  the entity does not yet expect.
+  The eastern gap is visible. This is where the Hound enters.
+  Print at A3 portrait. The frame around it suggests the firelight perimeter.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 700 800"
+     width="700" height="800"
+     font-family="Georgia, 'Times New Roman', serif">
+
+  <defs>
+    <radialGradient id="ground" cx="50%" cy="50%" r="62%">
+      <stop offset="0%"   stop-color="#3a2718"/>
+      <stop offset="60%"  stop-color="#1f140c"/>
+      <stop offset="100%" stop-color="#0c0805"/>
+    </radialGradient>
+    <radialGradient id="fire" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#ffd28a"/>
+      <stop offset="35%"  stop-color="#e87a2c"/>
+      <stop offset="75%"  stop-color="#7a2810"/>
+      <stop offset="100%" stop-color="#2a0c05" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="earthGrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.4" numOctaves="2" seed="11"/>
+      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.16 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+    <filter id="ochreRough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.6" numOctaves="2" seed="3"/>
+      <feDisplacementMap in="SourceGraphic" scale="2"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0a0604"/>
+
+  <!-- ground: round patch of pampas earth, tamped flat by feet -->
+  <circle cx="350" cy="400" r="320" fill="url(#ground)"/>
+  <circle cx="350" cy="400" r="320" fill="black" filter="url(#earthGrain)" opacity="0.5"/>
+
+  <!-- four cardinal fires: glow auras -->
+  <g>
+    <!-- N -->
+    <circle cx="350" cy="120" r="50" fill="url(#fire)" opacity="0.95"/>
+    <!-- S -->
+    <circle cx="350" cy="680" r="50" fill="url(#fire)" opacity="0.95"/>
+    <!-- W -->
+    <circle cx="80"  cy="400" r="50" fill="url(#fire)" opacity="0.95"/>
+    <!-- E (the contested fire - dimmer, the Hound's pressure) -->
+    <circle cx="620" cy="400" r="38" fill="url(#fire)" opacity="0.55"/>
+  </g>
+
+  <!-- fire stones at each cardinal: small ring of pebbles -->
+  <g fill="#1a1108" stroke="#2c1d10" stroke-width="0.6">
+    <g transform="translate(350,120)">
+      <circle cx="-10" cy="-6" r="3.2"/><circle cx="6" cy="-9" r="3"/>
+      <circle cx="11"  cy="3" r="3.4"/><circle cx="2" cy="11" r="3"/>
+      <circle cx="-11" cy="6" r="3.2"/>
+    </g>
+    <g transform="translate(350,680)">
+      <circle cx="-10" cy="-6" r="3.2"/><circle cx="6" cy="-9" r="3"/>
+      <circle cx="11"  cy="3" r="3.4"/><circle cx="2" cy="11" r="3"/>
+      <circle cx="-11" cy="6" r="3.2"/>
+    </g>
+    <g transform="translate(80,400)">
+      <circle cx="-10" cy="-6" r="3.2"/><circle cx="6" cy="-9" r="3"/>
+      <circle cx="11"  cy="3" r="3.4"/><circle cx="2" cy="11" r="3"/>
+      <circle cx="-11" cy="6" r="3.2"/>
+    </g>
+    <g transform="translate(620,400)">
+      <circle cx="-10" cy="-6" r="3.2"/><circle cx="6" cy="-9" r="3"/>
+      <circle cx="11"  cy="3" r="3.4"/><circle cx="2" cy="11" r="3"/>
+      <circle cx="-11" cy="6" r="3.2"/>
+      <!-- one stone is DISPLACED - the Hound's pressure has shifted it -->
+      <circle cx="22" cy="14" r="3.6" fill="#3a1a08"/>
+    </g>
+  </g>
+
+  <!-- ============= THE OCHRE BINDING ITSELF ============= -->
+  <!-- center: anchor where Nahuel kneels.
+       outer ring: ochre line, hand-drawn, irregular thickness, with the
+       eastern arc THIN AND BROKEN where the Hound is eating certainty
+       out of the line. -->
+
+  <g transform="translate(350,400)">
+
+    <!-- outer ring: thick ochre, with eastern gap -->
+    <g stroke="#c8541d" fill="none" stroke-linecap="round" opacity="0.95">
+      <path d="M 0,-205 A 205,205 0 0 0 -205,0" stroke-width="6"/>
+      <path d="M -205,0 A 205,205 0 0 0 0,205"  stroke-width="6"/>
+      <path d="M 0,205 A 205,205 0 0 0 205,0"   stroke-width="5.5"/>
+
+      <!-- east arc: thin, broken, visibly degraded -->
+      <path d="M 205,0 A 205,205 0 0 0 168,-118" stroke-width="3" stroke-dasharray="6 4" opacity="0.55"/>
+      <path d="M 168,-118 A 205,205 0 0 0 88,-185" stroke-width="2.2" stroke-dasharray="3 5" opacity="0.4"/>
+      <path d="M 88,-185 A 205,205 0 0 0 0,-205" stroke-width="3.2" opacity="0.7"/>
+    </g>
+
+    <!-- second ring: smaller, also ochre, more intact -->
+    <circle cx="0" cy="0" r="135" stroke="#a8411a" stroke-width="3.6" fill="none" opacity="0.75"/>
+
+    <!-- innermost circle, around the anchor: deep ochre, thicker -->
+    <circle cx="0" cy="0" r="42" stroke="#7a2c10" stroke-width="4" fill="none" opacity="0.9"/>
+
+    <!-- the ANCHOR: where Nahuel kneels. A small filled circle of darker
+         pigment with a finger-print in the dust. -->
+    <circle cx="0" cy="0" r="14" fill="#5a1f08"/>
+    <circle cx="-2" cy="-1" r="3" fill="#1a0a04"/>
+
+    <!-- four radial spokes from anchor to outer ring, in cardinals -->
+    <g stroke="#c8541d" stroke-width="3.4" stroke-linecap="round" opacity="0.85">
+      <line x1="0" y1="-42"  x2="0" y2="-205"/>
+      <line x1="0" y1="42"   x2="0" y2="205"/>
+      <line x1="-42" y1="0"  x2="-205" y2="0"/>
+      <!-- east spoke: thin, dashed, contested -->
+      <line x1="42" y1="0"   x2="205" y2="0" stroke-width="2" stroke-dasharray="5 5" opacity="0.45"/>
+    </g>
+
+    <!-- TEHUELCHE SPIRAL MOTIFS at four diagonal positions inside the second
+         ring. These are the "first-people" geometry surviving in folk practice -
+         spirals that read as both the path the entity takes through angle-space
+         and the path the closing reverses. -->
+    <g stroke="#d3641f" stroke-width="2.4" fill="none" opacity="0.9" stroke-linecap="round">
+      <!-- NW spiral -->
+      <path d="
+        M -85,-85
+        Q -100,-95 -110,-78
+        Q -118,-58 -98,-50
+        Q -78,-44 -78,-66
+        Q -78,-82 -90,-82" />
+      <!-- NE spiral (mirrored) -->
+      <path d="
+        M  85,-85
+        Q 100,-95  110,-78
+        Q 118,-58  98,-50
+        Q  78,-44  78,-66
+        Q  78,-82  90,-82" />
+      <!-- SW spiral -->
+      <path d="
+        M -85,85
+        Q -100,95 -110,78
+        Q -118,58 -98,50
+        Q -78,44  -78,66
+        Q -78,82  -90,82" />
+      <!-- SE spiral -->
+      <path d="
+        M  85,85
+        Q 100,95  110,78
+        Q 118,58   98,50
+        Q  78,44   78,66
+        Q  78,82   90,82" />
+    </g>
+
+    <!-- MAPUCHE step-pattern between the second ring and the outer ring,
+         in the four cardinal quadrants. Angular zig-zag, ochre.
+         The eastern quadrant is INCOMPLETE - the zig-zag stops short. -->
+    <g stroke="#a8411a" stroke-width="2" fill="none" opacity="0.85" stroke-linejoin="miter">
+      <!-- N quadrant -->
+      <path d="M -22,-148 l 8,8 l 8,-8 l 8,8 l 8,-8 l 8,8 l 8,-8 l 8,8"/>
+      <!-- W quadrant -->
+      <path d="M -148,-22 l 8,8 l -8,8 l 8,8 l -8,8 l 8,8 l -8,8 l 8,8"/>
+      <!-- S quadrant -->
+      <path d="M -22, 148 l 8,8 l 8,-8 l 8,8 l 8,-8 l 8,8 l 8,-8 l 8,8" transform="translate(0,-8)"/>
+      <!-- E quadrant: incomplete -->
+      <path d="M 148,-22 l 8,8 l -8,8 l 8,8" opacity="0.5"/>
+    </g>
+
+    <!-- ANIMAL-TRACK marks at the cardinal endpoints (outside the outer ring):
+         small footprints showing the sympathetic-direction. North=guanaco;
+         South=puma; West=condor (claw mark); East=NONE - the east-track has
+         been ERASED. -->
+    <g fill="#8e3a18" opacity="0.85">
+      <!-- N: guanaco hoof -->
+      <path d="M -8,-238 q 8,-6 16,0 q -2,8 -16,0 z"/>
+      <path d="M -8,-228 q 8,-6 16,0 q -2,8 -16,0 z"/>
+      <!-- S: puma paw (large pad, four toes) -->
+      <ellipse cx="0" cy="240" rx="9" ry="6"/>
+      <ellipse cx="-10" cy="232" rx="3" ry="2.4"/>
+      <ellipse cx="-4"  cy="228" rx="3" ry="2.4"/>
+      <ellipse cx="4"   cy="228" rx="3" ry="2.4"/>
+      <ellipse cx="10"  cy="232" rx="3" ry="2.4"/>
+      <!-- W: condor claw (three points) -->
+      <path d="M -240,0 l -10,-12 m 10,12 l -14,0 m 14,0 l -10,12"/>
+      <!-- E: erased - faint shadow only -->
+      <ellipse cx="240" cy="0" rx="9" ry="3" opacity="0.18"/>
+    </g>
+
+    <!-- a brushed-clear spot in the east quadrant: where the Hound wiped
+         the ochre off the dirt. Visible as lighter earth. -->
+    <ellipse cx="195" cy="0" rx="22" ry="14" fill="#5a3e26" opacity="0.85"/>
+    <ellipse cx="180" cy="0" rx="14" ry="9"  fill="#7a5a3e" opacity="0.6"/>
+
+    <!-- pigment-pouch and brush, dropped near the anchor -->
+    <g transform="translate(-22, 60)">
+      <ellipse cx="0" cy="0" rx="14" ry="6" fill="#3a2718" stroke="#1a0e08" stroke-width="0.6"/>
+      <line x1="8" y1="-3" x2="22" y2="-12" stroke="#8e6a3a" stroke-width="1.6" stroke-linecap="round"/>
+      <ellipse cx="22" cy="-12" rx="2.4" ry="1.4" fill="#c8541d"/>
+    </g>
+  </g>
+
+  <!-- caption block at top -->
+  <text x="350" y="42" text-anchor="middle" fill="#c0a070" font-size="14" letter-spacing="3">
+    THE BINDING AT THE CREEK BED
+  </text>
+  <text x="350" y="62" text-anchor="middle" fill="#7a6645" font-size="11" font-style="italic">
+    Kuyen's working - ochre on tamped earth - the third approach
+  </text>
+
+  <!-- caption block at bottom -->
+  <text x="350" y="755" text-anchor="middle" fill="#c0a070" font-size="11">
+    N: guanaco  -  S: puma  -  W: condor  -  E: erased
+  </text>
+  <text x="350" y="775" text-anchor="middle" fill="#7a6645" font-size="10" font-style="italic">
+    the eastern arc is where the Hound enters
+  </text>
+
+  <!-- compass mark in upper-left corner -->
+  <g transform="translate(60,60)" fill="#7a6645" opacity="0.8">
+    <line x1="0" y1="-22" x2="0" y2="22" stroke="#7a6645" stroke-width="1"/>
+    <line x1="-22" y1="0" x2="22" y2="0" stroke="#7a6645" stroke-width="1"/>
+    <text x="0" y="-26" text-anchor="middle" font-size="10">N</text>
+    <text x="0" y="34"  text-anchor="middle" font-size="10">S</text>
+    <text x="-30" y="3" text-anchor="middle" font-size="10">W</text>
+    <text x="30"  y="3" text-anchor="middle" font-size="10">E</text>
+  </g>
+
+</svg>
