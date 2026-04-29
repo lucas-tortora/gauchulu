@@ -23,7 +23,7 @@ Estancia La Esperanza occupies roughly 4,000 hectares. It was prosperous once. T
 
 ### Setting Description
 
-> *The estancia house is low and long, whitewashed walls cracked by seasons of sun and cold. A covered corridor runs the length of the front — a zagúan — with dried herbs hanging in bundles and a cattle skull mounted above the doorframe. The courtyard inside smells of cowhide and leather dressing. A ceiling fan turns slowly overhead, moved by no visible mechanism. Don Eusebio receives you standing, not seated — a man accustomed to giving the impression of work.*
+> *La casa de la estancia es baja y larga, las paredes blanqueadas a la cal y agrietadas por temporadas de sol y de frío. Un corredor cubierto recorre el frente — un zaguán — con manojos de hierbas secas colgando del techo y una calavera de vacuno clavada sobre el dintel de la puerta. El patio adentro huele a cuero crudo y a sebo de talabartero. El aire de la casa está más fresco que el de afuera — no por brisa, sino por el grueso de las paredes de adobo. Don Eusebio los recibe parado, no sentado — un hombre acostumbrado a dar la impresión de trabajo.*
 
 Practical details for the Keeper:
 
@@ -67,31 +67,31 @@ Don Eusebio found a handwritten manuscript three years ago, tucked inside a wall
 
 *"How many cattle have been killed?"*
 
-> "Thirty-one head over six weeks. All in the south pasture. I moved the rest north — they won't go back." *(True.)*
+> *"Treinta y una cabezas en seis semanas. Todas en el campo del sur. Las otras me las llevé al norte — al sur no me vuelven."* — *"Thirty-one head over six weeks. All in the south pasture. I moved the rest north — they won't go back."* *(True.)*
 
 *"Have you reported this to the authorities?"*
 
-> "The rural police came, looked around, told me to keep records. Useless. They won't go near the south pasture after dark." *(True. He doesn't mention why they won't go near it.)*
+> *"Vino la policía de campaña, dieron una vuelta, me dijeron que llevara cuentas. Una inutilidad. Una vez que oscurece, no se acercan al campo del sur."* — *"The rural police came, looked around, told me to keep records. Useless. They won't go near the south pasture after dark."* *(True. He doesn't mention why they won't go near it.)*
 
 *"What makes you think it's the tribes?"*
 
-> "Tracks. Footprints around the dead animals. And this." *(He produces the branded hide — see below.)* "Their markings. I've seen similar on their blankets." *(Partially false. The footprints are real. The hide attribution is fabricated.)*
+> *"Huellas. Pisadas alrededor de los animales muertos. Y esto."* *(saca el cuero marcado — ver abajo)* *"Sus dibujos. Cosas parecidas las he visto en sus mantas."* — *"Tracks. Footprints around the dead animals. And this. Their markings. I've seen similar on their blankets."* *(Partially false. The footprints are real. The hide attribution is fabricated.)*
 
 *"Can we speak with your workers?"*
 
-> "Of course. Though they're simple folk — they'll give you superstitions, not facts." *(He says this with slight contempt. He is hoping they won't.)*
+> *"Por supuesto. Aunque es gente sencilla — les van a dar supersticiones, no datos."* — *"Of course. Though they're simple folk — they'll give you superstitions, not facts."* *(He says this with slight contempt. He is hoping they won't.)*
 
 *"What's in the locked room?"*
 
-> "My study. Personal papers. Nothing relevant to your work." *(He does not offer to open it. If pressed: he says he will retrieve anything specific they need — stall tactic.)*
+> *"Mi estudio. Papeles míos. Nada que tenga que ver con su trabajo."* — *"My study. Personal papers. Nothing relevant to your work."* *(He does not offer to open it. If pressed: he says he will retrieve anything specific they need — stall tactic.)*
 
 *"Have you heard anything unusual at night?"*
 
-> *(A pause. A single tap of the finger.)* "The cattle make noise when frightened. That's all." *(Lie.)*
+> *(Pausa. Un solo golpe del índice sobre la mesa.)* *"El ganado hace ruido cuando se asusta. Nada más."* — *"The cattle make noise when frightened. That's all."* *(Lie.)*
 
 *"Has anyone been hurt? Workers?"*
 
-> "No. The animals don't come near the house." *(True, and he says it with quiet relief that makes it briefly, horribly sincere.)*
+> *"No. Los animales no se acercan a la casa."* — *"No. The animals don't come near the house."* *(True, and he says it with quiet relief that makes it briefly, horribly sincere.)*
 
 ---
 
@@ -135,27 +135,27 @@ Don Eusebio found a handwritten manuscript three years ago, tucked inside a wall
 
 *"How long have you worked here?"*
 
-> "Eleven years. Since before the south section was cleared." *(He glances toward Don Eusebio, then away.)*
+> *"Once años. Desde antes que abrieran el campo del sur."* — *"Eleven years. Since before the south section was cleared."* *(He glances toward Don Eusebio, then away.)*
 
 *"Have you seen the tracks yourself?"*
 
-> "Yes. They're not right." *(Stops. You wait.)* "The shape is right. Foot size, the way they press — human weight. But they stop. In the middle of open ground. No holes, no wind. They just stop." *(He looks at the ground.)*
+> *"Sí, las vi. No están bien."* *(Se calla. Ustedes esperan.)* *"La forma sí está bien. El tamaño del pie, el modo de pisar — peso de hombre. Pero se cortan. En medio del campo abierto. No hay pozo, no hay viento. Se cortan, nomás."* — *"Yes. They're not right. The shape is right. Foot size, the way they press — human weight. But they stop. In the middle of open ground. No holes, no wind. They just stop."* *(He looks at the ground.)*
 
 *"What do you think is doing it?"*
 
-> "I think…" *(Long pause.)* "I think something is very wrong with the south pasture and I think we should not go there after dark." *(He does not answer the question.)*
+> *"Yo creo…"* *(Pausa larga.)* *"Yo creo que algo anda muy mal en el campo del sur, y que ahí no hay que ir de noche."* — *"I think... I think something is very wrong with the south pasture and we should not go there after dark."* *(He does not answer the question.)*
 
 *"Have you seen anything unusual at night?"*
 
-> *(He is still for a moment.)* "I don't go out at night." *(He meets your eyes for the first time. He means this absolutely.)*
+> *(Se queda quieto un momento.)* *"Yo no salgo de noche."* — *"I don't go out at night."* *(He meets your eyes for the first time. He means this absolutely.)*
 
 *"Do you believe the tribes are responsible?"*
 
-> *(He looks at his hands.)* "I don't know who told Don Eusebio that." *(He won't say more on it directly. Successful Psychology roll reveals this is the closest he will come to contradicting his employer.)*
+> *(Se mira las manos.)* *"No sé quién le dijo eso a don Eusebio."* — *"I don't know who told Don Eusebio that."* *(He won't say more on it directly. Successful Psychology roll reveals this is the closest he will come to contradicting his employer.)*
 
 *"What's in the south pasture?"*
 
-> "A low place. A depression. Don Eusebio says it's a dry drainage. I found it before the cattle started dying. It wasn't… it wasn't always like that." *(If pressed: he shakes his head. "I don't go near it.")*
+> *"Un bajío. Un hundimiento. Don Eusebio dice que es un cañadón seco. Yo lo encontré antes de que empezaran a morirse los animales. No era… no siempre fue así."* — *"A low place. A depression. Don Eusebio says it's a dry drainage. I found it before the cattle started dying. It wasn't... it wasn't always like that."* *(If pressed: he shakes his head. "Yo no me arrimo." — "I don't go near it.")*
 
 ---
 
@@ -180,11 +180,11 @@ He walks away quickly.
 
 ### Setting Description
 
-> *The south pasture is different from the rest of the land. You feel it before you see it — a subtle wrongness in the air, a thickness. The grass here grows in rings, dark at the center, pale at the edge. The bodies are laid out across two hundred meters of field: thirty-one cattle, all dead at least a week, none touched by scavengers. The flies are present — thick clouds of them — but they don't land. They orbit.*
+> *El campo del sur no es como el resto del terreno. Lo sienten antes de verlo — algo está mal en el aire, una espesura. El pasto crece en anillos, oscuro al centro, pálido al borde. Los cuerpos están dispuestos a lo largo de doscientas varas de campo: treinta y un vacunos, todos muertos hace al menos una semana, ninguno tocado por carroñeros. Las moscas están — nubes gruesas y negras — pero no se posan. Orbitan.*
 >
-> *The wounds are precise. Long incisions, cleanly made, placed at specific points on each animal — the throat, the left flank, the base of the skull. No tearing. No panic wounds. No sign of struggle in the trampled earth around them. They simply lay down and were opened.*
+> *Las heridas son precisas. Cortes largos, limpios, ubicados en puntos exactos en cada animal — el cuello, el flanco izquierdo, la nuca. No hay desgarro. No hay heridas de pánico. No hay señal de lucha en la tierra pisada alrededor. Simplemente se acostaron y los abrieron.*
 >
-> *The smell is not decay. It is metallic. Sharp. Like copper coins held too long in a clenched fist.*
+> *El olor no es a podrido. Es metálico. Penetrante. Como monedas de cobre apretadas mucho rato en un puño.*
 
 **Keeper Notes**:
 
@@ -212,9 +212,9 @@ He walks away quickly.
 
 ### Setting Description
 
-> *The tracks begin at the northern edge of the pasture. Human-sized, bare feet, the pressure consistent with a person of medium weight. They move south in a straight line for forty meters — then stop. Not disappear into mud or stone. Stop. The impressions end as if the person stepped off the surface of the earth.*
+> *Las huellas empiezan en el borde norte del campo. Tamaño de hombre, pie descalzo, la presión consistente con alguien de peso mediano. Avanzan hacia el sur en línea recta cuarenta varas — y se cortan. No se pierden en barro ni en piedra. Se cortan. Las marcas terminan como si la persona hubiera dejado de pisar la tierra.*
 >
-> *Further south, they begin again. A different set — wider gait, heavier pressure. These loop: a broad arc, then a tighter spiral, then nothing. There is a third set that simply walks, heel-to-toe, perfectly spaced, in a circle forty meters across. The circle is centered on a slight depression in the ground.*
+> *Más al sur, vuelven a empezar. Otro juego de huellas — paso más abierto, presión más pesada. Estas dan vueltas: un arco amplio, después una espiral más cerrada, después nada. Hay un tercer juego que camina, talón con punta, perfectamente espaciado, en un círculo de cuarenta varas de diámetro. El círculo tiene en el centro un hundimiento leve en la tierra.*
 
 **Keeper Notes**:
 
@@ -237,15 +237,15 @@ He puts his hat back on. He does not step into the pit himself. *(He will not en
 
 ### Setting Description
 
-> *The depression is shallower than you expected — perhaps a meter at its deepest. The soil at the bottom is dark, almost black, despite the dry season. The smell here is different: older. Beneath the copper sharpness is something else, something that sits at the back of the throat like wet stone and cold water.*
+> *El hundimiento es menos profundo de lo que ustedes esperaban — apenas una vara en lo más hondo. La tierra del fondo es oscura, casi negra, a pesar de la seca. El olor acá es distinto: más viejo. Debajo del filo a cobre hay otra cosa, algo que se queda al fondo de la garganta como piedra mojada y agua fría.*
 >
-> *The cattle carcasses in the pit are layered. Older below, fresher above. Six layers by rough count — meaning this began months before the obvious kills in the field. The blood from each layer has run down in lines that trace across the soil in perfectly repeating arcs. It is not random. The lines intersect. They form a shape.*
+> *Las reses muertas dentro del pozo están en capas. Las más viejas abajo, las frescas arriba. Seis capas, por cuenta gruesa — quiere decir que esto empezó meses antes de las matanzas del campo. La sangre de cada capa corrió hacia abajo en líneas que recorren la tierra en arcos que se repiten con exactitud. No es casualidad. Las líneas se cruzan. Forman una figura.*
 >
-> *The wind drops.*
+> *El viento cae.*
 >
-> *The flies go silent.*
+> *Las moscas se callan.*
 >
-> *And then — at the bottom of the chest, like a heartbeat that is not yours — a low vibration. Not loud. Not exactly a sound at all. The kind of vibration a chapel bell makes after the strike, when the air still remembers.*
+> *Y entonces — al fondo del pecho, como un latido que no es de ustedes — una vibración baja. No fuerte. No exactamente un sonido. La clase de vibración que hace una campana de capilla después del golpe, cuando el aire todavía se acuerda.*
 
 > **Atmospheric runner — the low vibration (3c)**: This is the first appearance of the campaign's continuous-presence sound (see `flowmap.md`, *Atmospheric Runners*). Any investigator who *names* it aloud at the table — *"do you hear that?"*, *"there's a vibration"*, *"feel that in your sternum?"* — gets **one banked Sanity point** that can be cashed against any later Sanity loss in the chapter. Awareness is protective. Do not announce this rule to the players; let the first PC who notices be quietly rewarded after the chapter, and let the table figure out the pattern over the next two chapters.
 
@@ -294,11 +294,11 @@ This scene is designed to activate whether or not investigators have figured out
 
 **Read aloud**:
 
-> *You hear Tomás before you see him. His voice carries in that wrong way voices carry in the pampa — too far and not far enough at once. "¡Concepción! ¡Concepción, volvé! ¡Volvé acá, por Dios!" He is running. His hat is gone. He is holding his facón in one hand — not as a threat, as if he forgot he was holding it.*
+> *Oyen a Tomás antes de verlo. La voz le llega en ese modo equivocado en que llegan las voces en la pampa — demasiado lejos y no bastante lejos al mismo tiempo. "¡Concepción! ¡Concepción, volvé! ¡Volvé acá, por Dios!" Viene corriendo. Perdió el chambergo. Lleva el facón en una mano — no como amenaza, como si se hubiera olvidado de que lo tiene agarrado.*
 >
-> *The girl walking ahead of him doesn't turn around. She doesn't appear to hear him. She walks straight toward the pit's edge and stops — looks down into it with the expression of someone confirming something she already knew.*
+> *La chica que va adelante no se da vuelta. No parece oírlo. Camina derecho al borde del pozo y se para — mira para adentro con la cara de alguien que está confirmando algo que ya sabía.*
 >
-> *Then she steps in.*
+> *Entonces baja el primer paso.*
 
 **SAN Check**: 0/1 — the sight of a 13-year-old walking calmly into a ritual pit full of dead cattle.
 
@@ -338,13 +338,13 @@ The moment Concepción scrapes the first full arc apart — roughly 20 seconds a
 
 **Read aloud**:
 
-> *The Luz Mala stops mid-arc. It holds absolutely still for two full seconds. Then it pulses once — so bright that for an instant you can see Concepción's figure in the pit, her hands dark with dust and blood from scraping, still working.*
+> *La Luz Mala se detiene en pleno arco. Se queda absolutamente quieta dos segundos enteros. Después late una vez — tan brillante que por un instante alcanzan a ver la figura de Concepción dentro del pozo, las manos negras de tierra y de sangre, todavía raspando.*
 >
-> *Then the light contracts to a point and shoots downward into the earth.*
+> *Después la luz se contrae a un punto y baja a la tierra como una bala.*
 >
-> *The flies — which had been orbiting at a distance — collapse inward all at once, into a dense black mass near the pit's rim. Tomás shrieks and stumbles backward. And two of the cattle in the field — the closest ones, the ones between you and the pit's northern edge — begin to move.*
+> *Las moscas — que orbitaban a distancia — caen para adentro de golpe, todas a la vez, en una masa negra y espesa al borde del pozo. Tomás grita y retrocede tropezando. Y dos de los animales del campo — los más cercanos, los que están entre ustedes y la orilla norte del pozo — empiezan a moverse.*
 >
-> *Not slowly. Not stumbling. They rise with the mechanical efficiency of something that has never been stiff, as if they simply forgot to be dead for a moment and are now correcting the oversight. Their wounds are still open. Their eyes are white and dry. They orient — not toward you. Toward the pit. Toward the girl in it.*
+> *No despacio. No tropezando. Se levantan con la eficacia mecánica de algo que nunca estuvo tieso, como si se hubieran olvidado un momento de estar muertos y ahora estuvieran corrigiendo el descuido. Las heridas siguen abiertas. Los ojos, blancos y secos. Se orientan — no hacia ustedes. Hacia el pozo. Hacia la chica que está adentro.*
 
 **SAN Check**: 1/1D6 (the reanimation — and the realization of what they are targeting)
 
@@ -437,9 +437,9 @@ The reanimated cattle and the swarm exist *because* the ritual diagram exists. T
 
 **What happens when the geometry breaks**:
 
-> *The cattle stop as if a string was cut — not falling, exactly, just ceasing in the middle of a stride, then folding. The swarm unravels outward from its center, individual flies scattering in every direction at once, gone within seconds. The light — if still present — completes its final arc immediately, faster than before, and drops into the pit.*
+> *Los animales se detienen como si les hubieran cortado un hilo — no caen exactamente, sólo dejan de moverse en pleno paso, y después se doblan. La nube se deshila desde el centro hacia afuera, las moscas dispersándose en todas direcciones a la vez, perdidas en segundos. La luz — si todavía está — completa su arco final al instante, más rápido que antes, y se hunde dentro del pozo.*
 >
-> *The silence afterward is different from the silence before. Something that was holding its breath has let go.*
+> *El silencio que queda después no es el silencio que había antes. Algo que estaba conteniendo el aliento lo soltó.*
 
 **SAN Check** (geometry break): 0/1 — relief that is more disturbing than the fear that preceded it.
 
@@ -449,9 +449,9 @@ The reanimated cattle and the swarm exist *because* the ritual diagram exists. T
 
 **End Line (read aloud)**:
 
-> *The light drops below the soil without disturbing it. The flies return, instantly, as if they had never stopped. The wind picks up again. Someone says it before you can think not to:*
+> *La luz se hunde bajo la tierra sin removerla. Las moscas vuelven en el acto, como si nunca se hubieran callado. El viento se levanta otra vez. Alguien lo dice antes de que ustedes alcancen a callarse:*
 >
-> *"This wasn't done by animals."*
+> *"Esto no lo hicieron animales."*
 
 ---
 
@@ -461,7 +461,7 @@ After the geometry collapses, the investigators return to the main house — pro
 
 **Read aloud on arrival**:
 
-> *The main house looks different in the late-afternoon light — or you look at it differently. The corral is half-empty. The palomino that was tethered to the hitching post when you arrived is gone. The saddle and bridle are gone. One of the kitchen women is standing on the veranda with a broom in her hand, doing nothing with it, watching you ride up.*
+> *La casa grande se ve distinta a la luz de la tarde — o ustedes la ven distinta. El corral está medio vacío. El palomino que estaba atado al palenque cuando ustedes llegaron no está. La montura y la brida tampoco. Una de las mujeres de la cocina está parada en la galería con una escoba en la mano, sin hacer nada con ella, mirándolos llegar.*
 
 **What the investigators find**:
 
@@ -523,7 +523,7 @@ This is a mistake. His absence is exactly what gives the investigators the room 
 
 **The false lead**: If players follow his directions toward "tribal lands," they find nothing threatening — old campsites, normal traces of movement. This should create doubt. Absence of evidence where there should be evidence is its own clue.
 
-**Concepción** (the servant girl): She is now a major through-line NPC. Her intervention at the pit is the pivot of the chapter. Keepers should make her quiet presence felt earlier so her later walk doesn't come out of nowhere — she should be seen at the edge of rooms, watched observing the investigators, humming under her breath (a tuneless pattern that matches the Luz Mala's rhythm, but no one will notice this until C2 or later). If approached gently before the pit, she will say only: *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again. Her words after the pit, if asked, stay consistent: *"Está muy grande ahí abajo."*
+**Concepción** (the servant girl): She is now a major through-line NPC. Her intervention at the pit is the pivot of the chapter. Keepers should make her quiet presence felt earlier so her later walk doesn't come out of nowhere — she should be seen at the edge of rooms, watched observing the investigators, humming under her breath (a tuneless pattern that matches the Luz Mala's rhythm, but no one will notice this until C2 or later). If approached gently before the pit, she will say only: *"Don Eusebio no duerme. Camina de noche, para el sur."* — *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again. Her words after the pit, if asked, stay consistent: *"Está muy grande ahí abajo."*
 
 **If the players try to protect Concepción going forward**: They should. This is the correct moral instinct and the campaign rewards it. In C4, Don Eusebio will have sent her to Azul "for her safety" — an action the players may, in hindsight, recognize as protective (even if his motives were mixed). Her reappearance in C7 will carry more weight the more the players invested in her here.
 
