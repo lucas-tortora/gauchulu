@@ -44,9 +44,9 @@ The Jesuit who tried to close the wound in the land sixty years before the campa
 
 ## WHERE THE PLAYERS FIT IN
 
-The players begin as **hired hunters** chasing the wrong enemy: tribes blamed for cattle deaths Don Eusebio caused himself. They are **Marked** in C1 — not by choice, but because at the moment they witness the pit they become the only entities in the campaign who can perceive the geometry *from inside it*. They are not Keepers. They are not gauchos in the campaign's eyes anymore either.
+The players begin as **hired hunters** chasing the wrong enemy: tribes blamed for cattle deaths Don Eusebio caused himself. They witness the pit in C1, but they are not yet Marked. **The Mark is dispensed in C3** — and only contingently: any investigator wounded by the Hound of Tindalos during Kuyen's counter-ritual *and surviving* takes a Mark. A clean-observer table can leave C3 with no Marks at all; most tables end with one or two Marked PCs. From C3 onward, Marked PCs **perceive geometry the way other people perceive grammar** — they become the only entities in the campaign who can read the geometry *from inside it*. They are not Keepers. They are not gauchos in the campaign's eyes anymore either.
 
-What this makes them, by Arc 4, is the **only people who can make the C12 choice** — because they are the only people in the room with both the perception (the Mark) and the moral standing (they didn't put the book in the vault, they didn't copy from it, they didn't strike the bargain). The Keepers are too compromised. Mercedes is the leak. The Cursed Gaucho is too narrow. The cult is the enemy. **The players are the swing.**
+What this makes them, by Arc 4, is the **only people who can make the C12 choice** — because they are the only people in the room with both the perception (the Mark, where it landed) and the moral standing (they didn't put the book in the vault, they didn't copy from it, they didn't strike the bargain). The Keepers are too compromised. Mercedes is the leak. The Cursed Gaucho is too narrow. The cult is the enemy. **The players are the swing.** *(If no PC took a Mark in C3, Mercedes and the Pombero pick up the perceptive load and the choice still lands on the players — by moral standing, not by perception.)*
 
 The choice in C12 is theirs alone:
 

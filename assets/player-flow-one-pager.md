@@ -9,17 +9,17 @@
 **C1 — EL CONTRATO → EL POZO** *(arrival, hire, the pit)*
 *Think:* a paid job — hunt cattle-killing tribes for Don Eusebio at Estancia La Esperanza.
 *Do:* tour the south pasture; find the radial cattle bodies and the pit; survive La Luz Mala; protect 13-year-old **Concepción** as she scrapes the geometry apart with her hands; learn that *breaking the geometry stops the manifestation.*
-*Leave with:* the **Mark** (set silently); a branded hide and Tomás's stone; an unfinished letter from Don Eusebio addressed to *"A. Quirce, Calle Florida, BA"*; Don Eusebio gone east.
+*Leave with:* a branded hide and Tomás's stone; an unfinished letter from Don Eusebio addressed to *"A. Quirce, Calle Florida, BA"*; Don Eusebio gone east. **(No Marks issued yet.)**
 
 **C2 — LAS SEÑALES** *(San Ruiz; the burned chapel; the Llorona)*
 *Think:* follow Don Eusebio's trail; talk to whoever knows what happened here.
 *Do:* ride to abandoned San Ruiz; meet **Rosa Quiroga** at the burned chapel; hear what the villagers tried; recognize the **dual diagram** (opening + closing) on the chapel walls; follow La Llorona's pointing to the bones of **Padre Saens** (1761).
 *Leave with:* Rosa's silver counter-binding ornament; the knowledge that someone tried to *close* this before; a name (Saens) and a date (60 years ago); the suspicion that the tribes are not the enemy.
 
-**C3 — EL RITUAL ROTO** *(tribal camp; the first closing)*
+**C3 — EL RITUAL ROTO** *(tribal camp; the first closing; the Mark is dispensed)*
 *Think:* maybe the tribes know how to stop this — or maybe they're doing it.
-*Do:* reach **Kuyen's** camp; witness the counter-ritual; choose whether to interrupt (Hound manifests if they do) or aid (Hound is held off); aid the partial closing of the pit.
-*Leave with:* **the Mark, now perceptive** (Marked PCs read geometry from this point on); a tribal binding diagram; clarity that the cattle-deaths story was a lie; an alliance with Kuyen, Nahuel, and the curanderas.
+*Do:* reach **Kuyen's** camp; witness the counter-ritual; choose posture — *interfere* (Hound manifests, ritual collapses), *assist properly* (Mythos / Occult check; ritual holds, Hound held off), or *observe without interfering* (ritual partially succeeds, no Hound, no Marks); aid the partial closing of the pit.
+*Leave with:* **the Mark — for any PC wounded by the Hound and surviving** (mechanical: 2d6, double-1 → Hound for 1d3 rounds; perceptive: read geometry as felt wrongness, –1 difficulty step on Mythos rolls about pattern in real space); a tribal binding diagram; clarity that the cattle-deaths story was a lie; an alliance with Kuyen, Nahuel, and the curanderas. *(A clean-observer table leaves with no Marks; most tables end with one or two Marked PCs.)*
 
 ---
 
