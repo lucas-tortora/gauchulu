@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  THE CHAPEL WALL - La Tierra Mala (Chapter 2)
+  A section of the burned chapel's interior wall, viewed from the inside.
+
+  Two layers of the same geometry, one beneath the other:
+
+    1. CARVED OPENING (foundation stones, lower band)
+       Older than the chapel itself. The stones were already incised when
+       the chapel was built on top of them. The community integrated the
+       angular geometry into devotional practice (sacred heart, chalice
+       overlaid). Crisp, mathematically precise. This is the OPENING aspect
+       of the dual diagram (assets/dual-diagram.svg) - the same shape
+       Don Eusebio drew in his pit, but rendered as devotional iconography.
+
+    2. SCRATCHED COUNTER (plastered wall, upper band)
+       Dolores's three-day work, scratched into the soot-darkened plaster
+       with a sharpened piece of iron gate railing. Same shape as the
+       binding symbol (assets/binding-symbol.svg) but extended across the
+       wall in a rhythmic band - a repeating closing motif, miniaturized.
+       Hurried, irregular, the work of someone who understood the intention
+       but was racing time. The eastern third is INCOMPLETE - she ran out
+       of time before the fire.
+
+  The wall is BURNED on the eastern side. Two villagers walked in with
+  kerosene the night Dolores died. The roof came down on them. The walls
+  held. The stone-carved opening is intact; only the wood and the eastern
+  plaster (and Dolores) were lost.
+
+  In the rubble at the foot of the eastern wall: Dolores's tool. A
+  sharpened iron gate-railing rod, on its flat side: "no alcanz&#233; la mitad."
+
+  Print at A3 portrait. Show this when investigators enter the chapel.
+  The relationship between the two layers is the chapter's revelation.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 700 900"
+     width="700" height="900"
+     font-family="Georgia, 'Times New Roman', serif">
+
+  <defs>
+    <!-- aged plaster: warm cream, with sooty mottling -->
+    <linearGradient id="plaster" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#d8c89c"/>
+      <stop offset="55%" stop-color="#c0a87a"/>
+      <stop offset="80%" stop-color="#7a5a3a"/>
+      <stop offset="100%" stop-color="#3a2614"/>
+    </linearGradient>
+
+    <!-- foundation stone: dark grey-brown, denser color -->
+    <linearGradient id="stone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#5c4f3e"/>
+      <stop offset="100%" stop-color="#352a1c"/>
+    </linearGradient>
+
+    <!-- a darker stone for mortar-shadow -->
+    <linearGradient id="mortar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#2a1f12"/>
+      <stop offset="100%" stop-color="#1a1208"/>
+    </linearGradient>
+
+    <!-- soot wash for the eastern (right) wall -->
+    <linearGradient id="soot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#000" stop-opacity="0"/>
+      <stop offset="55%"  stop-color="#000" stop-opacity="0"/>
+      <stop offset="78%"  stop-color="#0a0604" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0a0604" stop-opacity="0.92"/>
+    </linearGradient>
+
+    <!-- char glow at the seam between fire and standing wall -->
+    <radialGradient id="char" cx="78%" cy="55%" r="38%">
+      <stop offset="0%"   stop-color="#3a1a08" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3a1a08" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- noise for plaster grain -->
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="1.6" numOctaves="2" seed="7"/>
+      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.18 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- noise for the iron-tool scratch (a tiny displacement) -->
+    <filter id="rough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3"/>
+      <feDisplacementMap in="SourceGraphic" scale="1.4"/>
+    </filter>
+
+    <!-- one segment of the "binding" motif (Rosa's ornament shape, tiny).
+         Drawn in negative-direction barbed strokes. Centered at (0,0). -->
+    <symbol id="bind" viewBox="-22 -22 44 44" overflow="visible">
+      <g stroke="#e9dfc4" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6">
+        <line x1="0"  y1="0"  x2="6"  y2="-16"/>
+        <line x1="0"  y1="0"  x2="-6" y2="16"/>
+        <line x1="0"  y1="0"  x2="16" y2="6"/>
+        <line x1="0"  y1="0"  x2="-16" y2="-6"/>
+        <polyline points="4,-14 6,-16 5,-13" stroke-width="1.1"/>
+        <polyline points="-4,14 -6,16 -5,13" stroke-width="1.1"/>
+        <polyline points="14,4 16,6 13,5"   stroke-width="1.1"/>
+        <polyline points="-14,-4 -16,-6 -13,-5" stroke-width="1.1"/>
+      </g>
+      <ellipse cx="0" cy="0" rx="1.2" ry="2.2" fill="#e9dfc4"/>
+    </symbol>
+
+    <!-- one segment of the OPENING aspect: hexagram triangle UP, vesica.
+         Centered at (0,0); about 80 wide. -->
+    <symbol id="open" viewBox="-50 -50 100 100" overflow="visible">
+      <g stroke="#1a1208" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <!-- outer station ring (a hint - one course of the closing the masons
+             didn't fully cut, this is the OPENING fragment carved in stone) -->
+        <circle r="40" stroke-width="1.4"/>
+        <!-- triangle UP - the opening -->
+        <polygon points="0,-34 29.4,17 -29.4,17" stroke-width="1.8"/>
+        <!-- triangle DOWN - present but recessive in the carving -->
+        <polygon points="0,34 29.4,-17 -29.4,-17" stroke-width="1.0" opacity="0.55"/>
+        <!-- vesica piscis -->
+        <circle cx="-6" cy="0" r="11" stroke-width="1.0"/>
+        <circle cx="6"  cy="0" r="11" stroke-width="1.0"/>
+        <!-- center anchor -->
+        <circle cx="0" cy="0" r="2.2" fill="#1a1208"/>
+        <!-- spokes -->
+        <line x1="0" y1="0" x2="0"   y2="-34" stroke-width="0.7" opacity="0.5"/>
+        <line x1="0" y1="0" x2="29.4" y2="17" stroke-width="0.7" opacity="0.5"/>
+        <line x1="0" y1="0" x2="-29.4" y2="17" stroke-width="0.7" opacity="0.5"/>
+      </g>
+    </symbol>
+  </defs>
+
+  <!-- ==================== background: floor of the nave ==================== -->
+  <rect width="700" height="900" fill="#1a120a"/>
+
+  <!-- ==================== the wall itself ==================== -->
+  <!-- plaster band (upper 60%), foundation stone band (lower 35%),
+       floor mud at the bottom (5%). -->
+
+  <!-- PLASTER (upper) -->
+  <rect x="0" y="60" width="700" height="500" fill="url(#plaster)"/>
+  <rect x="0" y="60" width="700" height="500" fill="#000" opacity="0.18" filter="url(#grain)"/>
+  <!-- soot wash thickening to the east -->
+  <rect x="0" y="60" width="700" height="500" fill="url(#soot)"/>
+  <!-- char glow at the seam where the fire ate into the wall -->
+  <ellipse cx="540" cy="420" rx="220" ry="160" fill="url(#char)"/>
+
+  <!-- ragged horizon where the eastern roof and plaster collapsed.
+       Plaster is gone above this line on the right. -->
+  <path d="M 700,60 L 700,560 L 530,560 C 510,460 470,380 440,330 C 420,290 410,230 425,160 C 440,110 470,80 500,60 Z"
+        fill="#0a0604"/>
+  <!-- jagged edge at the collapse line -->
+  <path d="M 530,560 C 510,460 470,380 440,330 C 420,290 410,230 425,160 C 440,110 470,80 500,60"
+        fill="none" stroke="#000" stroke-width="2" opacity="0.6"/>
+  <!-- char drips beneath -->
+  <g fill="#0a0604" opacity="0.55">
+    <ellipse cx="455" cy="345" rx="6" ry="22"/>
+    <ellipse cx="487" cy="380" rx="5" ry="18"/>
+    <ellipse cx="510" cy="430" rx="6" ry="14"/>
+  </g>
+
+  <!-- FOUNDATION STONE (lower) -->
+  <rect x="0" y="560" width="700" height="280" fill="url(#stone)"/>
+  <!-- mortar courses between four block courses -->
+  <g stroke="#1a1208" stroke-width="1.4" opacity="0.85">
+    <line x1="0" y1="635" x2="700" y2="635"/>
+    <line x1="0" y1="710" x2="700" y2="710"/>
+    <line x1="0" y1="785" x2="700" y2="785"/>
+  </g>
+  <!-- vertical block joints (offset per course - masonry feel) -->
+  <g stroke="#1a1208" stroke-width="1.2" opacity="0.85">
+    <!-- course 1 (560-635) -->
+    <line x1="160" y1="560" x2="160" y2="635"/>
+    <line x1="350" y1="560" x2="350" y2="635"/>
+    <line x1="540" y1="560" x2="540" y2="635"/>
+    <!-- course 2 (635-710) -->
+    <line x1="80"  y1="635" x2="80"  y2="710"/>
+    <line x1="260" y1="635" x2="260" y2="710"/>
+    <line x1="450" y1="635" x2="450" y2="710"/>
+    <line x1="630" y1="635" x2="630" y2="710"/>
+    <!-- course 3 (710-785) -->
+    <line x1="160" y1="710" x2="160" y2="785"/>
+    <line x1="350" y1="710" x2="350" y2="785"/>
+    <line x1="540" y1="710" x2="540" y2="785"/>
+  </g>
+  <!-- east-end stone collapse (lower right): some blocks fell out in the fire -->
+  <g fill="#0a0604">
+    <polygon points="600,560 700,560 700,640 670,640 640,610 615,580"/>
+    <polygon points="610,710 700,710 700,785 660,785 630,750"/>
+  </g>
+
+  <!-- mud floor at the bottom (a thin band, players' feet are off-frame) -->
+  <rect x="0" y="840" width="700" height="60" fill="#1a1208"/>
+  <rect x="0" y="840" width="700" height="60" fill="#000" opacity="0.25" filter="url(#grain)"/>
+
+  <!-- ==================== CARVED OPENING (in stone) ==================== -->
+  <!-- A band across the four foundation stones. Five carved units across
+       the band; each is a small "opening" sigil. The band reads as a
+       continuous frieze when seen from a few paces back. The east end
+       (rightmost) is hidden by the collapsed stones. -->
+  <g>
+    <use href="#open" x="80"  y="685" width="100" height="100"/>
+    <use href="#open" x="220" y="685" width="100" height="100"/>
+    <use href="#open" x="360" y="685" width="100" height="100"/>
+    <use href="#open" x="500" y="685" width="100" height="100" opacity="0.55"/>
+    <!-- east unit: half-buried in collapsed stone (clipped by the dark polygon above) -->
+  </g>
+
+  <!-- a devotional iconography overlaid on the central stone unit:
+       the community built worship on top of this geometry. A sacred heart
+       carved in lower relief over the opening. -->
+  <g transform="translate(410 735)" stroke="#1a1208" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.78">
+    <!-- sacred heart (simplified) -->
+    <path d="M 0,8 C -10,-4 -22,-2 -22,-12 C -22,-22 -10,-22 0,-10 C 10,-22 22,-22 22,-12 C 22,-2 10,-4 0,8 Z" stroke-width="1.4"/>
+    <!-- flame -->
+    <path d="M 0,-10 q -3,-8 0,-14 q 3,8 0,14" stroke-width="1.2"/>
+    <!-- thorn ring -->
+    <ellipse cx="0" cy="-3" rx="20" ry="11" stroke-width="0.8" stroke-dasharray="2 3"/>
+  </g>
+  <!-- a small chalice on the leftmost stone -->
+  <g transform="translate(120 735)" stroke="#1a1208" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7">
+    <path d="M -10,-12 q 10,8 20,0 v 8 q -10,8 -20,0 Z" stroke-width="1.2"/>
+    <line x1="0" y1="-4" x2="0" y2="10" stroke-width="1.2"/>
+    <line x1="-8" y1="10" x2="8" y2="10" stroke-width="1.4"/>
+    <!-- a faint cross above the cup -->
+    <line x1="0" y1="-22" x2="0" y2="-12" stroke-width="0.8"/>
+    <line x1="-4" y1="-18" x2="4" y2="-18" stroke-width="0.8"/>
+  </g>
+
+  <!-- ==================== SCRATCHED COUNTER (in plaster) ==================== -->
+  <!-- A repeating frieze of the binding-symbol motif at three vertical bands,
+       across the plaster. Hurried, ochre-grey, slightly displaced. Eastern
+       third is missing (collapsed/burned). -->
+
+  <!-- Upper band of binding marks (highest course) -->
+  <g filter="url(#rough)">
+    <use href="#bind" x="80"  y="160" width="56" height="56"/>
+    <use href="#bind" x="160" y="160" width="56" height="56"/>
+    <use href="#bind" x="240" y="160" width="56" height="56"/>
+    <use href="#bind" x="320" y="160" width="56" height="56"/>
+    <use href="#bind" x="400" y="160" width="56" height="56" opacity="0.6"/>
+    <!-- east edge of band: petered out -->
+  </g>
+  <!-- Middle band -->
+  <g filter="url(#rough)">
+    <use href="#bind" x="80"  y="280" width="56" height="56"/>
+    <use href="#bind" x="160" y="280" width="56" height="56"/>
+    <use href="#bind" x="240" y="280" width="56" height="56"/>
+    <use href="#bind" x="320" y="280" width="56" height="56"/>
+    <!-- a hesitation mark - one symbol Dolores started but did not finish -->
+    <g transform="translate(425 308)" stroke="#e9dfc4" fill="none" stroke-linecap="round" stroke-width="1.6" opacity="0.7">
+      <line x1="0" y1="0" x2="6" y2="-16"/>
+      <line x1="0" y1="0" x2="-6" y2="16"/>
+      <!-- the other two strokes are missing -->
+    </g>
+  </g>
+  <!-- Lower band -->
+  <g filter="url(#rough)">
+    <use href="#bind" x="80"  y="420" width="56" height="56"/>
+    <use href="#bind" x="160" y="420" width="56" height="56"/>
+    <use href="#bind" x="240" y="420" width="56" height="56"/>
+    <use href="#bind" x="320" y="420" width="56" height="56" opacity="0.55"/>
+  </g>
+
+  <!-- a long dragged scratch at the eastern edge: where Dolores ran out of
+       time and could only smear one continuous angled line, a kind of
+       desperate diagonal vow -->
+  <g stroke="#d8c89c" stroke-width="1.4" stroke-linecap="round" opacity="0.55">
+    <line x1="395" y1="200" x2="455" y2="500"/>
+    <line x1="392" y1="208" x2="450" y2="495" opacity="0.6"/>
+  </g>
+
+  <!-- ==================== Dolores's tool, in the rubble ==================== -->
+  <!-- iron gate-railing rod, sharpened, dropped at the foot of the east wall -->
+  <g transform="translate(560 820) rotate(18)">
+    <line x1="0" y1="0" x2="86" y2="0" stroke="#7a6a52" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="86" y2="0" stroke="#1a1208" stroke-width="1.4" stroke-linecap="round" opacity="0.6"/>
+    <polygon points="86,-3 96,0 86,3" fill="#7a6a52"/>
+    <!-- chip flake at sharpened end -->
+    <polygon points="92,0 95,-2 100,0 95,2" fill="#9a8a72"/>
+    <!-- inscription, scratched into the flat side, very small -->
+    <text x="22" y="-5" font-size="6.5" font-style="italic" fill="#d4c094" letter-spacing="0.6">no alcanc&#233; la mitad</text>
+  </g>
+
+  <!-- bits of rubble around it -->
+  <g fill="#3a2614" opacity="0.8">
+    <ellipse cx="595" cy="850" rx="14" ry="6"/>
+    <ellipse cx="640" cy="855" rx="9" ry="4"/>
+    <ellipse cx="612" cy="840" rx="6" ry="3"/>
+  </g>
+
+  <!-- ==================== KEY (small inset, lower-left) ==================== -->
+  <g transform="translate(40 850)" font-size="9" fill="#d4c094" letter-spacing="0.6">
+    <text x="0" y="0" font-style="italic">la capilla &#8212; pared interior</text>
+  </g>
+  <g transform="translate(40 875)" font-size="8" fill="#9a8a72" letter-spacing="0.4">
+    <text x="0" y="0">apertura tallada &#8212; cierre rascado &#8212; este derrumbado</text>
+  </g>
+
+  <!-- ==================== caption (top) ==================== -->
+  <text x="350" y="38" text-anchor="middle" fill="#c0a070" font-size="14" letter-spacing="3">
+    THE CHAPEL WALL
+  </text>
+  <text x="350" y="55" text-anchor="middle" fill="#7a6645" font-size="10" font-style="italic">
+    one wall, two layers &#8212; the opening they did not know they kept, and the closing she did not finish
+  </text>
+
+  <!-- ==================== compass (upper-left), east is right ==================== -->
+  <g transform="translate(40 90)" fill="#7a6645" opacity="0.85">
+    <line x1="0" y1="-22" x2="0" y2="22" stroke="#7a6645" stroke-width="1"/>
+    <line x1="-22" y1="0" x2="22" y2="0" stroke="#7a6645" stroke-width="1"/>
+    <text x="0" y="-26" text-anchor="middle" font-size="10">N</text>
+    <text x="0" y="34"  text-anchor="middle" font-size="10">S</text>
+    <text x="-30" y="3" text-anchor="middle" font-size="10">W</text>
+    <text x="30"  y="3" text-anchor="middle" font-size="10">E</text>
+    <text x="0" y="58" text-anchor="middle" font-size="8" font-style="italic" opacity="0.7">&#8212; east burned &#8212;</text>
+  </g>
+
+</svg>

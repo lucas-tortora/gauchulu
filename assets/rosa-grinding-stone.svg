@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ROSA'S GRINDING STONE - La Tierra Mala (Chapter 2)
+  Top-down view of the earthen floor of Rosa's house in San Ruiz.
+
+  Rosa's volcanic-basalt grinding stone has been slid aside (it usually
+  rests in the worn circle at the center of the frame). Beneath it, in
+  the tamped-clay floor: the COMPLETE binding symbol, scratched from
+  memory.
+
+  This is the campaign's only complete record of the closing aspect in a
+  single fixed place. Dolores knew it (and drew her clay-finger record
+  beneath the chapel floor); Kuyen carries it in her hands. Rosa scratched
+  it where she could keep watch on it - under the stone she touches every
+  morning. The grinding stone is laid back over it daily; the friction has
+  smoothed and re-smoothed the symbol over fourteen months. Every time she
+  grinds corn, she is sharpening the lines.
+
+  The symbol is the same shape as Rosa's silver ornament
+  (assets/binding-symbol.svg) and the closing aspect of the dual diagram
+  (assets/dual-diagram.svg) - but here, alone among the campaign's
+  artifacts, it is rendered COMPLETE. Outer station-ring, twelve stations,
+  closing triangle DOWN, three pressure points, anchor.
+
+  Around the rim of the cleared spot, in tiny letters scratched with the
+  same iron tool: her six-word prayer.
+
+      "Por las que vinieron antes y por las que vendr&#225;n despu&#233;s."
+        ("For those who came before, and for those who come after.")
+
+  Show this to a player only if they have earned Rosa's trust - after the
+  chapel, after C8, or in the C12 epilogue. Print at A4 landscape.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 620"
+     width="900" height="620"
+     font-family="Georgia, 'Times New Roman', serif">
+
+  <defs>
+    <!-- tamped-clay floor: warm brown, slightly oily where she sits -->
+    <radialGradient id="floor" cx="42%" cy="50%" r="62%">
+      <stop offset="0%"  stop-color="#7a5a36"/>
+      <stop offset="55%" stop-color="#4a3520"/>
+      <stop offset="100%" stop-color="#1f1408"/>
+    </radialGradient>
+
+    <!-- darker patch: where the grinding stone has been resting for years -->
+    <radialGradient id="stoneShadow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%"  stop-color="#3a2818"/>
+      <stop offset="80%" stop-color="#2a1d10"/>
+      <stop offset="100%" stop-color="#2a1d10" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- volcanic basalt: dark, lightly mottled -->
+    <radialGradient id="basalt" cx="40%" cy="35%" r="65%">
+      <stop offset="0%"  stop-color="#3a342c"/>
+      <stop offset="100%" stop-color="#0e0a06"/>
+    </radialGradient>
+
+    <!-- floor noise -->
+    <filter id="floorGrain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.0" numOctaves="2" seed="5"/>
+      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.16 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- basalt grain (small pumice pits) -->
+    <filter id="pumice" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.6" numOctaves="2" seed="9"/>
+      <feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.32 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+
+    <!-- light displacement for hand-scratched lines -->
+    <filter id="scratchRough">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="2" seed="2"/>
+      <feDisplacementMap in="SourceGraphic" scale="1.6"/>
+    </filter>
+  </defs>
+
+  <!-- ==================== floor ==================== -->
+  <rect width="900" height="620" fill="#0a0604"/>
+  <!-- floor patch: not the whole frame, edges fade to dark (a lit area) -->
+  <ellipse cx="450" cy="310" rx="430" ry="290" fill="url(#floor)"/>
+  <ellipse cx="450" cy="310" rx="430" ry="290" fill="#000" opacity="0.3" filter="url(#floorGrain)"/>
+
+  <!-- a darker shadow where the stone sat for years (slightly larger than
+       the binding circle, slightly off-center because Rosa always set it
+       a bit to the right) -->
+  <ellipse cx="395" cy="320" rx="200" ry="170" fill="url(#stoneShadow)" opacity="0.85"/>
+
+  <!-- corn meal dust scattered on the floor: a thin, almost translucent
+       sprinkle, slightly heavier on the side where the stone now sits -->
+  <g fill="#e8d8a4" opacity="0.5">
+    <circle cx="220" cy="200" r="0.8"/>
+    <circle cx="240" cy="220" r="1"/>
+    <circle cx="190" cy="260" r="0.7"/>
+    <circle cx="280" cy="180" r="0.9"/>
+    <circle cx="320" cy="500" r="0.8"/>
+    <circle cx="270" cy="490" r="0.7"/>
+    <circle cx="380" cy="520" r="0.9"/>
+    <circle cx="500" cy="510" r="0.8"/>
+    <circle cx="170" cy="320" r="1.0"/>
+    <circle cx="160" cy="380" r="0.7"/>
+    <circle cx="200" cy="430" r="0.8"/>
+    <circle cx="540" cy="440" r="0.8"/>
+    <circle cx="610" cy="420" r="0.9"/>
+    <circle cx="650" cy="380" r="0.7"/>
+    <circle cx="680" cy="320" r="1.1"/>
+    <circle cx="720" cy="280" r="0.9"/>
+    <circle cx="700" cy="240" r="0.7"/>
+    <circle cx="640" cy="190" r="0.9"/>
+    <circle cx="600" cy="160" r="0.8"/>
+    <circle cx="560" cy="170" r="0.7"/>
+    <circle cx="520" cy="180" r="0.9"/>
+    <circle cx="480" cy="200" r="0.6"/>
+    <circle cx="430" cy="500" r="0.7"/>
+    <circle cx="450" cy="540" r="1"/>
+    <circle cx="510" cy="530" r="0.6"/>
+    <circle cx="220" cy="500" r="0.7"/>
+    <circle cx="170" cy="460" r="0.6"/>
+    <circle cx="320" cy="540" r="0.8"/>
+  </g>
+  <!-- denser dust trail pointing toward where the stone now rests -->
+  <g fill="#e8d8a4" opacity="0.7">
+    <circle cx="630" cy="290" r="1.4"/>
+    <circle cx="660" cy="270" r="1.3"/>
+    <circle cx="685" cy="245" r="1.5"/>
+    <circle cx="710" cy="240" r="1.2"/>
+    <circle cx="640" cy="320" r="1.2"/>
+    <circle cx="675" cy="310" r="1.3"/>
+    <circle cx="705" cy="290" r="1.4"/>
+    <circle cx="735" cy="285" r="1.3"/>
+    <circle cx="615" cy="330" r="1.2"/>
+    <circle cx="650" cy="345" r="1.2"/>
+  </g>
+
+  <!-- drag track: faint arc where the stone was slid eastward -->
+  <path d="M 380 320 Q 530 305 690 285" stroke="#5a3e22" stroke-width="6" fill="none" opacity="0.45" stroke-linecap="round"/>
+  <path d="M 380 360 Q 540 345 690 330" stroke="#5a3e22" stroke-width="5" fill="none" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- ==================== THE COMPLETE BINDING (in the cleared spot) ==================== -->
+  <!-- Centered at (395, 320). Radius 145.
+       Same geometry as the closing aspect of the dual diagram, but
+       hand-scratched into clay. Lighter color than the floor (the
+       scratch exposes drier earth beneath the oiled tamped surface). -->
+
+  <g transform="translate(395 320)" filter="url(#scratchRough)">
+
+    <!-- outer station ring (the "binding ring") -->
+    <circle r="145" stroke="#d4b87a" stroke-width="2.4" fill="none" opacity="0.9"/>
+    <circle r="130" stroke="#a08a5a" stroke-width="1" fill="none" stroke-dasharray="2 4" opacity="0.6"/>
+
+    <!-- twelve stations on the outer ring (one per 30 degrees) -->
+    <g fill="#e0c890">
+      <circle cx="0"      cy="-145" r="3.4"/>
+      <circle cx="72.5"   cy="-125.6" r="3.0"/>
+      <circle cx="125.6"  cy="-72.5" r="3.0"/>
+      <circle cx="145"    cy="0"    r="3.4"/>
+      <circle cx="125.6"  cy="72.5" r="3.0"/>
+      <circle cx="72.5"   cy="125.6" r="3.0"/>
+      <circle cx="0"      cy="145"  r="3.4"/>
+      <circle cx="-72.5"  cy="125.6" r="3.0"/>
+      <circle cx="-125.6" cy="72.5" r="3.0"/>
+      <circle cx="-145"   cy="0"    r="3.4"/>
+      <circle cx="-125.6" cy="-72.5" r="3.0"/>
+      <circle cx="-72.5"  cy="-125.6" r="3.0"/>
+    </g>
+
+    <!-- four cardinal "barbs" (the same angular emphasis as the
+         binding-symbol, but here in the closing's frame) -->
+    <g stroke="#d4b87a" stroke-width="1.6" fill="none" stroke-linecap="round">
+      <!-- N -->
+      <polyline points="-6,-160 0,-145 6,-160"/>
+      <!-- E -->
+      <polyline points="160,-6 145,0 160,6"/>
+      <!-- S -->
+      <polyline points="-6,160 0,145 6,160"/>
+      <!-- W -->
+      <polyline points="-160,-6 -145,0 -160,6"/>
+    </g>
+
+    <!-- closing triangle DOWN: converges inward (the closing aspect) -->
+    <polygon points="0,108 93.5,-54 -93.5,-54"
+             stroke="#d4b87a" stroke-width="1.8" fill="none" opacity="0.95"/>
+    <!-- a faint partner triangle (UP) - she scratched the opening too,
+         lightly, so she would never forget which side was which -->
+    <polygon points="0,-108 93.5,54 -93.5,54"
+             stroke="#a08a5a" stroke-width="1" fill="none" stroke-dasharray="2 4" opacity="0.55"/>
+
+    <!-- inner hex (where the triangle edges cross) -->
+    <polygon points="0,-54 46.7,-27 46.7,27 0,54 -46.7,27 -46.7,-27"
+             stroke="#a08a5a" stroke-width="1" fill="none" opacity="0.7"/>
+
+    <!-- three pressure points (the closing's three keystones), at the
+         downward triangle's vertices.  These are SOLID - this is what
+         distinguishes the closing version from the opening. -->
+    <g>
+      <circle cx="0"     cy="108"  r="5" fill="#e0c890" stroke="#3a2614" stroke-width="1.4"/>
+      <circle cx="93.5"  cy="-54"  r="5" fill="#e0c890" stroke="#3a2614" stroke-width="1.4"/>
+      <circle cx="-93.5" cy="-54"  r="5" fill="#e0c890" stroke="#3a2614" stroke-width="1.4"/>
+    </g>
+
+    <!-- vesica piscis: closed (inverse orientation - lens vertical, narrow,
+         the binding's "shut door") -->
+    <ellipse cx="0" cy="0" rx="9" ry="22" stroke="#d4b87a" stroke-width="1.6" fill="none"/>
+
+    <!-- center anchor -->
+    <ellipse cx="0" cy="0" rx="3.2" ry="6" fill="#5a3e22"/>
+
+    <!-- six radial spokes from anchor to outer ring (three to triangle
+         vertices, three between - the closing's bracing) -->
+    <g stroke="#a08a5a" stroke-width="0.9" fill="none" opacity="0.6">
+      <line x1="0" y1="-22" x2="0" y2="-145"/>
+      <line x1="9" y1="0"   x2="145" y2="0"/>
+      <line x1="0" y1="22"  x2="0" y2="145"/>
+      <line x1="-9" y1="0"  x2="-145" y2="0"/>
+      <line x1="6.4" y1="-15.5" x2="125.6" y2="-72.5"/>
+      <line x1="-6.4" y1="15.5" x2="-125.6" y2="72.5"/>
+    </g>
+  </g>
+
+  <!-- ==================== Rosa's six-word prayer (around the rim) ==================== -->
+  <!-- scratched in tiny letters with the same iron, following the rim of
+       the cleared spot. Two arcs, top and bottom of the symbol. -->
+  <defs>
+    <path id="prayer-top"
+          d="M 230 320 A 165 165 0 0 1 560 320"
+          fill="none"/>
+    <path id="prayer-bot"
+          d="M 230 320 A 165 165 0 0 0 560 320"
+          fill="none"/>
+  </defs>
+  <text font-size="11" fill="#e0c890" letter-spacing="2.5" font-style="italic">
+    <textPath href="#prayer-top" startOffset="50%" text-anchor="middle">
+      por las que vinieron antes
+    </textPath>
+  </text>
+  <text font-size="11" fill="#e0c890" letter-spacing="2.5" font-style="italic">
+    <textPath href="#prayer-bot" startOffset="50%" text-anchor="middle">
+      y por las que vendr&#225;n despu&#233;s
+    </textPath>
+  </text>
+
+  <!-- ==================== Rosa's grinding stone (slid aside, right) ==================== -->
+  <g transform="translate(720 290)">
+    <!-- shadow under the stone -->
+    <ellipse cx="6" cy="65" rx="115" ry="32" fill="#000" opacity="0.55"/>
+    <!-- the stone: oblong basalt, slightly concave grinding face -->
+    <ellipse cx="0" cy="0" rx="115" ry="80" fill="url(#basalt)" stroke="#0a0604" stroke-width="1.5"/>
+    <!-- pumice-grain pitting -->
+    <ellipse cx="0" cy="0" rx="115" ry="80" fill="#000" opacity="0.4" filter="url(#pumice)"/>
+    <!-- worn central depression on the working face (lighter ring) -->
+    <ellipse cx="-4" cy="-2" rx="78" ry="48" fill="none" stroke="#5a4e3a" stroke-width="1" opacity="0.7"/>
+    <ellipse cx="-4" cy="-2" rx="58" ry="32" fill="none" stroke="#5a4e3a" stroke-width="0.7" opacity="0.5"/>
+    <!-- a smear of corn meal on the working surface -->
+    <ellipse cx="-12" cy="-6" rx="34" ry="18" fill="#e8d8a4" opacity="0.18"/>
+    <ellipse cx="-22" cy="-4" rx="14" ry="6"  fill="#e8d8a4" opacity="0.28"/>
+    <!-- the mano (the upper hand-stone) lying on top, off-axis -->
+    <ellipse cx="20" cy="6" rx="42" ry="14" fill="#1a1208" stroke="#3a2818" stroke-width="0.8"/>
+    <ellipse cx="20" cy="6" rx="42" ry="14" fill="#000" opacity="0.4" filter="url(#pumice)"/>
+  </g>
+
+  <!-- annotation pointer to the stone -->
+  <g stroke="#7a6645" stroke-width="0.7" fill="none" opacity="0.7">
+    <path d="M 745 360 L 760 410 L 800 410"/>
+  </g>
+  <text x="805" y="414" font-size="10" fill="#a08a5a" font-style="italic" letter-spacing="0.6">
+    la piedra de moler
+  </text>
+  <text x="805" y="428" font-size="9" fill="#7a6645" letter-spacing="0.4">
+    basalto. catorce meses sobre el cierre.
+  </text>
+
+  <!-- annotation pointer to the cleared spot -->
+  <g stroke="#7a6645" stroke-width="0.7" fill="none" opacity="0.7">
+    <path d="M 280 220 L 220 170 L 90 170"/>
+  </g>
+  <text x="86" y="166" font-size="10" fill="#a08a5a" font-style="italic" letter-spacing="0.6" text-anchor="start">
+    el cierre completo
+  </text>
+  <text x="86" y="180" font-size="9" fill="#7a6645" letter-spacing="0.4">
+    rascado de memoria, en la tierra
+  </text>
+
+  <!-- annotation pointer to the dust trail -->
+  <g stroke="#7a6645" stroke-width="0.7" fill="none" opacity="0.6">
+    <path d="M 605 360 L 615 470 L 660 470"/>
+  </g>
+  <text x="666" y="473" font-size="9" fill="#7a6645" font-style="italic" letter-spacing="0.4">
+    huellas del desplazamiento
+  </text>
+
+  <!-- ==================== captions ==================== -->
+  <text x="450" y="36" text-anchor="middle" fill="#c0a070" font-size="14" letter-spacing="3">
+    BAJO LA PIEDRA DE MOLER
+  </text>
+  <text x="450" y="54" text-anchor="middle" fill="#7a6645" font-size="10" font-style="italic">
+    the only complete record kept in one place &#8212; Rosa's hidden knowledge
+  </text>
+  <text x="450" y="600" text-anchor="middle" fill="#7a6645" font-size="9" font-style="italic" opacity="0.85">
+    she grinds corn on it every morning. the friction sharpens the lines.
+  </text>
+
+  <!-- compass (lower-left) -->
+  <g transform="translate(50 555)" fill="#7a6645" opacity="0.85">
+    <line x1="0" y1="-22" x2="0" y2="22" stroke="#7a6645" stroke-width="1"/>
+    <line x1="-22" y1="0" x2="22" y2="0" stroke="#7a6645" stroke-width="1"/>
+    <text x="0" y="-26" text-anchor="middle" font-size="10">N</text>
+    <text x="0" y="34"  text-anchor="middle" font-size="10">S</text>
+    <text x="-30" y="3" text-anchor="middle" font-size="10">W</text>
+    <text x="30"  y="3" text-anchor="middle" font-size="10">E</text>
+  </g>
+
+</svg>
