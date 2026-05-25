@@ -188,23 +188,37 @@ She does not follow. She *precedes*. She is never behind the party — she is al
 
 ### The deal
 
-When a PC is effectively dying — at the point where the dice have spoken and medicine isn't coming and everyone at the table knows — the goat makes her move.
+*Full scene, mechanic, and spell list: see `assets/mandinga-sequence.md`.*
 
-She does not rush. She approaches the dying PC and gets very close: close enough that they should feel her breath, except she has none. She lowers her head until her eyes are level with theirs. The horizontal pupils are still. Not searching — already arrived.
+When one or more PCs are near death after C3, the Mandinga sequence triggers. The goat's eyes and the dying PC's fever blur together, and Mandinga is already there.
 
-The dying PC does not hear anything. The understanding comes whole, the way things come in fever or at the edge of sleep: not delivered, just *there*. An offer. Bounded, specific, not negotiable on its terms but real.
+**The offer is universal — every PC present chooses independently:**
 
-**The terms**: *You live. You close the pit with your hands. That is all.*
+- **Salud (the chalice):** Drink. Wound closes. Debt incurred: must be present at the pit closing and must not obstruct it. One PC, one debt.
+- **Poder (the gesture):** Refuse the chalice. Receive spell knowledge instead, from the five available. No closing-debt — only the spell's own costs.
+- **Refuse everything:** No healing, no spell. Mandinga sets the chalice down. *"Como quiera."* The goat does not approach that PC again before the pit.
 
-Not their soul — Mandinga said it himself, a soul is no use without pampas to spend it in. Not their loyalty, not their freedom. Just a placement: they must be present at the ritual closing and they must not obstruct it. What happens to them after is their own business. The deal is not a trap. It is a contract that happens to align with what the campaign needs. That is the disturbing part. Mandinga isn't offering salvation. He's hiring.
+No PC takes both. One or the other.
 
-**The cost visible afterward**: The PC who accepts wakes with the wound closed — not healed cleanly, but *closed*, as if it was never the kind of wound that kills. Something about them is different in a way that is hard to name at first. Animals that would shy from a stranger don't shy from them anymore. The goat, from that point on, is never far from that PC specifically — not the injured one, but the one who dealt. She already knew who she was waiting for.
+**The terms of the debt (for PCs who drink)**: *You live. You close the pit with your hands. That is all.* Not their soul. Not their loyalty. Just a placement — present at the ritual closing, not obstructing it. The deal is not a trap. It is a contract that happens to align with what the campaign needs. That is the disturbing part. Mandinga isn't offering salvation. He's hiring.
 
-**What they carry**: They don't hear Mandinga's voice. They don't dream of him. But at certain moments — in the Salamanca especially, when the geometry is Mandinga's and the air smells of sulfur and old debts — they will feel the contract sitting in their chest the way a splinter sits under skin. Not painful. Present. A reminder that they owe a role in an ending and that something is keeping count.
+**The cost visible afterward (chalice)**: The PC wakes with the wound closed — not healed cleanly, but *closed*, as if it was never the kind of wound that kills. The debt sits in their chest the way a splinter sits under skin. Not painful. Present. Animals that would shy from a stranger don't shy from them anymore. The goat is never far from that PC specifically.
 
-**If they refuse**: The goat waits a moment, then steps back, and stands at the usual distance. The dying PC dies by whatever rule was already in motion. The goat does not mourn, does not react. She is already looking toward wherever the party is going next.
+**The cost visible afterward (spell)**: They know something they didn't know. Complete, immediate knowledge — not theoretical, not partial. No visible physical change. At La Salamanca (C5–C6), the geometry will feel familiar in a way they cannot explain.
 
-**If multiple PCs are dying simultaneously**: The deal is offered only once, to only one — whichever one the goat approached first. Mandinga doesn't run a clearinghouse. He needed one instrument. If he already has one, the others are on their own.
+**If two PCs drink:** Two debts. Both must be at the closing. Mandinga has two instruments now and has not revised his expectations downward.
+
+**Available spells (Poder option) — spells 2, 3, 4, 5, 6 from the sequence:**
+
+| ES name | EN name (rulebook) | Effect summary | Cost | Source |
+|---|---|---|---|---|
+| Mengua | [Shrivelling](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Opposed POW; target loses 1 HP per MP invested | Variable MP + SAN = MP÷2 | KR Spells |
+| Marca del Dueño | [Warding](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | 1m circle; entities need POW contest to cross | 5 POW perm. + SAN 1/1D6 | KR Spells |
+| Espanto | [Implant Fear](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Target loses 0/1D6 SAN and retreats to safety | 12 MP + SAN 1D6 | KR Spells |
+| Voz del Patrón | [Dominate](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Opposed POW; target obeys for 1 combat round; recastable | 1 MP + 1 SAN per cast | KR Spells |
+| Cuero | [Flesh Ward](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Each MP = 1D6 armor vs physical; lasts 24h or until depleted | Variable MP + SAN 1D4 | KR Spells |
+
+*One spell per PC who chooses poder. First choice locks that spell — no two PCs take the same one. Full mechanics in `assets/mandinga-sequence.md`.*
 
 ### Enforcement — if the PC breaks the deal
 
@@ -424,21 +438,35 @@ Her condition: the R1 attempt loosened the stake — even if she failed the roll
 
 ---
 
-**ROUND 3 — SAN 0/1D4 first, then STR Easy (~75%)**
+**ROUND 3 — SAN 0/1D4 first, then STR Easy (~65%)**
 
-*Trigger*: The Hound flows toward center, moving through the eastern space. As it passes through the gap — through Cata's position — the geometric distortion warps the clay immediately around the stakes. They shift outward, loosening, as if the ground itself is briefly unsure of their angles.
+*Trigger*: The Hound penetrates the outer ring — it enters through the SE diagonal (unoccupied since R1) and is now inside the working, between the southeast marker and Nahuel. At ~10m from Cata's position, not focused on her but present in the close-quarters wrong way.
 
-The Hound's proximity is also the SAN hit. She must hold herself together before she can act.
+The Hound's proximity is the SAN hit. She must hold herself together before she can act.
 
-**SAN check first: 0/1D4.** On fail: she freezes. Not catatonic — she is looking at the thing in the gap with every muscle locked. She cannot move this round. The stakes, now loose, might as well be chains.
+**SAN check first: 0/1D4.** On fail: she freezes. Every muscle locked. She is looking at the thing inside the circle with nothing available. The stakes could fall out of the ground and she would not move.
 
-**On SAN success: STR Easy.** The stake is already shifting. She pulls. Both hands. Everything she has.
+**On SAN success: STR Easy (~65%).** The Hound's passage through the SE angle has radiated ground distortion outward — the clay at her stakes is briefly uncertain about its own angles. On success: she is free. She does not run immediately — she has one hand braced on the ground, getting her footing. She will run in R4 regardless of what happens next.
 
-*On success*: She is free. She is at the bank and climbing before anyone can react. At R3, with the Hound at center, there is no one to stop her. She reaches the top of the bank. **She is gone.**
+*On failure*: Still bound. But the clay has been disturbed. The R4 no-roll escape is still coming.
 
-*On failure (even Easy)*: The stake goes back in. The clay re-settles around it. The distortion passes. Whatever was helping her is gone. She is still bound when the Hound reaches center.
+**If she escapes at R3 with no PC in position**: The eastern gap opens a round early. Worse position entering R4. The Hound, now inside the ring, has one less constraint on its path to center.
 
-**If she escapes at R3 with no PC in position**: The eastern gap opens at peak pressure. Kuyen cannot leave the symbol. The working collapses. See *failure outcome* below.
+---
+
+**ROUND 4 — No roll. She gets free.**
+
+*Trigger*: The distortion accumulated across three rounds — the Hound's R3 penetration of the outer ring, the radiated ground uncertainty, the clay's repeated exposure to geometric wrongness — has made the stakes unable to hold. They tilt outward. The ropes go slack.
+
+She does not try. She stands up.
+
+She runs east — toward the eastern bank, away from the fires, toward the Hound's entry point at the base of that bank without knowing that's where she is headed.
+
+**When she crosses the ochre arc at a run, her body is the angle.** See *If she escapes — the angle* below. This happens in R4 regardless of what the investigators do. It is not a choice Cata makes about which direction to run. East is the only direction that is not inside the diagram.
+
+**There is no counter to this.** Kuyen cannot stop her — Kuyen is completing the symbol. The surviving tribe members cannot stop her — they are holding the remaining arcs or they are gone. The investigators can interpose, but interposing means standing in the path of someone running from a thing that is inside the circle with her, which is a specific kind of action with its own moral texture.
+
+The eastern arc breaks when she crosses it. The mist appears at her footprints. R4's anchor decision becomes immediate.
 
 ---
 
@@ -513,7 +541,32 @@ That is what the position costs at R3. Not just distortion. The PC takes the anc
 |---|---|---|---|---|
 | R1 | STR Hard | ~25% | Sends W tribe member to restrain her | Stake loosens regardless |
 | R2 | STR Regular | ~45% | Kuyen occupied at N breach — no counter | Both stakes nearly out |
-| R3 | SAN 0/1D4, then STR Easy | ~75% (if SAN holds) | No one available | Hound distortion loosens stakes; escape = gap open at peak |
+| R3 | SAN 0/1D4, then STR Easy | ~65% (if SAN holds) | No counter — Hound inside ring | Clay distorted; she may be free by end of R3 |
+| R4 | No roll | Automatic | No counter | Stakes fully loose; she stands up and runs |
+
+---
+
+### The goat in the ritual — R3 intervention
+
+If a PC made the deal with the goat at San Ruiz, she acts in R3 — the moment the Hound first penetrates the outer ring. This is the timing of her own choosing. She has been watching the geometry since they arrived.
+
+**She crosses the ochre lines without ceremony.** The diagram does not react to her passage — she is something else, something that exists in the threshold between registers, and the working's geometry does not read her as a threat. Kuyen's eyes go wide for one beat but she does not stop working.
+
+**Fighting (Gore) 85% to connect, then contested POW: goat 115 vs Hound avg 120.**
+
+| Result | Immediate effect | What comes after |
+|---|---|---|
+| **Connect + POW win** | Hound staggers, involuntary angle reversal, retreats outside the outer ring through the SE diagonal. One round bought. SE snaps back. | Goat returns to camp edge — already there before anyone calls. R4 has the Hound approaching from outside again rather than from inside. |
+| **Connect + POW fail** | She hits it. She can reach it. She cannot move it. Takes the distortion load directly — goes inert at the edge of the inner ring. | Inert 1D6 hours. Not dead. Not injured. Stopped. She will rise ahead of the party. R4 has no goat. The deal-PC feels the contract shift. |
+| **Miss (Fighting roll fails)** | She connects physically but finds no purchase — the angle of contact was wrong. She pulls back. | She reassesses. She will not try again this ritual. |
+| **No deal made** | She does not move. She has been facing the Hound's exact position since R1. She watches. She is not uninvested. The deal was the permission. | — |
+
+**If the goat is still active when R4's anchor decision happens:**
+She cannot hold the eastern line as a human anchor does. She is not the right shape for the geometry. But if a PC takes damage going down mid-step toward the line, she absorbs part of the distortion load: reduces their CON check from Hard to Regular. She cannot substitute for the anchor. She can improve the odds for a damaged investigator.
+
+**The deal-PC's experience of this:** They do not command her and cannot. They watch her make a decision that was always hers to make, using the permission structure they created when they accepted the offer. If she fails and goes inert, the contract does not dissolve — it is unchanged. She did what the terms allowed. What happens next is still on them.
+
+---
 
 ### The working — modified for this table's damage state
 
@@ -521,7 +574,7 @@ The canonical C3 assumes the investigators might have the complete binding symbo
 
 **Nahuel** looks like a man who has been holding a door shut for three weeks without sleep. He looks at the investigators with the particular attention of someone who has learned to read strangers fast, and says nothing.
 
-**Three-round structure — what's different**:
+**Four-round structure — what's different**:
 
 - No complete symbol → eastern gap cannot be ritually closed
 - The only fix for the east: a human anchor. One PC plants themselves on the eastern line, holds it physically, takes CON check and SAN 0/1D6
@@ -534,13 +587,13 @@ The canonical C3 assumes the investigators might have the complete binding symbo
 
 SAN 1/1D6 — first full manifestation.
 
-**Round 2 — Pressure**: The Hound moves through the eastern gap toward the center. Kuyen is working. She shouts:
+**Round 2 — Testing**: The Hound probes the perimeter. North arc and south arc threatened simultaneously — two markers shift. Kuyen cannot cover both. Eastern window deepens.
+
+**Round 3 — Penetration**: The Hound enters through the SE diagonal (unmanned since R1). It is now inside the outer ring. SAN 0/1D6. **Goat intervention window if deal was made** — see THE GOAT WINDOW above.
+
+**Round 4 — The Anchor**: Cata gets free automatically — stakes fully distorted. She runs east, crosses the ochre arc, her sprint creates the angle. Mist at her footprints. Kuyen shouts:
 
 > *"¡El este! ¡Que alguien sostenga el este!"*
-
-This is the decision point.
-
-**Round 3 — The Anchor**:
 
 If a PC plants themselves on the eastern line — no roll, pure decision:
 - Entity's distortion field washes over them

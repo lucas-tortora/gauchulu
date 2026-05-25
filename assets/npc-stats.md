@@ -2,6 +2,8 @@
 *CoC 7e. Argentine pampas, 1821. Print and keep beside the dice.*
 *Organised by arc. Entities at the end.*
 
+**PC spells from the Mandinga sequence** (post-C3, if triggered): see `assets/mandinga-sequence.md` for full mechanics. Spells available: Mengua (Shrivelling), Marca del Dueño (Warding), Espanto (Implant Fear), Voz del Patrón (Dominate), Cuero (Flesh Ward). Add to the relevant PC's sheet after the sequence runs.
+
 ---
 
 ## WEAPON NOTES — 1821 ARGENTINA

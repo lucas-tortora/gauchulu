@@ -410,7 +410,7 @@ The goat approaches. She gets very close — close enough that the PC should fee
 
 The understanding arrives whole. Not a voice. Not words. A fact, the way a fact arrives when you are very cold or very tired: clear, simple, not negotiable in its terms.
 
-> *You live. You close the pit with your hands. That is all.*
+"> *You live. You close the pit with your hands. That is all.*"
 
 Not the soul. Not loyalty. Not service. A placement at an ending — they must be present when the ritual closes, and they must not obstruct it. What happens to them after is their own business.
 
