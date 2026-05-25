@@ -134,7 +134,7 @@ Investigators who have seen the entity cataloging behavior will understand what 
 
 ## SPELLS
 
-The Hound knows at least 1D8 spells. One is confirmed:
+The Hound knows at least 1D8 spells. Three are confirmed:
 
 ### Create Mist of R'lyeh
 **Cost**: 2 magic points  
@@ -142,9 +142,45 @@ The Hound knows at least 1D8 spells. One is confirmed:
 
 Creates a dense mist in an egg-shaped volume (10 × 10 × 15 feet). The long axis is always at right angles to the direction the caster faces. Obscures vision for 1D6+4 rounds, then evaporates without trace.
 
-**At the ritual**: Used as entry mechanism — the mist appears at the eastern gap the moment before the Hound fully manifests. It is not cast as a tactical obscurement; it is part of the geometry of arrival. The mist fills the gap-space, providing the interior angles the Hound needs for full materialization in the flat pampas.
+**At the ritual**: Used as entry mechanism — the mist appears at the eastern gap the moment before the Hound fully manifests. It fills the gap-space, providing the interior angles the Hound needs for full materialization in the flat pampas. Not cast as a tactical obscurement — it is part of the geometry of arrival.
 
-**Tactical use in later chapters (C7–C9)**: At the pit, the Hound has architectural geometry available — the pit walls, the carved arcs, the chalk markers in the outer ring. It may use the mist offensively there, obscuring Kuyen's symbol-work or covering a specific investigator.
+**Tactical use in later chapters (C7–C9)**: At the pit, architectural geometry is available — the pit walls, the carved arcs, the chalk markers in the outer ring. The Hound may use the mist offensively there, obscuring Kuyen's symbol-work or isolating a specific investigator from the rest of the party.
+
+---
+
+### Mindblast
+**Cost**: 1D10 magic points  
+**Casting time**: Instantaneous  
+**Resistance**: POW roll to resist
+
+The target must succeed at a POW roll or be stunned and unable to act for 1D10 rounds. Whether they resist or not: 1D10 SAN loss.
+
+**What it feels like**: Not pain. Not noise. The target's spatial cognition is briefly overwritten with the Hound's. For the duration they perceive the world as the entity does — no faces, no up or down, no surfaces, only the angles where things meet. The creek bed becomes a lattice of intersections. The people around them become geometric relationships. The fires are light-cones defined by their shadow-terminator edges. It is not distressing in the way horror is distressing. It is distressing in the way that looking directly at the sun is distressing — too much information, arriving too fast, for a mind built for something else.
+
+The stunned investigator is not incapacitated by fear. They simply cannot locate themselves in the space they are standing in. They cannot act because they cannot find their hands in the geometry.
+
+**When the Hound uses it**: Not as an attack. As a response to something that has been persistently interrupting its cataloging — fire thrown repeatedly, the goat, an investigator who keeps covering the same breach. It turns its attention to the disruption and addresses it. The Mindblast is not aggression. It is the equivalent of brushing something off a table.
+
+**At the ritual (C3)**: If deployed, the stunned investigator's round is lost. The Keeper should time this for maximum pressure — the round Nahuel needs anchoring, or the round Kuyen needs the north breach covered, or the round the eastern anchor is still open.
+
+---
+
+### Dread Curse of Azathoth
+**Cost**: 1 magic point + 1D6 POW permanently from the caster; target loses 1D6 POW permanently  
+**Casting time**: 1 round  
+**Resistance**: POW roll (Hard) to reduce to 1 point of POW loss rather than full roll
+
+The target permanently loses 1D6 POW. The caster also permanently loses 1D6 POW — the cost is mutual, invoking Azathoth as the instrument requires feeding the pipe-player something.
+
+For the Hound, the self-cost is trivial. POW 120; it spends 1D6 POW the way a river spends a handful of water.
+
+**What it feels like**: Nothing, immediately. The target finishes the round and feels ordinary. By the next morning they notice they are slightly less certain about things that should be certain. Prayers that anchored them no longer anchor. A ritual mark they memorized has softened at the edges. The investigator with the highest Cthulhu Mythos at the table may understand what happened if they make a roll — they have been reduced. Not damaged. Reduced. Pieces of their essential self have been drawn outward, toward whatever the pipe-player summons them to. They are still here. There is simply less of them than there was.
+
+**Long-term**: Each point of POW lost this way reduces their maximum SAN by 5 and their resistance to future POW contests by the same margin. The Hound does not follow up. It has no investment in the result. It simply invoked the mechanism and moved on.
+
+**When the Hound uses it**: Rarely, and not in direct combat. The Dread Curse requires a full round of casting — the Hound must be stationary and attending to a single target. It will only do this if something has become a persistent geometric obstacle: a Marked PC who keeps reading its approach vectors, or an investigator who has successfully disrupted it multiple times. It is not punishment. It is removal of an inefficiency.
+
+**Keeper note**: This spell should not be used lightly. POW loss is permanent. Deploy it once, against the investigator who has been most effective at countering the entity, and let the table feel the weight of what was lost. It should never feel like a random attack — it should feel like being specifically noticed by something that does not generally notice individuals.
 
 ---
 

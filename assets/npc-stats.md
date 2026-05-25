@@ -87,6 +87,48 @@
 
 **Ritual capability**: She can deploy and maintain the binding working, redraw disrupted lines under pressure, and read the entity's geometric approach. Her Occult skill functions at +1 difficulty in conditions she has not encountered before; at normal difficulty within her own tradition.
 
+**Spells**
+
+### Elder Sign
+**Cost**: 3 MP  
+**Casting time**: 1 round (she draws it in ochre or ash)
+
+Kuyen draws the Sign on a surface — ground, stone, a wooden post, a person's palm. Mythos entities must make a POW roll to cross it or come within 1 meter of it. Failure: they cannot approach that round and must reroute. Success: they cross, but with visible effort — the geometry distorts around the Sign as they pass through it.
+
+**At the ritual**: She uses this at breach points — the north marker that shifted in R2, the anchor position before the PC plants there, the ground around Nahuel when he collapses. Drawing takes her full action for that round. She cannot redraw symbol lines and cast Elder Sign in the same round.
+
+**Limit**: The Sign holds as long as the ochre is intact. The Hound eats the certainty of pigment lines — an Elder Sign drawn in ochre near the entity's position will fade within 1D3 rounds as the Hound's presence degrades it. Stone-carved or burned marks last longer but she does not have those tools tonight.
+
+---
+
+### Voorish Sign
+**Cost**: 1 MP  
+**Casting time**: Instantaneous
+
+Forces partially visible or concealed entities into full visibility for 1D6 rounds. During this window, the entity's exact position in the space is readable — not its intent, not its next move, but where it is and where its edges are.
+
+**At the ritual**: Kuyen uses this to read the Hound's movement vectors. When she casts it, she turns and looks at the eastern darkness for one beat before returning to her symbol work — a small, sharp movement that investigators may notice. She uses what she sees to decide where to redraw lines.
+
+**For a Marked PC**: If Kuyen casts Voorish Sign and a Marked PC is watching the same space, the Marked PC receives what she receives — the entity's geometry becomes fully readable for that window. They do not need to make a Spot Hidden roll. They know exactly where it is and which angle it is about to use. One round of warning, certain rather than probable.
+
+**For uninstructed investigators**: They see Kuyen look sharply at something that doesn't appear to be there, then immediately redirect her symbol work. They can follow her gaze and attempt Spot Hidden (Regular) to catch the edge of what she saw.
+
+---
+
+### Bless Blade
+**Cost**: 1D6 MP  
+**Casting time**: 1 round
+
+One weapon — knife, brand, whatever is at hand — becomes capable of harming entities otherwise immune to physical damage. The blessing lasts for one successful strike, then is spent.
+
+**At the ritual**: Kuyen will not cast this on herself — her hands are needed for the diagram. She will cast it on an investigator's weapon if they hand it to her and she has a round to spare. She does not explain what she is doing. She takes the weapon, draws a mark along the blade in ochre from her belt pouch, and hands it back. The mark glows faintly for approximately one round, then fades to ordinary pigment whether the strike lands or not.
+
+**What it means at this table**: The Hound cannot be killed. But a Blessed weapon that connects will force a disruption — the entity must make a CON roll or be pushed back 1D6 meters and lose its next action reestablishing position. The same effect as the goat's headbutt, but available to a PC. Once per casting, once per combat at most — Kuyen does not have the MP to chain this.
+
+**Limitation**: Kuyen must spend a full action to cast it. She cannot bless a blade and redraw a line in the same round. This is a decision that costs the ritual something. She will only make it if she judges the threat severe enough to warrant the trade.
+
+---
+
 **Notes**: She will fight if Nahuel is directly threatened — not tactically, instinctively, throwing herself between. Otherwise she does not stop the symbol work under any circumstance. Hitting her is like breaking the only instrument you have.
 
 ---
@@ -378,19 +420,61 @@
 ---
 
 ### LA CABRA (THE GOAT)
-*Mandinga's marker. No CoC stats apply in the conventional sense.*
+*Mandinga's marker. Threshold being. Looks like a brown-and-white goat.*
 
-She cannot be harmed by conventional means. Blades find no purchase. Fire does not catch. She does not have HP to track.
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move | MP |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 80 | 90 | 40 | 95 | 80 | 115 | 13 | +0 | 0 | 10 | 23 |
 
-**Her mechanical presence**:
+**SAN loss**: 0/1D6 — not for her appearance, which is ordinary. For the moment an investigator realizes what they are looking at.
 
-| Action | Effect |
+**Skills**: Fighting (Gore) 85%, Spot Hidden 95%, Listen 95%, Stealth 100%, Track (geometric) 100%
+
+**Stealth and Track notes**: These never fail. She makes no sound — no hooves, no breathing, no impact. Her tracking is not by scent or sight; she reads geometry and is already where it requires her to be. The Move stat governs her when she is visibly running in a scene. The *preceding* quality is not Move — it is something else, and there is no roll for it.
+
+---
+
+**Attacks**
+
+| Attack | Skill | Damage / Effect |
+|---|---|---|
+| **Gore — physical targets** | Fighting 85% | 1D6+DB |
+| **Disrupt — supernatural entities** | Fighting 85% to connect; then contested POW | See below |
+
+**Disrupt (supernatural entities only)**:
+
+The goat must first connect — Fighting (Gore) 85%. A miss is a miss: she ran at something that moved or the angle changed.
+
+On a hit, the targeted entity makes a contested POW roll: both sides roll POW×5, compare success levels. Goat POW is 115 (target: 99% capped). Many entities also roll near cap — the contest is genuine, not automatic.
+
+| Result | Effect |
 |---|---|
-| **Headbutt supernatural entity** | Reduces Coherence/disrupts form (see entity entries). Acts on her own judgment — not player-directed. |
-| **Presence near the dying** | Triggers deal offer when PC is at 2 HP or below — see TABLE-STATE.md |
-| **Presence near Hound geometry** | She faces the approach vector before anyone else perceives it. One round of warning to a player who is watching her. |
+| Goat wins | Coherence −1D3; entity pushed back 1D6 meters; form disrupts visibly |
+| Tie | Physical contact confirmed. No disruption. She bounces off something that barely noticed. |
+| Entity wins | She impacts but the entity's geometry absorbs it. No effect. She lands, shakes her head, looks at it. |
 
-She has no attack the Keeper rolls for. She acts, and the effects are noted. She does not fail rolls. She is not uncertain. She either does something or she does not, on her own timing.
+**Note on the Hound specifically**: Average Hound POW is 120 — higher than the goat's 115. In a contested roll at these levels, the Hound wins roughly half the time. She is powerful but she is not the answer to the Hound. She is a delay and a disruption, not a solution.
+
+---
+
+**Damage and resilience**
+
+She is not invincible on paper. She has HP 13.
+
+- **Conventional weapons**: Her body closes around wounds. Each round she takes no action, she heals 2 HP. Weapons do normal damage but she fights through it without changing behavior.
+- **Fire**: Bypasses the closing-around quality. Fire damage does not heal. This is the one thing that actually accumulates on her.
+- **The Hound's ichor**: Affects her normally — she can be ichor-damaged and must wipe it off like anyone else. Her CON is high enough that she is unlikely to die from it quickly, but she is not immune.
+- **The Hound's tongue attack (POW drain)**: Contests her POW of 115. On loss, she loses POW as anyone does. Significant POW loss would reduce her Disrupt effectiveness in subsequent contested rolls.
+
+At 0 HP: she goes down. She does not die — Mandinga's investment in her is not so fragile — but she is inert for 1D6 hours, then rises. If investigators leave her behind while she is inert, she will be ahead of them when she wakes.
+
+---
+
+**Her judgment**
+
+She acts when she decides to act. She cannot be directed, commanded, or pointed at a target. She will not Gore on command. She will not Disrupt on request. She times her interventions and her timing is always correct — she does not act too early and she does not act too late. When she moves, it is because the moment has arrived.
+
+This means the Keeper rolls for her, not in response to player instructions. Players can position themselves near her, watch her, notice when she tenses — but they cannot tell her what to do. The deal-holder PC has slightly more weight with her than others, but even they cannot command. She is not a weapon. She is a party with her own interests that happen to align.
 
 ---
 
