@@ -103,6 +103,8 @@ Use this dossier when an NPC enters a scene and you need their voice. Use the pe
 **Location**: Estancia La Esperanza → Town of Azul (sent away C2)
 **Role**: The servant girl Don Eusebio protected. Evidence that he is not wholly lost.
 
+> **[THIS TABLE — 2026-05-24] DEAD.** Concepción did not survive C1. Don Eusebio's C7 confession shifts: he sent her away injured, she died anyway. He volunteered her. He knows it. He stands in the outer ring in C8 without being asked — settlement, not redemption. The quiet victory callback in C9 is gone. See `TABLE-STATE.md`.
+
 **Quick Description**: 13 years old, quiet, large eyes. Brings water without being asked. Leaves without meeting anyone's gaze.
 
 **Core Motivation**: Obedience; survival. She doesn't fully understand what she experienced.
@@ -722,6 +724,58 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Full notes**: Chapter 2, Scene 3
 
 **Quick reference**: Not hostile. Not monstrous. The echo of Dolores Quiroga. Moves between her scratched symbols in sequence, checking them, weeping. Becomes briefly conscious at certain symbols. Leads to the child's bones and the complete binding symbol in the clay floor. SAN 0/1D4 sustained; 1/1D6 if physically provoked.
+
+> **[THIS TABLE — 2026-05-24] DISPLACED / ENRAGED. MOVING EAST.** The chapel walls were entirely destroyed. Her symbols are rubble. Her circuit is gone. She is no longer an echo on repeat — she is a grief with nowhere to put itself. Eyes open. Moving east toward the burial pit. She knows who broke the walls.
+>
+> **San Ruiz departure scene** (see chapter-02, THIS TABLE closer): She exited the ruined chapel as the investigators were leaving — eyes open, moving freely. She passed through Rosa gently (smiling — recognition, gratitude, grief). She turned on the investigators in rage and passed through the first one she reached: SAN 1/1D6 flash of Dolores's last moment — fire, the chapel burning, *the child is in the corner*, eastern wall incomplete. The goat headbutted her mid-turn and sent her lurching east. She is now between San Ruiz and the burial pit, moving.
+>
+> When encountered going forward: no closed-eyed woman checking her work. The weeping is no longer private. A Marked PC near her path perceives a geometry unraveling outward. SAN 1/1D6. See `TABLE-STATE.md`.
+
+---
+
+### LA CABRA (The Goat)
+**Type**: Anomalous animal / Pombero marker
+**Appears in**: Chapter 2 (the well); canonically present throughout (still in the well on later returns); see table-specific state below
+**Full notes**: Chapter 2, Setting description; `TABLE-STATE.md` (The Goat Thread)
+
+**Quick reference (canonical)**: A brown-and-white goat living on a ledge inside San Ruiz's communal well. Does not eat, does not fear, does not return to the surface if lifted out — walks back and jumps in. Not a clue. A campaign-spanning witness. Still in the well whenever players return. Horses do not shy from her.
+
+> **[THIS TABLE — 2026-05-24] EXTRACTED. NO LONGER IN THE WELL.** She is a Mandinga marker (see Mandinga entry; see `TABLE-STATE.md` — The Goat Thread). She was in the well since the gate first opened — hidden from the entity's geometry in the one ungeometric space in San Ruiz. The investigators removed her. She is exposed now and in play.
+>
+> She does not follow the party — she *precedes* them. She is always already where they are going. No one sees her arrive. She makes no sound. She does not eat, does not bleed if cut, does not react to fire or gunshot. Her pupils do not dilate. She cannot be lost, tied off, or left behind.
+>
+> **She can harm the immaterial.** Mandinga's creature, she exists at the threshold between physical and non-physical. She can strike psychic remnants, displaced entities, and the Hound's edge-geometry — not destroy them, but disrupt their form and create distance. First demonstrated at San Ruiz when she headbutted La Llorona mid-turn and sent her lurching east. She acts on her own judgment; she cannot be directed or commanded. One disruption available to the party at all times, timed entirely by her.
+>
+> **The deal**: When a PC is effectively dying, she approaches, gets very close, and the dying PC receives an understanding — not words — of an offer. *You live. You close the pit with your hands. That is all.* If accepted, the wound closes and the goat attends that PC specifically from then on. The contract sits in them like a splinter: present, not painful, keeping count. If refused, she steps back and the dying proceeds. *(At this table: first deal opportunity at San Ruiz departure, if gravely injured PC is at threshold. See chapter-02, THIS TABLE closer.)*
+>
+> **Enforcement**: The life was a loan. If the PC moves away from the closing, the wound begins to return — gradual, visible, a clock. Mandinga will not let them die of anything *else* before the debt is paid; the body closes around injury against the PC's wishes. If they default entirely and die without closing the pit, the debt survives death. They come back wrong. See `TABLE-STATE.md` — The Deal and Enforcement.
+>
+> **Do not explain until Arc 2.**
+
+---
+
+### MANDINGA
+**Type**: Folk supernatural / displaced territorial power
+**Appears in**: Ambient from C2 (via the goat); implied presence in Arc 2 (La Salamanca is his domain); possible direct manifestation C5-6
+**Full notes**: `TABLE-STATE.md` — The Goat Thread
+
+**What he is**: The gaucho devil — the folk name for the Devil in the Río de la Plata tradition. He runs La Salamanca, the underground school where forbidden arts are taught. He rides at midnight. He takes the form of black animals. He makes deals but can be outwitted. He is the master of the morally compromised: gamblers, midnight riders, the man who sold his shadow at a crossroads. He is not an abstraction — he is a specific local power with territory, history, and grievances.
+
+**The displacement**: The entity pushing through the pit is something Mandinga has no frame for. It does not acknowledge his territory, does not negotiate, does not even register him as a party. For the first time in the history of the pampas, Mandinga is not the most dangerous thing in the land. He is being overrun in his own house. He knows it.
+
+**La Salamanca**: The Great Wizard of Salamanca believes he serves Mandinga's tradition. He does not — El Patrón has been steering him for forty years, operating within Mandinga's domain without permission. Mandinga has been used. He knows by whom. Investigators entering La Salamanca in C5-6 are walking into the territory of an entity with every reason to want the elder god gone and no clean way to act on it.
+
+**How he operates**: He does not fight. He does not appear directly unless the conditions are exactly right. He works through markers, through deals, through the people already in play. He will not offer a clean alliance — he will offer a transaction, bounded and specific. He wants acknowledgment that his territory was violated, and the entity's removal from it. He and the investigators want the same outcome for entirely different reasons.
+
+**The deal mechanism**: When a PC is dying and the goat is present, Mandinga acts through her. The terms are simple: *you live, you close the pit with your hands.* Not the soul — *"el alma no me sirve de nada si no hay pampas donde gastarla."* Just a placement at the closing. The deal is not generous; it is efficient. He needs the pit closed and he needs someone bound to close it. The dying PC is a resource, not a guest. See `TABLE-STATE.md` — The Deal.
+
+**Quick description if he manifests**: A dark figure on the edge of firelight — could be a man in black, could be a black horse standing where a man should be. He is the last thing in the room that moves. His voice arrives slightly before he does. He smells of sulfur the way the land smells of grass: as a fact, not a warning.
+
+**Key lines** *(if he speaks)*:
+> *"Eso que está abajo no es mío. Nunca fue mío. Y tampoco es de ustedes."*
+> *"Mi trato es sencillo. Lo sacan. Me devuelven lo que me deben. No les cobro el alma — el alma no me sirve de nada si no hay pampas donde gastarla."*
+
+> **[THIS TABLE — 2026-05-24]** The goat is his marker, placed in the one ungeometric space in San Ruiz. The investigators removed it. He is now watching them directly. The La Salamanca encounter in Arc 2 is when this thread pays off.
 
 ---
 

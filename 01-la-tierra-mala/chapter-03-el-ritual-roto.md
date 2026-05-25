@@ -5,6 +5,8 @@
 **Emotional Arc**: Guilt → Horror → Desperate Resolve
 **Key Seed**: Consequences are permanent. Knowledge you acted on incorrectly does not become retroactively innocent.
 
+> **[THIS TABLE — 2026-05-24] MODIFIED DAMAGE STATE.** The chapel seal was destroyed in C2. The eastern gap cannot be closed geometrically tonight — the clay symbol is buried under rubble. One investigator has a Major Wound. La Llorona is moving east and will be perceptible on the ride. The goat follows the party. **Read `TABLE-STATE.md` — C3 PREP section before running this chapter.** Kuyen's opening line: *"¿Qué tocaron en San Ruiz?"*
+
 ---
 
 ## OPENING SITUATION
@@ -28,6 +30,8 @@ The tension of this chapter is built into the investigators' prior decisions. If
 > *El canto tiene una sola línea que se repite, en mapudungun: **"Antu kishu inchiñ ñi pewenmu. Antu kishu, lan amukey."** El que sepa mapudungun lo traduce: "El sol [está] solo en nuestro pewen. El sol solo, el morir no pasa." Las siete voces vuelven a esa línea cada doce alientos. Lo que digan entre medio, la línea vuelve.*
 >
 > *Una mujer está parada un poco aparte, al borde del oeste. Es la única que los nota llegar.*
+
+> **[THIS TABLE — 2026-05-24] THE EASTERN POSITION IS OCCUPIED.** When investigators crest the bank, the eastern gap in the diagram is not empty. A young woman — late teens, wrists bound to ground stakes at either side of the gap, kneeling on the ochre line — is the anchor. She is unwilling. She is conscious. She has been there long enough to be past crying. She will look at the investigators when they arrive. Kuyen does not explain this proactively. If asked: *"Necesitaba un ancla del este. Esto es lo que encontré."* — one sentence, no apology. If a PC volunteers to replace her, Kuyen unbinds her immediately. **This is the moral decision point of C3 at this table.** Full scene: `TABLE-STATE.md` — C3 PREP, *The eastern anchor*.
 
 > **Visual handout**: see `assets/tribal-binding.svg`. Print at A3 portrait. The eastern arc is *visibly thin and dashed* — that is where the Hound will enter. The four cardinal fires, the animal-track sympathies (guanaco N, puma S, condor W, *erased* E), and the four spiral motifs at the diagonals are the Tehuelche-Mapuche folk geometry — *the same closing aspect* of the dual diagram (`assets/dual-diagram.svg`), but in the visual vocabulary the entity does not yet recognize. **A Marked PC who later sees both handouts side by side will see the relationship instantly. Tonight, they should just feel the eastern wrongness.** Place the handout on the table when investigators reach the creek bed; let them locate the gap themselves.
 

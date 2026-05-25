@@ -35,6 +35,8 @@ This chapter begins with the investigators following that trail — the patrón'
 >
 > *Una cabra vive en el brocal del aljibe comunal. Los mira con pupilas horizontales y mastica.*
 
+> **[THIS TABLE — 2026-05-24] ALTERNATE OUTCOME — GOAT EXTRACTED.** The players successfully extracted the goat from the well (two injuries). She did not walk back in. The well is now empty. Rosa's *"la cabra está ahí"* was her reading a fixed point in the geometry — present tense, always, like naming the church on the square. The investigators removed the last constant in her reading of San Ruiz. The goat now follows the party. She watches the gravely injured PC. She is likely a Pombero marker. **When players return to San Ruiz, the well is empty.** Full implications: `TABLE-STATE.md` — The Goat Thread.
+
 **Keeper Notes**:
 - San Ruiz was evacuated approximately 14 months ago. The departure was orderly enough to take people and animals but not belongings. They left mid-meal, mid-task.
   - **Timeline clarification** (Keeper): The evacuation pre-dates Don Eusebio's ritual (8 months ago), and is often the first plot-hole question investigators raise. The answer is that the pit has *always* been there — Padre Saens, working alone after the rest of the Jesuit mission was gone, attempted a closing in 1763 and managed only a *partial* binding. He laid himself on the geometry as the center; the binding consumed his body (see C5). What he bought was time, not closure. The lineage of Antu-Rayo (carried by Kuyen's grandmother and, in this region, by Rosa's elders) maintained that partial seal with regular counter-rites for nearly six decades. As the lineage thinned out — elders dying without successors, families displaced by the *campañas al desierto* — the seal weakened on its own. San Ruiz was built on land that never should have been farmed, and its inhabitants suffered increasing manifestations (sleepwalking, livestock deaths, the Luz Mala) for years before the evacuation. Don Eusebio's ritual did not *open* the pit — it *widened* a wound that had been slowly opening on its own. When Rosa's community left, they knew the danger was rising; they did not know yet that a neighbor was about to pry it open the rest of the way. Rosa can convey this if pressed.
@@ -143,6 +145,8 @@ She stayed also because she is too old to be afraid of what might come back, and
 - **The fire** (Keeper context, see Rosa's account): The chapel was burned the night Dolores died, by two villagers who walked in with kerosene under the same compulsion that pulls people to the south pasture at night. Both died in the collapse. The pattern *uses* people; this is the first time the players see it deploy a person as a weapon. The walls held — the stone-carved opening diagram is intact; only the wooden roof and Dolores's life were lost. **Players who note the soot pattern around the doorway** (Spot Hidden) see two sets of footprints leading *in* and none leading *out*.
 
 **SAN Check**: 0/1 — the chapel itself, the weight of what it represents, the two layers of symbols telling a story of attempted salvation.
+
+> **[THIS TABLE — 2026-05-24] INNER WALLS ENTIRELY BROKEN. SEAL DESTROYED.** The players broke the inner walls. Dolores's counter-symbols are rubble. The clay binding symbol beneath the floor is intact but buried. Rosa's prayer has no surface to anchor. La Llorona is displaced and enraged — eyes open, moving east toward the pit. The Zonda arrived early as a direct consequence. Full cascade: `TABLE-STATE.md`.
 
 ---
 
@@ -285,4 +289,138 @@ Use these in passing, without explanation. They are the chapter's silent argumen
 | Dolores's tool | Physical testimony; "I didn't finish half" — the eastern wall is incomplete |
 | Rosa's knowledge | People went willingly; two came back wrong; Kuyen's people are performing the binding |
 | La Llorona's words | "Find Kuyen. Tell her the eastern wall is incomplete." / "The Valdez man — he didn't know what he was doing." |
+
+---
+
+> **[THIS TABLE — 2026-05-24] THE DEPARTURE FROM SAN RUIZ**
+>
+> *The canonical close (Rosa's silent prayer, the chapel walls holding) does not happen at this table. The walls are rubble. Run the following scene as the investigators prepare to leave. The Zonda is still blowing.*
+
+### The storm breaks
+
+The wind has been wrong since they arrived — hot, dry, northwest-origin, the kind that carries the mineral smell of something large and disturbed. It runs for a good hour after the chapel collapses. Then it stops.
+
+Not dies down. **Stops.** One gust, then nothing. The silence after a Zonda is always sudden, but this is more total than it should be. The dust doesn't even settle naturally — it simply is no longer moving.
+
+---
+
+### Rosa exits
+
+Her door opens.
+
+She is the only person in San Ruiz who is not wet. Not damp — *dry*. The Zonda carried a scant rain before it arrived; everything and everyone in the village is coated in grit and damp. Rosa's threshold is dry. Water ended at the door as if stopped by glass.
+
+She looks at the sky first. Then at the investigators. Then toward the chapel.
+
+Her face is not frightened. It is the face of someone who has been waiting for something they hoped would not arrive, and it has arrived.
+
+> *"¿Qué tocaron?"*
+
+She says this before she has fully cleared her doorframe. Low, flat, not an accusation yet — a diagnostic question, the same register she used when naming the doorframe binding. She is reading the absence of something that was always going to be there.
+
+No one needs to answer. She can see the chapel.
+
+She starts moving. Not running — but fast, the deliberate speed of someone who has stopped caring whether they look frightened. Halfway to the chapel she breaks into a run. Her voice rises as she crosses the rubble line:
+
+> *"¡Qué han hecho! ¡Asnos! ¡No saben lo que han hecho!"*
+
+She reaches the broken wall and drops to her knees at the threshold. Not a collapse — she kneels deliberately, the way she does at her grinding stone or her doorframe. Her hands find the rubble on either side of where the door used to be. She is weeping, and it is the weeping of someone who has been holding something up alone for fourteen months and just felt it fail.
+
+She does not explain. She does not look at the investigators. She is grieving, and she is reading the damage, and she cannot do both and speak at the same time.
+
+**Let this breathe. Do not fill the silence.**
+
+---
+
+### La Llorona exits
+
+Out of the ruined chapel wall — not through the doorway, through the wall itself, through the rubble, through the gap where the stones used to be — she emerges.
+
+Not the Dolores they met inside: closed eyes, circuit-walker, echo on repeat. **Her eyes are open.**
+
+She moves slowly. No circuit — she is not checking her marks. There are no marks left to check. She has the deliberate, groundless movement of someone who has been freed from something and does not yet know what to do with the freedom.
+
+She passes through Rosa.
+
+Not through Rosa as if Rosa isn't there — through her gently, the way a hand passes through water when it isn't grasping. For a moment they occupy the same space. Dolores's face — Dolores's echo of a face — is **close to Rosa's face from the inside**, and she is **smiling**. Not happy. Tender. The smile of someone who recognizes another person and is grateful for what they did, and sorry they failed, and does not have time to say either. The smile of a woman who has held something for fourteen months and is handing it off, whether anyone takes it or not.
+
+Rosa does not react physically. But something in her stillness changes — the kneeling quality shifts. She has been touched by something and felt it.
+
+La Llorona passes through and continues moving. East. Away from San Ruiz. Away from the chapel.
+
+Then she turns and looks at the investigators.
+
+---
+
+### The rage
+
+**SAN 1/1D6 — the full turn. Eyes open. Attention full and focused.**
+
+She knows who broke the walls.
+
+She does not scream. She moves toward the nearest investigator with the groundless inevitability of something that has stopped performing grief and started performing purpose. She passes through the first investigator she reaches.
+
+**That investigator gets a flash — not a vision, not a dream — a fact delivered whole:**
+
+> *Fire. The chapel burning — not from outside, from the symbols themselves, the opening-diagram carved by decades of devotion catching on what she'd scratched over it. She's in the corner with her back against the wall and the air is wrong and the child is in the corner and she doesn't have time and she didn't finish and the eastern wall is—*[SPOT HIDDEN/HARD]
+
+Then it's gone. The investigator is standing in the rubble of San Ruiz in the daylight.
+
+**SAN 1/1D6 — not the horror of it. The intimacy of it. Being inside someone's last moment.**
+
+The clue this plants: *the child is in the corner*. If the investigators did not find the bones and the clay symbol beneath the floor — if they broke the walls and left — La Llorona has just told them what they missed. Not with words. With memory.
+
+La Llorona is already turning eastward again, moving away, picking up speed. Toward the pit. Toward the geometry she never finished.
+
+---
+
+### The goat
+
+She is already there.
+
+Not approaching — **standing at the edge of the rubble** between the investigators and the departing Llorona, facing east. No one saw her arrive. She was in the road a moment ago and now she is here, horns low, looking at the space La Llorona occupies the way a dog looks at a smell: not confused, not frightened, tracking.
+
+The goat charges.
+
+Not a warning headbutt — a full-body run, horns aimed at the approximate center of mass of something that has no center of mass. She hits La Llorona like hitting a cold room — and La Llorona **recoils**. Not metaphorically. The echo staggers. The shape of her grief-form disrupts, the way a reflection disrupts when the water moves. She makes a sound — not heard, felt, a frequency in the sternum — and her eastward movement becomes a lurch, uncontrolled, faster, like something that has been struck moving away from the blow.
+
+In a few seconds she is past the edge of the village and gone.
+
+The goat is standing still. Facing east. Looking at where La Llorona was.
+
+Then she turns and looks at the investigators. baahhh.
+
+**She has not bleated. She has not made a sound. Her sides are not heaving. There is no sweat. She looks at them with horizontal pupils that do not show excitement or effort or anything at all, and then she looks away — already facing the road east, the direction of the encampment, the direction they are about to ride.**
+
+She is already where they're going. She has been for a while.
+
+**SAN 0/1** — not for the entity. For the goat. For the specific category of wrong that it is to watch an animal do what weapons can't.
+
+---
+
+### After — the deal (if the gravely injured PC is at the threshold)
+
+*Run this only if one investigator has a Major Wound and is actively losing ground — at 2 HP or below, or failing a CON check on the ride. If no one is at that threshold yet, hold this beat for the first time it applies.*
+
+As the investigators are mounting up, the gravely injured PC goes to their horse. The goat is already there — standing beside the animal, close, looking at the wound.
+
+The others are not yet there. Thirty seconds, maybe a minute. Just the two of them.
+
+The goat approaches. She gets very close — close enough that the PC should feel breath. She has none. She lowers her head until her eyes are level with theirs.
+
+The understanding arrives whole. Not a voice. Not words. A fact, the way a fact arrives when you are very cold or very tired: clear, simple, not negotiable in its terms.
+
+> *You live. You close the pit with your hands. That is all.*
+
+Not the soul. Not loyalty. Not service. A placement at an ending — they must be present when the ritual closes, and they must not obstruct it. What happens to them after is their own business.
+
+**The choice — pure decision, no roll:**
+- **Accept**: The wound closes. Not healed — *closed*, as if it was never the kind of wound that kills. Something about them is different in a way no one can name. The goat, from this point, is never far from that PC specifically.
+- **Refuse or don't respond**: The goat waits one beat, then steps back, and stands at her usual distance. The dying proceeds on whatever clock was already running. She does not react. She is already looking east.
+
+The others arrive. The goat is in the road ahead of them. She is already where they're going.
+
+---
+
+*Leave San Ruiz before Rosa stands up. She will have something to say to them eventually, but it is not today, and today is not the right silence to fill.*
 | Child's remains | Emotional weight; someone sacrificed peace for protection |

@@ -1,0 +1,762 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>EL RITUAL ROTO — GM Reference Panels</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&amp;family=JetBrains+Mono:wght@400;500;700&amp;family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&amp;display=swap" rel="stylesheet"/>
+
+<style>
+  :root {
+    --paper: #f5f0e4;
+    --paper-2: #ece5d3;
+    --ink: #1f1a14;
+    --ink-soft: #4a4036;
+    --ochre: #c47a2c;
+    --gap: #d94a2c;
+    --rule: rgba(31, 26, 20, 0.18);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at 20% 10%, rgba(196, 122, 44, 0.06), transparent 60%),
+      radial-gradient(ellipse at 90% 90%, rgba(31, 26, 20, 0.05), transparent 60%);
+  }
+
+  .app {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 40px 32px 80px;
+  }
+
+  /* ── Header ─────────────────────────────────────────────── */
+  .hd {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 18px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .hd .eyebrow {
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    opacity: 0.75;
+  }
+  .hd h1 {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1;
+    margin: 0;
+    letter-spacing: 0.01em;
+  }
+  .hd h1 em {
+    font-style: italic;
+    color: var(--ochre);
+    font-weight: 400;
+  }
+  .hd .meta {
+    display: flex;
+    gap: 18px;
+    font-size: 11px;
+    color: var(--ink-soft);
+    opacity: 0.85;
+  }
+  .hd .meta b { font-weight: 500; color: var(--ink); }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    padding: 8px 0 0;
+    font-size: 10.5px;
+    color: var(--ink-soft);
+  }
+  .legend .item { display: inline-flex; align-items: center; gap: 6px; }
+  .legend .dot {
+    width: 10px; height: 10px; border-radius: 50%;
+    display: inline-block;
+    border: 0.5px solid var(--ink);
+  }
+  .legend .dot.npc     { background: var(--ink); border: 0; }
+  .legend .dot.pc      { background: #4a5a8c; }
+  .legend .dot.focus   { background: var(--ochre); }
+  .legend .dot.leader  { background: var(--ink); box-shadow: 0 0 0 2px var(--paper), 0 0 0 3px var(--ink); }
+  .legend .dot.stopped { background: transparent; border: 1px dashed var(--ink); }
+  .legend .dot.injured { background: transparent; border: 1px solid #4a5a8c; position: relative; }
+  .legend .dot.injured::before, .legend .dot.injured::after {
+    content: ""; position: absolute; left: 1px; right: 1px; top: 50%;
+    height: 1px; background: #4a5a8c; transform: translateY(-0.5px) rotate(45deg);
+  }
+  .legend .dot.injured::after { transform: translateY(-0.5px) rotate(-45deg); }
+
+  /* ── Tabs ───────────────────────────────────────────────── */
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: 28px;
+  }
+  .tab {
+    appearance: none;
+    background: transparent;
+    border: 0;
+    color: var(--ink-soft);
+    font-family: inherit;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    padding: 12px 14px 12px;
+    cursor: default;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    border-bottom: 1.5px solid transparent;
+    margin-bottom: -1px;
+    transition: color .12s;
+  }
+  .tab:hover { color: var(--ink); }
+  .tab.on {
+    color: var(--ink);
+    border-bottom-color: var(--ochre);
+    font-weight: 500;
+  }
+  .tab .num {
+    font-size: 9px;
+    color: var(--ink-soft);
+    opacity: 0.55;
+    font-variant-numeric: tabular-nums;
+  }
+  .tab.on .num { color: var(--ochre); opacity: 1; }
+
+  /* ── Sketch frame ───────────────────────────────────────── */
+  .panel {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .panel-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .panel-head .title {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+  }
+  .panel-head .title em {
+    font-style: italic;
+    color: var(--ochre);
+    font-weight: 400;
+    margin-left: 6px;
+  }
+  .panel-head .sub {
+    font-size: 11px;
+    color: var(--ink-soft);
+    max-width: 50%;
+    text-align: right;
+    line-height: 1.5;
+  }
+
+  .sketch-row {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 28px;
+    align-items: start;
+  }
+  @media (max-width: 880px) {
+    .sketch-row { grid-template-columns: 1fr; }
+  }
+
+  .sketch {
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    box-shadow:
+      0 0 0 6px var(--paper) inset,
+      0 4px 18px rgba(31, 26, 20, 0.08),
+      0 1px 0 rgba(255, 255, 255, 0.6) inset;
+    overflow: hidden;
+    position: relative;
+  }
+  .sketch::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      repeating-linear-gradient(0deg, transparent 0, transparent 22px, rgba(31, 26, 20, 0.025) 22px, rgba(31, 26, 20, 0.025) 23px);
+    mix-blend-mode: multiply;
+    z-index: 1;
+  }
+  .sketch > svg { position: relative; z-index: 0; }
+
+  .sketch-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    font-size: 10px;
+    color: var(--ink-soft);
+    border-top: 1px dashed var(--rule);
+    background: var(--paper-2);
+    position: relative;
+    z-index: 2;
+  }
+  .sketch-meta .corner { font-family: "Caveat", cursive; font-size: 13px; color: var(--ink); }
+  .sketch-meta .aspect {
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.08em;
+  }
+
+  /* ── Side: caption + variant selector ──────────────────── */
+  .side {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-size: 12px;
+    line-height: 1.55;
+  }
+  .side .label-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
+    border-bottom: 1px dashed var(--rule);
+    padding-bottom: 4px;
+  }
+  .side .label-row .k {
+    font-size: 9px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .side .caption {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 17px;
+    font-style: italic;
+    line-height: 1.4;
+    color: var(--ink);
+  }
+  .side .note {
+    color: var(--ink-soft);
+    font-size: 11.5px;
+    line-height: 1.65;
+  }
+  .side .note strong { color: var(--ink); font-weight: 600; }
+
+  .variant-pick {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .variant-pick .dots {
+    display: flex;
+    gap: 6px;
+  }
+  .variant-pick button {
+    appearance: none;
+    flex: 1;
+    background: transparent;
+    border: 1px solid var(--rule);
+    color: var(--ink-soft);
+    font-family: inherit;
+    font-size: 10px;
+    padding: 8px 6px;
+    cursor: default;
+    border-radius: 2px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    line-height: 1.3;
+    transition: all .12s;
+  }
+  .variant-pick button:hover {
+    border-color: var(--ink);
+    color: var(--ink);
+  }
+  .variant-pick button.on {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+  .variant-pick button .vn {
+    font-family: "Caveat", cursive;
+    font-size: 14px;
+    display: block;
+    line-height: 1;
+    margin-bottom: 2px;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .tag {
+    font-size: 9px;
+    padding: 3px 6px;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    color: var(--ink-soft);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .tag.ochre { color: var(--ochre); border-color: rgba(196, 122, 44, 0.35); }
+  .tag.gap   { color: var(--gap); border-color: rgba(217, 74, 44, 0.35); }
+
+  /* multi-sketch grid for diagram studies (multiple sub-plates) */
+  .multi {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+  }
+  @media (max-width: 880px) { .multi { grid-template-columns: 1fr; } }
+
+  .multi .sketch { box-shadow: 0 0 0 4px var(--paper) inset, 0 2px 10px rgba(31, 26, 20, 0.06); }
+
+  .scene-toc {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    color: var(--ink-soft);
+    font-size: 10px;
+    letter-spacing: 0.06em;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+  }
+
+  /* tab letter glyphs */
+  .glyph {
+    width: 14px; height: 14px;
+    flex-shrink: 0;
+    color: currentColor;
+  }
+</style>
+<script type='text/javascript' nonce='NH9A6aEpRW26bOuW0oZzJQ==' src='https://claude.ai/Zbvp4NX4UboN4AroIezSGJh-1vRGIo6cYwd_VTp_ENNbN9E17kILcF_y4uBac6oDRl7JcAlrxpbCkxs4jR0XFY4JBPWHkO2d0rH-EsK6ukAS5Xltwk77HrnnnIZrJeibnCWTCRMSPZgDIzG5HYpArsexd2P7B0QZ7zwuAOxs40ASvmIrVFE8pdh1GU4DMVQygU0_f5JKHpWHJG6fCveOlJyOXcnPqIhXnrs7UO6WrGloGKN25ba7_tNt4uPqIeNAsJ3iTQIcagnnz5v-gguYduPOpcSwN0Jrn3xvsDjkf7bZu7w6PSZHUYrAOds_v5bQm-7Y-OuRuE3zVy2obV70qaO1syM4ycfP72QipZoQYBzLTfppGy3lDh7MXK64QsXncTRDHYp02cCj2H52jVWoiYlDXMYmgGntpuxl7YdC1um0ERPOkmzMcK9rvEe-Ot_12JQyHsPRhbcsaFA3bbdRHH5Zy2Usovn3wnXC_TI3eGt4BM15E-NJsoT-mKUnYj6vFyjxkSSbTNOU-hbj9UzJ4M8aucBlyDVPLU-g5vOwiYhtmO3AubhbK6hplFUBol0iEt59PLrut_vutVufGk_7RCQUkr_3Dpg'></script></head>
+<body>
+
+<div id="root"></div>
+
+<!-- React -->
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+
+<script type="text/babel" src="tweaks-panel.jsx"></script>
+<script type="text/babel" src="scenes-a.jsx"></script>
+<script type="text/babel" src="scenes-b.jsx"></script>
+<script type="text/babel" src="diagrams.jsx"></script>
+
+<script type="text/babel" data-presets="react">
+const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
+  "ochre": true,
+  "eastGap": true,
+  "showAnnotations": true
+}/*EDITMODE-END*/;
+
+// ── Scene catalog ────────────────────────────────────────────────────────────
+const SCENES = [
+  {
+    id: 'diagram',
+    label: 'Diagram',
+    num: '00',
+    title: 'The Ritual Diagram',
+    italic: 'geometric studies',
+    sub: 'Top-down anatomy of the closed shape, the eastern gap, the anchor roles, and the binding marks.',
+    aspect: 'mixed',
+    variants: [
+      { vn: 'A', label: 'Master plate',  caption: 'A large circle with internal geometry. Not decorative — structural.',
+        note: 'Eight anchor positions on the outer ring. Cardinal animal-track marks at N/S/W. The eastern cardinal has no animal mark — erased, redrawn, abandoned. Use for player-facing reveal once they reach the rim.' },
+      { vn: 'B', label: 'East-gap anatomy', caption: 'The certainty fades as the lines approach the gap.',
+        note: 'Close on the eastern arc. The line ends mid-curve on both sides. About one meter of bare clay between them. Ochre near the gap reads as eaten — not smudged, consumed. Show only after Kuyen explains the problem.' },
+      { vn: 'C', label: 'Anchor roles', caption: 'Seven hold the ring. Eight are needed.',
+        note: 'Schematic of who stands where: three cardinals (tribesmen, with animal marks), four diagonals (kneelers at the spirals), east empty. Useful as GM cheat-sheet during the round-by-round resolution.' },
+    ],
+  },
+  {
+    id: 's1',
+    label: 'Arrival',
+    num: '01',
+    title: 'Scene 1',
+    italic: 'arrival',
+    sub: 'Dusk. The investigators reach the western rim and look down into the bowl.',
+    aspect: '21:9 · wide',
+    variants: [
+      { vn: 'A', label: '3/4 bird\'s-eye', caption: 'Seven people. Four fires. A drawing in the dirt. Holding something back.',
+        note: 'Establishing master shot. The full ritual is visible from above. Kuyen is the only figure who has looked up — she is assessing them, not afraid.' },
+      { vn: 'B', label: 'Pure plan view', caption: 'The bowl as a map.',
+        note: 'Use this as a top-down tactical map for the table. Investigators marked at western rim. East bank is dark and empty. Compass in corner so players orient themselves.' },
+      { vn: 'C', label: 'Over-shoulder', caption: 'Looking down into the bowl.',
+        note: 'POV variant — investigators in foreground silhouette, the diagram tiny and distant below. Communicates scale and the sense of arriving at something already underway.' },
+    ],
+  },
+  {
+    id: 's2',
+    label: 'Nahuel',
+    num: '02',
+    title: 'Scene 2',
+    italic: 'Nahuel alone',
+    sub: 'Close. Twenty-three days deep. The face of an enormous, sustained, solitary effort.',
+    aspect: '1:1 · close',
+    variants: [
+      { vn: 'A', label: '3/4 close',   caption: 'Contained — not serene. There is a difference.',
+        note: 'Square format. Eye-line contact discouraged. His shadow falls in the wrong direction from the nearest fire. Ochre on his palms is smudged and re-drawn.' },
+      { vn: 'B', label: 'Overhead',     caption: 'The focal point.',
+        note: 'Plan view — Nahuel as the still center of the geometry. Use when the players ask how he\'s positioned exactly.' },
+      { vn: 'C', label: 'Silhouette',   caption: 'Against the eastern fire.',
+        note: 'Profile, lit from behind. The fire that should not exist on the east side does, in this composition — flag visually if you want the players to notice the wrongness.' },
+    ],
+  },
+  {
+    id: 's3',
+    label: 'Kuyen',
+    num: '03',
+    title: 'Scene 3',
+    italic: 'Kuyen at the western edge',
+    sub: 'The only reason any of this is still working. It is a fact she has incorporated.',
+    aspect: '16:9 · medium',
+    variants: [
+      { vn: 'A', label: '3/4 from behind', caption: 'She does not look at them. Her eyes belong to the circle.',
+        note: 'Foreground left, the ritual visible behind her. The investigators are blurs at the top of the bank. Pigment pouch at her belt is the one detail with color.' },
+      { vn: 'B', label: 'Profile',         caption: 'Watching the circle, not the world.',
+        note: 'Side view with the ritual to her right. Use when introducing her directly to the players — she\'s a person doing work, not a guide.' },
+      { vn: 'C', label: 'Hands detail',    caption: 'Fingers spread. Ready. Not resting.',
+        note: 'Tight close on her hands and the ochre pouch at her belt. Hand it to a player as a tactile detail when she\'s introduced.' },
+    ],
+  },
+  {
+    id: 's4',
+    label: 'East gap',
+    num: '04',
+    title: 'Scene 4',
+    italic: 'the eastern gap',
+    sub: 'A meter of bare clay where the line should close. The entire problem in one image.',
+    aspect: '2.35:1 · cinemascope',
+    variants: [
+      { vn: 'A', label: 'Ground level',     caption: 'Ochre lines run toward us and stop.',
+        note: 'Looking east along the diagram. The line ends. Bare earth. Then resumes on the far side. The Hound\'s geometric wrongness barely visible at the bank corner.' },
+      { vn: 'B', label: 'Schematic',         caption: 'The shape converges on the gap.',
+        note: 'Plan view showing the eastern arc broken on both sides. Distance ≈ 1 m. Anchor missing. Use when explaining mechanics — what closing the circle would mean.' },
+      { vn: 'C', label: 'Hand-on-line',      caption: 'The line runs out before it can close.',
+        note: 'Extreme close — Kuyen\'s hand redrawing the ochre, which fades and stops. Hand this image when a player asks what Kuyen has been doing for the past three weeks.' },
+    ],
+  },
+  {
+    id: 's5',
+    label: 'Round 1',
+    num: '05',
+    title: 'Scene 5',
+    italic: 'the circle breaks',
+    sub: 'Fires out. Four sit down at once. The decision point.',
+    aspect: '21:9 · wide',
+    variants: [
+      { vn: 'A', label: 'Wide chaos',       caption: 'Four sit down at once, mid-chant.',
+        note: 'Fires extinguished simultaneously — not blown, stopped. The Hound is at the eastern gap, present as a geometric incorrectness. Kuyen is already moving. Nahuel is on his side. The investigators have not decided yet.' },
+      { vn: 'B', label: 'The stopped four', caption: 'Like a word cut off mid-sound.',
+        note: 'Use for emotional weight after the round. Four figures in positions of stopped action — not collapsed, not in agony. Just no longer continuing.' },
+      { vn: 'C', label: 'POV decision',     caption: 'Where do we stand?',
+        note: 'From the western rim, looking into the bowl. The Hound to the east, the broken ritual below, the question pointed at the investigators. Use when prompting the player choice.' },
+    ],
+  },
+  {
+    id: 's6',
+    label: 'Climax',
+    num: '06',
+    title: 'Scene 6',
+    italic: 'the eastern line',
+    sub: 'A human being where no one has stood. The shape that needed eight anchors now has one.',
+    aspect: '4:3 · close',
+    variants: [
+      { vn: 'A', label: 'Front-on',     caption: 'Planted. Absorbing. Holding the door.',
+        note: 'Investigator centered in the gap, the Hound pressing from behind. Posture is not heroic — it is bracing. Kuyen finishing the last ochre line at the far edge.' },
+      { vn: 'B', label: 'Top-down',     caption: 'The 8th anchor.',
+        note: 'Map view of the moment — investigator dot at the east position, Kuyen at the west, lines closing inward. Use to clarify positioning during the climax round.' },
+      { vn: 'C', label: 'Feet on line', caption: 'Feet on the line where the line stops.',
+        note: 'Extreme close — boots on the ochre, the gap between them. The whole drama in one frame, ankle-height.' },
+    ],
+  },
+  {
+    id: 's7',
+    label: 'Aftermath',
+    num: '07',
+    title: 'Scene 7',
+    italic: 'aftermath',
+    sub: 'The working held. The cost is visible. Both things are true.',
+    aspect: '21:9 · wide',
+    variants: [
+      { vn: 'A', label: 'Wide quiet',         caption: 'Fires steady. The diagram complete.',
+        note: 'The four stopped figures still in their positions. Kuyen sitting inside the circle, deliberately. Pre-dawn light beginning in the east. She will not speak for a long time.' },
+      { vn: 'B', label: 'Top-down complete',  caption: 'The eastern arc — finally drawn through.',
+        note: 'Plan view of the closed shape. All eight anchors present. Use to mark the resolution at the table.' },
+      { vn: 'C', label: 'Kuyen, sat down',    caption: 'She will not speak for a long time.',
+        note: 'Tight on Kuyen alone in the center of the completed circle. Hands resting. Use to close the scene quietly.' },
+    ],
+  },
+];
+
+// ── Sketch dispatcher ────────────────────────────────────────────────────────
+function SceneSketch({ scene, variant, ochre, eastGap }) {
+  const map = {
+    s1: Scene1, s2: Scene2, s3: Scene3, s4: Scene4,
+    s5: Scene5, s6: Scene6, s7: Scene7,
+  };
+  const C = map[scene.id];
+  if (!C) return null;
+  return <C variant={variant} ochre={ochre} eastGap={eastGap} />;
+}
+
+function Glyph({ id }) {
+  // simple monogram per tab
+  const text = {
+    diagram: '◯', s1: '∇', s2: '◉', s3: '▷', s4: '⫶', s5: '✕', s6: '✜', s7: '◐',
+  }[id] || '·';
+  return <span className="glyph" style={{ fontSize: 12, display: 'inline-flex', alignItems: 'center', justifyContent: 'center' }}>{text}</span>;
+}
+
+// ── Diagram tab — multi-plate layout ─────────────────────────────────────────
+function DiagramPanel({ ochre, eastGap, variant, setVariant }) {
+  const scene = SCENES[0];
+  const v = scene.variants[variant];
+  // Master plate is always the "lead" image; the secondary studies (hand marks, chant) are companion plates.
+  return (
+    <div className="panel">
+      <div className="panel-head">
+        <div>
+          <h2 className="title">{scene.title}<em>{scene.italic}</em></h2>
+        </div>
+        <p className="sub">{scene.sub}</p>
+      </div>
+
+      <div className="sketch-row">
+        <div className="sketch">
+          <DiagramStudies variant={variant} ochre={ochre} eastGap={eastGap} />
+          <div className="sketch-meta">
+            <span className="corner">plate {v.vn} — {v.label.toLowerCase()}</span>
+            <span className="aspect">PLAN · 1:1.43</span>
+          </div>
+        </div>
+
+        <aside className="side">
+          <div className="label-row">
+            <span className="k">Caption</span>
+            <span className="k">{v.vn} / {scene.variants.length}</span>
+          </div>
+          <div className="caption">"{v.caption}"</div>
+          <div className="note">{v.note}</div>
+
+          <div className="label-row" style={{ marginTop: 6 }}>
+            <span className="k">Variants</span>
+            <span className="k" style={{opacity:0.5}}>cycle</span>
+          </div>
+          <div className="variant-pick">
+            <div className="dots">
+              {scene.variants.map((vv, i) => (
+                <button key={vv.vn} className={i === variant ? 'on' : ''} onClick={() => setVariant(i)}>
+                  <span className="vn">{vv.vn}</span>{vv.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="label-row" style={{ marginTop: 6 }}>
+            <span className="k">Tags</span>
+          </div>
+          <div className="tags">
+            <span className="tag">top-down</span>
+            <span className="tag ochre">ochre</span>
+            <span className="tag gap">east gap</span>
+            <span className="tag">geometric</span>
+          </div>
+        </aside>
+      </div>
+
+      {/* companion plates */}
+      <div className="panel-head" style={{ marginTop: 8 }}>
+        <div>
+          <h2 className="title" style={{ fontSize: 20 }}>Companion studies<em>hand-marks & chant</em></h2>
+        </div>
+        <p className="sub">Two supporting plates. Use when players inspect Nahuel's hands, or ask how the chant works.</p>
+      </div>
+
+      <div className="multi">
+        <div className="sketch">
+          <HandMarks ochre={ochre} />
+          <div className="sketch-meta">
+            <span className="corner">plate D — palms</span>
+            <span className="aspect">2.2:1 · DETAIL</span>
+          </div>
+        </div>
+        <div className="sketch">
+          <ChantPositions ochre={ochre} />
+          <div className="sketch-meta">
+            <span className="corner">plate E — chant</span>
+            <span className="aspect">2.2:1 · SCHEMA</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ── Generic scene panel ──────────────────────────────────────────────────────
+function ScenePanel({ scene, ochre, eastGap, variant, setVariant }) {
+  const v = scene.variants[variant];
+  return (
+    <div className="panel">
+      <div className="panel-head">
+        <div>
+          <h2 className="title">{scene.title}<em>{scene.italic}</em></h2>
+        </div>
+        <p className="sub">{scene.sub}</p>
+      </div>
+
+      <div className="sketch-row">
+        <div className="sketch">
+          <SceneSketch scene={scene} variant={variant} ochre={ochre} eastGap={eastGap} />
+          <div className="sketch-meta">
+            <span className="corner">variant {v.vn} — {v.label.toLowerCase()}</span>
+            <span className="aspect">{scene.aspect.toUpperCase()}</span>
+          </div>
+        </div>
+
+        <aside className="side">
+          <div className="label-row">
+            <span className="k">Caption</span>
+            <span className="k">{v.vn} / {scene.variants.length}</span>
+          </div>
+          <div className="caption">"{v.caption}"</div>
+          <div className="note">{v.note}</div>
+
+          <div className="label-row" style={{ marginTop: 6 }}>
+            <span className="k">Variants</span>
+            <span className="k" style={{ opacity: 0.5 }}>cycle</span>
+          </div>
+          <div className="variant-pick">
+            <div className="dots">
+              {scene.variants.map((vv, i) => (
+                <button key={vv.vn} className={i === variant ? 'on' : ''} onClick={() => setVariant(i)}>
+                  <span className="vn">{vv.vn}</span>{vv.label}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="label-row" style={{ marginTop: 6 }}>
+            <span className="k">Atmosphere</span>
+          </div>
+          <div className="tags">
+            <span className="tag">{scene.aspect.split('·')[0].trim()}</span>
+            <span className="tag ochre">ochre lines</span>
+            <span className="tag">indigo / amber</span>
+            {scene.id === 's4' || scene.id === 's5' || scene.id === 's6' ? <span className="tag gap">east gap</span> : null}
+            {scene.id === 's5' || scene.id === 's6' ? <span className="tag">hound</span> : null}
+          </div>
+        </aside>
+      </div>
+    </div>
+  );
+}
+
+// ── App ──────────────────────────────────────────────────────────────────────
+function App() {
+  const [t, setTweak] = useTweaks(TWEAK_DEFAULTS);
+  const [active, setActive] = React.useState('diagram');
+  // per-tab variant index — so cycling stays per-scene
+  const [variants, setVariants] = React.useState(() =>
+    Object.fromEntries(SCENES.map(s => [s.id, 0]))
+  );
+  const setVariant = (sceneId) => (i) =>
+    setVariants(prev => ({ ...prev, [sceneId]: i }));
+
+  const activeScene = SCENES.find(s => s.id === active);
+
+  return (
+    <div className="app" data-screen-label="GM Reference">
+      <div className="hd">
+        <span className="eyebrow">Call of Cthulhu · Argentine Pampas, 1821 · C3</span>
+        <h1>El Ritual Roto <em>— GM reference panels</em></h1>
+        <div className="meta">
+          <span><b>Wireframe storyboard</b> · low-fi sketches for table reference</span>
+          <span style={{ opacity: 0.55 }}>·</span>
+          <span>seven scenes + diagram studies</span>
+        </div>
+        <div className="legend">
+          <span className="item"><i className="dot focus" /> Nahuel (focus)</span>
+          <span className="item"><i className="dot leader" /> Kuyen</span>
+          <span className="item"><i className="dot npc" /> tribe</span>
+          <span className="item"><i className="dot pc" /> investigator</span>
+          <span className="item"><i className="dot injured" /> injured PC</span>
+          <span className="item"><i className="dot stopped" /> stopped</span>
+        </div>
+      </div>
+
+      <div className="tabs" role="tablist">
+        {SCENES.map(s => (
+          <button key={s.id} role="tab" aria-selected={active === s.id}
+                  className={'tab' + (active === s.id ? ' on' : '')}
+                  data-screen-label={`${s.num} ${s.label}`}
+                  onClick={() => setActive(s.id)}>
+            <Glyph id={s.id} />
+            <span className="num">{s.num}</span>
+            <span>{s.label}</span>
+          </button>
+        ))}
+      </div>
+
+      {active === 'diagram'
+        ? <DiagramPanel ochre={t.ochre} eastGap={t.eastGap}
+                        variant={variants.diagram} setVariant={setVariant('diagram')} />
+        : <ScenePanel scene={activeScene} ochre={t.ochre} eastGap={t.eastGap}
+                      variant={variants[active]} setVariant={setVariant(active)} />}
+
+      <div className="scene-toc">
+        <span>El Ritual Roto · GM ref · v.1</span>
+        <span>{SCENES.findIndex(s => s.id === active) + 1} / {SCENES.length}</span>
+      </div>
+
+      <TweaksPanel title="Tweaks">
+        <TweakSection label="Visual style" />
+        <TweakToggle label="Ochre accents" value={t.ochre}
+                     onChange={(v) => setTweak('ochre', v)} />
+        <TweakToggle label="East-gap highlight" value={t.eastGap}
+                     onChange={(v) => setTweak('eastGap', v)} />
+
+        <TweakSection label="Variant — current scene" />
+        <TweakRadio
+          label="Composition"
+          value={variants[active]}
+          options={activeScene.variants.map((v, i) => ({ value: i, label: v.vn }))}
+          onChange={(i) => setVariant(active)(i)} />
+        <div style={{ fontSize: 10.5, color: 'rgba(41,38,27,.55)', lineHeight: 1.5, marginTop: -4 }}>
+          {activeScene.variants[variants[active]].label}
+        </div>
+      </TweaksPanel>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+
+</body>
+</html>
