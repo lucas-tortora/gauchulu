@@ -423,4 +423,20 @@ The others arrive. The goat is in the road ahead of them. She is already where t
 ---
 
 *Leave San Ruiz before Rosa stands up. She will have something to say to them eventually, but it is not today, and today is not the right silence to fill.*
+
+---
+
+> **[THIS TABLE — C2 OUTCOME — 2026-05-24]**
+>
+> **Inner walls entirely broken. Seal destroyed.** The players broke the chapel walls entirely. Dolores's counter-symbols are rubble. Rosa's prayer has no surface to anchor to. The partial binding that held the entity at the edge for 14 months has failed. The entity is measurably closer to fully through.
+>
+> **The clay beneath the chapel floor** is still intact underground — buried under rubble, retrievable if someone goes back, but Rosa controls access and will not cooperate with these investigators. This is what the pit closing requires. It cannot be improvised.
+>
+> **La Llorona — enraged, displaced, moving east.** When her circuit was destroyed, a fragment of her original awareness surfaced. She is not destroyed — she is loose, without a pattern, with all her original grief and none of her exhausted calm. Her eyes are open. She is moving toward the burial pit, toward the geometry she never finished. She knows who broke the walls.
+>
+> **Zonda storm arrived early at San Ruiz.** Canonically the Zonda appears in C7 at the pit. Its arrival here, two arcs early, is a direct consequence of the chapel seal collapsing.
+>
+> **The goat — extracted, follows the party.** The players extracted the goat from the well. She now follows the party. She will precede them everywhere. She does not bleat, does not sweat, does not react to gunfire. She is Mandinga's creature, now visible to the entity's geometry for the first time since the gate opened. She is in play. See `assets/mandinga-sequence.md` for the deal mechanic.
+>
+> **Rosa** does not yet know the walls are gone — but she will, and when she does she will not cooperate with these investigators. Her ornament, her memory of the complete symbol, and access to the clay excavation all go through her. All closed until the relationship is repaired, if it can be.
 | Child's remains | Emotional weight; someone sacrificed peace for protection |

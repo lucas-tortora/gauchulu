@@ -548,4 +548,17 @@ This is a mistake. His absence is exactly what gives the investigators the room 
 | **Concepción's alignment**          | She walked into the pit and broke the geometry herself. She is not a normal child. She hums the pit's rhythm under her breath. (Payoff in C7.) |
 | **The lesson**                      | Breaking the geometry ends the manifestation. This is now learned knowledge — it will come up again in C3 and C8.                              |
 
+---
+
+> **[THIS TABLE — C1 OUTCOME — 2026-05-24]**
+>
+> **Geometry broken at the ranch.** The opening diagram at the estancia was disrupted by the players. Cattle and swarm fell. The Luz Mala descended. Don Eusebio watched from the ridge and knows — the investigators tore apart part of his opening. He attempted to redraw the blood arcs before C4. The pit's geometry is degraded, not closed. The entity noticed the disruption; it is why it has been working from below ever since.
+>
+> **Concepción — DEAD.** The campaign assumes she survives C1. At this table, she did not.
+>
+> Downstream consequences:
+> - Don Eusebio's C7 confession is grimmer. He sent her away injured, and she didn't make it. He volunteered her. He knows it. He will stand in the outer ring in C8 without being asked — he has nothing left to lose. His motivation is not redemption. It's settlement.
+> - The quiet victory callback in C9 (*"se quedó callada de golpe"* at her cousin's house in Azul) is gone.
+> - Any investigator who failed to save her carries that weight. Don Eusebio knows who was there.
+
 

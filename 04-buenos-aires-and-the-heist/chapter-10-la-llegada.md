@@ -16,7 +16,7 @@
 
 ## OPENING SITUATION
 
-The players arrive in Buenos Aires from the Andean leg of Arc 3. They are dirty, armed, and visibly frontier — they will be stared at, refused service, charged double. **Doña Mercedes** is with them; the **Cursed Gaucho** rides parallel and refuses any inn (he sleeps in the stables of a friend's tannery near the Riachuelo and sends word how to find him). Surviving tribal allies (Kuyen, Nahuel, Héctor, Marta — depending on Arc 3 outcomes) accompany the party but are conspicuously out of place. Buenos Aires of 1821 does not know what to do with them, and that visibility is itself a danger.
+The players arrive in Buenos Aires from the Andean leg of Arc 3. They are dirty, armed, and visibly frontier — they will be stared at, refused service, charged double. **Doña Mercedes** is with them; the **Cursed Gaucho** rides parallel and refuses any inn (he sleeps in the stables of a friend's tannery near the Riachuelo and sends word how to find him). Surviving tribal allies (Kuyen, Nahuel, Héctor, Marta — depending on Arc 3 outcomes) accompany the party but are conspicuously out of place. ⚠️ **[THIS TABLE]** Kuyen and Nahuel are dead. No tribal allies survived C3. Only Wrong Returned (Héctor/Marta, if they lived through C9) may be present. Buenos Aires of 1821 does not know what to do with them, and that visibility is itself a danger.
 
 The University of Buenos Aires has existed for one year — it was founded by the Rivadavia government in August 1821 as a secular reorganization of the colonial institutions of higher learning. Its public face is reform: science, law, modern medicine. Its private face — known to perhaps thirty people in the city — is that the **Manzana de las Luces** (the old Jesuit complex of San Ignacio, the Colegio, the *procuraduría*) sits atop a sealed vault that has been there since 1610, when Pedro de Mendoza's second-generation administrators ordered it walled in. Inside the vault: a book.
 
@@ -341,3 +341,8 @@ The decision the Keepers were going to delay for weeks — until the stone was h
 | The missing tribal ally | Went south to the Riachuelo / the Cursed Gaucho's tannery. Re-encounter in C11. |
 | Saráchaga's third-patio well | Older than the city. The deepest witness-stone reads from here. The well makes sounds at significant moments. |
 | Two empty Keeper chairs | Quirce (excluded) and Don Bartolomé Lacasa (compromised, location unknown). Lacasa is the C11 reveal. |
+
+> **[THIS TABLE — C10 ENTRY — 2026-05-29]**
+> No tribal allies from Kuyen's people reached Buenos Aires — tribe died in C3. Only Héctor and/or Marta (Wrong Returned, if they survived C9) are present. "The missing tribal ally" beat in Scene 5 runs only if Héctor or Marta is in the party; if neither survived C9, this beat is absent.
+>
+> Marked PCs: 2 at this table. Their experience of the city geometry on entry (the eleven-by-nine grid reading like the pit) runs as written and is more vivid for having just lived through the closing.

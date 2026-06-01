@@ -1,8 +1,26 @@
 # TABLE STATE — LA TIERRA MALA
-### *Running state for this specific table. Read alongside chapter notes. Divergences from canonical play are noted explicitly.*
+### *DEPRECATED — content migrated to chapter files*
+
+Table-specific state is now embedded directly in each chapter file as `[THIS TABLE — date]` callouts, and in `REF-NPCs.md` for NPC status.
+
+**Find it here instead:**
+- C1 outcome → end of `01-la-tierra-mala/chapter-01-el-contrato.md`
+- C2 outcome → end of `01-la-tierra-mala/chapter-02-las-senales.md`
+- C3 outcome → end of `01-la-tierra-mala/chapter-03-el-ritual-roto.md`
+- NPC deaths (Kuyen, Nahuel, Concepción) → `REF-NPCs.md`
+- Mandinga sequence → `assets/mandinga-sequence.md`
+- Ritual structure (4 rounds, Cata, goat window) → `assets/ritual-diagram-c3.md`
+- Hound entity → `assets/entity-hound.md`
+- Stat blocks → `assets/npc-stats.md`
 
 **Last played**: 2026-05-24
-**Currently entering**: Chapter 3 — El Ritual Roto
+**C3 result**: RITUAL FAILED. Hound passed through. Kuyen and Nahuel dead. Tribe dead. 2 PCs Marked. 2 PCs took Mandinga deal. All 3 PCs fled.
+
+---
+
+*Content below is superseded but preserved for reference until C4 is written.*
+
+---
 **Party**: 3 investigators, 1 gravely injured. Tracking and Natural World skills. No Marks yet.
 
 ---

@@ -20,6 +20,10 @@ Everyone is camped near the pit. The investigators, Don Eusebio, Quirce, Silvio,
 
 Kuyen is preparing: drawing the binding symbol in sections on cured leather panels that can be carried and assembled at the pit. She works by firelight without speaking. Nahuel sits near her and faces south. His hands rest on his thighs with the ochre patterns freshly drawn on his palms.
 
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). Opening situation is restructured: Don Eusebio, the Marked PCs, the Wrong Returned (Héctor/Marta), and Mercedes (if she has arrived) are the camp's roster. The leather panels are being laid out but nobody trained draws them. The ochre marks are absent — no one holds the center yet.
+
+> ⚠️ **[THIS TABLE]** **Where the binding symbol comes from.** On the ride to the pit the party passes **San Ruiz a second time** — the **Rosa-repair payoff** (see `assets/arc-review-plan.md` → Blocker 2, Tier 1). Their intent is now true: *going to the pit to close it.* Rosa lifts her grinding stone and hands over the complete symbol — *"No lo hago por ustedes. Lo hago por la que dejaron suelta."* If the party never circled back through San Ruiz, fall to **Tier 2**: the 75% stone-fragment + a Marked PC completing it by perception (requires a Marked PC to have stood at the C5 dual-diagram stone). The closing procedure itself comes from **Saens's manuscript read by Mercedes** (Blocker 1) — Kuyen's loss makes it slower and harder, not impossible.
+
 This chapter is about what happens in the hours before the ritual begins. It is also where the final fractures appear.
 
 ---
@@ -49,6 +53,8 @@ The night before the ritual is when characters say the things they haven't said.
 ---
 
 ### Don Eusebio — The Confession
+
+> ⚠️ **[THIS TABLE]** Concepción is dead (C1). The confession runs differently: Don Eusebio cannot say "she's alive in Azul." He confesses that she died. The structure of the scene holds — the long night of admission, the same grief — but the arc inverts: instead of revealing she survived despite him, he confesses that she didn't. The lines about "she hums it in Azul" become "I can still hear her humming it, the last time I saw her walking south." The C9 optional callback (Concepción goes quiet when the pit closes) does not run. The investigators who tried to save her in C1 and failed carry that.
 
 At some point before midnight, Don Eusebio will seek out an investigator — specifically one who has treated him with consistent honesty, not cruelty. If no such investigator exists, he seeks out Silvio (which is worse for him, and should be played that way).
 
@@ -96,6 +102,8 @@ This is the last significant reveal about Don Eusebio's character. He did not pr
 
 ### Nahuel — What He Knows
 
+> ⚠️ **[THIS TABLE]** Nahuel is dead (C3). Scene does not run. The strategic information he delivers (entity is managing the closing to fail at peak pressure; Nahuel as trap-focus) must be delivered differently. Options: the entity's communication to the Marked PCs (Scene 3) contains the same implicit information; a Marked PC with Hard Cthulhu Mythos can infer it; or the absence of any trained anchor *is* the communication — the entity has already won this advantage.
+
 If an investigator seeks Nahuel out directly, they find him sitting facing the pit from a distance, awake, still with the ochre marks on his palms:
 
 > *"I keep feeling it measuring me,"* he says. *"Like — it checked me once, at the camp. When the circle broke. And it decided something about me. And now every time it brushes the geometry of the binding it checks me again, like it's confirming."*
@@ -111,6 +119,8 @@ This is the most important piece of information Nahuel can give: he believes the
 ---
 
 ### Kuyen — What She Won't Say
+
+> ⚠️ **[THIS TABLE]** Kuyen is dead (C3). Scene does not run. The information she delivers (speed is the advantage; need everything in the outer ring; co-anchor offer) must arrive through Don Eusebio or Mercedes. Mercedes can deliver the practical assessment. The co-anchor offer now comes from Don Eusebio asking the PCs directly: *"If I stand in the center, I need someone behind me. Someone who can feel it."*
 
 Kuyen will not seek out investigators. If sought, she is working on the leather panels and will answer questions without stopping her hands.
 
@@ -212,6 +222,22 @@ The Marked investigator can tell others what they experienced. Whether they do i
 | The entity's communication to the Marked | It knows the attempt is coming. It has identified where it expects the closing to fail. |
 | Don Eusebio's confession | Concepción was saved — by the investigators, not by him. He is not unredeemable. But he is also not yet redeemed. |
 
+> **[THIS TABLE — C7 CONSEQUENCE — 2026-05-29]**
+> Nahuel and Kuyen scenes do not run. Don Eusebio's confession delivers the Concepción death, not her survival (she died at the pit in C1). The C9 callback (she goes quiet when the pit closes) does not run.
+>
+> La Llorona, moving east since C2, may be audible from the east in the pre-dawn hours — a distant weeping that could be mistaken for wind. This is her passing through. She is not an ally. She is not a threat tonight. She is grief in transit.
+>
+> The 2 Mandinga-deal PCs feel the wound warm on this night — the obligation comes due tomorrow. Note to Keeper: deliver this privately to those players before sleep. Not painful. Just present. The goat, if it has been following the party, settles near one of the Mandinga PCs and does not move until dawn.
+>
+> Mercedes arrives without Kuyen to greet her. Her opening line to the players remains valid. The strategic information from Nahuel's scene (entity may be managing the closing toward a peak-pressure failure) is available to Marked PCs via Scene 3's entity communication, or through Mercedes's own assessment when asked: *"The entity's been holding the geometry stable on purpose. It doesn't want a partial binding — it wants a full attempt, at maximum pressure. That's what it's been building toward."*
+>
+> | Status carried into C8 | Detail |
+> |---|---|
+> | Ritual leadership | Mercedes guides. Marked PCs perceive. Don Eusebio anchors (center or outer ring). Wrong Returned hold positions. |
+> | Eastern asymmetry | Still unresolved if not caught this chapter in Quirce's panels. Final chance to fix before C8. |
+> | Mandinga obligations | Both deal-PCs will feel the urgency of the closing as a personal debt. This is their night of commitment. |
+> | Marked PCs | Entity communicated: *it expects the attempt.* A Marked PC who uses Hard Cthulhu Mythos knows where the entity will press hardest in C8. |
+
 ---
 
 ## EXPANSION NOTES — BRIDGING TO THE OVERVIEW FRAMING
@@ -235,7 +261,7 @@ Insert this in the early evening, before any of the late-night confessions. The 
 
 **Listen** roll on the wind, after midnight: faint, far, the sound of a chant. Not in any language the player knows. The chant is in *time* with the entity's vibration in the chest — the sound from the pit at 2 AM. Two rituals are happening, simultaneously, on the same beat. They are *coordinated*.
 
-**Kuyen's reaction**, if anyone tells her: *(She stops working. She listens. Then:) "Hay otro sitio. Están haciendo lo mismo en otro pozo. Si los dos sitios cierran la noche del cierre, estamos cerrando con ellos. Si uno se abre y el otro se cierra, el que se abre gana."* — *"There is another site. They are doing the same in another pit. If both close the night of the closing, we are closing with them. If one opens and the other closes, the one that opens wins."*
+**Kuyen's reaction**, if anyone tells her: *(She stops working. She listens. Then:) "Hay otro sitio.* ⚠️ **[THIS TABLE]** Kuyen dead — this line is delivered by Mercedes, who has just arrived and already suspected as much: *"Hay otro sitio. Están haciendo lo mismo en otro pozo. Si los dos sitios cierran la noche del cierre, estamos cerrando con ellos. Si uno se abre y el otro se cierra, el que se abre gana."* — *"There is another site. They are doing the same in another pit. If both close the night of the closing, we are closing with them. If one opens and the other closes, the one that opens wins."*
 
 This is the structural threat of the new framing: **the awakening attempt and the closing are running in parallel**. The Cult of the Great Sleeper is the entity that uses any *opening* the closing fails to seal. The players are now in a race with a second, distant ritual.
 
@@ -290,6 +316,8 @@ The cultist, brought to the firelight under guard, is a thin man in his fifties,
 Around 4 AM, after the entity has communicated with the Marked, after the Cursed Gaucho has told his story, after the cultist has been questioned, a small carriage arrives at the perimeter. It is Mercedes. She has come from Buenos Aires by post-coach and the last leg by hired *galera*. She is dressed for travel and tired in the way only old scholars can be tired.
 
 She does not introduce herself dramatically. Kuyen meets her at the perimeter. Mercedes embraces Kuyen, briefly, and Kuyen — for the first time the players have seen — *closes her eyes* during a human gesture. They have known each other for thirty years.
+
+> ⚠️ **[THIS TABLE]** Kuyen is dead. Mercedes arrives and there is nobody who knew her for thirty years to greet her. She looks at the camp. She looks at the players. She understands in an instant. Her face does nothing. She walks to the fire. The dust runner beat (thumb across the player's cuff) still runs — Mercedes still recognizes the pit-dust. But the embrace is absent, and the players carry the weight of why.
 
 **Mercedes' first action, before she speaks**: She walks the length of the fire and shakes hands with each player in turn. As she takes the third hand, she pauses — almost imperceptibly — and rubs her thumb across the cuff of the player's jacket. She nods once, to herself. She moves on. She does not name what she felt. **This is the dust runner (3b) at its most distant point in the campaign**: Mercedes, seven hundred kilometers from the pit, recognizes the dust on the players' clothing because she has read the manuscript that lists what the dust *is* — fine grey particulate from the original carving's limestone, ground over centuries by the geometry. The dust does not wash out because it is not, strictly, dust. Mercedes will not say this aloud. She filed it; that is enough.
 

@@ -38,7 +38,7 @@ Several useful things, depending on who is in the party:
 
 1. **Walk the route**. The carriage path from the Manzana de las Luces to the Riachuelo dock is approximately 1.5 km, through eleven streets. Players walking it before nightfall identify obstacles, line of sight, where the cordon needs reinforcement. **Spot Hidden / Track / Stealth** rolls — successes lower difficulty for specific moments later.
 
-2. **Visit Kuyen and Nahuel** at the tannery. The cordon ritual is being prepared. The leather panels — six of them, scaled-up versions of the Arc 1 binding — are being painted in red ochre and bone-black. Kuyen explains the timing: the cordon is *moving*, panels carried by walkers, drawn at sequential corners. She needs eight walkers minimum. Currently has four. Players can volunteer (good — they are Marked, the cordon is stronger), or recruit additional people (Inocencia knows two men who would do it for a debt; Galíndez can spare two of his less-armed soldiers).
+2. **Visit Kuyen and Nahuel** at the tannery. The cordon ritual is being prepared. The leather panels — six of them, scaled-up versions of the Arc 1 binding — are being painted in red ochre and bone-black. Kuyen explains the timing: the cordon is *moving*, panels carried by walkers, drawn at sequential corners. She needs eight walkers minimum. Currently has four. Players can volunteer (good — they are Marked, the cordon is stronger), or recruit additional people (Inocencia knows two men who would do it for a debt; Galíndez can spare two of his less-armed soldiers). ⚠️ **[THIS TABLE]** Kuyen and Nahuel dead. Replace with: Marta leads the cordon preparation (geometric alignment, traced the diagram from memory in C9). Eight walkers still needed; Marked PCs count stronger. A Mandinga Warding covers one corner without a walker. Fewer resources; same structure.
 
 3. **Speak with the Cursed Gaucho** privately. He will be terse and clear. He is going to be in the carriage with the chest. He knows he is bait. He has a *facón* (large knife) on his back, the *cuchillo de campo* on his belt, and an old flintlock pistol that he has not loaded yet because *"si lo cargo ahora me lo llevo a la cama y no quiero soñar con esto más de lo que ya."* — *"If I load it now I take it to bed with me and I don't want to dream about this more than I already do."* He will load it at dusk.
 
@@ -63,7 +63,7 @@ At 11:30 PM, the carriage leaves the Manzana de las Luces. The chest is inside. 
 The players choose their positions:
 - **In the carriage** with Mercedes and the chest (highest concentrated risk; closest to the truth).
 - **Ahead with Galíndez** scouting (best for combat, first to engage).
-- **In the cordon walk** with Kuyen / Nahuel / surviving Wrong Returned (best for catching geometric anomalies, supporting the binding).
+- **In the cordon walk** with Kuyen / Nahuel / surviving Wrong Returned (best for catching geometric anomalies, supporting the binding). ⚠️ **[THIS TABLE]** Kuyen/Nahuel dead — this position is with Marta / surviving Wrong Returned only.
 - **In a free position**, mobile, responsive — the Marked have an advantage here since the city's geometry tells them where to go.
 
 ### Setting Description
@@ -72,7 +72,7 @@ The players choose their positions:
 >
 > *The city is holding its breath.*
 >
-> *The carriage rolls. Iron-rimmed wheels on cobblestone, the only sound for two blocks at a time, then a small night bird, then the wheels again. Galíndez's horse breathes loud behind the soldiers. The cordon walkers, when you look back, are visible only as occasional dark figures stepping into a corner and then stepping out — the leather panels making a brief amber glow as Kuyen's chant activates them, then fading.*
+> *The carriage rolls. Iron-rimmed wheels on cobblestone, the only sound for two blocks at a time, then a small night bird, then the wheels again. Galíndez's horse breathes loud behind the soldiers. The cordon walkers, when you look back, are visible only as occasional dark figures stepping into a corner and then stepping out — the leather panels making a brief amber glow as Kuyen's chant activates them, then fading.* ⚠️ **[THIS TABLE]** Kuyen dead — the amber glow comes from Marta's body-positioning at each corner, not a chant. Less steady. Still visible.
 
 **Mechanic — the Mark**: Every Marked player rolls 2d6 every two blocks. Snake eyes triggers a Hound aftershock — short, contained, *brief* (1d3 rounds, the geometry of the city limits its duration). This is a real threat tonight; the city is the most geometrically charged place the campaign has visited. Reroll if a player has the binding active in their hand (cordon walker) or is inside the carriage with Mercedes (proximity to the chest).
 
@@ -333,13 +333,15 @@ Distribute the following five cost-tiers among the Marked PCs at the table. Each
 
 If there are fewer than five Marked PCs, the lighter tiers are dropped from the bottom — five Marked PCs use all five tiers, four use Anchor/Pillar/Wall/Witness, three use Anchor/Pillar/Wall, two use Anchor/Pillar (heavy table — give the players a beat to absorb that), one Marked PC uses **only Anchor** (one PC paying the full cost; this is the campaign's most expensive single moment and should be honored).
 
+> ⚠️ **[THIS TABLE]** Only 2 Marked PCs. Cost-table uses Anchor/Pillar only. One PC dies (Anchor); one PC survives with permanent sense loss and physical mark (Pillar). This is a heavy table. Give the players real time with the assignment before proceeding.
+
 If there are *more* than five Marked PCs (rare but possible if PCs swapped Marks at C7's entity-contact moment), add a sixth tier called **The Edge** at the bottom: survives, no permanent effect, the Mark is gone before the closing finishes. The Edge is for PCs whose involvement was peripheral.
 
 > **Keeper note (Destroyed cost-table)**: A table that argues over the tiers and ultimately distributes them is doing the campaign's emotional work. A table that resolves it in thirty seconds — one obvious volunteer for Anchor, the rest sort themselves — is also doing the campaign's emotional work, in a different register. Both are correct. Do not push toward either.
 
 #### Step 4 — The reading and the burning
 
-Once the tiers are assigned, **Mercedes opens the parchment and reads from the destroy-page**. She reads in the older Tehuelche-Tobá-Salamanca chain — a sequence Kuyen recognizes, if she is alive and present, and joins on the third line. The Cursed Gaucho's *cuchillo de campo* (the knife he used on El Patrón's body in Act 1) is laid across the closed chest. The cuts he took were the *first stroke* of this destroy-ritual; he didn't know that, but the older tradition allows the destroying tool to be primed in advance with willing bloodshed. The knife is on the chest. The chest is in the circle. Mercedes finishes reading.
+Once the tiers are assigned, **Mercedes opens the parchment and reads from the destroy-page**. She reads in the older Tehuelche-Tobá-Salamanca chain — a sequence Kuyen recognizes, if she is alive and present, and joins on the third line. ⚠️ **[THIS TABLE]** Kuyen dead — the third line is unspoken. The chain has a missing voice. Run this as a felt silence, not a blocking absence. Marta's presence and alignment provides structural substitution; the tradition is not there. The Cursed Gaucho's *cuchillo de campo* (the knife he used on El Patrón's body in Act 1) is laid across the closed chest. The cuts he took were the *first stroke* of this destroy-ritual; he didn't know that, but the older tradition allows the destroying tool to be primed in advance with willing bloodshed. The knife is on the chest. The chest is in the circle. Mercedes finishes reading.
 
 > **If the Cursed Gaucho's *cuchillo* is unavailable** (he died too early to wound El Patrón, the players never met him, his body and knife were taken before the dock): a substitute is needed. The substitute is **the blade of any Marked PC who is willing to draw their own blood at the chest**. The PC who does this *takes one tier higher* than they otherwise would have — Witness becomes Wall, Wall becomes Pillar, etc. The blood substitutes for the Cursed Gaucho's accumulated work.
 
@@ -360,6 +362,8 @@ The cost-table tiers (Step 3) are the primary mechanical cost. In addition:
   > *"Lo dejamos. Lo van a recordar mal, dentro de cien años. Pero ya no hay libro que cerrar."* — *"We let it go. They will misremember it, in a hundred years. But there is no book left to close."*
 
   If Kuyen did *not* survive to C12, this line is delivered instead by the senior surviving Tehuelche or Mapuche elder present, in their own language, with Mercedes translating. The line is the campaign's longest-rooted thread; it must be spoken at the table.
+
+  > ⚠️ **[THIS TABLE]** Kuyen dead and tribe dead. No Tehuelche or Mapuche elder is present. Mercedes delivers the line herself, from memory, in Spanish. The tradition that made the closing possible is not here to mourn its own inheritance. That is its own cost, and it belongs to the campaign.
 - **Mercedes survives.** The destroy-ritual was hers; she carried it forty years; she lives. She loses her hair in the night — it goes white and falls out by morning. It grows back over a year. She continues as a Keeper *of no book*. She is, finally, free of the thing she copied. **She will outlive everyone at this table.** The campaign's last image of her, decades later, is one of the surviving PCs visiting her in her old age and finding her tending the fig tree at the Jesuit ruins; the fig tree, also, is still there.
 
 ### The Closing Image
@@ -405,7 +409,7 @@ Each surviving named NPC gets one line of epilogue. Each surviving PC gets one l
 - **Padre Albarrán** (if he survived — i.e., not the Hide ending): *"Voy a confesarme cuando llegue a San Ignacio, y voy a confesar nada, porque no hay palabras para esto. Dios va a entender."* — *"I will confess at San Ignacio, and I will confess nothing, because there are no words for this. God will understand."*
 - **Ana Bermúdez**: *"Voy a Coimbra. Quirce me ofreció una carta. La acepté. No me malinterpreten — no voy a la Red. Voy a estudiar lejos. Voy a aprender qué hice."* — *"I am going to Coimbra. Quirce offered me a letter. I accepted. Don't misunderstand me — I am not going to the Network. I am going to study, far away. I am going to learn what I did."*
 - **Quirce** (if encountered tonight): *"Observé. No participé. Saráchaga estaba equivocado y tenía razón al mismo tiempo. Mi Red va a saber lo que pasó esta noche; lo que hagan con eso es de ellos. Yo me quedo con Ana."* — *"I observed. I did not participate. Saráchaga was wrong and right at once. My Network will know what happened tonight; what they do with it is theirs. I stay with Ana."*
-- **Kuyen** (if alive): *"Volvemos al sur. Hay un enterrar que hacer en la cordillera. La piedra de allá es la que necesita saber que esto terminó."* — *"We go south. There is a burial to do in the cordillera. The stone there needs to know this is over."*
+- **Kuyen** (if alive): *"Volvemos al sur. Hay un enterrar que hacer en la cordillera. La piedra de allá es la que necesita saber que esto terminó."* — *"We go south. There is a burial to do in the cordillera. The stone there needs to know this is over."* ⚠️ **[THIS TABLE]** Dead — line not delivered.
 - **Héctor / Marta** (the Wrong Returned, if alive): see Arc 3's C9 epilogues; they continue to fade out of geometric alignment over the months.
 - **Inocencia Vallejos**: she keeps her boarding house. She does not remember El Patrón visiting. She remembers the players fondly. She remembers, oddly clearly, *the bread on the table* the night before. She tells her grandchildren about it for the rest of her life.
 
@@ -491,3 +495,12 @@ Run this beat **once a year of in-fiction time**, as long as the campaign's epil
 | El Patrón (if Hidden) | Withdrew, not destroyed. Will be back in 1840s. By then, the Argentine Confederation. Rosas. The grid will be tested again. |
 | Mercedes | The last surviving senior Keeper after C12 in any ending. She will train the next generation. She will not write down what happened tonight. The next campaign that needs her finds an old woman with one eye and no hair (Destroyed), or one eye (Hidden), or a steady hand (Used). She is a recurring NPC for the next three decades. |
 | The fig tree at the Jesuit ruins | Still impossibly there, still bearing fruit. Permanent. A waypoint for any future story that touches this region. |
+
+> **[THIS TABLE — C12 CONSEQUENCE — 2026-05-29]**
+> Cordon is improvised (Marta/Marked PCs, no Kuyen). Kuyen's tradition voice is absent in the Destroyed ending — Mercedes delivers the line. Kuyen epilogue line not delivered.
+>
+> Only 2 Marked PCs at this table. If Destroyed ending: Anchor/Pillar cost-table only. Give the players time with the assignment.
+>
+> The dust lifts at the binding — valid and runs as written. The Mandinga-deal PCs feel it clean, obligation fully discharged.
+>
+> Campaign Seeds: "Tehuelche-Tobá-Salamanca chain (Destroyed)" — the tradition was already interrupted by the tribe's death in C3. The chain's loss in the Destroyed ending is doubled: the knowledge was already thinned; now what remained is spent. Note this to the table as the campaign's longest-running cost finally settling.

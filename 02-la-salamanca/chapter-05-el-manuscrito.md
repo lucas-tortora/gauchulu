@@ -15,6 +15,8 @@ This chapter moves outward from the estancia — following Saens's route in reve
 
 **Parallel thread**: Kuyen and Nahuel are not idle. If investigators check in with the camp (a half-day's ride from the estancia now), Kuyen is preparing the ritual components and watching Nahuel. She confirms: the two approaches they've completed have the entity contained but pressed. *"It's pushing. Every night harder than the last. We need the pit."*
 
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This parallel thread does not run. See Scene 4 note and arc-review-plan.md for replacement options (goat signal / Saens's late note / La Llorona as directional pull).
+
 ---
 
 ## SCENE 1 — THE WRONG RETURNED
@@ -148,6 +150,8 @@ When she finishes, she says — not to anyone, in the way the Llorona spoke: *"F
 
 ## SCENE 4 — KUYEN'S WARNING (INTERLUDE)
 
+> ⚠️ **[THIS TABLE — C5 CONSEQUENCE — 2026-05-29]** Kuyen is dead (C3). Scene 4 as written is impossible. See `assets/arc-review-plan.md` for replacement options: the same pressure (urgency toward the pit, the eastern segment weakening) arrives via Saens's notes, the goat, or La Llorona. The eastern panel asymmetry carries forward **unresolved** into C6, C7, and C8 where it becomes the entity's primary attack vector. The Mandinga deal PCs reading Saens here feel the debt made literal.
+
 If investigators travel to the camp (possible detour, or they find Kuyen's messenger waiting at the ruins):
 
 Kuyen has sent word: something changed last night. The entity tested the eastern segment of the binding three times in four hours. Nahuel held but she could see it costing him. *"We need to move to the pit. We have days, not weeks."*
@@ -183,6 +187,11 @@ This creates the pressure that drives the investigators back to the estancia for
 | Marta's geometry tracing | She knows the complete dual diagram — can draw it from memory |
 | Kuyen's warning | Days, not weeks. The entity is pressing harder. |
 | Quirce incoming | Aldao Quirce is one day from the estancia. Don Eusebio is afraid of why. |
+
+> **[THIS TABLE — C5 CONSEQUENCE — 2026-05-29]**
+> "Kuyen's Warning" (Scene 4) does not run. The urgency toward the pit is delivered through other means — Saens's notes, the goat's behavior at the ruins, La Llorona's eastward passage felt by Marked PCs. The eastern panel asymmetry is NOT corrected at any point in Arc 2; it persists into C8 where the entity exploits it immediately.
+>
+> **Reader-path note**: Confirm at table whether a PC read page 79 aloud (see seed note above). If yes: note which PC. This unlocks the Use ending in C12. If no PC read it aloud, Use is unavailable and only Hide/Destroyed are on the table in C12.
 
 ---
 

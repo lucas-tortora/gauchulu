@@ -67,6 +67,8 @@ The ritual has five phases. The first three (or fewer, if Chapter 8 had complica
 
 He tells her the truth, whatever it is. If he cannot hold it alone, he says so now. This is the point where the focal anchoring decision becomes critical.
 
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel both dead. Replace: Mercedes walks the outer ring checking positions. She stops at the center position — Don Eusebio, or the PC anchor — and looks at them. She says nothing. They know what she's asking. The scene's function is the same: the check before the final phase, the honest answer about whether the center can hold. The question just lands differently without the thirty-year relationship behind it.
+
 **Options for Phase Five focal support**:
 
 1. **Nahuel solo, at limit**: He holds. But the final phase requires the focus to withstand the entity's maximum pressure — the moment of deepest resistance before the seal completes. At the limit, without support, a **POW (Hard)** check. On failure: he breaks concentration. The phase can be restarted (he recovers in 2 minutes) but the entity maps the failure point and the restart begins at higher pressure.
@@ -204,6 +206,8 @@ He leaves before sunrise. His notebook goes with him.
 
 If anyone rides to San Ruiz: Rosa is in her house, grinding corn. She looks up when they arrive. She does not ask what happened. She says: *"I felt it close. Around midnight."* She continues grinding. *"Sit down."*
 
+> ⚠️ **[THIS TABLE]** Rosa is hostile (C2 outcome — inner walls broken, seal destroyed on her watch, she blames the investigators). "Sit down" may not come. She felt the closing but that doesn't absolve anything. If the investigators tell her about Dolores — how her work at the seal was found and used — she may soften. If they don't mention Dolores, she stays cold. She knows the pit closed. She does not know they tried.
+
 If someone tells her what happened to Dolores — how her work was found, how Kuyen was told the eastern wall was incomplete, how the symbol in the clay was used — Rosa does not speak for a long time. Then she says: *"She was right all along. I knew she was right. I didn't help her enough."* 
 
 *(A pause.)*
@@ -229,8 +233,12 @@ The Luz Mala never appears at the estancia again.
 **Kuyen, the morning after**:
 > *"It will scar over. Land does. It won't be what it was."* She is already packing the leather panels — she will take them, and burn them, away from here.
 
+> ⚠️ **[THIS TABLE]** Kuyen dead — line not delivered. The leather panels are still there, unburned. Mercedes folds them once, looks at them, and sets them aside. She does not burn them yet. Later, without announcement, they are gone.
+
 **Nahuel, the morning after** (if alive and present):
 > *"I still feel the corners. They're quiet now. I think I always will — feel them, I mean. But it's like knowing where a door used to be. Not like standing in it."*
+
+> ⚠️ **[THIS TABLE]** Nahuel dead — line not delivered. The PC who anchored the center, if a PC did, says something like this instead. Or nobody says it, and the silence is its own version of the morning after.
 
 **Rosa** (if contacted, later):
 > *"Remember it. All of it. Even the parts you'd rather not. The ones who didn't make it deserve to be remembered by someone who was there."*
@@ -265,6 +273,19 @@ The Luz Mala never appears at the estancia again.
 - And beneath all of it, quietly: the land is just land again. It took work. It always takes work.
 
 ---
+
+> **[THIS TABLE — C9 CONSEQUENCE — 2026-05-29]**
+> Kuyen and Nahuel's morning-after lines are struck. The ritual succeeded without trained personnel — that weight belongs to the investigators and Don Eusebio.
+>
+> Rosa is hostile when approached (C2 outcome). The "Sit down" scene is harder to earn. Mentioning Dolores's role in the closing may unlock it.
+>
+> Mandinga deal PCs: the moment the pit seals, the wound closes cleanly. The debt is honored. The spell remains. This is a private moment — note it to those two players when the seal completes.
+>
+> Concepción's humming callback (Don Eusebio's line in C7 about her cousin) does not run — she died at the pit in C1.
+>
+> The travel montage (expansion) runs without Kuyen and Nahuel. The goat in the San Ruiz well (six pupils, three per eye) runs as written. The fig tree at the Jesuit ruins runs as written.
+>
+> Campaign Seeds: "Padre Saens's network / Kuyen's people carry the tradition" — the tribe is dead. The tradition is interrupted. What the PCs carry forward from Saens's manuscripts and the bone chamber is what remains. Note this as a permanent consequence.
 
 ## CAMPAIGN SEEDS (For Future Play)
 
@@ -331,6 +352,8 @@ He rides out alone. The next time the players see him is **Chapter 11**, in Buen
 
 The aftermath in the existing prep covers the survivors at the estancia and Rosa at San Ruiz. In the expanded version, add a brief **travel montage** at the very end of the chapter.
 
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel dead — they do not ride parallel. Travel montage runs with: Mercedes in the carriage with Don Eusebio (if he came), the Wrong Returned (Héctor/Marta if alive), and the investigators.
+>
 > *Three days later. The party rides east. Mercedes is in a hired carriage with Don Eusebio (if he came), and Saúl Carrasco's empty saddlebag tied to her own saddle. Kuyen and Nahuel ride parallel. Marta and Héctor are with them — they wanted to see Buenos Aires once before the geometric alignment finished fading from them. Silvio is back at the estancia, tending the corrals, healing.*
 >
 > *On the first afternoon east, the party passes through San Ruiz. Rosa is in the square, alone, sweeping the ground in front of the chapel. The goat is still in the well. As the party passes the well, the goat looks up. **A Marked PC who looks down at her sees, for the first time, that she has six pupils — three in each eye — arranged in a line.** No one else sees this. The Marked PC also realizes, in the same look, that the goat has been watching the campaign all along, and that she will be there when they ride back, and when their grandchildren ride back. Rosa, without looking up from her sweeping, says: "Adios, gente. Buen viaje." — "Goodbye, people. Safe journey." She does not stop sweeping. The party rides on.*

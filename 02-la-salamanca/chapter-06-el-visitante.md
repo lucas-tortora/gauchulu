@@ -163,6 +163,8 @@ The chapter ends with the group assembled: investigators, Don Eusebio, Quirce, S
 
 Kuyen is waiting at the pit. Nahuel is with her. His condition has worsened — he is functional but the circles under his eyes have deepened and he flinches at shadows in ways he didn't before.
 
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This scene's closing beat does not run. Replace with Don Eusebio at the pit rim — see arc-review-plan.md C6 final scene replacement.
+
 > *The south pasture at dusk. The cattle field — the carcasses now collapsed and dried, the circle of them still present. The grass rings, the dead center. The pit.*
 >
 > *Something about the light is wrong here in the evenings now. The shadows fall slightly early, as if the sun is being bent around the geometry before it sets. Kuyen is standing at the pit's edge. She sees the group coming from two hundred meters away and her expression does not change.*
@@ -216,6 +218,18 @@ Kuyen is waiting at the pit. Nahuel is with her. His condition has worsened — 
 | Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta, Kuyen, Nahuel — all at the pit |
 | Kuyen's timeline | Tomorrow night. Not optional. |
 
+> **[THIS TABLE — C6 CONSEQUENCE — 2026-05-29]**
+> Final scene and "Kuyen's timeline" do not run — Kuyen and Nahuel are both dead. The closing ritual has no trained director and no trained anchor. Don Eusebio stands at the pit rim instead; his offer to stand in the outer ring is the chapter's true closing beat.
+>
+> The eastern panel asymmetry introduced by Quirce (via the Wizard) is **not corrected** — Kuyen's confrontation in the expansion scene runs differently (see below). The asymmetry carries forward as an active threat into C8.
+>
+> | Status carried into C7 | Detail |
+> |---|---|
+> | Ritual leadership | Vacant. Don Eusebio, Mercedes, Marked PCs, Wrong Returned are the available personnel. |
+> | Eastern asymmetry | Unresolved. Entity's primary attack vector in C8. |
+> | Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta. No Kuyen, no Nahuel. |
+> | "Tomorrow night" | Still the timeline — but without Kuyen to drive it, Don Eusebio sets it. |
+
 ---
 
 ## EXPANSION NOTES — BRIDGING TO THE OVERVIEW FRAMING
@@ -265,6 +279,8 @@ The players cannot yet act on it. Quirce will deny. But they have heard the name
 > This second whisper is **the Great Wizard of Salamanca**, not El Patrón. **Two masters are using Quirce, and they do not coordinate.** The Wizard rides Quirce's marginalia (see *Kuyen's Confrontation* below); El Patrón rides his voice. The Wizard's whisper here is the players' first audible signal that there is a second hand on Quirce's strings — important when Mercedes' Arc 3 letter (C8) and Saúl Carrasco's Coypac intel start naming "twelve priests" and a tall man in ochre. The *ochre* is the Wizard. **SAN 0/1** for the player who hears it.
 
 ### NEW SCENE — KUYEN'S CONFRONTATION OF THE WIZARD'S WORK
+
+> ⚠️ **[THIS TABLE]** Kuyen is dead. Scene runs differently: a **Marked PC** inspecting the panels notices the asymmetric line (geometry perception). Or Marta, tracing the diagram with her finger in the dark, stops and says the same thing in Kuyen's place. The recognition still lands; the voice is different.
 
 Add this in the assembly at the pit at chapter's end. As Kuyen lays the leather panels for tomorrow's closing, she pauses on one panel — the asymmetric one Quirce "corrected." She stares at it for a long moment and then says, without looking up:
 

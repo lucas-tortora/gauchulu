@@ -117,9 +117,11 @@ This line is not spoken to investigators directly — Don Eusebio quotes it in h
 ---
 
 ### KUYEN
-**Appears in**: Chapters 3–9; if alive, Chapters 10–12 (rides east with the party)
-**Location**: Dry creek bed encampment (C3–C5); On the move (C5–C6); The Pit camp (C7–C9); Inocencia's boarding house and the Riachuelo cordon (C10–C12)
-**Role**: The true defender. The ritual leader. The voice of consequence. In Arc 4: the architect of the city-scale binding cordon during the transport.
+**Appears in**: ~~Chapters 3–9; if alive, Chapters 10–12~~ — **[THIS TABLE] DEAD. Died C3 holding the eastern line.**
+**Location**: ~~Dry creek bed encampment (C3–C5); On the move (C5–C6); The Pit camp (C7–C9); Inocencia's boarding house and the Riachuelo cordon (C10–C12)~~ — Creek bed. Body at the eastern ochre line.
+**Role**: The true defender. The ritual leader. The voice of consequence. **At this table: the only person who understood the full closing sequence. Her death is the campaign's central complication from C4 onward — the investigators must find another path to the pit closing without her.**
+
+> **[THIS TABLE — C3 — 2026-05-24] KUYEN IS DEAD.** Died on the eastern line in the final moments of R4. Moved to hold the position herself when no one else did in time. Completed a partial symbol. Took the full distortion load from the Hound's passage. Something closed — not enough, but something. She did what she said she would do. The creek bed is where she is.
 
 **Quick Description**: 52, Mapuche. Silver-grey hair in two braids. Face that is not hard but *still* — the stillness of someone doing something difficult for a long time without stopping. Heavy wool, riding pants, worn boots. Small pouch of ground pigments at her belt. Hands always available for symbol work — she does not gesticulate.
 
@@ -149,9 +151,11 @@ The most powerful moment: if an investigator says *"We were working for the man 
 ---
 
 ### NAHUEL
-**Appears in**: Chapters 3–9; if alive, Chapters 10–12
-**Location**: Dry creek bed encampment → Pit camp → Ritual center; if he survives Arc 3, the Riachuelo cordon (C12) as a co-anchor for the moving binding
-**Role**: The ritual focus. The most vulnerable person. The entity's intended pressure point.
+**Appears in**: ~~Chapters 3–9; if alive, Chapters 10–12~~ — **[THIS TABLE] DEAD. Died C3 at the ritual center.**
+**Location**: ~~Dry creek bed encampment → Pit camp → Ritual center~~ — Creek bed. Center of the ochre diagram.
+**Role**: The ritual focus. The most vulnerable person. The entity's intended pressure point. **At this table: died when the working collapsed. Had been holding the focus for 23 days. The entity was using him as a classification point — it found him interesting. His last line: *"I thought it would feel like being erased. It just felt like being categorized."***
+
+> **[THIS TABLE — C3 — 2026-05-24] NAHUEL IS DEAD.** Died at center when the working collapsed at end of R4. The entity did not kill him the way weapons kill — the geometry simply stopped being organized around him. 23 days as ritual focus. He did not crack; the working cracked around him. The C8 co-anchor slot is now vacant. Don Eusebio is the only remaining candidate.
 
 **Quick Description**: 24 years old. Lean, angular features. Dark circles so deep they look bruised. Kneeling at the symbol center, arms at sides, eyes fixed on something not present. Breathing shallow, dangerously controlled. Ochre geometric patterns traced on his palms — smudged from constant redrawing. Shadow falls in the wrong direction from the firelight.
 

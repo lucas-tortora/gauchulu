@@ -63,7 +63,7 @@ A natural player question, the moment they realize El Patrón (or his proxy) has
 
 > *"He can open the lock. The vault will not let him enter. This whole room — the circle on the floor, the three hundred and forty-four Keepers, the stone brought from the north — is a drawing, and the drawing contains him as much as it contains the book. While the book is below, inside the drawing, he can touch the chest but cannot take it. The book leaving, crossing the street, is the only thing that lets him complete the drawing outside and claim it. That is why he needs *us* to move it. That is why he has spent forty years pushing us to move it."*
 
-This reframes the entire C11–C12 plan. The transport is not a *security problem* — it is the very condition El Patrón has been engineering. The Keepers are moving the book *anyway* because the alternative (leaving it under a containment that is now warm-going-hot) is worse. They are walking into the trap with eyes open, banking on Kuyen's cordon and Galíndez's fifteen men and the players' Marks to break the geometry *during* the transport.
+This reframes the entire C11–C12 plan. The transport is not a *security problem* — it is the very condition El Patrón has been engineering. The Keepers are moving the book *anyway* because the alternative (leaving it under a containment that is now warm-going-hot) is worse. They are walking into the trap with eyes open, banking on Kuyen's cordon and Galíndez's fifteen men and the players' Marks to break the geometry *during* the transport. ⚠️ **[THIS TABLE]** Kuyen dead — cordon is improvised via Marta + Marked PCs. See Scene 5 note below.
 
 **Galíndez, after a beat**: *"Entonces estamos jugando su juego, pero con nuestras reglas."* — *"So we are playing his game, but with our rules."*
 
@@ -214,6 +214,8 @@ They have been here since Chapter 10's missing-ally moment. The Cursed Gaucho di
 She has been preparing the ritual all day. It is similar to the Arc 1 binding but at city scale — leather panels held by hand, drawn at sequential corners along the route, activated by her presence and Nahuel's (if alive) and the surviving Wrong Returned's (if Marta or Héctor lived through Arc 3). The ritual will create a moving cordon ten meters around the carriage that El Patrón's surface manifestations cannot easily cross.
 
 **This is the players' single largest advantage in Chapter 12**, and it depends on their having brought tribal allies through to Buenos Aires alive.
+
+> ⚠️ **[THIS TABLE — C11 CONSEQUENCE — 2026-05-29]** Kuyen is dead. The cordon ritual exists at this table but is improvised: **Marta** (if alive, partial geometric alignment, traced the complete dual diagram from memory in C9) leads the panel placement guided by Marked PCs' city-geometry perception. The cordon is less stable — each failure at the three weak points costs more. A Mandinga-deal PC with Marca del Dueño/Warding can substitute their ward for one panel leg, hardening one weak point equivalently to a Kuyen panel. The "single largest advantage" is available but diminished. Plan around this.
 
 ---
 
@@ -408,3 +410,8 @@ The chapter ends in Inocencia's parlor at 12:30 AM. Bread on the table. Pencil o
 | El Patrón's offer | Move the book and live. Refuse and he breaks the vault. He is telling the truth, mostly. |
 | The pencil on the chair | A gift, or a joke. No mechanical effect. Carry it. |
 | The witness-stone in the bedroom | Hot. The clock has started. |
+
+> **[THIS TABLE — C11 CONSEQUENCE — 2026-05-29]**
+> Cordon ritual is improvised (Marta + Marked PCs, no Kuyen). The players' largest structural advantage is present but diminished. Warding (Mandinga spell) covers one weak point if a deal-PC uses it.
+>
+> Mandinga-deal PCs: the pit closed in C9. The debt is paid. The spells they carry have been earned and cost nothing further. They are, at this point, the most practically prepared players in the room.

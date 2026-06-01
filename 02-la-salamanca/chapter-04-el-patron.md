@@ -24,6 +24,8 @@ The estancia has changed in one visible way: the gates are closed and bolted. Tw
 
 **What he doesn't know**: That they have the complete binding symbol. That they've read Dolores's message. That Rosa told them everything. He is still operating on the assumption that he controls the information.
 
+> ⚠️ **[THIS TABLE]** The party reaches the estancia by riding **back west through San Ruiz** (creek bed → San Ruiz → estancia). Run the **first Rosa-repair beat** on that leg — see `assets/arc-review-plan.md` → C4 "San Ruiz pass-through." Rosa is hostile; they return the stone-fragment and tell her La Llorona is loose, but she **withholds the complete symbol** until they can say they're riding to the pit to *close* it (paid off on the second pass, pre-C7). So at this table the party does **not yet** have the complete binding symbol — they have the 75% stone-fragment + Rosa's conditional promise. Correct "they have the complete binding symbol" above accordingly.
+
 ---
 
 ## THE ESTANCIA — CHANGED
@@ -229,6 +231,13 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 | Don Eusebio's diagrams | He has been trying to find an alternative. There is none. He knows this. |
 | The Wrong Returned at the fence | Héctor and Marta, drawn back from Tres Lagunas. Coming home for something. |
 | Aldao Quirce | A "scholar" from Buenos Aires. Don Eusebio contacted him. His response contained advance knowledge. |
+
+> **[THIS TABLE — C4 ENTRY — 2026-05-29]**
+> PCs arrive after the C3 failure — ritual failed, Hound escaped, Nahuel and Kuyen dead, tribe dead. Two PCs fled under temporary insanity; one fled by rational choice. All three are marked by what they witnessed (two literally, with permanent geometry perception).
+>
+> **Concepción is dead at this table.** She died at the pit in C1. The line "Don Eusebio sent her to a cousin's house in Azul" does not run. When Tomás mentions her, he says only that she hasn't been seen since the night of the trouble — he doesn't know what happened. Don Eusebio knows. He cannot say it. The PCs who were at the pit know. Whether they speak it aloud to Tomás or Don Eusebio is their choice. If they do, Don Eusebio goes still in a way that confirms rather than refutes.
+>
+> Downstream: Don Eusebio's C7 confession changes (he confesses she died, not that she was spirited away safely). The C9 humming callback does not land as written.
 
 ---
 

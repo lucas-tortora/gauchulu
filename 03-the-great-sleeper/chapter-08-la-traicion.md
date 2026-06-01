@@ -9,6 +9,30 @@
 
 ## OPENING SITUATION
 
+> **[THIS TABLE — C8 CONSEQUENCE — 2026-05-29]**
+> **Kuyen and Nahuel are both dead. The opening situation as written is invalid.**
+>
+> What this table has instead: Don Eusebio, who spent the night at the dual-diagram stone tracing the symbol with his finger. Marta (Wrong Returned), who can draw the complete dual diagram from memory and holds the geometry in her body. Héctor (Wrong Returned), eastern position. Mercedes, who carries Keeper tradition knowledge. Two Marked PCs who can perceive the geometry. Silvio on northern watch.
+>
+> **Nobody trained leads this ritual.** It is built from fragments: Saens's manuscript, the carved stone, the Mandinga-deal PCs' Warding spell (if used), and what the Marked PCs can feel. The ritual will be less precise. It will also be more theirs.
+>
+> **Restructured positions:**
+>
+> | Position | Written default | This table |
+> |---|---|---|
+> | Center anchor | Nahuel (trained, three weeks as focus) | Don Eusebio (opened the wound; the geometry knows him) or a Marked PC who volunteers |
+> | Ritual director / panel layer | Kuyen (mobile, expert) | Mercedes guides; Marta places by feel; Marked PCs adjust |
+> | Eastern position | Kuyen doubles back | Héctor (partial alignment) or a PC |
+> | Western position | Héctor (Wrong Returned) | Marta (Wrong Returned) or a PC |
+> | Northern watch | Silvio | Silvio (unchanged) |
+> | Southern ring | Don Eusebio | Don Eusebio (unchanged — Scene 4 runs exactly as written) |
+>
+> **Eastern asymmetry:** If not corrected in C7, it activates by Phase 2 at the latest. The entity knows the gap and uses it immediately. A Warding spell (Mandinga) at the eastern position partially seals the gap but does not substitute fully.
+>
+> **Don Eusebio as center anchor:** The most dramatically correct choice. The man who opened the wound, closing it from inside. His POW is lower than Nahuel's would have been — the entity presses him harder, and the Round 2 offer (entity shows him what the closing will do) is not "you will lose a geometric sense" but "the land will be ordinary again and you will have to live in it knowing what you cost it."
+>
+> **Scene 4 (Don Eusebio in the ring) runs exactly as written.** His placement in the southern outer ring, the entity's recognition of him, his "No" — unchanged. This is the chapter's emotional spine regardless of who leads the ritual.
+
 Morning after the eve. The group prepares. Kuyen draws the final binding panel at dawn. Nahuel redraws his palm markings. Silvio, Héctor, and Marta take positions at the outer edge of the pit's boundary without being asked — they know where they need to stand.
 
 The ritual is scheduled for dusk — the same hour Kuyen used for the partial bindings, when the light makes the geometry of shadows longest and the entity's ability to move through surface angles is slightly compromised. Six hours remain.
@@ -37,7 +61,7 @@ He is not in distress. He is considering.
 
 This is, in its way, an act of courage. Not heroism. But the deliberate choice to be present in a moment he is terrified of, and the need to have a witness to that choice.
 
-**Roleplaying hook**: The investigator's response here matters. If they acknowledge what he said without dismissal or false comfort — *"I know"*, or *"Then be there tonight"* — Don Eusebio will stand in that outer ring without flinching when it comes. If they dismiss him or respond with contempt, he will still stand in the ring, but he will be fighting himself as well as the entity's pressure, and Kuyen will feel that in the geometry.
+**Roleplaying hook**: The investigator's response here matters. If they acknowledge what he said without dismissal or false comfort — *"I know"*, or *"Then be there tonight"* — Don Eusebio will stand in that outer ring without flinching when it comes. If they dismiss him or respond with contempt, he will still stand in the ring, but he will be fighting himself as well as the entity's pressure, and Kuyen will feel that in the geometry. ⚠️ **[THIS TABLE]** Kuyen dead — replace "Kuyen will feel that in the geometry" with "the geometry will feel it — the outer ring loses coherence at the southern position."
 
 ---
 
@@ -72,8 +96,8 @@ He is not trying to disrupt the ritual. He is trying to observe from the inside.
 Kuyen leads everyone to their positions. The leather panels are laid in the pit's upper ring — the complete binding geometry in sections that interlock. As each piece is placed, the glow in the blood arcs below intensifies slightly, as if the new geometry is resonating with the existing pattern.
 
 **Positions**:
-- **Nahuel**: Center of the symbol. Kneeling. Arms at his sides. Eyes open.
-- **Kuyen**: Mobile, moving between sections, maintaining the symbol, the working in her hands and voice.
+- **Nahuel**: Center of the symbol. Kneeling. Arms at his sides. Eyes open. ⚠️ **[THIS TABLE]** Dead — replaced by Don Eusebio or a Marked PC volunteer.
+- **Kuyen**: Mobile, moving between sections, maintaining the symbol, the working in her hands and voice. ⚠️ **[THIS TABLE]** Dead — replaced by Mercedes guiding, Marta placing panels by feel.
 - **Héctor and Marta**: Eastern and western anchor positions in the outer ring. They stand without instruction, as if they've been to a rehearsal the investigators weren't invited to.
 - **Silvio**: Northern position. He stands with his back to the ritual, facing outward — he is not maintaining the symbol, he is listening for the entity's movements in the geometry and will call direction if it approaches.
 - **Don Eusebio**: Southern outer ring position — closest to the pit's edge on the side where the opening is strongest. Kuyen has placed him there deliberately. He knows it. Before the ritual begins, while Kuyen is still moving the panels, Don Eusebio stands at his position. He removes his hat. He looks at the dead grass within the bowl — the same grass he has not been able to look at squarely for eight months. He says, quietly, as Tomás once said it at the rim of this same pit:
@@ -117,7 +141,7 @@ Kuyen sees this. She begins counter-drawing faster.
 The moment Quirce crosses the outer ring boundary, several things happen:
 
 1. Silvio turns around. He is facing inward now instead of outward. He says, very quietly: *"Someone is inside the ring who shouldn't be."*
-2. Nahuel's breathing changes. The ochre patterns on his palms begin to blur — not wash away, blur, as if the geometry they represent is being distorted near the inconsistency.
+2. Nahuel's breathing changes. The ochre patterns on his palms begin to blur — not wash away, blur, as if the geometry they represent is being distorted near the inconsistency. ⚠️ **[THIS TABLE]** Replace with: the center of the symbol — anchored by Don Eusebio or the PC volunteer — begins to drift. The eastern asymmetry (uncorrected since C6) activates at this moment.
 3. The entity stops extending the carved lines and locates the inconsistency in approximately 15 seconds.
 
 **If investigators act immediately** (pull Quirce out or physically replace him with a correct participant):
@@ -204,6 +228,21 @@ The chapter ends not at resolution but at a sustained crisis point. The ritual i
 | The outer ring integrity | Is it intact or was there a breach and recovery? |
 | Entity's mapped positions | The Marked investigator knows where the entity will press hardest in Chapter 9 |
 | Time remaining before dawn | This determines how much pressure Chapter 9 begins under |
+
+> **[THIS TABLE — C8 CONSEQUENCE — 2026-05-29]**
+> All Kuyen and Nahuel references are struck. The ritual leadership is improvised: Mercedes + Marta + Marked PCs. Don Eusebio anchors center or southern ring (see opening THIS TABLE block for restructured positions).
+>
+> Scene 4 (Don Eusebio in the ring) runs exactly as written — unchanged. This is the chapter's emotional spine.
+>
+> The expansion notes' "Kuyen leads everyone to positions" line is struck. The expansion's Mercedes between-phases speech still runs and is the most important scene in the expansion for this table — the Marked PC question ("¿Sentís lo mismo que yo?") is how the table acknowledges what the Marks have been doing all arc.
+>
+> Mandinga-deal PCs: the obligation is being honored tonight. If a Mandinga PC is using Marca del Dueño (Warding) at the eastern position, this is when the POW cost is paid. The geometry holds at that position better than anywhere else.
+>
+> | Status carried into C9 | Detail |
+> |---|---|
+> | Center anchor | PC or Don Eusebio — determine before C9 |
+> | Eastern segment | Warding helps but does not fully substitute for Kuyen's panel |
+> | Mandinga debt | Being paid tonight; seals at C9 closing |
 
 ---
 

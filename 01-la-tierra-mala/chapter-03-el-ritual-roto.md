@@ -5,7 +5,13 @@
 **Emotional Arc**: Guilt → Horror → Desperate Resolve
 **Key Seed**: Consequences are permanent. Knowledge you acted on incorrectly does not become retroactively innocent.
 
-> **[THIS TABLE — 2026-05-24] MODIFIED DAMAGE STATE.** The chapel seal was destroyed in C2. The eastern gap cannot be closed geometrically tonight — the clay symbol is buried under rubble. One investigator has a Major Wound. La Llorona is moving east and will be perceptible on the ride. The goat follows the party. **Read `TABLE-STATE.md` — C3 PREP section before running this chapter.** Kuyen's opening line: *"¿Qué tocaron en San Ruiz?"*
+> **[THIS TABLE — 2026-05-24] MODIFIED DAMAGE STATE.** The chapel seal was destroyed in C2. The eastern gap cannot be closed geometrically tonight — the clay symbol is buried under rubble. One investigator has a Major Wound. La Llorona is moving east and will be perceptible on the ride. The goat follows the party. Kuyen's opening line: *"¿Qué tocaron en San Ruiz?"*
+>
+> **Cata — eastern anchor**: The eastern gap is occupied by an unwilling human anchor (Cata, late teens, wrists bound to stakes). See `assets/ritual-diagram-c3.md` for the full decision tree and Cata's escape attempt mechanics.
+>
+> **4-round structure**: This table ran 4 rounds (Chaos / Testing / Penetration / Climax) rather than the canonical 3. Round structure and Cata escape rolls by round in `assets/ritual-diagram-c3.md`. Goat intervention window: R3 if deal was made.
+>
+> **Mandinga sequence**: Two PCs near death post-ritual. Full scene in `assets/mandinga-sequence.md`.
 
 ---
 
@@ -343,9 +349,36 @@ Don Eusebio knows the ritual worked. He knows investigators helped. He will be d
 | Object/Knowledge | Details |
 |---|---|
 | Don Eusebio's manuscript | Still in the locked study — the source document for the opening ritual |
-| The complete binding diagram | Now proven functional — investigators may have used it |
-| The Mark (if taken) | The entity noticed certain investigators; this persists |
-| Kuyen's surviving knowledge | She needs access to the pit for the final closing working |
-| Don Eusebio watching | He knows the investigators helped the tribe — he considers them enemies now |
-| Nahuel's condition | Psychologically fragile; possibly permanently affected by three weeks as ritual focus |
+| The complete binding diagram | Proven functional — the clay symbol is still buried under chapel rubble; Rosa controls access |
+| The Mark (if taken) | The entity noticed certain investigators; this persists — geometry perception, Hound always knows their position |
+| Kuyen's knowledge | She is the only person who understood the full closing ritual sequence |
+| Don Eusebio watching | He knows what happened at the creek bed — he considers investigators enemies |
+| Nahuel's condition | He was the ritual focus for 23 days |
 | The incomplete eastern wall (chapel) | Still unresolved — the binding there was never finished |
+| The creek bed | Now a permanent focal point regardless of outcome |
+| La Llorona | Moving east toward the pit — will arrive there before C7 |
+| The goat | Follows the party; Mandinga deal active if taken |
+
+---
+
+> **[THIS TABLE — C3 OUTCOME — 2026-05-24] THE RITUAL FAILED.**
+>
+> **What happened:**
+> - The Hound passed through. All four rounds ran; the eastern position was not held in time.
+> - **Nahuel: DEAD.** Died at center when the working collapsed. The entity was using him as a classification point. He had been holding for 23 days. He did not crack — the working cracked around him.
+> - **Kuyen: DEAD.** Died on the eastern line in the final moment — she moved to hold it herself when no one else did, completed a partial symbol, and took the full distortion load. She got something closed. Not enough.
+> - **Tribe: ALL DEAD.** The two survivors from R1 did not survive the collapse.
+> - **2 PCs: MARKED.** Took damage from the Hound's distortion field and survived. Geometry perception is permanent. The Hound knows their position at all times. Dawn scene applies — run privately with each Marked PC before C4.
+> - **All 3 PCs fled.** Two due to temporary insanity (determine which condition — phobia, amnesia, or violence as appropriate per SAN loss). One fled because it was the rational thing to do. Nobody is ashamed of leaving. The creek bed was no longer survivable.
+> - **2 PCs accepted Mandinga's deal** (chalice, SAN 1D5 each). Wounds closed. The deal stands: must be present at the pit closing and must not obstruct it. The ritual failing does not cancel the debt — Mandinga hired them to close a pit, not to run a ritual. The pit is still open. The obligation is still running.
+>
+> **What this changes going into Arc 2:**
+>
+> | Loss | Downstream consequence |
+> |---|---|
+> | Kuyen dead | The only person who understood the full closing sequence is gone. Rosa has the diagram but will not cooperate. The Great Wizard knows a version but it is El Patrón's version. The investigators need another path to the closing — and they no longer have a guide. |
+> | Nahuel dead | No co-anchor available for C8. Don Eusebio's C7 confession becomes the only remaining anchor candidate — a man with nothing left to lose. |
+> | Tribe dead | No living counter-ritual. The entity's pull on the region is now unopposed until the investigators act. |
+> | Creek bed focal point | Permanent. The geometry here is thinner than anywhere else in the campaign area. If the party passes through again, things will be different. |
+> | 2 Marked PCs + Mandinga deal | The deal PCs are tethered to the closing. The Marked PCs are tethered to the entity. These are not the same obligation and they will pull in different directions at least once before C8. |
+> | Zonda | Intensifying. The entity is measurably closer to full ingress. This is not abstract — weather, animals, and people in the region will reflect it from C4 onward. |
