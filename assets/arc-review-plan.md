@@ -201,25 +201,9 @@ Add at: end of CLUES CARRIED FORWARD.
 | Mandinga debt PCs' wounds | Add: the night before the closing, the wound re-opens slightly as a reminder of the obligation | THIS TABLE note: on the eve of the ritual, Mandinga PCs feel the wound warm |
 | Creek bed as focal point | Existing text should already acknowledge this from C3 | Confirm — no new action |
 
-#### Don Eusebio confession replacement
+#### Confession + Nahuel/Kuyen scene replacements → **moved to the chapter file**
 
-Original: Don Eusebio reveals Concepción was sent away and is safe, ending the scene with the sound of her humming.
-
-This table: Don Eusebio tells the truth. He watched her fall. He has been unable to say this aloud. The scene becomes a confession of absence, not a revelation of survival. *"She stopped humming the moment she crossed the rim. I was too far away. I have been too far away the whole time."*
-
-The C9 callback (the humming from inside the pit) is no longer a reunion — if it runs at all, the humming is a ghost-trace, not comfort. Note this in C9.
-
-#### Nahuel/Kuyen scene replacements
-
-These are the pre-ritual conversations on the evening before the closing. Originally: Kuyen tells the PCs what the night will require; Nahuel says goodbye in his way.
-
-This table, no such conversations happen from those two. The gap is real and should be felt. The PC who was closest to Kuyen in arcs 1–2 has nobody to speak to tonight. The slot where Nahuel would have been quiet in the firelight is empty.
-
-What fills it:
-- **Don Eusebio** is now the primary pre-ritual NPC conversation. He's carrying both his own weight and the weight of what Kuyen and Nahuel would have said.
-- **Mercedes** (if her arc has been established by C7) has a version of the ritual she can explain.
-- **The Marked PCs** receive the entity communication — this is their version of "being told what the night will require." The entity is less informative and more threatening, but the channel is open.
-- **Marta or Héctor** (Wrong Returned) can stand in the outer-ring positions without speaking — their presence in the fire-light is its own version of Nahuel's quiet goodbye.
+The runnable replacements now live in `03-the-great-sleeper/chapter-07-la-vispera.md` as the **source of truth**: the Don Eusebio confession (Concepción died — grief, not relief), and the struck Nahuel/Kuyen pre-ritual conversations (Don Eusebio becomes primary interlocutor; Mercedes can explain the ritual; the Marked PCs receive the entity communication directly; the Wrong Returned's silent fire-light presence stands in for Nahuel's goodbye). Edit them there, not here. Design rationale: the loss of both teachers must be *felt* as an empty slot, and the information they carried is redistributed to Eusebio / Mercedes / the Mark.
 
 #### THIS TABLE note to add
 
@@ -255,29 +239,9 @@ Add at: end of CLUES CARRIED FORWARD.
 | Expansion: "Cursed Gaucho by Kuyen's decision" | Kuyen dead — change to Don Eusebio authorizing | Minor annotation |
 | The 5-phase mechanic tied to Kuyen's working | Needs adjustment: who is "doing the working" | THIS TABLE structural note |
 
-#### Opening situation replacement
+#### Opening situation replacement + restructured positions table → **moved to the chapter file**
 
-*Instead of: Kuyen draws at dawn, Nahuel redraws palm markings, the ritual is in place.*
-
-**This table opening:**
-
-There is no trained practitioner to lead this ritual. What there is: Don Eusebio, who has spent the night at the dual-diagram stone from the Jesuit ruins, tracing the symbol by candlelight with his finger, not touching it, just reading it. The Marked PCs, who can perceive the geometry of the pit and feel where the panels should go. The Wrong Returned (Héctor, Marta), who carry the geometry inside them from their months in the field and can hold a position with their body even if they cannot draw the symbol. Mercedes, who read Saens and can speak the Keeper tradition's version of the directions.
-
-The ritual will be less precise. It will also be more theirs. The PCs are not supporting a ritual — they are building one from fragments and obligation.
-
-**Restructured positions table (C8 this table):**
-
-| Position | Default (written) | This table |
-|---|---|---|
-| Center anchor | Nahuel | *Vacant until a PC volunteers to step in* — or Don Eusebio (most meaningful, but weakest anchor; the entity will press him hardest) |
-| Ritual director / panel layer | Kuyen (mobile) | Mercedes guides; Marked PCs adjust by perception; panels are laid by whoever is not in a fixed position |
-| Eastern anchor | Kuyen doubles back | Héctor (partial alignment) or a PC |
-| Western anchor | Héctor (Wrong Returned) | Marta (Wrong Returned) or a PC |
-| Northern watch | Silvio | Silvio (unchanged) |
-| Southern outer ring | Don Eusebio | Don Eusebio (unchanged — his scene still runs as written) |
-| Eastern asymmetry threat | Corrected in default run | **Not corrected** — the entity targets the eastern gap in phase 2 or earlier |
-
-**Mandinga spell application:** A PC with Marca del Dueño/Warding (5 POW permanent, 1m diameter, entities need contested POW to cross) can substitute for a panel at one position. The ward functions as a fixed anchor point. Cost is paid, the obligation is being honored, the geometry holds at that position better than anywhere else tonight.
+The runnable opening replacement ("no trained practitioner" — Don Eusebio at the dual-diagram stone, the Marked PCs, the Wrong Returned, Mercedes) and the full **restructured positions table** now live in `03-the-great-sleeper/chapter-08-la-traicion.md` as the **source of truth**, in the consequence block at OPENING SITUATION. The Mandinga-Warding substitution (5 POW, 1m, contested POW to cross → substitutes for one panel/anchor) is recorded there too. Edit them there, not here. Design rationale: the leadership vacuum *is* the chapter's defining pressure; the ritual is built from fragments and obligation, which is the point.
 
 #### THIS TABLE note to add
 
@@ -368,15 +332,9 @@ Arc 4 is partially self-aware about Arc 3 outcomes ("depending on Arc 3 outcomes
 | "Kuyen and Nahuel ride parallel" | Both DEAD | Already flagged in C9 — they don't arrive in Buenos Aires |
 | "This is the players' single largest advantage in Chapter 12" (the cordon) | If Kuyen is dead and no tribal allies survived, the cordon as written cannot function | THIS TABLE structural note: the cordon can still work with Marta/Héctor + Marked PCs + Mandinga spell |
 
-#### Cordon scene replacement (Scene 5 tannery)
+#### Cordon scene replacement (Scene 5 tannery) → **moved to the chapter file**
 
-Original: Kuyen explains the cordon, is preparing leather panels, needs eight walkers.
-
-This table: There is no Kuyen. There is **Marta** (if she survived C9), who traced the complete dual diagram from memory in the dark in C9 — she is the only person present who can draw both opening and closing from direct experience. She is not a trained practitioner, but the geometry is in her hands the way it got into Nahuel's: by exposure. And there is a Marked PC whose perception of the city grid upon entry already told them it's a containment geometry.
-
-Marta, at the tannery, says: *"I don't know the words Kuyen used. But I know where the corners need to be. I can show you where to hold the panels. My body knows the right angles."* This is not the same as Kuyen's confident ritual direction. It is improvised geometry. It will hold, but it will be less stable. Every complication at the three weak points matters more.
-
-**If a PC has Marca del Dueño/Warding:** placing the ward at one of the three weak points is Kuyen's panel function at that corner. The PC's ward substitutes for one panel leg. This is the Mandinga spell paying off mechanically in Arc 4.
+The runnable replacement now lives in `04-buenos-aires-and-the-heist/chapter-11-la-decision.md` as the **source of truth** (the **THE CORDON, WITHOUT KUYEN** beat, with Marta's Spanish/English dialogue — *"No sé las palabras que usaba Kuyen. Pero sé dónde tienen que estar las esquinas… Mi cuerpo sabe los ángulos."* — and the Warding-substitutes-one-panel-leg rule). Edit it there, not here. Design rationale: with no Kuyen and no tribe, Marta is the only carrier of the complete dual diagram by direct experience; the cordon survives but improvised and less stable.
 
 #### THIS TABLE note to add
 

@@ -217,6 +217,12 @@ She has been preparing the ritual all day. It is similar to the Arc 1 binding bu
 
 > ⚠️ **[THIS TABLE — C11 CONSEQUENCE — 2026-05-29]** Kuyen is dead. The cordon ritual exists at this table but is improvised: **Marta** (if alive, partial geometric alignment, traced the complete dual diagram from memory in C9) leads the panel placement guided by Marked PCs' city-geometry perception. The cordon is less stable — each failure at the three weak points costs more. A Mandinga-deal PC with Marca del Dueño/Warding can substitute their ward for one panel leg, hardening one weak point equivalently to a Kuyen panel. The "single largest advantage" is available but diminished. Plan around this.
 
+> **THE CORDON, WITHOUT KUYEN** *(THIS TABLE — source of truth).* There is no Kuyen at the tannery and no tribal allies — only the Wrong Returned, if they lived. **Marta** does not explain the ritual the way Kuyen would have. She kneels over the leather panels and says:
+>
+> > *"No sé las palabras que usaba Kuyen. Pero sé dónde tienen que estar las esquinas. Les puedo mostrar dónde sostener los paneles. Mi cuerpo sabe los ángulos."* — *"I don't know the words Kuyen used. But I know where the corners need to be. I can show you where to hold the panels. My body knows the right angles."*
+>
+> This is not confident ritual direction. It is improvised geometry — it will hold, but it will be less stable, and every complication at the three weak points matters more. A Marked PC whose perception of the city grid on entry (C10) read it as a containment geometry can stand beside her and steady the placement. A Mandinga-deal PC with Warding places their ward at one of the three weak points: that corner hardens to the equivalent of a Kuyen panel leg — the spell paying off mechanically in Arc 4.
+
 ---
 
 ## SCENE 6 — DOÑA MERCEDES, ALONE
