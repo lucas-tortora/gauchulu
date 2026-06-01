@@ -15,7 +15,7 @@ This chapter moves outward from the estancia — following Saens's route in reve
 
 **Parallel thread**: Kuyen and Nahuel are not idle. If investigators check in with the camp (a half-day's ride from the estancia now), Kuyen is preparing the ritual components and watching Nahuel. She confirms: the two approaches they've completed have the entity contained but pressed. *"It's pushing. Every night harder than the last. We need the pit."*
 
-> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This parallel thread does not run. See Scene 4 note and arc-review-plan.md for replacement options (goat signal / Saens's late note / La Llorona as directional pull).
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This parallel thread does not run. The information it carried arrives instead through the encounter itself — see **SCENE 4 — THE WARNING, WITHOUT KUYEN** below (goat signal / Saens's late note / La Llorona as directional pull).
 
 ---
 
@@ -150,7 +150,7 @@ When she finishes, she says — not to anyone, in the way the Llorona spoke: *"F
 
 ## SCENE 4 — KUYEN'S WARNING (INTERLUDE)
 
-> ⚠️ **[THIS TABLE — C5 CONSEQUENCE — 2026-05-29]** Kuyen is dead (C3). Scene 4 as written is impossible. See `assets/arc-review-plan.md` for replacement options: the same pressure (urgency toward the pit, the eastern segment weakening) arrives via Saens's notes, the goat, or La Llorona. The eastern panel asymmetry carries forward **unresolved** into C6, C7, and C8 where it becomes the entity's primary attack vector. The Mandinga deal PCs reading Saens here feel the debt made literal.
+> ⚠️ **[THIS TABLE — C5 CONSEQUENCE — 2026-05-29]** Kuyen is dead (C3). Scene 4 as written is impossible — **do not run the version below.** The information it carries (urgency toward the pit, the eastern segment weakening) must arrive through the encounter itself. Use **THE WARNING, WITHOUT KUYEN** immediately below as the source-of-truth replacement. The eastern panel asymmetry carries forward **unresolved** into C6, C7, and C8 where it becomes the entity's primary attack vector. The Mandinga-deal PCs reading Saens here feel the debt made literal.
 
 If investigators travel to the camp (possible detour, or they find Kuyen's messenger waiting at the ruins):
 
@@ -159,6 +159,32 @@ Kuyen has sent word: something changed last night. The entity tested the eastern
 She also sends a question: *"Do you have access to the pit?" (Meaning: is Don Eusebio going to cooperate.)*
 
 This creates the pressure that drives the investigators back to the estancia for Chapter 6.
+
+---
+
+## SCENE 4 — THE WARNING, WITHOUT KUYEN *(THIS TABLE — source of truth)*
+
+Scene 4 exists to put one piece of information in the players' hands before the closing: **the eastern segment of the binding is the weak side, and it is already failing.** Kuyen would have delivered it. She is dead. The same information arrives through the ruins themselves. Choose one of the three deliveries below, or combine them — the pressure (urgency toward the pit; the east is giving way) must land regardless.
+
+**Delivery A — The goat.** The goat that has followed the party since San Ruiz has been watching the geometry all along. As the investigators emerge from La Salamanca / the carved stone with the dual-diagram knowledge, the goat is standing at the ruins entrance and will not move. A Marked PC who looks at her sees the six pupils (three per eye) tracing the same shape as the carved stone — and lingering on its **eastern arc**, returning to it, returning to it. She is reading the diagram. She has always been reading it. She holds still for perhaps thirty seconds, fixed on the east of the shape, then turns and continues following the party. No words, no explanation. The Marked PC understands they were just shown which side gives first.
+
+> **SAN Check** (Marked PC only, watching the pupils track): 0/1 — not terror, recognition.
+
+**Delivery B — Saens's late note.** In the bone chamber, among Saens's papers (already C5 canon), a Spot Hidden or a careful re-read surfaces a final marginal entry the investigators hadn't reached — a sketch of the pit at Estancia La Esperanza with the eastern segment circled twice, and beneath it:
+
+> *"El nudo del este siempre cede primero. La tradición de los Custodios lo llama el lado de la apertura — el que permite que algo entre, y el que necesita refuerzo antes del cierre. Sin ayuda en el este, el símbolo no cierra."*
+>
+> *"The eastern knot always gives first. The Keeper tradition calls it the opening side — the one that allows something in, and the one that needs reinforcement before the closing. Without help at the east, the symbol does not close."*
+
+This is, almost word for word, what Kuyen would have told them at the camp. It is now in a dead man's hand. The Mandinga-deal PCs reading this feel the obligation sharpen — they are being pointed, in Saens's voice, at the exact place their debt will come due.
+
+> **SAN Check** (reading it aloud): 0/1.
+
+**Delivery C — La Llorona as signal.** La Llorona, displaced from San Ruiz and moving east toward the pit (C2 outcome), passes near the Jesuit ruins during the investigators' time there. She cannot speak. She is not an ally and not a threat in this moment. But a Marked PC feels her passing as a **directional pull — east, toward the pit** — and in that pull the geometry of the creek bed and the burial pit lights up briefly in their perception, the eastern arc of it flickering like a flame that won't catch. No words. A map, and a warning about which line is thin.
+
+> **SAN Check** (Marked PC feeling the pull): 0/1.
+
+**Whichever delivery runs**, the takeaway the players leave the ruins with is identical to the original scene's: *move to the pit, days not weeks, and the east is the side that fails.* The difference is that no living teacher hands it to them — they read it off the world, which is the whole condition of this table.
 
 ---
 

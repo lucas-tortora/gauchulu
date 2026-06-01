@@ -22,7 +22,22 @@ Kuyen is preparing: drawing the binding symbol in sections on cured leather pane
 
 > ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). Opening situation is restructured: Don Eusebio, the Marked PCs, the Wrong Returned (Héctor/Marta), and Mercedes (if she has arrived) are the camp's roster. The leather panels are being laid out but nobody trained draws them. The ochre marks are absent — no one holds the center yet.
 
-> ⚠️ **[THIS TABLE]** **Where the binding symbol comes from.** On the ride to the pit the party passes **San Ruiz a second time** — the **Rosa-repair payoff** (see `assets/arc-review-plan.md` → Blocker 2, Tier 1). Their intent is now true: *going to the pit to close it.* Rosa lifts her grinding stone and hands over the complete symbol — *"No lo hago por ustedes. Lo hago por la que dejaron suelta."* If the party never circled back through San Ruiz, fall to **Tier 2**: the 75% stone-fragment + a Marked PC completing it by perception (requires a Marked PC to have stood at the C5 dual-diagram stone). The closing procedure itself comes from **Saens's manuscript read by Mercedes** (Blocker 1) — Kuyen's loss makes it slower and harder, not impossible.
+> ⚠️ **[THIS TABLE]** **Where the binding symbol comes from** — see the self-contained **SAN RUIZ — SECOND PASS** section immediately below. With Kuyen dead, the complete symbol no longer lives in her memory; it must be retrieved. The procedure that *uses* the symbol comes from **Saens's manuscript, read aloud by Mercedes** — Kuyen's loss makes the closing slower and harder, not impossible. Saens failed for lack of a second person, not lack of knowledge; the party is the second person he never had.
+
+### SAN RUIZ — SECOND PASS *(THIS TABLE — source of truth)*
+
+The creek bed (C3) is east of San Ruiz, which is east of the estancia. The westward return ran **creek bed → San Ruiz → estancia** in C4 (the cold first pass, where Rosa named her condition). Now, riding *to the pit to close it*, the party passes San Ruiz a second time — and this is where the complete binding symbol is recovered. Run the three tiers in order; each is a genuine fallback, so the closing is never hard-blocked by one cold NPC or one failed roll.
+
+**Tier 1 — Rosa hands it over (the earned path).** The party's intent is now true and present-tense: *we are going to the pit to finish what Dolores started.* That is the condition Rosa set on the first pass. She lifts her grinding stone and gives them the complete symbol scratched beneath it — **as a transaction, not forgiveness:**
+
+> *"No lo hago por ustedes. Lo hago por la que dejaron suelta."*
+> — *"I don't do this for you. I do it for the one you set loose."*
+
+If the party committed to the closing early and only passed San Ruiz once, fold this handover into that single pass.
+
+**Tier 2 — Reconstruct without Rosa (fallback).** If Rosa stays cold, or the party never circled back: the **chapel stone-fragment supplies ~75% of the diagram** (established C2). A **Marked PC who stood at the dual-diagram stone in the C5 ruins** can complete the remaining ~25% by perception — a Hard INT or Cthulhu Mythos roll, *one step easier* for the Marked per the Mark rules, or automatic if they "look hard" (raising the 2d6 Hound threshold for that scene per the cost rule). Saens's manuscript diagrams cover gaps the fragment lacks. Result: a **complete but slightly imprecise** symbol. *(Keep this warm: make sure at least one Marked PC stood at the C5 stone so this path exists.)*
+
+**Tier 3 — Proceed on a partial symbol (degraded, not a dead end).** If both above fail, the closing runs on an **incomplete eastern segment** — which is *already the established C8 threat* (the uncorrected eastern asymmetry). They unify: the improvised symbol's imperfection **is** the eastern gap the Hound attacks. The closing can still complete via a human anchor holding the east physically (a PC or Don Eusebio at the eastern line — the C3 pure-decision mechanic reused) or a Mandinga Warding placed there. Higher cost, uglier closing — but nobody dies *only* because a clue was missed.
 
 This chapter is about what happens in the hours before the ritual begins. It is also where the final fractures appear.
 

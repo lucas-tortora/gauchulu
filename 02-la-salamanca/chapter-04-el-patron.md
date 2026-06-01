@@ -24,7 +24,52 @@ The estancia has changed in one visible way: the gates are closed and bolted. Tw
 
 **What he doesn't know**: That they have the complete binding symbol. That they've read Dolores's message. That Rosa told them everything. He is still operating on the assumption that he controls the information.
 
-> ⚠️ **[THIS TABLE]** The party reaches the estancia by riding **back west through San Ruiz** (creek bed → San Ruiz → estancia). Run the **first Rosa-repair beat** on that leg — see `assets/arc-review-plan.md` → C4 "San Ruiz pass-through." Rosa is hostile; they return the stone-fragment and tell her La Llorona is loose, but she **withholds the complete symbol** until they can say they're riding to the pit to *close* it (paid off on the second pass, pre-C7). So at this table the party does **not yet** have the complete binding symbol — they have the 75% stone-fragment + Rosa's conditional promise. Correct "they have the complete binding symbol" above accordingly.
+> ⚠️ **[THIS TABLE]** Correction to the canonical framing above. At this table the party does **not** simply "return to the estancia knowing what they didn't know." They flee C3 in pieces and find their own way back — run **THE RETURN** and **SAN RUIZ — ROSA, FIRST PASS** (below) before they ever reach the gate. And they do **not yet** have the complete binding symbol: Rosa withholds it on this pass. They carry only the 75% chapel stone-fragment and Rosa's conditional promise; the complete symbol is earned on the second San Ruiz pass before C7. Read "What he doesn't know" with that correction.
+
+---
+
+## THE RETURN — FROM THE CREEK BED  *(THIS TABLE — opening scene)*
+
+The chapter does not open at the estancia. It opens in the grey hour after the Hound, with the investigators scattered across the pampa, each surfacing from their own version of the night.
+
+Two of them fled under the mind's own anesthetic — running without deciding to, or going somewhere behind the eyes while the body kept walking. One left because leaving was simply correct. However they went, they went *separately*. They come back to themselves at first light: cold, miles apart, the dew on them, the dust of the pit still ground into the seams of their clothes.
+
+> *Volvés en vos despacio. No hay un momento en que se prenda la luz — más bien te das cuenta, de a poco, de que hace rato que venís caminando, y que los pies te llevaron para el lado del cauce sin preguntarte nada. El sol todavía no salió. La pampa está del color de la ceniza mojada. En algún lugar, atrás tuyo o adelante, los otros. No sabés a qué distancia hasta que los oís.*
+
+**Regrouping**: Let the players find each other — no roll. The plain is flat, the morning is silent, and they have all been walking the same direction without knowing it: back toward the creek bed. A Marked PC knows why (the geometry there is now the loudest thing on the plain); the others just feel they should go.
+
+**The creek bed, by daylight**: It is as they left it and worse for the light. The four cardinal fires are cold ash. The dead lie where they fell — Nahuel at the center, Kuyen on the eastern line where she went to hold it herself. No blood, no decay yet; just bodies arranged in ways that bodies are not. The ochre diagram is half-erased. **The goat is already there**, standing on the western bank, facing the ridge. She did not follow them in. She was waiting.
+
+**SAN Check**: 0/1D4 — returning, sober, to what they fled.
+
+**Eusebio on the ridge**: As the light comes up, a **Spot Hidden** (automatic for a Marked PC — they feel the watched-ness before they see it) finds a figure on the western ridge: a man on a **palomino**, motionless, a brass spyglass to his eye. Don Eusebio. He is looking at the creek bed. At them. For a long moment neither party moves.
+
+Then he lowers the glass, turns the horse, and rides **west — toward the estancia**. He is not fleeing; he is unhurried, the ride of a man who has seen what he came to see. His trail is fresh and obvious in the dew.
+
+That trail is the path home. West off the ridge, the only water and shelter on the line before the estancia is **San Ruiz**. The investigators follow the man who used them, and the road carries them back through the village they broke.
+
+---
+
+## SAN RUIZ — ROSA, FIRST PASS  *(THIS TABLE — Rosa-repair, beat 1)*
+
+The trail west runs through San Ruiz before it reaches the estancia, and no tired horse will take the long way around. This is the **first of two passes** through the village. The second — pre-C7, on the ride to the pit — is where Rosa hands over the complete binding symbol (see chapter 7's opening note). **This one is cold. Do not let her thaw.**
+
+The village is as they left it, except the chapel is rubble now and there is no Zonda to hide behind. Rosa is at her grinding stone. She does not say *"Siéntense."* She does not look up for a long time. When she does:
+
+> *"Volvieron. Bueno. ¿Trajeron de vuelta lo que se llevaron, o sólo lo que rompieron?"* — *"You came back. Good. Did you bring back what you took, or only what you broke?"*
+
+**The levers that move her** — she answers to evidence the work continues, not to apology:
+
+- **Return the stone-fragment** — the chapel piece Dolores wanted carried onward. Rosa takes it in both hands. She does not thank them. She sets it down where the chapel used to face.
+- **Tell her La Llorona is loose** — that Dolores's echo walked out of the broken wall, eyes open, and went east. This lands hardest; Rosa held that chapel fourteen months *for Dolores*. She is quiet a long moment, then: *"Entonces no está descansando. Está suelta. Por ustedes."* — *"Then she isn't resting. She's loose. Because of you."*
+
+She does **not** give them the symbol. She names her condition instead — the hook that pulls them back through on the way to the pit:
+
+> *"Les voy a dar lo que necesitan cuando me puedan decir que van al pozo a cerrarlo. No a hablar con el que lo abrió. No a negociar. A cerrarlo. Cuando sea verdad, vuelvan. Hasta entonces no tengo nada para ustedes."* — *"I'll give you what you need when you can tell me you're going to the pit to close it. Not to talk to the man who opened it. Not to bargain. To close it. When it's true, come back. Until then I have nothing for you."*
+
+**Marked PC, leaving**: at the chapel rubble they feel Rosa's silent prayer still running over the buried clay — a felt geometry, thin but unbroken. The complete clay symbol is still down there, under the stones they knocked loose. *(Rosa is the lock, not the only key: if the party never circles back, the symbol can still be reconstructed from the 75% stone-fragment + Marked perception — see chapter 7's binding-symbol note.)*
+
+> **[THIS TABLE — C4 SAN RUIZ — 2026-05-29]** First of two San Ruiz passes. Rosa cold; stone-fragment returned; La Llorona news delivered; **symbol withheld** pending genuine closing intent. The second pass (pre-C7) is the handover. If the party never circles back, fall to the stone-fragment (75%) + Marked-perception reconstruction. The buried clay and Rosa's under-stone scratch both still exist — Rosa is the gate, not the only path.
 
 ---
 

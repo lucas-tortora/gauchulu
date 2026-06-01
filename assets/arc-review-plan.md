@@ -120,27 +120,9 @@ This is the clean path and the most thematically earned one — the PCs repair, 
 
 Add at: end of the chapter's CLUES CARRIED FORWARD (or equivalent opening GM notes).
 
-#### San Ruiz pass-through — the return leg (the Rosa-repair scene, beat 1)
+#### San Ruiz pass-through + opening return scene → **moved to the chapter file**
 
-The party rides **back west** from the creek bed to confront Don Eusebio, and San Ruiz lies directly on that road. Run this as the **first** of the two Rosa beats (see Blocker 2, Tier 1). It is cold. Do not let her thaw.
-
-The village is as they left it — except the chapel is rubble now, and there is no Zonda to hide behind. Rosa is at her grinding stone. She does not say *"Siéntense."* She does not look up for a long time. When she does:
-
-> *"Volvieron. Bueno. ¿Trajeron de vuelta lo que se llevaron, o sólo lo que rompieron?"* — *"You came back. Good. Did you bring back what you took, or only what you broke?"*
-
-**What the party can offer (the levers that matter to her):**
-- **Return the stone-fragment** — the chapel piece Dolores wanted carried to Kuyen. Rosa takes it in both hands. She does not thank them. She sets it where the chapel used to face.
-- **Tell her La Llorona is loose** — that Dolores's echo walked out of the broken wall, eyes open, and went east. This lands hardest. Rosa held that chapel fourteen months *for Dolores*. She is quiet for a long moment. *"Entonces no está descansando. Está suelta. Por ustedes."* — *"Then she isn't resting. She's loose. Because of you."*
-
-She does **not** give them the symbol. She names her condition instead — the hook that pulls them back through on the way to the pit:
-
-> *"Les voy a dar lo que necesitan cuando me puedan decir que van al pozo a cerrarlo. No a hablar con el que lo abrió. No a negociar. A cerrarlo. Cuando sea verdad, vuelvan. Hasta entonces no tengo nada para ustedes."* — *"I'll give you what you need when you can tell me you're going to the pit to close it. Not to talk to the man who opened it. Not to bargain. To close it. When it's true, come back. Until then I have nothing for you."*
-
-**Marked PC, leaving:** at the chapel rubble, they feel Rosa's silent prayer still running over the buried clay — a felt geometry, thin but unbroken. The clay symbol is still down there, under the stones they knocked loose. (This quietly confirms Tier 2 is also live: the buried clay and the under-stone scratch both still exist; Rosa is the lock, not the only key.)
-
-> **[THIS TABLE — C4 SAN RUIZ — 2026-05-29]** First of two San Ruiz passes. Rosa cold; stone-fragment returned; La Llorona news delivered; symbol withheld pending genuine closing intent. Second pass (pre-C7) is where she hands over the complete symbol. If the party never circles back, fall to Blocker 2 Tier 2 (stone-fragment 75% + Marked perception).
-
-Add at: as a scene beat in the C4 return journey, before the estancia confrontation.
+The full runnable scenes now live in `02-la-salamanca/chapter-04-el-patron.md` as the **source of truth** (sections **THE RETURN — FROM THE CREEK BED** and **SAN RUIZ — ROSA, FIRST PASS**). That is: the post-madness regroup at the creek bed, the Eusebio-on-the-ridge sighting that opens the trail west, and the cold first Rosa beat (stone-fragment returned, La Llorona news, symbol withheld with her condition). Edit those in the chapter, not here. This plan keeps only the design rationale (see Blocker 2, Tier 1, above); the chapter holds the prose, Rosa's lines, and the `[THIS TABLE — C4 SAN RUIZ]` block.
 
 ---
 
@@ -157,15 +139,9 @@ Add at: as a scene beat in the C4 return journey, before the estancia confrontat
 | Kuyen prepares / Nahuel holds | Both DEAD | Replacement thread needed |
 | C5 Asymmetry panel | Without Kuyen to correct it, the uncorrected asymmetry *persists* into C8 and becomes a live threat | THIS TABLE note: "The panel flaw in the eastern segment is not corrected in C6. It becomes the entity's primary attack vector in C8." |
 
-#### Scene 4 replacement — "The Warning, Without Kuyen"
+#### Scene 4 replacement — "The Warning, Without Kuyen" → **moved to the chapter file**
 
-The original Scene 4 exists to give the PCs information about what they'll face at the closing ritual. With Kuyen dead, the same information must arrive differently. Options (choose one or combine):
-
-**Option A — The goat.** The goat that follows the party has been watching the geometry all along. After the PCs emerge from La Salamanca with the dual-diagram knowledge, the goat stands at the ruins entrance and will not move. A Marked PC who looks at her sees the six-pupil eyes trace the same geometry as the carved stone. She is reading it. She has always been reading it. She goes still for thirty seconds, then continues following the party. No further explanation.
-
-**Option B — Saens's skull.** In the bone chamber, Saens's notes (already part of C5 canon) contain a late entry: a sketch of the pit at Estancia La Esperanza and a notation: *"El nudo del este siempre cede primero. La tradición de los Custodios lo llama el lado de la apertura — el que permite que algo entre, y el que necesita refuerzo antes del cierre. Sin ayuda en el este, el símbolo no cierra."* — *"The eastern knot always gives first. The Keeper tradition calls it the opening side — the one that allows something in, and the one that needs reinforcement before closing. Without help at the east, the symbol does not close."* This is the information Kuyen would have delivered. It is now in the dead man's notes.
-
-**Option C — La Llorona as signal.** La Llorona, displaced from San Ruiz and moving east, passes through the Jesuit ruins during the PCs' time there. She cannot communicate. She is not an ally. But a Marked PC feels her passing as a directional pull — east, toward the pit. And in that pull, the geometry of the creek bed and the burial pit lights up briefly in their perception. No words. A map.
+The runnable replacement (three deliveries — the goat / Saens's late note / La Llorona as directional pull, each with SAN checks) now lives in `02-la-salamanca/chapter-05-el-manuscrito.md` as the **source of truth** (section **SCENE 4 — THE WARNING, WITHOUT KUYEN**). Edit it there, not here. Design rationale only: Kuyen's death removes the living teacher, so the same information (move to the pit; the east fails first) must be read off the world instead of delivered. The eastern asymmetry stays uncorrected through Arc 2.
 
 #### THIS TABLE note to add
 
@@ -191,13 +167,9 @@ Add at: end of CLUES CARRIED FORWARD.
 | Quirce's arrival and theodolite setup | VALID — unchanged | No action needed |
 | Silvio enters pit | VALID — unchanged | No action needed |
 
-#### Final scene replacement
+#### Final scene replacement → **moved to the chapter file**
 
-The original final image: "Kuyen is waiting at the pit. Nahuel is with her. They have been here since before dark." — the closing beat that confirms the ritual is imminent.
-
-Replacement (same beat, no Kuyen/Nahuel): *Don Eusebio is at the pit when the PCs return. He is standing at the rim in the position Silvio used to occupy. He does not turn around when they approach. He says: "I've been trying to remember who is supposed to stand where." A long pause. "I opened it. I know where the center is." He doesn't say he knows how to close it. He's asking without asking.*
-
-The beat achieves the same thing — closing is imminent, the night is coming — but with the correct personnel.
+The runnable replacement (Don Eusebio at the pit rim in the position Silvio used to occupy — "I've been trying to remember who is supposed to stand where… I opened it. I know where the center is." — asking without asking, then setting the timeline himself) now lives in `02-la-salamanca/chapter-06-el-visitante.md` as the **source of truth** (section **THE FINAL IMAGE, WITHOUT KUYEN**). Edit it there, not here. Design rationale only: same beat (closing imminent, night coming) with the correct personnel; the timeline is now Don Eusebio's to set, not Kuyen's.
 
 #### THIS TABLE note to add
 
@@ -439,42 +411,42 @@ Marta, at the tannery, says: *"I don't know the words Kuyen used. But I know whe
 
 ## PRIORITY QUEUE
 
-Execute in this order.
+**Status as of 2026-05-29 → fully propagated 2026-06-01.** All chapter annotations and replacement scenes are now embedded in the chapter files (the source of truth). This plan retains design rationale only. The tables below record what was done.
 
 ### Priority 1 — Structural (rewrite needed, blocks prep)
 
-| Task | Chapter | What to do |
+| Task | Chapter | Status |
 |---|---|---|
-| Add opening-situation replacement block | C8 | Write the "no trained practitioner" opening; add restructured positions table; add THIS TABLE block |
-| Add Kuyen/Nahuel strike annotations | C8 | Mark every Kuyen/Nahuel mention with strike/replacement inline |
-| Add Phase 5 director replacement | C9 | Note Mercedes leads chant; Kuyen dialogue struck |
-| Add Scene 4 Kuyen-replacement to C5 | C5 | Add Scene 4 replacement options (goat / Saens note / La Llorona) |
-| Add final scene replacement to C6 | C6 | Don Eusebio at the pit-rim in place of Kuyen/Nahuel |
+| Add opening-situation replacement block | C8 | ✅ Done — full "no trained practitioner" block + restructured positions table in chapter |
+| Add Kuyen/Nahuel strike annotations | C8 | ✅ Done — every mention struck/replaced inline |
+| Add Phase 5 director replacement | C9 | ✅ Done — Mercedes leads chant; Kuyen/Nahuel dialogue struck |
+| Add Scene 4 Kuyen-replacement to C5 | C5 | ✅ Done — **SCENE 4 — THE WARNING, WITHOUT KUYEN** (goat / Saens note / La Llorona) embedded in chapter |
+| Add final scene replacement to C6 | C6 | ✅ Done — **THE FINAL IMAGE, WITHOUT KUYEN** (Don Eusebio at the rim) embedded in chapter |
 
 ### Priority 2 — Annotation (THIS TABLE blocks, no rewrite)
 
 | Task | Chapter | Status |
 |---|---|---|
-| C4 entry note (Concepción dead, PCs fled) | C4 | Not yet added |
-| C5 consequence note (asymmetry unresolved, Scene 4 invalid) | C5 | Not yet added |
-| C6 consequence note (Kuyen/Nahuel absent, asymmetry carries) | C6 | Not yet added |
-| C7 consequence note (Nahuel/Kuyen scenes struck, La Llorona, Mandinga) | C7 | Not yet added |
-| C8 consequence block | C8 | Not yet added |
-| C9 consequence block (Rosa hostile, Mandinga paid, Kuyen struck) | C9 | Not yet added |
-| C10 entry note (only Wrong Returned as tribal) | C10 | Not yet added |
-| C11 consequence note (cordon via Marta/Marked) | C11 | Not yet added |
-| C12 consequence note (cost-table, Kuyen absent) | C12 | Not yet added |
+| C4 entry note + San Ruiz first pass + opening return scene | C4 | ✅ Done — source of truth in chapter |
+| C5 consequence note (asymmetry unresolved, Scene 4 invalid) | C5 | ✅ Done |
+| C6 consequence note (Kuyen/Nahuel absent, asymmetry carries) | C6 | ✅ Done |
+| C7 consequence note (scenes struck, La Llorona, Mandinga) + San Ruiz second pass (3-tier symbol retrieval) | C7 | ✅ Done — self-contained in chapter |
+| C8 consequence block | C8 | ✅ Done |
+| C9 consequence block (Rosa hostile, Mandinga paid, Kuyen struck) | C9 | ✅ Done |
+| C10 entry note (only Wrong Returned as tribal) | C10 | ✅ Done |
+| C11 consequence note (cordon via Marta/Marked) | C11 | ✅ Done |
+| C12 consequence note (cost-table, Kuyen absent) | C12 | ✅ Done |
 
 ### Priority 3 — REF-NPCs.md updates
 
 | Task | Status |
 |---|---|
-| Kuyen: already marked DEAD (done in previous session) | ✅ Done |
-| Nahuel: already marked DEAD (done in previous session) | ✅ Done |
-| Tribe: add DEAD note | Not yet done |
-| Marta/Héctor: add note — "become de facto cordon leads in C11/C12 if alive" | Not yet done |
-| Don Eusebio: add note — "primary co-anchor candidate for C8/C9 closing" | Not yet done |
-| Mercedes: add note — "assumes Kuyen's ritual director role in C8/C9" | Not yet done |
+| Kuyen: marked DEAD | ✅ Done |
+| Nahuel: marked DEAD | ✅ Done |
+| Tribe: DEAD note | ✅ Done — added under Kuyen's block (no tribal allies in C10–C12; tradition lives only in Saens/Mercedes/Marta/Marked PCs) |
+| Marta/Héctor: "de facto cordon leads in C11/C12 if alive" | ✅ Done — added to both entries; Marta's stale "co-anchor with Nahuel" line corrected |
+| Don Eusebio: "primary co-anchor candidate for C8/C9 closing" | ✅ Done |
+| Mercedes: "assumes Kuyen's ritual director role in C8/C9" | ✅ Done — plus C7 "embraces Kuyen" line corrected |
 
 ---
 

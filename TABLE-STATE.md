@@ -7,7 +7,10 @@ Table-specific state is now embedded directly in each chapter file as `[THIS TAB
 - C1 outcome → end of `01-la-tierra-mala/chapter-01-el-contrato.md`
 - C2 outcome → end of `01-la-tierra-mala/chapter-02-las-senales.md`
 - C3 outcome → end of `01-la-tierra-mala/chapter-03-el-ritual-roto.md`
-- NPC deaths (Kuyen, Nahuel, Concepción) → `REF-NPCs.md`
+- NPC deaths (Kuyen, Nahuel, Concepción, the tribe) → `REF-NPCs.md`
+- Arc 2–4 table-state consequences (all chapters) → the `[THIS TABLE]` callouts in each chapter file
+- **San Ruiz two-pass routing + 3-tier binding-symbol retrieval** → `02-la-salamanca/chapter-04-el-patron.md` (first pass) and `03-the-great-sleeper/chapter-07-la-vispera.md` (second pass)
+- Design rationale for the Arc 2–4 repairs → `assets/arc-review-plan.md`
 - Mandinga sequence → `assets/mandinga-sequence.md`
 - Ritual structure (4 rounds, Cata, goat window) → `assets/ritual-diagram-c3.md`
 - Hound entity → `assets/entity-hound.md`
@@ -18,7 +21,7 @@ Table-specific state is now embedded directly in each chapter file as `[THIS TAB
 
 ---
 
-*Content below is superseded but preserved for reference until C4 is written.*
+> ⚠️ **The detailed content below is a pre-resolution snapshot from 2026-05-24 and is fully superseded.** Arc 2–4 are now written and annotated for this table state; the chapter files are the single source of truth. In particular the **STATE LEDGER — CARRY INTO C4** at the bottom predates the C3 deaths (it still describes Kuyen's working and Nahuel as ongoing) — do not run from it. It is kept only as a historical record of how the table arrived at C4.
 
 ---
 **Party**: 3 investigators, 1 gravely injured. Tracking and Natural World skills. No Marks yet.

@@ -35,6 +35,8 @@ Use this dossier when an NPC enters a scene and you need their voice. Use the pe
 **Location**: Estancia La Esperanza (C1–C6); The Pit camp (C7–C9); ruined or aftermath at the estancia (C10–C12, off-stage)
 **Role**: The client. The culprit. The necessary presence in the closing.
 
+> **[THIS TABLE — 2026-05-29] PRIMARY CO-ANCHOR CANDIDATE.** With Kuyen and Nahuel dead (C3), Don Eusebio is the **only remaining candidate for the C8/C9 center anchor** — the man who opened the wound, closing it from inside. Dramatically correct, mechanically the weakest anchor (lower POW than Nahuel's; the entity presses him hardest, and the Round 2 offer hits as *"the land will be ordinary again and you will have to live in it knowing what you cost it."*). He also becomes the **primary pre-ritual interlocutor in C7** (the Nahuel/Kuyen evening scenes do not run) and the one who **sets the closing's timeline** in C6 ("Tomorrow night") since Kuyen is not there to drive it. His Scene 4 in C8 (the outer-ring "No") runs unchanged regardless. See `TABLE-STATE.md` and `assets/arc-review-plan.md`.
+
 **Quick Description**: 62 years old. Silver hair, old-leather tan, yellow-white mustache. White linen shirt, bombachas de campo, polished boots. Ink stains spreading across his right hand — index finger (C1), full palm (C4 onward). Smells faintly of tobacco and struck flint. Receives visitors standing. Taps his right index finger twice on the table when changing the subject.
 
 **Voice**: Deep, deliberate. Long pauses before important words. Accustomed to being believed.
@@ -122,6 +124,8 @@ This line is not spoken to investigators directly — Don Eusebio quotes it in h
 **Role**: The true defender. The ritual leader. The voice of consequence. **At this table: the only person who understood the full closing sequence. Her death is the campaign's central complication from C4 onward — the investigators must find another path to the pit closing without her.**
 
 > **[THIS TABLE — C3 — 2026-05-24] KUYEN IS DEAD.** Died on the eastern line in the final moments of R4. Moved to hold the position herself when no one else did in time. Completed a partial symbol. Took the full distortion load from the Hound's passage. Something closed — not enough, but something. She did what she said she would do. The creek bed is where she is.
+>
+> **[THIS TABLE — C3 — 2026-05-29] THE TRIBE IS DEAD.** Kuyen's people did not survive C3 — the whole line is gone, not only its leader. **The only survivors who carry any of the tradition's geometry are the Wrong Returned (Héctor and Marta), and that by exposure, not teaching.** Consequences: no tribal allies travel to Buenos Aires in C10–C12 (only Wrong Returned, if alive); the "Kuyen's people / surviving tribal allies" beats throughout Arcs 3–4 do not trigger; the closing's tradition-knowledge now lives only in Saens's manuscript (written), Mercedes (reader), Marta's body (alignment), and the Marked PCs (perception). In the C12 Destroyed ending the tradition has no elder left to mourn its own inheritance — Mercedes delivers the line in Spanish, from memory. That loss is itself a campaign cost.
 
 **Quick Description**: 52, Mapuche. Silver-grey hair in two braids. Face that is not hard but *still* — the stillness of someone doing something difficult for a long time without stopping. Heavy wool, riding pants, worn boots. Small pouch of ground pigments at her belt. Hands always available for symbol work — she does not gesticulate.
 
@@ -240,6 +244,8 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: San Ruiz (origin); Tres Lagunas (post-evacuation); Estancia fence line (C4); Road east (C5); Jesuit ruins (C5); Pit camp (C6–C9); Inocencia's boarding house and the cordon (C10–C12)
 **Role**: The Wrong Returned. Anchor. Farmer who was shown a map of what he'd been trying to describe. In Arc 4: a partial-geometry anchor along the transport route — his alignment is *exactly* what reads city geometry.
 
+> **[THIS TABLE — 2026-05-29] LOAD-BEARING SURVIVOR.** Kuyen and Nahuel are dead (C3) and the tribe is gone — so the **Wrong Returned (Héctor and Marta) are the only non-PC personnel who carry the geometry in their bodies.** If Héctor lives through C9, he is a de facto cordon lead in C11/C12 alongside Marta, holding the eastern/partial-alignment positions the closing now depends on. His survival is structurally significant in a way the default run did not require.
+
 **Quick Description**: 54, wide-shouldered, graying. Former farmer from San Ruiz, considered steady. Now precise and stripped of social texture — no small talk, no roundabout approaches. Just answers. Eyes track geometry before people. Shadow falls at wrong angles.
 
 **Voice**: Direct, stripped of gaucho dialect he used to have. Like listening to someone read from a document they didn't write.
@@ -260,6 +266,8 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: Same as Héctor; Jesuit ruins (C5, special scene); Ritual center (C9, possible); Inocencia's boarding house and the cordon (C10–C12)
 **Role**: The Wrong Returned. Anchor. Village teacher and midwife who was shown something vast noticing something small. In Arc 4: the most articulate Wrong Returned at the cordon, the one most able to talk Mercedes through what is happening when the geometry shifts.
 
+> **[THIS TABLE — 2026-05-29] DE FACTO CORDON LEAD (C11/C12).** With Kuyen dead, Marta is the **only person who can draw the complete dual diagram from direct experience** (she traced it from memory in the dark, C5/C9). If she survives C9 she **leads the Buenos Aires cordon's panel placement** — "I don't know the words Kuyen used. But I know where the corners need to be. My body knows the right angles." Improvised, less stable than Kuyen's, but real; a Mandinga-Warding PC can substitute their ward for one panel leg at a weak point. In C8/C9 she also fills the **western anchor** and, if rapport was built, co-anchors the center (see corrected note below). Her survival is load-bearing for Arc 4.
+
 **Quick Description**: 43, Héctor's wife (no blood relation — the surname coincidence was a village joke). Former teacher and midwife. Calm by profession, calmer now in a different way. Occasionally a moment of the old Marta surfaces in her expression and is gone. Touches her own face sometimes, as if checking it's still there.
 
 **Voice**: More present than Héctor. Occasionally slips into warmth before the flatness returns.
@@ -269,7 +277,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **The Optional Scene** (Chapter 5, 2 AM at the ruins): She traces the complete dual diagram in the air from memory, in three dimensions, eyes open. Afterward:
 > *"Fourteen people went to the field at night. Seven came back changed. Five of those didn't survive the change. Two did. I'm one of the two."*
 
-**The Closing** (Chapter 9, if rapport was built): She offers to co-anchor the center ring with Nahuel, using her partial geometric alignment to hold it steady from outside. This is her choice. Investigators cannot make it for her.
+**The Closing** (Chapter 9, if rapport was built): She offers to co-anchor the center ring ~~with Nahuel~~, using her partial geometric alignment to hold it steady from outside. This is her choice. Investigators cannot make it for her. ⚠️ **[THIS TABLE]** Nahuel is dead — there is no trained center anchor for her to support. At this table she co-anchors with **Don Eusebio** (or the Marked PC who volunteered for center), and her alignment is needed more, not less.
 
 **The Aftermath**: If she co-anchors, her partial geometric alignment burns off at once — she spends the night unable to speak or move, then wakes hungry for the first time in fourteen months.
 
@@ -315,6 +323,8 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: Buenos Aires (her home base, off-stage C4–C6); the pit camp (C7–C9); Buenos Aires — the Manzana de las Luces, the Keeper meeting house, Inocencia's boarding house, the dock (C10–C12)
 **Role**: The teacher. The moral and intellectual center of Arcs 3–4. The Keeper who advocates for moving the book and pays for it.
 
+> **[THIS TABLE — 2026-05-29] ASSUMES THE RITUAL-DIRECTOR ROLE.** With Kuyen dead (C3), Mercedes inherits the **director / panel-caller function for the C8/C9 closing** and the **Phase 5 lead chant** (the "*Antu kishu, lan amukey*" line — she leads it; the untrained join and the geometry teaches them). This is grounded, not improvised: her dossier already makes her the only NPC who can both *read* the geometry and *explain* it. She translates **Saens's written procedure** into spoken direction — the campaign's resolution to "who knows the rite now that Kuyen is dead." Say it once through her in C7: *"Saens wrote down how. He could not do it alone. That was his only mistake we are not about to repeat."* In C11/C12 she also reads the destroy-page and delivers the tradition's closing line herself, in Spanish, since no elder survives. See `assets/arc-review-plan.md` (Blocker 1).
+
 **Quick Description**: Mid-60s (born 1757; copied the Necronomicón at 24 in 1781), slight, white hair pulled back. Plain dark dress, silver crucifix she does not wear ostentatiously, ink stains on her right index and middle fingers. Gold-rimmed reading glasses she pushes up onto her forehead when listening. Walks with a cane she does not lean on. The face of a woman whose job has been to read carefully for fifty years.
 
 **Voice**: Quiet, precise, educated Buenos Aires Castilian. Uses Latin when she is genuinely emphatic. Pauses where other people hurry.
@@ -329,7 +339,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Arc Through the Campaign**:
 - **C4–C6**: A correspondent. A voice in letters. Her judgment of Quirce is the players' first reliable Keeper-frame.
-- **C7**: Arrives at the pit camp, embraces Kuyen (thirty years of friendship visible for one breath), names the Necronomicón as the book Saens copied from.
+- **C7**: Arrives at the pit camp, ~~embraces Kuyen (thirty years of friendship visible for one breath)~~, names the Necronomicón as the book Saens copied from. ⚠️ **[THIS TABLE]** Kuyen is dead — there is no one for the thirty-year embrace. Mercedes arrives, reads the camp in an instant, and walks to the fire; the absence is the players' weight to carry. She still recognizes the pit-dust on a player's cuff (the dust runner).
 - **C8–C9**: Present at the closing; carries the Coypac dispatch east; rides for Buenos Aires.
 - **C10**: Sponsors the players to the Keepers; brings them into the meeting house.
 - **C11**: Confesses what she copied. Hands over the folded parchment. *"No te pido que perdones."*

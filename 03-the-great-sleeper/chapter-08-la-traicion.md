@@ -33,7 +33,7 @@
 >
 > **Scene 4 (Don Eusebio in the ring) runs exactly as written.** His placement in the southern outer ring, the entity's recognition of him, his "No" — unchanged. This is the chapter's emotional spine regardless of who leads the ritual.
 
-Morning after the eve. The group prepares. Kuyen draws the final binding panel at dawn. Nahuel redraws his palm markings. Silvio, Héctor, and Marta take positions at the outer edge of the pit's boundary without being asked — they know where they need to stand.
+Morning after the eve. The group prepares. ~~Kuyen draws the final binding panel at dawn. Nahuel redraws his palm markings.~~ ⚠️ **[THIS TABLE]** Both dead — see the restructured opening block above: Mercedes guides the panel layout, Marta places the final panel by feel at dawn, the center is anchored by Don Eusebio or a Marked PC volunteer. Silvio, Héctor, and Marta take positions at the outer edge of the pit's boundary without being asked — they know where they need to stand.
 
 The ritual is scheduled for dusk — the same hour Kuyen used for the partial bindings, when the light makes the geometry of shadows longest and the entity's ability to move through surface angles is slightly compromised. Six hours remain.
 

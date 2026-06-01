@@ -163,7 +163,7 @@ The chapter ends with the group assembled: investigators, Don Eusebio, Quirce, S
 
 Kuyen is waiting at the pit. Nahuel is with her. His condition has worsened — he is functional but the circles under his eyes have deepened and he flinches at shadows in ways he didn't before.
 
-> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This scene's closing beat does not run. Replace with Don Eusebio at the pit rim — see arc-review-plan.md C6 final scene replacement.
+> ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). The closing beat below **does not run** — do not read the Kuyen version. Use **THE FINAL IMAGE, WITHOUT KUYEN** immediately below as the source-of-truth replacement.
 
 > *The south pasture at dusk. The cattle field — the carcasses now collapsed and dried, the circle of them still present. The grass rings, the dead center. The pit.*
 >
@@ -172,6 +172,22 @@ Kuyen is waiting at the pit. Nahuel is with her. His condition has worsened — 
 > *"You brought everyone,"* she says when you reach her. Her gaze moves across the group: investigators, Eusebio, Quirce (at whom she looks for a long moment without expression), Silvio, Héctor and Marta (at whom she does not look surprised).*
 >
 > *"Good. Tomorrow night."*
+
+### THE FINAL IMAGE, WITHOUT KUYEN *(THIS TABLE — source of truth)*
+
+There is no trained practitioner waiting at the pit. The beat does the same work — *the closing is imminent, the night is coming* — but with the personnel this table actually has, and it lands as a question instead of a command.
+
+> *The south pasture at dusk. The collapsed carcasses, the grass rings, the dead center, the pit. The light bending early around the geometry before it sets.*
+>
+> *Don Eusebio is already there when the group arrives. He is standing at the rim — in the place Silvio used to stand, the northern watch position — and he does not turn around when he hears the horses. He has been here a while; the grass is pressed where he has been shifting his weight.*
+>
+> *"I've been trying to remember who is supposed to stand where,"* he says, still facing the pit. A long pause. *"I opened it. I know where the center is."*
+>
+> *He doesn't say he knows how to close it. He turns, finally, and looks at the investigators — at the Marked ones a half-second longer. He's asking without asking: I can find the center because I made it. I need the rest of you to be the rest of it.*
+
+The group is assembled — investigators, Don Eusebio, Quirce, Silvio, Héctor, Marta — and the timeline is set, but **Don Eusebio sets it, not Kuyen**: when no one answers his unasked question, he answers it himself. *"Tomorrow night. It has to be tomorrow night. It's not waiting for us."*
+
+> **For Marked PCs:** standing at the rim with him, you feel it — the eastern arc of the buried shape is *thin*, the way a held note goes thin before it breaks. Quirce's correction did that, and no one corrected it back. You will be standing on that thinness tomorrow.
 
 ---
 
