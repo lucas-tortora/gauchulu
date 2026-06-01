@@ -13,7 +13,7 @@ The investigators have the manuscript and the knowledge that Don Eusebio must st
 
 This chapter moves outward from the estancia — following Saens's route in reverse, toward the Jesuit mission ruins where the original carving was found. The Wrong Returned will follow. Silvio will watch from the fence until he can't hold back any longer, then walk south — not toward the ruins, toward the pit. Keep track of where Silvio goes.
 
-**Parallel thread**: Kuyen and Nahuel are not idle. If investigators check in with the camp (a half-day's ride from the estancia now), Kuyen is preparing the ritual components and watching Nahuel. She confirms: the two approaches they've completed have the entity contained but pressed. *"It's pushing. Every night harder than the last. We need the pit."*
+**Parallel thread**: Kuyen and Nahuel are not idle. If investigators check in with the camp (a half-day's ride from the estancia now), Kuyen is preparing the ritual components and watching Nahuel. She confirms: the two approaches they've completed have the entity contained but pressed. *"It's pushing. Every night harder than the last. We need the pit."* — **[ES]** *"Está empujando. Cada noche más fuerte que la anterior. Necesitamos el pozo."*
 
 > ⚠️ **[THIS TABLE]** Kuyen and Nahuel are both dead (C3). This parallel thread does not run. The information it carried arrives instead through the encounter itself — see **SCENE 4 — THE WARNING, WITHOUT KUYEN** below (goat signal / Saens's late note / La Llorona as directional pull).
 
@@ -26,6 +26,8 @@ This chapter moves outward from the estancia — following Saens's route in reve
 Héctor and Marta spent the night at the fence line — standing, as near as anyone can tell, without sleeping. In the morning they are still there. When investigators approach them in daylight:
 
 > *They turn to face you before you call out. Simultaneously. Not startled — they knew you were coming. Up close, they look exactly as Rosa described: they eat, they answer questions, they stand in sunlight without apparent discomfort. But there is something in the focus of their attention that is wrong in a way that takes a moment to name. They are looking at you, and also looking at something that occupies the same space as you but is not quite you — a geometry of your position in the space, rather than your face.*
+>
+> **[ES]** *Se dan vuelta para mirarte antes de que los llames. Al mismo tiempo. No sobresaltados — sabían que venías. De cerca, son exactamente como los describió Rosa: comen, contestan preguntas, se quedan parados al sol sin molestia aparente. Pero hay algo en el foco de su atención que está mal de una manera que cuesta un momento nombrar. Te están mirando a vos, y también mirando algo que ocupa el mismo espacio que vos pero que no sos del todo — una geometría de tu posición en el espacio, más que tu cara.*
 
 **Appearance**:
 - **Héctor Ríos**, 54. A former farmer from San Ruiz, wide-shouldered, graying. He was considered steady — not smart but reliable. Now he responds to questions with precise answers and no small talk. He has lost the social texture around his speech: the *"pos"*, the pauses, the indirect approaches. He just answers.
@@ -34,15 +36,15 @@ Héctor and Marta spent the night at the fence line — standing, as near as any
 **What They Know**:
 They don't know everything. They know what the entity showed them — which is geometrically accurate but not experientially interpretable. They speak about it in terms of architecture and space, not sensation.
 
-*"It isn't underground,"* Héctor says. *"That was wrong. It's in the angles. It lives in the places where one surface meets another. The pit is just where the shape is biggest — where there's enough angle for it to reach through."*
+*"It isn't underground,"* Héctor says. *"That was wrong. It's in the angles. It lives in the places where one surface meets another. The pit is just where the shape is biggest — where there's enough angle for it to reach through."* — **[ES]** *"No está bajo tierra. Eso estaba mal. Está en los ángulos. Vive en los lugares donde una superficie se encuentra con otra. El pozo es solo donde la forma es más grande — donde hay suficiente ángulo para que pase por ahí."*
 
-*"There are others like us,"* Marta says, meaning Silvio, whom they have sensed but not met. *"Not many. The ones it touched but didn't take. We're still here. But we're also partly there."*
+*"There are others like us,"* Marta says, meaning Silvio, whom they have sensed but not met. *"Not many. The ones it touched but didn't take. We're still here. But we're also partly there."* — **[ES]** *"Hay otros como nosotros. No muchos. Los que tocó pero no se llevó. Seguimos acá. Pero también estamos en parte allá."*
 
-*"We came back because it's almost time,"* Héctor says. *"We felt it from Tres Lagunas. The closing, or the opening. One of them is going to happen. We need to be at the geometry when it does."*
+*"We came back because it's almost time,"* Héctor says. *"We felt it from Tres Lagunas. The closing, or the opening. One of them is going to happen. We need to be at the geometry when it does."* — **[ES]** *"Volvimos porque ya casi es la hora. Lo sentimos desde Tres Lagunas. El cierre, o la apertura. Una de las dos va a pasar. Tenemos que estar en la geometría cuando pase."*
 
 **What They Want**: To be at the pit for the final event — closing or opening. They don't have a preference. They are not aligned with the entity; they are simply anchored to the geometry. Their presence at the closing ritual will matter (see Chapter 9).
 
-**The question no one wants to ask**: What will happen to them when the geometry is sealed? Marta answers this if directly asked, without apparent distress: *"I don't know. If the shape closes, maybe we close with it. Maybe we come back. We decided it doesn't matter. We need to be there."*
+**The question no one wants to ask**: What will happen to them when the geometry is sealed? Marta answers this if directly asked, without apparent distress: *"I don't know. If the shape closes, maybe we close with it. Maybe we come back. We decided it doesn't matter. We need to be there."* — **[ES]** *"No sé. Si la forma se cierra, capaz nos cerramos con ella. Capaz volvemos. Decidimos que no importa. Tenemos que estar ahí."*
 
 **SAN Check**: 0/1D3 (sustained conversation with someone who is and isn't a person)
 
@@ -52,14 +54,19 @@ They don't know everything. They know what the entity showed them — which is g
 
 *"Do you remember what happened to you?"*
 > Héctor: *"I remember walking south. The night was very clear. And then it was like — like someone showed me a map of a place I'd been trying to describe without words. It was a relief, for a moment. And then I was back and it was morning."*
+> **[ES]** Héctor: *"Me acuerdo de caminar para el sur. La noche estaba muy clara. Y después fue como — como si alguien me mostrara un mapa de un lugar que venía tratando de describir sin palabras. Fue un alivio, por un momento. Y después estaba de vuelta y era de mañana."*
 > Marta: *"I remember it differently. There was no relief in mine. Only size. Something very large noticing something very small."*
+> **[ES]** Marta: *"Yo me acuerdo distinto. En el mío no hubo alivio. Solo tamaño. Algo muy grande notando algo muy chico."*
 
 *"Are you in pain?"*
 > Héctor: *"No."* *(Said too quickly and too finally.)*
+> **[ES]** Héctor: *"No."* *(Dicho demasiado rápido y demasiado terminante.)*
 > Marta: *(A long pause.)* *"I don't feel pain the way I used to. I'm not sure if that's better."*
+> **[ES]** Marta: *(Una pausa larga.)* *"No siento dolor como antes. No estoy segura de que eso sea mejor."*
 
 *"Can you be helped?"*
 > Marta: *"You could close the geometry. Maybe that ends this. Or maybe this is what we are now and closing it just removes the sound."* *(She touches her own face as if checking it's still there.)* *"Close it anyway."*
+> **[ES]** Marta: *"Podrían cerrar la geometría. Capaz eso termina con esto. O capaz esto es lo que somos ahora y cerrarla solo saca el sonido."* *(Se toca la propia cara como comprobando que sigue ahí.)* *"Ciérrenla igual."*
 
 ---
 
@@ -70,9 +77,11 @@ The Jesuit mission ruins are a day's ride east and slightly south — Padre Saen
 ### Landscape Changes
 
 > *The land between the estancia and the ruins is ordinary pampa — flat, dry grass, occasional low scrub. But if you travel with Héctor and Marta, you begin to see it through their attention. They note corners. Not dramatically — a glance when the road bends, a moment of stillness where a mesa casts a shadow in a right angle. They are reading the geometry of the land the way a cattleman reads grass for moisture. The land is full of angles they have learned to see.*
+>
+> **[ES]** *La tierra entre la estancia y las ruinas es pampa común — pasto chato y seco, algún matorral bajo de vez en cuando. Pero si viajás con Héctor y Marta, empezás a verla a través de su atención. Registran las esquinas. No de manera dramática — una mirada cuando el camino dobla, un instante de quietud donde una meseta proyecta una sombra en ángulo recto. Leen la geometría de la tierra como un hombre de campo lee el pasto buscando humedad. La tierra está llena de ángulos que ellos aprendieron a ver.*
 
 **Optional encounter — the road**:
-During the night camp on the road, a Luz Mala appears to the south — not orbiting, just stationary, about 200 meters distant. Watching. It has followed them from the estancia. Héctor watches it without apparent fear. He says: *"It's a sensor. Not a threat unless you disturb the geometry."* He has known this since his night in the pasture. He learned it the same way he learned everything since then — from the inside.
+During the night camp on the road, a Luz Mala appears to the south — not orbiting, just stationary, about 200 meters distant. Watching. It has followed them from the estancia. Héctor watches it without apparent fear. He says: *"It's a sensor. Not a threat unless you disturb the geometry."* — **[ES]** *"Es un sensor. No es una amenaza salvo que toques la geometría."* He has known this since his night in the pasture. He learned it the same way he learned everything since then — from the inside.
 
 The Luz Mala tracks the party all the way to the ruins.
 
@@ -87,6 +96,12 @@ The Luz Mala tracks the party all the way to the ruins.
 > *The vegetation inside the ruins is different from outside. Denser, greener despite the season. Things grow here that shouldn't grow this far south — a fig tree, improbably, in the corner of what was the chapel. As if the land here is more fértil.*
 >
 > *That word. That word again.*
+>
+> **[ES]** *La misión fue abandonada en 1767, cuando los jesuitas fueron expulsados de las colonias españolas. Lo que queda: las piedras de cimiento de cuatro edificios, un campanario roto que todavía se sostiene en parte, paredes que llegan a la altura del pecho y nada más. La piedra es caliza pálida, distinta de la roca de la zona — la trajeron hasta acá. Quien construyó esto eligió este lugar a propósito.*
+>
+> **[ES]** *La vegetación dentro de las ruinas es distinta de la de afuera. Más densa, más verde a pesar de la estación. Acá crecen cosas que no deberían crecer tan al sur — una higuera, improbablemente, en el rincón de lo que fue la capilla. Como si la tierra acá fuera más fértil.*
+>
+> **[ES]** *Esa palabra. Otra vez esa palabra.*
 
 **Keeper Notes**:
 - The bell tower still standing is the most intact structure. The bell itself fell and lies in the grass, half-buried, inscribed with the date 1749 — twelve years before the mission was built. The bell was brought from somewhere else.
@@ -97,6 +112,10 @@ The Luz Mala tracks the party all the way to the ruins.
 > *When you find the carved stone — and you will find it, because Héctor walks directly to it — it is both smaller and more precise than you expected. Perhaps sixty centimeters across, recessed into the floor of what was the chapel. The carving is deep and clean: the same angular-circular geometry, but here it is complete. Both the opening diagram and the counter-diagram, rendered simultaneously — one inside the other, interacting. Like a lock and key carved into the same stone.*
 >
 > *It is, without question, the most precise thing you have ever seen made by hand.*
+>
+> **[ES]** *Cuando encontrás la piedra tallada — y la vas a encontrar, porque Héctor camina derecho hacia ella — es a la vez más chica y más precisa de lo que esperabas. Unos sesenta centímetros de ancho, hundida en el piso de lo que fue la capilla. El tallado es profundo y limpio: la misma geometría angular y circular, pero acá está completa. Tanto el diagrama de apertura como el contra-diagrama, representados al mismo tiempo — uno dentro del otro, interactuando. Como una cerradura y una llave talladas en la misma piedra.*
+>
+> **[ES]** *Es, sin lugar a dudas, la cosa más precisa que viste hecha a mano en tu vida.*
 
 > **Visual handout**: see `assets/dual-diagram.svg`. Print it large for the table — A4 minimum, A3 if possible. This is the carved stone. This is what Marta finger-traces in the air at midday. This is what the players will see at chamber-floor scale, in bones, in the bone chamber. This is what the city of Buenos Aires will *become* in C12. Show it, do not describe it.
 
@@ -110,9 +129,9 @@ The Luz Mala tracks the party all the way to the ruins.
 | History | The limestone this stone is made from does not exist within 200 kilometers. It was brought here, from the north. The carving is not in the stone — the stone was carved elsewhere and installed here. It was transported to this specific location. |
 | Art/Craft (Drawing) | The precision of the carving is geometric in the mathematical sense — the angles are exact. Not approximately exact. Exact. The tools available at any period of human history should not produce this quality of line. |
 
-**Héctor's observation**: He kneels beside the stone and places his hands on it — he is the only one who touches it without hesitation. He says: *"This is where the shape lives. The pit is just where someone tore a hole in it."*
+**Héctor's observation**: He kneels beside the stone and places his hands on it — he is the only one who touches it without hesitation. He says: *"This is where the shape lives. The pit is just where someone tore a hole in it."* — **[ES]** *"Acá es donde vive la forma. El pozo es solo donde alguien le abrió un agujero."*
 
-**Marta's observation**: She stands at the door of the ruined chapel and looks at the stone from across the room. *"Padre Saens was right about one thing. It isn't the devil. But he was wrong about another. He said it was a wound. It isn't. It's a door. The wound is what we did to it."*
+**Marta's observation**: She stands at the door of the ruined chapel and looks at the stone from across the room. *"Padre Saens was right about one thing. It isn't the devil. But he was wrong about another. He said it was a wound. It isn't. It's a door. The wound is what we did to it."* — **[ES]** *"Padre Saens tenía razón en una cosa. No es el diablo. Pero se equivocó en otra. Dijo que era una herida. No lo es. Es una puerta. La herida es lo que le hicimos nosotros."*
 
 ---
 
@@ -122,11 +141,15 @@ If investigators spend time in the ruins cross-referencing the manuscript with t
 
 **Page 72 (partially water-damaged — now partially reconstructable)**:
 > *"Antu-Rayo told me the ones who touch the shape and survive become anchors. They hold the geometry in place against distortion. Without them, the closing cannot be maintained against the entity's resistance. I did not understand this at first. I understand it now. The people who went to the field at night and returned — they are not lost. They are necessary."*
+>
+> **[ES]** *"Antu-Rayo me dijo que aquellos que tocan la forma y sobreviven se vuelven anclas. Sostienen la geometría en su sitio contra la distorsión. Sin ellos, el cierre no puede mantenerse contra la resistencia de la entidad. No lo comprendí al principio. Lo comprendo ahora. Las gentes que fueron al campo de noche y regresaron — no están perdidas. Son necesarias."*
 
 This is the key revelation of Chapter 5: the Wrong Returned are not simply victims. They are **structural components of the closing ritual**. Their presence at the outer ring will help stabilize the geometry against the entity's pressure in a way that trained humans cannot replicate. They were made for this, in a sense — not intentionally, not justly, but functionally.
 
 **Page 79 (final legible line)**:
 > *"I could not close it alone. I put this where the next one will find it. God forgive the next one for what they'll need to do."*
+>
+> **[ES]** *"No pude cerrarlo solo. Dejo esto donde el próximo lo halle. Dios perdone al próximo por lo que habrá de hacer."*
 
 **SAN Check** (reading this final line): 0/1 — the recognition of what Saens felt writing it, and what it means that investigators are the "next one."
 
@@ -142,7 +165,7 @@ If investigators camp at the ruins, the night brings a single event:
 
 At approximately 2 AM, Marta wakes from sleep (or from what passes for sleep now) and begins to walk toward the chapel ruin. She doesn't go inside. She stands at the threshold and traces the air with her finger — the complete geometry of the dual diagram, from memory, in the dark, in three dimensions. Her eyes are open but focused on something that isn't there.
 
-When she finishes, she says — not to anyone, in the way the Llorona spoke: *"Fourteen people went to the field at night. Seven came back changed. Five of those didn't survive the change. Two did. I'm one of the two."* She returns to her bedroll and appears to sleep.
+When she finishes, she says — not to anyone, in the way the Llorona spoke: *"Fourteen people went to the field at night. Seven came back changed. Five of those didn't survive the change. Two did. I'm one of the two."* — **[ES]** *"Catorce personas fueron al campo de noche. Siete volvieron cambiadas. Cinco de esas no sobrevivieron al cambio. Dos sí. Yo soy una de las dos."* She returns to her bedroll and appears to sleep.
 
 **SAN Check**: 0/1 — not frightening, just unbearably sad.
 
@@ -154,9 +177,9 @@ When she finishes, she says — not to anyone, in the way the Llorona spoke: *"F
 
 If investigators travel to the camp (possible detour, or they find Kuyen's messenger waiting at the ruins):
 
-Kuyen has sent word: something changed last night. The entity tested the eastern segment of the binding three times in four hours. Nahuel held but she could see it costing him. *"We need to move to the pit. We have days, not weeks."*
+Kuyen has sent word: something changed last night. The entity tested the eastern segment of the binding three times in four hours. Nahuel held but she could see it costing him. *"We need to move to the pit. We have days, not weeks."* — **[ES]** *"Tenemos que ir al pozo. Nos quedan días, no semanas."*
 
-She also sends a question: *"Do you have access to the pit?" (Meaning: is Don Eusebio going to cooperate.)*
+She also sends a question: *"Do you have access to the pit?" (Meaning: is Don Eusebio going to cooperate.)* — **[ES]** *"¿Tienen acceso al pozo?"* (Es decir: ¿Don Eusebio va a cooperar?)
 
 This creates the pressure that drives the investigators back to the estancia for Chapter 6.
 
@@ -239,6 +262,10 @@ Insert this after the manuscript deep-read and the night at the ruins, before th
 > *Marta walks to the chapel floor at midday — the only time the dual diagram's outer ring catches no shadow. She kneels beside the stone. She places her hands at two specific points on the diagram — the two points where the opening and closing arcs intersect. She presses. The stone does not move. The earth around the stone moves.*
 >
 > *A square of soil and grass, two meters across, sinks downward perhaps fifteen centimeters. Then it rotates — the entire square, around the stone, ninety degrees — and beneath it appears a shaft. Stone-lined. Older than the chapel above. The shaft drops into darkness. The air rising from it smells of the same mineral edge as the burial pit, and of something else that has not been smelled in centuries: cold incense, made from a resin that does not grow in this climate.*
+>
+> **[ES]** *Marta camina hasta el piso de la capilla al mediodía — el único momento en que el anillo exterior del diagrama doble no atrapa ninguna sombra. Se arrodilla junto a la piedra. Apoya las manos en dos puntos específicos del diagrama — los dos puntos donde los arcos de apertura y de cierre se cruzan. Aprieta. La piedra no se mueve. La tierra alrededor de la piedra se mueve.*
+>
+> **[ES]** *Un cuadrado de tierra y pasto, de dos metros de lado, se hunde unos quince centímetros. Después gira — el cuadrado entero, alrededor de la piedra, noventa grados — y debajo aparece un pozo vertical. Revestido en piedra. Más viejo que la capilla de arriba. El pozo cae hacia la oscuridad. El aire que sube de ahí huele al mismo filo mineral que la fosa, y a otra cosa que no se huele desde hace siglos: incienso frío, hecho de una resina que no crece en este clima.*
 
 **Héctor explains, if asked**: *"Esto es lo que llaman La Salamanca. No es una sola — hay varias. Esta es una de las antiguas. Una de las que se hicieron antes de que los Jesuitas hicieran su capilla encima."* — *"This is what they call La Salamanca. It is not just one — there are several. This is one of the old ones. One of the ones that was made before the Jesuits built their chapel on top of it."*
 
@@ -266,6 +293,10 @@ Run this as a brief but vivid descent scene. The shaft drops twelve meters. The 
 > *The bones are arranged into the complete dual diagram, at chamber-floor scale. There are perhaps two hundred individual bones — long bones, skulls, vertebrae, intermixed deliberately by hand. The skulls are placed at the diagram's outer ring positions. They face inward. They are not human. The skulls are too long, too narrow at the jaw, the eye sockets are too far apart. They are not from a species the players have a name for.*
 >
 > *In the very center of the diagram, where Nahuel will eventually stand at the closing, is a single human skull. Old. Modern human. Its forehead is unscarred. **It is Padre Ignacio Saens.** He came back here, alone, the year before he died, and laid himself on the diagram in place of the people he didn't have — opener, knowledge-holder, and counter-figure all at once — and bought what time he could. His body was taken into the geometry as substitute. The skull is the only piece left because the geometry needs a center, and a man's bone holds where parchment doesn't.*
+>
+> **[ES]** *Los huesos están dispuestos formando el diagrama doble completo, a escala del piso de la cámara. Hay quizá doscientos huesos individuales — huesos largos, cráneos, vértebras, entremezclados deliberadamente a mano. Los cráneos están colocados en las posiciones del anillo exterior del diagrama. Miran hacia adentro. No son humanos. Los cráneos son demasiado largos, demasiado angostos en la mandíbula, las cuencas de los ojos están demasiado separadas. No son de ninguna especie que los jugadores puedan nombrar.*
+>
+> **[ES]** *En el centro mismo del diagrama, donde Nahuel se pararía en el cierre, hay un único cráneo humano. Viejo. Humano moderno. La frente sin marcas. **Es el Padre Ignacio Saens.** Volvió acá, solo, el año antes de morir, y se acostó sobre el diagrama en lugar de la gente que no tenía — el que abre, el que sostiene el conocimiento y la contra-figura, todo a la vez — y compró el tiempo que pudo. Su cuerpo fue tomado por la geometría como sustituto. El cráneo es la única parte que quedó porque la geometría necesita un centro, y el hueso de un hombre aguanta donde el pergamino no.*
 
 **Keeper context — what Saens actually achieved**: This is the visual evidence of A4 / page 79: *"I could not close it alone."* The closing requires three roles (opener, knowledge-holder, counter-figure). Saens had the manuscript, had Antu-Rayo's instruction, had no successors, and no opener to anchor — so he stood in for *all* of it himself. What he produced was a **partial binding** that held for ~6 decades, sustained afterward by Antu-Rayo's lineage carrying counter-rites forward (Kuyen's grandmother, Rosa's elders). When that lineage thinned in the *campañas al desierto*, the partial seal began to fail. Don Eusebio's ritual eight months ago did not *break* Saens's work — it widened a wound already opening. **The bone chamber is not a finished closing. It is the cost of a brave, incomplete one.** Players who connect this to Page 79 understand what *they* will be paying for if they try the same shortcut at the pit.
 
@@ -300,8 +331,11 @@ While the players are at the ruins, a runner from the post road delivers a lette
 The letter is two pages. Key passages, paraphrased:
 
 - *"Quirce's network is not what he says it is. It documents 'geometric anomalies' for purposes the network has not agreed on internally. Some members want to close them. Some want to study them and accept the cost. Quirce is in the second category. Treat him as honest about his observations and a liar about his intentions."*
+  - **[ES]** *"La red de Quirce no es lo que él dice que es. Documenta 'anomalías geométricas' con fines sobre los que la red no se ha puesto de acuerdo internamente. Algunos de sus miembros quieren cerrarlas. Otros quieren estudiarlas y aceptar el costo. Quirce pertenece a la segunda categoría. Considérenlo honesto en cuanto a sus observaciones y mentiroso en cuanto a sus intenciones."*
 - *"What Saens called the figure is in the Necronomicón. I have read parts of the Necronomicón. I cannot say where it is now. I can say that the closing ritual you appear to be preparing will work for *this* opening, but it will not address the broader question. There is more than one scar. The book describes them all. The book is not safe and is not destroyable by the means available to us. We hold it; we do not use it; we keep it where it cannot be moved."*
+  - **[ES]** *"Lo que Saens llamaba la figura está en el Necronomicón. He leído partes del Necronomicón. No puedo decir dónde se encuentra ahora. Sí puedo decir que el ritual de cierre que parecen estar preparando servirá para *esta* apertura, pero no atenderá la cuestión más amplia. Hay más de una cicatriz. El libro las describe todas. El libro no es seguro y no se puede destruir con los medios a nuestro alcance. Lo guardamos; no lo usamos; lo mantenemos donde no pueda ser movido."*
 - *"If you find yourselves in Buenos Aires after this is done, write to me. I will see you. We will discuss what comes next. Until then: be careful with Quirce, and listen to El Pombero — he is, despite appearances, the most honest party to your situation."*
+  - **[ES]** *"Si llegaran a estar en Buenos Aires una vez terminado esto, escríbanme. Los recibiré. Hablaremos de lo que viene después. Hasta entonces: cuídense de Quirce, y escuchen al Pombero — es, a pesar de las apariencias, la parte más honesta de su situación."*
 
 Mercedes is now actively in the campaign's correspondence. She is not yet at the table, but her voice is.
 

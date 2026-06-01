@@ -6,12 +6,14 @@
 
 **GOAL**: Confront the man who lied → break his denial → reveal the manuscript
 
+> ⚠️ **[THIS TABLE]** No clean "return." The party fled C3 in pieces — run **THE RETURN** (creek bed, dawn, SAN 0/1D4) then **SAN RUIZ — ROSA, FIRST PASS** (cold; stone-fragment returned; La Llorona news delivered; **symbol withheld**) before they reach the gate. They hold only the **75% chapel stone-fragment**, not the complete binding symbol (earned on the 2nd San Ruiz pass, pre-C7). **Kuyen, Nahuel, the whole tribe, and Concepción are dead.** Two PCs are Marked (permanent geometry perception).
+
 **SCENE FLOW**
 
 1. **The Estancia, Changed**
 
 * Yellowed grass rings, cattle moving in single file, dogs that won't enter the south pasture
-* Tomás won't meet eyes; Concepción gone (sent to Azul)
+* Tomás won't meet eyes; **Concepción dead** (died at the pit, C1 — "sent to Azul" does NOT run; Tomás only knows she vanished, Don Eusebio can't say it)
 * Don Eusebio's right hand: ink stain spreading from index finger (C1) → full palm now
 
 2. **The Confrontation**
@@ -31,18 +33,18 @@
 * Light leaks under door at night; low continuous reading aloud
 * Manuscript: Padre Saens, S.J., 1761–1763. Latin + Guaraní + Mapudungun marginalia
 * Diagrams = same shape as pit, hide, chapel
-* SAN 0/1D6 (reading the manuscript)
+* SAN 0/1 (reading the manuscript — weight of recognition, not gore)
 
 5. **First Wrong Returned**
 
 * Appear at fence line at chapter end. Slow. Quiet. Watching.
-* Faces of villagers from San Ruiz
-* SAN 1/1D4
+* Faces of villagers from San Ruiz (Héctor 50s, Marta 40s — walked back from Tres Lagunas)
+* SAN 0/1
 
 **KEY DIALOGUE**
 
 * Silvio: *"Tienen el polvo. Como yo."* (the first naming as kinship)
-* Don Eusebio: *"He works."* (about Silvio, flat, an admission)
+* Don Eusebio: *"He works."* / **[ES]** *"Trabaja."* (about Silvio, flat, an admission)
 
 **ATMOSPHERIC RUNNERS (3a/3b/3c)**
 
@@ -77,7 +79,7 @@
 2. **The Road to the Ruins**
 
 * Landscape changes: fewer birds, plants thinning, the air heavier
-* Kuyen meets the party on the road if she lives; she will not enter the ruins
+* **Kuyen is dead (C3)** — no road meeting. Her warning (*move to the pit, days not weeks; the east fails first*) arrives instead through the **goat's pupils** / **Saens's late note** (*"El nudo del este siempre cede primero…"*) / **La Llorona's eastward pull** felt by a Marked PC
 
 3. **The Jesuit Mission Ruins**
 
@@ -88,9 +90,9 @@
 4. **The Carved Stone & The Descent**
 
 * Spot Hidden / Cthulhu Mythos: the stone moves
-* Bone chamber below: Padre Saens's body laid as the geometric center
+* Bone chamber below: Padre Saens's body laid as the geometric center (non-human skulls at the outer ring — "the first people")
 * He achieved a *partial* binding — bought ~6 decades by becoming the anchor
-* SAN 1/1D8
+* SAN 1/1D6
 
 5. **READER-PATH FORESHADOW (2a)**
 
@@ -112,7 +114,7 @@
 
 **END**
 
-* Mercedes's first letter arrives at the estancia: *"I have read parts of the Necronomicón. The figure is real."*
+* Mercedes's **reply** arrives (her first letter was C4): *"I have read parts of the Necronomicón… the closing will work for *this* opening but not the broader question. There is more than one scar."* / **[ES]** *"He leído partes del Necronomicón… el cierre servirá para *esta* apertura pero no la cuestión más amplia. Hay más de una cicatriz."* — warns Quirce is honest about observations, liar about intentions
 
 **GM NOTES**
 
@@ -155,14 +157,15 @@
 * This is *mechanical*, not social — Don Eusebio cannot refuse
 * If players intervene physically: three armed men, this is not a negotiation
 
-5. **Kuyen Confronts Quirce**
+5. **The Asymmetry Is Named** (Kuyen is dead — runs differently)
 
-* If she's traveling with the party, she names the asymmetry without seeing it written down
-* *"He's not closing it. He's keeping it."*
+* A **Marked PC** (geometry perception) or **Marta** (tracing the diagram in the dark) catches the asymmetric panel Quirce "corrected"
+* *"Esta línea no la dibujé yo… La dibujó alguien que sabe el dibujo desde adentro. No fue Quirce."* — *"This line I did not draw… it was drawn by someone who knows the drawing from inside. It was not Quirce."*
+* The asymmetry is the **Great Wizard's** correction, channeled through Quirce — and it is **never corrected**, carrying into C8 as an active threat
 
 **KEY DIALOGUE**
 
-* Quirce: *"I came because no one else would. The manuscript is not a closing manual."*
+* Quirce: *"I came because no one else would. The manuscript is not a closing manual."* / **[ES]** *"Vine porque nadie más lo iba a hacer. El manuscrito no es un manual de cierre."*
 * El Patrón (through Quirce): *"Gracias. — Eligio Dadálah."*
 
 **ATMOSPHERIC RUNNERS**
@@ -172,7 +175,7 @@
 
 **END**
 
-* The party rides to the pit at dawn with Quirce, Don Eusebio, Silvio, Kuyen, Wrong Returned at the margins
+* The group assembles at the pit at dusk: investigators, Quirce, Don Eusebio, Silvio, Héctor + Marta. **No Kuyen, no Nahuel** — with no trained director, **Don Eusebio** sets the timeline himself: *"Tomorrow night. It's not waiting for us."*
 
 **GM NOTES**
 
