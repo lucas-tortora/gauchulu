@@ -33,28 +33,29 @@
 * Light leaks under door at night; low continuous reading aloud
 * Manuscript: Padre Saens, S.J., 1761–1763. Latin + Guaraní + Mapudungun marginalia
 * Diagrams = same shape as pit, hide, chapel
+* **Page 47 marginal note**: *Necronomicón* (Library Use or Mythos, **Regular**); Marked PCs see unprompted
 * SAN 0/1 (reading the manuscript — weight of recognition, not gore)
 
 5. **First Wrong Returned**
 
-* Appear at fence line at chapter end. Slow. Quiet. Watching.
-* Faces of villagers from San Ruiz (Héctor 50s, Marta 40s — walked back from Tres Lagunas)
+* Appear at fence line — night or dawn. Slow. Quiet. Watching.
+* Héctor 50s, Marta 40s — walked back from Tres Lagunas
 * SAN 0/1
+
+**END (C4)**
+
+* Wrong Returned at the fence (night). Party sleeps at estancia. **Mercedes' letter → C5 morning.** Pombero + Larrea copper → road to ruins.
 
 **KEY DIALOGUE**
 
 * Silvio: *"Tienen el polvo. Como yo."* (the first naming as kinship)
 * Don Eusebio: *"He works."* / **[ES]** *"Trabaja."* (about Silvio, flat, an admission)
+* Eusebio on marginal note: *"Si está en otro libro, ese libro lo tiene alguien…"*
 
 **ATMOSPHERIC RUNNERS (3a/3b/3c)**
 
 * Dust on the players' cuffs — Silvio recognizes it
 * Low vibration in the locked study; intensifies when manuscript opens
-* Tarnished copper runner: a merchant arrives the night before; copper items darkened by morning (5b)
-
-**END**
-
-* Wrong Returned at the fence; Silvio agrees to stay; Don Eusebio admits *some* of what he did
 
 **GM NOTES**
 
@@ -66,39 +67,66 @@
 
 ## CHAPTER 5 — EL MANUSCRITO (1 PAGE)
 
+Full prep: [chapter-05-el-manuscrito.md](./chapter-05-el-manuscrito.md) · [scene index](./chapter-05-el-manuscrito.md#scene-index)
+
 **GOAL**: Translate the manuscript → visit the Jesuit ruins → find Saens's bone chamber → plant the Reader-path foreshadow
 
 **SCENE FLOW**
 
-1. **The Wrong Returned at the Estancia**
+> **Opening**: Met Héctor and Marta at fence (C4). Slept at estancia. **C5 opens next morning.**
 
-* They walk in formation — geometric. Players notice or don't.
-* They don't attack. They watch. They place themselves on the diagram.
-* SAN 0/1D4 sustained presence
+**THE MORNING AFTER** (before departure)
 
-2. **The Road to the Ruins**
+* **Mercedes' first letter**: Tomás at dawn; page 47 / Quirce; *"Ella es de fiar. Quirce no."*
 
-* Landscape changes: fewer birds, plants thinning, the air heavier
-* **Kuyen is dead (C3)** — no road meeting. Her warning (*move to the pit, days not weeks; the east fails first*) arrives instead through the **goat's pupils** / **Saens's late note** (*"El nudo del este siempre cede primero…"*) / **La Llorona's eastward pull** felt by a Marked PC
+1. **The Wrong Returned** (Scene 1)
 
-3. **The Jesuit Mission Ruins**
+* Fall in on departure; sustained dialogue if needed. SAN 0/1D3 conversation
 
-* Foundation stones, broken bell tower, walls chest-high
-* Bell (1749) — older than the mission; brought from elsewhere
-* Visual handout: `assets/dual-diagram.svg`
+2. **El Pombero on El Pelón** (Scene 2)
 
-4. **The Carved Stone & The Descent**
+* Waves, whistles, vanishes. Old burial pit. Tomás: *"Le silba a los que están por entrar a algo."*
 
-* Spot Hidden / Cthulhu Mythos: the stone moves
-* Bone chamber below: Padre Saens's body laid as the geometric center (non-human skulls at the outer ring — "the first people")
-* He achieved a *partial* binding — bought ~6 decades by becoming the anchor
-* SAN 1/1D6
+3. **The Road to the Ruins** (Scene 3)
 
-5. **READER-PATH FORESHADOW (2a)**
+* Landscape read through their attention — corners, angles
+* Optional: Luz Mala sensor to the south
+* **5b — Larrea's copper**: meets party approaching ruins; camped in chapel overnight; chapel-facing copper blackened; buy scrap → re-tarnishes in bone chamber
 
-* Page 79 of the manuscript can be read aloud
-* **The PC who reads aloud is the Reader.** Note the player.
-* Don't tell them. Mercedes will recognize them in C8.
+4. **The Jesuit Mission Ruins** (Scene 4)
+
+* Carved dual diagram; `assets/dual-diagram.svg`
+* Deep read: pages 72, 79. **Reader-path**: page 79 read **aloud** → note the PC
+
+5. **Descent at the Carved Stone** (Scene 5)
+
+* Marta opens shaft at midday. *"La Salamanca."* Canteen standing waves on stone.
+
+6. **El Pombero Returns** (Scene 6)
+
+* Three warnings: bones, whispers, Great Wizard's chamber closed
+
+7. **Bone Chamber** (Scene 7)
+
+* Saens's skull at center; non-human skulls = *first people*. Partial binding. SAN 1/1D6
+* **Diagram lesson**: lay `dual-diagram-anchor.svg` on skull; Marta/Héctor explain opening / closing / anchor; center = Eusebio or PC (Nahuel dead)
+* **Bones moved?** Tier 1–3 → **cataloguing pass** (survivable, 1–3 rnds), not C3 fight; log tier for C8 east penalty
+* Larrea copper re-tarnishes on walls (if bought)
+
+8. **Whispering Tunnels** (Scene 8)
+
+* Three branches: offering tablet, flooded diagram, sealed door
+* **Optional — Great Wizard**: [stat sheet](./chapter-05-el-manuscrito.md#stat-sheet-combat-in-the-chamber) · **Deflection of the Ochre** vs Shrivelling · flee via crawl-space
+* **Roll for Hound**: [C5 keeper table](./chapter-05-el-manuscrito.md#keeper-roll-for-hound-c5) — **2 Marked PCs, each 2d6**, d1 (d1–2 if looked hard)
+
+9. **Mercedes' Reply** (Scene 9)
+
+* Names Necronomicón; Quirce honest on observations, liar on intentions. SAN 0/1
+
+10. **The Warning, Without Kuyen** (Scene 10)
+
+* **STEAMROLL**: run A+B+C, then departure beat — *return west; days not weeks; east fails first*
+* [Steamroll checklist](./chapter-05-el-manuscrito.md#keeper-steamroll-return-west) before C6
 
 **MANUSCRIPT KEY FACTS**
 
@@ -111,10 +139,14 @@
 * Dust on the players still; Saens's bones have it on them too
 * Vibration in the chamber; ladder rungs hum
 * Observable consequence: candles bend toward the stone
+* Compass drifts west underground
 
 **END**
 
-* Mercedes's **reply** arrives (her first letter was C4): *"I have read parts of the Necronomicón… the closing will work for *this* opening but not the broader question. There is more than one scar."* / **[ES]** *"He leído partes del Necronomicón… el cierre servirá para *esta* apertura pero no la cuestión más amplia. Hay más de una cicatriz."* — warns Quirce is honest about observations, liar about intentions
+* **Return west** — pit at estancia, not ruins. Héctor/Marta leave without asking.
+* Mercedes **reply** + Tomás runner: *"Vuelvan. Quirce viene."*
+* Page 71 margin unlocks at carved stone
+
 
 **GM NOTES**
 

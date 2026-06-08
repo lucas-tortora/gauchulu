@@ -39,5 +39,5 @@ The detailed prep currently in this folder reflects an **earlier campaign draft*
 ## Chapters
 
 - [Chapter 04 — El Patrón](./chapter-04-el-patron.md) — *The confrontation; the manuscript; Silvio; the Wrong Returned arrive*
-- [Chapter 05 — El Manuscrito](./chapter-05-el-manuscrito.md) — *The Wrong Returned, the road, the Jesuit ruins, the dual diagram*
+- [Chapter 05 — El Manuscrito](./chapter-05-el-manuscrito.md) — *Morning after (Mercedes), Larrea at ruins, Wrong Returned, La Salamanca underground, Reader-path seed* ([scene index](./chapter-05-el-manuscrito.md#scene-index))
 - [Chapter 06 — El Visitante](./chapter-06-el-visitante.md) — *Aldao Quirce; forcing Don Eusebio to commit; everyone moves to the pit*

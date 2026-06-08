@@ -71,7 +71,7 @@
 
 * Dust on the players' cuffs — Silvio recognizes it
 * Low vibration in the locked study; intensifies when the manuscript opens
-* Tarnished-copper runner: a merchant arrives the night before; copper darkened by morning (5b)
+* Tarnished-copper runner → **C5 Scene 3**: Larrea camped at ruins; chapel-facing copper blackened (5b)
 
 **END**: Wrong Returned at the fence; Silvio agrees to stay; Don Eusebio admits *some* of what he did
 

@@ -210,6 +210,24 @@ He will now answer questions. He will not lie about things he has already confir
 >
 > **[ES]** *"La figura no es un símbolo. Es una herida. Algo atravesó este lugar antes de toda memoria nuestra y dejó esta forma como una cicatriz deja su marca en la piel. La ceremonia no bendijo la tierra. Reabrió la cicatriz. Lo que oí bajo la tierra no es un espíritu. No es el Demonio. Es algo para lo cual ni nuestra teología ni nuestra filosofía poseen categoría, y la ausencia de categoría es, en sí misma, el horror."*
 
+**The marginal note (page 47)**: A **Library Use or Cthulhu Mythos** roll (Regular, *not* Hard) on the marginalia reveals a later addition in Saens's hand, in a different ink — not part of the original entry:
+
+> *"…es la misma figura del Necronomicón. Que Dios me perdone por haber escrito esa palabra."* — *"…it is the same figure as the Necronomicón. May God forgive me for writing that word."*
+
+This is the campaign's **first explicit Necronomicon reference**. Saens recognized the figure as one from the *Necronomicón* and noted it secretly. The implication: **the closing of this scar may be incomplete because the full ritual is not in Saens's manuscript at all. It is in the Necronomicón.**
+
+> **C5 redundancy (clue retrieval)**: Load-bearing for Arcs 3 and 4. Three guarantees:
+>
+> 1. **Regular** difficulty (above) — within reach for any reasonably-skilled investigator.
+> 2. **Mercedes' first letter** (this chapter, *A Letter from Buenos Aires*) names the marginal note — players who miss the roll are pointed back to page 47 with the answer pre-named.
+> 3. **Marked PCs (post-C3)** revisiting the manuscript see the marginal note unprompted — the diagram on page 47 reads as *referencing another book*, the way an annotated proof references another proof. They turn to the margin without being told.
+
+Don Eusebio does not know this. If shown the marginal note:
+
+> *"Si está en otro libro, ese libro lo tiene alguien. Y alguien lo va a usar antes de que terminemos."* — *"If it is in another book, somebody has that book. And somebody will use it before we finish."*
+
+He is correct. Seed of the Buenos Aires arc and the Necronomicon thread.
+
 *Page 61: The Closing — Critical Passage*
 > *"The Tehuelche elder Antu-Rayo showed me the counter-figure — the shape that seals rather than opens. He said his people have maintained this knowledge for generations, that the scar is older than their time in this land. The closing requires three things: the complete counter-figure drawn at the site of the original opening; a person of knowledge to hold the center; and — this is the condition I resisted and which Antu-Rayo insisted upon — the presence of the one who most recently opened the wound must stand within the outer ring. Not to be punished. Because the geometry knows them. The scar responds to the one who tore it. Without that recognition, the seal is incomplete."*
 >
@@ -278,6 +296,8 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 
 **SAN Check**: 0/1 — seeing the two figures standing motionless at the fence line, and realizing what they must be.
 
+> **Table pacing**: If the party approaches the fence at night, run the Wrong Returned encounter in low light. They do not enter the estancia. The party sleeps at the house; **C5 opens the next morning** with Mercedes' letter, departure east, El Pombero on *El Pelón*, and [Larrea's copper (5b)](./chapter-05-el-manuscrito.md#the-merchant-with-tarnished-copper-5b) on the road to the ruins — see [chapter-05 — *The Morning After* & Scene 3](./chapter-05-el-manuscrito.md#the-morning-after--estancia-la-esperanza).
+
 ---
 
 ## GM NOTES
@@ -288,7 +308,7 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 
 **Silvio should unsettle, not threaten**: Do not make him aggressive. The wrongness is in the ordinariness. He does his job. He answers questions. He grips the fence post. That is more frightening than violence.
 
-**The Wrong Returned at the fence line**: End the chapter on this image — two figures at the far edge of the south pasture, standing, waiting. Don't resolve what they are this chapter. Let that sit until Chapter 5.
+**The Wrong Returned at the fence line**: End on the fence image or the night's conversation — Mercedes' letter at **C5 opening** (*The Morning After*); Pombero and Larrea's copper on the road to the ruins ([Scene 2–3](./chapter-05-el-manuscrito.md#scene-3--the-road-to-the-ruins)).
 
 **Pacing note**: This chapter is slower than Chapter 3. It should feel like the eye of a storm — the violence of Arc 1's end gives way to something worse: comprehension. Everything investigators discover this chapter is information they almost had, and the gap between what they knew and what they should have known is itself a form of dread.
 
@@ -303,7 +323,11 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 | Silvio | The estancia's internal Wrong Returned — has been here since before the investigators arrived |
 | Don Eusebio's diagrams | He has been trying to find an alternative. There is none. He knows this. |
 | The Wrong Returned at the fence | Héctor and Marta, drawn back from Tres Lagunas. Coming home for something. |
+| Page 47 marginal note | *Necronomicón*, in Saens's hand — full closing may not be in this manuscript |
 | Aldao Quirce | A "scholar" from Buenos Aires. Don Eusebio contacted him. His response contained advance knowledge. |
+| Wall cavity (study) | Possibly opened from the other side — El Patrón's hand in the manuscript's transmission |
+
+> **Carried forward in C5** (not C4): Mercedes' first letter (morning after); El Pombero on *El Pelón*; Larrea's tarnished copper (5b) on the road to the ruins.
 
 > **[THIS TABLE — C4 ENTRY — 2026-05-29]**
 > PCs arrive after the C3 failure — ritual failed, Hound escaped, Nahuel and Kuyen dead, tribe dead. Two PCs fled under temporary insanity; one fled by rational choice. All three are marked by what they witnessed (two literally, with permanent geometry perception).
@@ -316,94 +340,8 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 
 ## EXPANSION NOTES — BRIDGING TO THE OVERVIEW FRAMING
 
-The detailed prep above maps the old draft of this chapter: confronting Don Eusebio Valdez at Estancia La Esperanza on the *campaña* in 1821. The `overview.md` framing reframes Arc 2 as **La Salamanca** — folklore underground, El Pombero as guide, the Great Wizard, first Necronomicon reference, El Patrón manipulating. Use the scenes below to bring the new framing onto the existing prep without rewriting it.
-
-### Reskinning summary
-
-- **Don Eusebio Valdez** is the opener — the desperate landowner who set the corruption in motion. (`overview.md` previously had him as *Álvarez*; *Valdez* is now canonical across all chapters.)
-- **Aldao Quirce** as "Buenos Aires scholar with hidden agenda" can be played in this chapter as a *correspondent*, not yet on stage. He is the network's distant face; in the overview framing he is also the future C6 visitor and a possible Keeper-adjacent operator the players will see again in Arc 4.
-- **El Patrón** (avatar of Nyarlathotep, in the overview): in this chapter, he is the *invisible hand behind the manuscript's transmission*. Don Eusebio received the manuscript not by accident — it was placed where he would find it, by an agent who has been moving Don Eusebio toward the opening for years. Add this to Don Eusebio's confession in the locked study scene: a hint, no more, that the wall cavity where the manuscript was found had been *opened from the other side*.
-
-### NEW SCENE — EL POMBERO ON THE RIDGE
-
-Insert this scene late in the chapter, after Don Eusebio has agreed in principle to help and the Wrong Returned have appeared at the fence. Before the ride back to the players' camp.
-
-> *You leave the estancia at dusk. The road south to your camp curves past a low rise — a *cuchilla* the locals call *El Pelón*, "the bald spot," because no grass grows on its crown. Tomás does not look at it as you ride past. Don Eusebio's *peones* won't speak its name. As your horses round its base, a small figure appears at the top — not climbing, simply *there*, as if he had always been standing.*
->
-> *He is short. Brown skin, broad face, a straw hat too large for his head. He raises one hand and waves — not friendly, not threatening, just acknowledging that you are passing. He whistles. The whistle has more notes than there are notes a person should know.*
->
-> **[ES]** *Salen de la estancia al anochecer. El camino al sur, hacia su campamento, dobla pasando una loma baja — una *cuchilla* que los lugareños llaman *El Pelón*, "el pelado", porque no crece pasto en la cima. Tomás no la mira al pasar. Los peones de Don Eusebio no dicen su nombre. Cuando los caballos rodean su base, una figura pequeña aparece en lo alto — no trepando, simplemente *ahí*, como si hubiera estado parado desde siempre.*
->
-> **[ES]** *Es bajo. Piel morena, cara ancha, un sombrero de paja demasiado grande para su cabeza. Levanta una mano y saluda — ni amistoso, ni amenazante, solo reconociendo que están pasando. Silba. El silbido tiene más notas de las que una persona debería conocer.*
-
-**El Pombero** is the overview's guide-and-test. In this chapter he does not *do* anything yet. He whistles. He waves. He vanishes when the party looks away. **Spot Hidden** while passing: the grass on top of *El Pelón* has the same ring pattern as the cattle field's grass rings — older, smaller, but the same shape. *El Pelón* is a *previous* burial pit, ten generations old.
-
-Tomás, if pressed, will say in a strangled voice: *"El Pombero. Le silba a los que están por entrar a algo. No me pregunten más."* — *"El Pombero. He whistles to those who are about to enter into something. Don't ask me more."*
-
-This is the players' first folklore encounter and a foreshadowing of an underground entrance Arc 2 will return to. Do not open the entrance this chapter.
-
-### NEW SCENE — THE NECRONOMICON, BY NAME
-
-Insert this in the **locked study** scene. When the players are reading Padre Saens's manuscript, a **Library Use or Cthulhu Mythos** roll (Regular, *not* Hard) on the marginalia of page 47 reveals a single word in Saens's hand, in a different ink (later addition, not part of the original entry):
-
-> *"…es la misma figura del Necronomicón. Que Dios me perdone por haber escrito esa palabra."*  — *"…it is the same figure as the Necronomicón. May God forgive me for writing that word."*
-
-This is the campaign's first explicit Necronomicon reference. Saens — the historical opener — recognized the figure as one from the *Necronomicón* and noted it secretly in his own manuscript. The implication: **the closing of this scar may be incomplete because the full ritual is not in Saens's manuscript at all. It is in the Necronomicón.**
-
-> **C5 redundancy (clue retrieval)**: This clue is load-bearing for Arcs 3 and 4 — players who miss it will struggle to understand why Mercedes' offer in C8 matters. Three guarantees:
->
-> 1. **Difficulty lowered** from Hard to Regular (above). The Library Use threshold is now within reach for any reasonably-skilled investigator.
-> 2. **Mercedes' first letter (later this chapter, in *A Letter from Buenos Aires*) names the marginal note**: she writes that Quirce mentioned the *Necronomicón* notation in Saens's manuscript in his correspondence with her, and she finds it significant. *Players who fail the Library Use roll but read Mercedes' letter are pointed back to page 47 with the answer pre-named.* (See updated letter text below.)
-> 3. **Marked PCs (post-C3) revisiting the manuscript see the marginal note unprompted** — the geometry of the diagram on page 47 reads as *referencing another book*, in the same way an annotated mathematical proof reads as referencing another proof. They will turn to the margin without being told to.
-
-Don Eusebio does not know this. If the players show him the marginal note, his response is:
-
-> *"Si está en otro libro, ese libro lo tiene alguien. Y alguien lo va a usar antes de que terminemos."* — *"If it is in another book, somebody has that book. And somebody will use it before we finish."*
-
-He is correct. This is the seed of the Buenos Aires arc and the Necronomicon thread.
-
-### NEW SCENE — A LETTER FROM BUENOS AIRES
-
-Add this as a closing scene of the chapter, after the Wrong Returned appear. Tomás brings a letter that arrived earlier in the day; he has been sitting on it because Don Eusebio is shaken and Tomás did not know what to do with mail in the middle of a confrontation.
-
-The letter is from **Doña Mercedes Solís**, Universidad de Buenos Aires, addressed to *"El Sr. Don Eusebio Valdez, Estancia La Esperanza, Provincia de Buenos Aires."* It is dated three weeks ago.
-
-> *"Estimado Sr. Valdez: Aldao Quirce me ha enviado parte de la correspondencia que él mantiene con usted, sin su consentimiento. Le adjunto copia. Me llamó la atención una nota al margen de la página 47 del manuscrito de Saens — Quirce la transcribió. Si la lectura de Quirce es correcta, esa palabra cambia mucho. Hay una segunda voz dispuesta a ayudar — no la suya. Si necesita una segunda opinión sobre lo que está sucediendo en sus tierras, puede escribirme a la dirección abajo. — M.S."*  — *"Dear Sr. Valdez: Aldao Quirce has sent me part of the correspondence he is maintaining with you, without his knowledge. I am enclosing a copy. A marginal note on page 47 of Saens's manuscript — which Quirce transcribed — caught my attention. If Quirce's reading is correct, that word changes a great deal. There is a second voice willing to help — not his. If you need a second opinion on what is happening on your lands, you may write to me at the address below. — M.S."*
-
-(*The "word" Mercedes alludes to but does not write is **Necronomicón**. Mercedes writes around the word in her own correspondence on principle; she will name it only in person or in a sealed reply. Players who have already found the marginal note recognize what she means; players who have not will be drawn to page 47 to find it.*)
-
-Don Eusebio has not replied. He hands the letter to the players. *"Si pasa algo y yo no estoy, escríbanle ustedes. Ella es de fiar. Quirce no."* — *"If something happens and I am not here, you write to her. She is trustworthy. Quirce is not."*
-
-Mercedes is the campaign's eventual moral and intellectual center (overview, Arc 3 onward). This letter introduces her as a name early, well before her Arc 4 reveal. Players who write to her will receive a reply in C5 or C6.
-
-### Continuity ledger
-
-Carry forward into C5 and C6:
-
-- El Pombero on *El Pelón*; he is owed something or owed nothing; he will be back.
-- The marginal note: *Necronomicón*, in Saens's hand.
-- Mercedes' letter; her address; her warning about Quirce.
-- The wall cavity in Don Eusebio's study, possibly opened from outside.
-
----
-
-## BETWEEN-CHAPTER HOOK — THE MERCHANT WITH TARNISHED COPPER (5b)
-
-Run this scene at the table at the end of C4 or the very start of C5, on the night between the two chapters. It is short. It is environmental foreshadowing, not plot.
-
-A traveling merchant — **Don Crisanto Larrea**, mid-50s, grey-bearded, on the road from Tandil to Buenos Aires with a small cart of *yerba mate*, copper *bombillas* (mate-straws), copper buttons, copper kettle-fittings, and a few iron tools — arrives at the estancia at dusk with a cracked axle. Tomás examines it; the axle will need a smith and there is no smith on this road for half a day's ride. Don Eusebio, hospitable in the old gaucho way (this is one of the things he is *still* good at), offers Larrea the night.
-
-Larrea sleeps in the bunkhouse. He wakes at dawn with the rest of the working hands. **The cart, parked overnight in the courtyard within sight of the south paddock, has changed.**
-
-> *Every copper item in his cart has tarnished black overnight. Not the green of natural copper oxide — black, evenly, as if held in flame for an hour. The copper bombillas are unusable. The buttons are dull. The kettle-fittings are ruined. The iron tools are untouched. The yerba is fine. **Only the copper, and only the copper that was on the side of the cart facing south.** The copper on the north side of the cart is normal.*
->
-> **[ES]** *Cada objeto de cobre de su carro se ennegreció durante la noche. No el verde del óxido natural del cobre — negro, parejo, como si lo hubieran tenido a la llama una hora. Las bombillas de cobre quedaron inservibles. Los botones, opacos. Los herrajes de la pava, arruinados. Las herramientas de hierro, intactas. La yerba, bien. **Solo el cobre, y solo el cobre que estaba del lado del carro que daba al sur.** El cobre del lado norte del carro está normal.*
-
-Larrea is bewildered. He has been a merchant for twenty years. He has never seen this. He asks the investigators if they know what could have caused it. *"Es como si algo hubiera mirado el cobre toda la noche. ¿Saben? Como si el cobre hubiera estado mirándolo a él también."* — *"It is as if something had looked at the copper all night. You know? As if the copper had been looking back."*
-
-> **What this is**: The geometry of the burial pit, even with Quirce's brass markers in the study extending its observable field, has *recognized* the copper as a metallically-similar material to the brass markers and tried to *use* it — pulling on it overnight to add to the diagram's measurable extent. It failed (the cart was too far from the central geometry, and Larrea moved on at dawn before the alignment could complete) but the metallurgical signature is unmistakable. **A Hard Cthulhu Mythos roll** identifies this as the same geometric-extension effect that Quirce's brass markers create — but applied at a distance, without the markers, suggesting the entity itself is now reaching outward.
->
-> **What investigators can do**: Buy the ruined copper from Larrea at scrap price; he will be grateful (he was going to lose the value anyway). The copper, brought to the bone chamber in C5, will *re-tarnish* on contact with the walls — confirming the link. Mercedes, seeing the copper later, will recognize the signature.
->
-> **Larrea's onward role**: He repairs the axle and rides on toward Buenos Aires. **He arrives in the city before the players do, two months later.** He tells the story of the tarnished copper to the *vigilantes urbanos* at the gate. The story reaches Saráchaga. Saráchaga writes a letter to Mercedes saying *"the pressure is now visible at the perimeter, not just at the centre."* This is one of the threads that brings Mercedes to the camp in C7. **Larrea is the campaign's first non-Keeper, non-curandera, non-tribal civilian witness to the entity's reach.** He never knows what he saw. He retires to a small farm outside Mercedes the next year and lives quietly. He dies of natural causes in 1843.
+- **Don Eusebio Valdez** is the opener. (`overview.md` previously had him as *Álvarez*; *Valdez* is canonical.)
+- **Aldao Quirce** plays as correspondent here; on stage in C6.
+- **El Patrón**: invisible hand behind the manuscript's transmission. In the locked study confession: hint that the wall cavity had been *opened from the other side*.
+- **Necronomicon marginal note** is in the [locked study](#the-locked-study) (main script). **Mercedes' first letter** runs at **[C5 opening](./chapter-05-el-manuscrito.md#the-morning-after--estancia-la-esperanza)**. **El Pombero** and **Larrea's copper (5b)** run on the road to the ruins ([Scene 3](./chapter-05-el-manuscrito.md#the-merchant-with-tarnished-copper-5b)).
 

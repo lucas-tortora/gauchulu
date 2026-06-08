@@ -199,6 +199,10 @@ This compact token is what carries the closing across the world when no one can 
 - *Inside-out* on the wax seal of a folded parchment Mercedes hands the players in C11.
 - On the eastern arch of the dual diagram (when fully drawn, the binding-symbol shape emerges as the negative space between the closing's pressure points and the central vesica).
 
+![Binding symbol overlaid on the dual diagram](../assets/dual-diagram-binding-overlap.svg)
+
+`assets/dual-diagram-binding-overlap.svg` — show after C5 when players connect Rosa's ornament to Saens's stone.
+
 > *On the table*: print the binding-symbol small. It is a **prop**. Use it when you want players to recognize a closing without saying the word "closing." A player who sees this on Rosa's throat, then on a doorframe, then on the reverse of Tomás's stone, then on a wax seal, has been **shown the same answer four times**. That is the campaign's pedagogy: never tell, repeat.
 
 ---

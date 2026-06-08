@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  DUAL DIAGRAM + BINDING SYMBOL OVERLAP - La Tierra Mala
+  Shows la atadura (binding-symbol.svg) nested inside the closing geometry
+  of the dual diagram. The four off-axis lines are the closing signature
+  distilled; the center knot is the inverse of the vesica piscis anchor.
+
+  Companion: dual-diagram.svg, binding-symbol.svg, dual-diagram-closing.svg
+  Pedagogy: 01-la-tierra-mala/diagrams.md (La Atadura)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <radialGradient id="parchment" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#f4ecd8"/>
+      <stop offset="80%" stop-color="#e8dcc0"/>
+      <stop offset="100%" stop-color="#cbb88f"/>
+    </radialGradient>
+    <radialGradient id="silver" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#f5f3ee"/>
+      <stop offset="60%" stop-color="#cfc9be"/>
+      <stop offset="100%" stop-color="#8a8377"/>
+    </radialGradient>
+    <clipPath id="eastArcClip">
+      <path d="M 400 225 A 350 350 0 0 1 400 575 L 520 400 Z"/>
+    </clipPath>
+    <filter id="age" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/>
+      <feColorMatrix values="0 0 0 0 0.25  0 0 0 0 0.18  0 0 0 0 0.10  0 0 0 0.06 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="800" fill="url(#parchment)"/>
+  <rect width="800" height="800" fill="#000" opacity="0.03" filter="url(#age)"/>
+
+  <g transform="translate(400 400)">
+
+    <!-- LAYER 1: full dual diagram (ghost) -->
+    <g opacity="0.14" stroke="#1f1610" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle r="350" stroke-width="2"/>
+      <polygon points="0,-260 225.2,130 -225.2,130" stroke-width="1.5"/>
+      <polygon points="0,260 225.2,-130 -225.2,-130" stroke-width="1.5"/>
+      <polygon points="0,-130 112.6,-65 112.6,65 0,130 -112.6,65 -112.6,-65" stroke-width="1.2"/>
+      <g stroke-width="0.8" opacity="0.7">
+        <line x1="0" y1="0" x2="0" y2="-350"/>
+        <line x1="0" y1="0" x2="303.1" y2="-175"/>
+        <line x1="0" y1="0" x2="303.1" y2="175"/>
+        <line x1="0" y1="0" x2="0" y2="350"/>
+        <line x1="0" y1="0" x2="-303.1" y2="175"/>
+        <line x1="0" y1="0" x2="-303.1" y2="-175"/>
+      </g>
+    </g>
+
+    <!-- LAYER 2: closing aspect (readable) -->
+    <g stroke="#1a3d2e" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+      <circle r="350" stroke-width="2.5"/>
+      <polygon points="0,260 225.2,-130 -225.2,-130" stroke-width="3"/>
+      <polygon points="0,-130 112.6,-65 112.6,65 0,130 -112.6,65 -112.6,-65" stroke-width="2"/>
+    </g>
+
+    <!-- Opening ghost (contrast) -->
+    <g stroke="#8b2500" fill="none" opacity="0.2" stroke-width="2">
+      <polygon points="0,-260 225.2,130 -225.2,130"/>
+    </g>
+
+    <!-- LAYER 3: vesica (anchor / doorway) -->
+    <g stroke="#4a3728" fill="none" stroke-width="1.8" opacity="0.85">
+      <circle cx="-30" cy="0" r="60"/>
+      <circle cx="30" cy="0" r="60"/>
+    </g>
+
+    <!-- LAYER 4: binding symbol scaled to inner hex (s = 130/86) -->
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <!-- overlap halo -->
+      <circle r="118" fill="url(#silver)" opacity="0.22"/>
+      <g stroke="#1a1612" fill="none" stroke-width="4" opacity="0.95">
+        <line x1="0" y1="0" x2="48.4" y2="-130"/>
+        <line x1="0" y1="0" x2="-48.4" y2="130"/>
+        <line x1="0" y1="0" x2="130" y2="48.4"/>
+        <line x1="0" y1="0" x2="-130" y2="-48.4"/>
+      </g>
+      <g stroke="#cfc9be" fill="none" stroke-width="2.2" opacity="0.9">
+        <line x1="0" y1="0" x2="48.4" y2="-130"/>
+        <line x1="0" y1="0" x2="-48.4" y2="130"/>
+        <line x1="0" y1="0" x2="130" y2="48.4"/>
+        <line x1="0" y1="0" x2="-130" y2="-48.4"/>
+      </g>
+      <!-- barbs -->
+      <g stroke="#1a1612" stroke-width="2.5" fill="none">
+        <polyline points="33,-117 48.4,-130 42,-108"/>
+        <polyline points="-33,117 -48.4,130 -42,108"/>
+        <polyline points="117,33 130,48.4 108,42"/>
+        <polyline points="-117,-33 -130,-48.4 -108,-42"/>
+      </g>
+      <!-- binding knot: inverse of vesica -->
+      <ellipse cx="0" cy="0" rx="9" ry="16" fill="#1a1612" opacity="0.92"/>
+      <ellipse cx="0" cy="0" rx="9" ry="16" fill="none" stroke="#cfc9be" stroke-width="1.2" opacity="0.7"/>
+    </g>
+
+    <!-- overlap markers: where binding lines meet inner hex -->
+    <g fill="#8b6914" opacity="0.75">
+      <circle cx="48.4" cy="-130" r="5"/>
+      <circle cx="-48.4" cy="130" r="5"/>
+      <circle cx="130" cy="48.4" r="5"/>
+      <circle cx="-130" cy="-48.4" r="5"/>
+    </g>
+
+    <!-- eastern weak arc -->
+    <path d="M 303.1 -175 A 350 350 0 0 1 303.1 175" stroke="#8b2500" stroke-width="2.5" fill="none" opacity="0.5" stroke-dasharray="8 6"/>
+  </g>
+
+  <!-- Eastern arc magnifier: negative-space read -->
+  <g transform="translate(575 400)">
+    <circle r="88" fill="#f4ecd8" stroke="#3d362b" stroke-width="1.5" opacity="0.95"/>
+    <circle r="88" fill="none" stroke="#8b2500" stroke-width="1" opacity="0.4" stroke-dasharray="4 4"/>
+    <g clip-path="url(#eastArcClip)" transform="translate(-575 -400)">
+      <g transform="translate(400 400)" opacity="0.35" stroke="#1a3d2e" fill="none">
+        <circle r="350" stroke-width="3"/>
+        <polygon points="0,260 225.2,-130 -225.2,-130" stroke-width="2.5"/>
+      </g>
+      <g transform="translate(400 400)">
+        <g stroke="#1a1612" stroke-width="3" fill="none" stroke-linecap="round">
+          <line x1="0" y1="0" x2="48.4" y2="-130"/>
+          <line x1="0" y1="0" x2="-48.4" y2="130"/>
+          <line x1="0" y1="0" x2="130" y2="48.4"/>
+          <line x1="0" y1="0" x2="-130" y2="-48.4"/>
+        </g>
+        <ellipse cx="0" cy="0" rx="9" ry="16" fill="#1a1612"/>
+      </g>
+    </g>
+    <!-- simplified binding in lens -->
+    <g stroke="#1a1612" fill="none" stroke-linecap="round" stroke-width="2.2">
+      <line x1="0" y1="0" x2="22" y2="-58"/>
+      <line x1="0" y1="0" x2="-22" y2="58"/>
+      <line x1="0" y1="0" x2="58" y2="22"/>
+      <line x1="0" y1="0" x2="-58" y2="-22"/>
+      <ellipse cx="0" cy="0" rx="5" ry="9" fill="#1a1612" stroke="none"/>
+    </g>
+  </g>
+
+  <!-- Ornament scale inset (Rosa's throat) -->
+  <g transform="translate(118 118)">
+    <circle r="52" fill="#1a1612"/>
+    <circle r="48" fill="url(#silver)"/>
+    <g transform="translate(0 0)" stroke="#1a1612" fill="none" stroke-linecap="round" stroke-width="2">
+      <line x1="0" y1="0" x2="18" y2="-48"/>
+      <line x1="0" y1="0" x2="-18" y2="48"/>
+      <line x1="0" y1="0" x2="48" y2="18"/>
+      <line x1="0" y1="0" x2="-48" y2="-18"/>
+      <ellipse cx="0" cy="0" rx="4" ry="7" fill="#1a1612"/>
+    </g>
+  </g>
+
+  <!-- Leader lines -->
+  <g stroke="#3d362b" stroke-width="1" fill="none" opacity="0.45" stroke-dasharray="3 4">
+    <line x1="170" y1="118" x2="300" y2="300"/>
+    <line x1="500" y1="400" x2="620" y2="400"/>
+  </g>
+
+  <!-- Labels -->
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#1f1610">
+    <text x="400" y="38" text-anchor="middle" font-size="14" font-style="italic" letter-spacing="2" opacity="0.9">LA ATADURA DENTRO DEL DIBUJO</text>
+    <text x="400" y="58" text-anchor="middle" font-size="10" letter-spacing="1" opacity="0.55">cierre completo &#183; firma de cuatro l&#237;neas &#183; nudo inverso a la vesica</text>
+
+    <text x="118" y="188" text-anchor="middle" font-size="8" opacity="0.7">ornamento</text>
+    <text x="118" y="200" text-anchor="middle" font-size="8" font-style="italic" opacity="0.6">(Rosa, C2)</text>
+
+    <text x="575" y="500" text-anchor="middle" font-size="8" opacity="0.7">arco oriental</text>
+    <text x="575" y="512" text-anchor="middle" font-size="8" font-style="italic" opacity="0.6">mismo motivo, ampliado</text>
+
+    <text x="355" y="418" text-anchor="end" font-size="9" fill="#4a3728" opacity="0.8">vesica</text>
+    <text x="448" y="418" font-size="9" opacity="0.8">nudo</text>
+
+    <text x="400" y="748" text-anchor="middle" font-size="9" fill="#1a3d2e" opacity="0.65">verde = cierre &#183; rojo tenue = apertura &#183; plata = la atadura</text>
+    <text x="400" y="772" text-anchor="middle" font-size="10" font-style="italic" opacity="0.5">Un mapa. Una br&#250;jula que dice cerrar.</text>
+  </g>
+</svg>

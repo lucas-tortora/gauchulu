@@ -291,16 +291,35 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 |---|---|---|---|---|---|---|---|---|---|---|
 | 35 | 45 | 55 | 35 | 95 | 120 | 100 | 10 | +0 | 0 | 4 |
 
-**Magic Points**: 24  
-**Sanity**: 0 (long since gone, replaced by certainty)
+**Magic Points**: 24 (regains 1D3 MP per full round spent in contact with the ochre floor)  
+**Sanity**: 0 (long since gone, replaced by certainty)  
+**Armor**: None — **chamber geometry** (see below)  
+**Initiative**: DEX 35 — he almost never acts first in melee. In his chamber he may **pre-empt** one hostile spell per scene (see *Deflection of the Ochre*).
 
-**Skills**: Cthulhu Mythos 70%, Occult 90%, Library Use 85%, History 80%, Persuade 75%, Psychology 70%, Language (Latin) 90%, Language (Quechua) 65%
+**Skills**: Cthulhu Mythos 70%, Occult 90%, Library Use 85%, History 80%, Persuade 75%, Psychology 70%, Dodge 25%, Language (Latin) 90%, Language (Quechua) 65%
 
-**Spells**: At least 1D8. Confirmed: Opening the Way, Contact Entity (variant), Mindblast, Shrivelling. The Keeper should select 4–6 relevant to the confrontation.
+**Chamber geometry (passive, always on in his study)**:
+- Hostile spells cast *by anyone standing on the ochre floor* are one difficulty step harder to cast.
+- Hostile spells cast *at the Wizard* while he stands on the ochre floor are one difficulty step harder to land (caster's roll, or POW resist as appropriate).
+- Physical attacks against him are one difficulty step harder (distance subtly wrong).
+- His own geometry-manipulation spells are one difficulty step easier.
 
-**Weapons**: None physical. His weapon is the geometry of the Salamanca itself — if fighting occurs in his chamber, the space is not neutral.
+**Spells known** (full list for chamber confrontation):
 
-**Notes**: He does not fight physically. He argues, demonstrates, and reaches for his spells. He is the slowest person in any physical confrontation — DEX 35 means he almost never acts first. He does not know this is a weakness. He has never needed to know.
+| Spell | MP | Effect (summary) |
+|---|---|---|
+| **Deflection of the Ochre** *(chamber)* | 3 | **Counterspell vs Shrivelling and other destructive body-targeting magic.** See chapter-05 chamber scene. |
+| **Veil of Not-Quite** *(illusion)* | 4 | One target sees the Wizard where he stood 2 seconds ago. Opposed POW; on failure, target acts against the afterimage for 1 round. |
+| **Mental Suggestion** | 3 | *"Put it down. We are not finished."* One sentence, one command. Opposed POW; on failure, comply 1 round (cannot attack; may speak). |
+| **Mindblast** | 6 | 1 target, 2D6 SAN loss (no POW resist if cast on ochre floor). Buys 1–2 rounds. |
+| **Dread** | 3 | 1D3 targets within 10 m; CON roll or flee 1D3 rounds toward the nearest tunnel. |
+| **Opening the Way** | 8 | Opens the secondary seal behind the desk (escape crawl-space). One round to complete; interruptible. |
+| **Shrivelling** | 6 | He *has* it; will not cast first — reserves for desperate self-defense only. |
+| **Contact Entity** (variant) | 10 | Not used in C5 — reserved for Coypac. |
+
+**Weapons**: None physical. Brass ink-knife on the desk: 25%, 1D4−2, only if grappled.
+
+**Notes**: He does not want a duel. Goal is **conversation → misdirection → escape**. If reduced below 5 HP or out of MP, he flees through the crawl-space regardless. He is the slowest person in any physical confrontation — DEX 35 — but the chamber fights for him.
 
 ---
 
