@@ -284,6 +284,24 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 ---
 
+### QUIRCE'S ESCORT (×3, generic)
+
+*Hired guards, Buenos Aires. Competent, unpaid-for heroics. Also the template for El Patrón's anonymous human machinery: the Counter (C10), the House Cleaners (C11), and the Weak Point 1 ambushers + false vigilante (C12 — vigilante swaps Intimidate 55% for Disguise 50%). One stat block, one labor market.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 65 | 60 | 65 | 55 | 50 | 45 | 12 | +1D4 | 1 | 8 |
+
+**Skills**: Fighting (Brawl) 60%, Fighting (Knife) 55%, Firearms (Pistol) 50%, Dodge 45%, Intimidate 55%, Spot Hidden 45%, Ride 50%, Stealth 40%
+
+**Weapons**: Flintlock pistol 50% (1D10, 1 shot, slow reload) · cuchillo 55% (1D4+2+1D4) · fists 60% (1D3+1D4)
+
+**Morale (C6 escort)**: one of the three down → the other two disengage, covering Quirce's extraction. They fight to wound and extract, never to kill, and will not follow anyone toward the pit after dark: *"Eso no lo pagó."* — *"He didn't pay for that."*
+**Morale (C11 cleaners)**: fight to escape with the satchel, not to win.
+**Morale (C12 ambush)**: three down → the rest scatter into the side streets.
+
+---
+
 ### THE GREAT WIZARD OF SALAMANCA
 *Late old age. Cult head. Genuinely believes.*
 
@@ -324,6 +342,24 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 ---
 
 ## ARC 3–4 — THE PIT / BUENOS AIRES (C7–C12)
+
+---
+
+### CULT PRIEST OF THE GREAT SLEEPER (captured)
+
+*Fifties. Banda Oriental accent. Ash-blond beard. Calm is the weapon. Captured by the Cursed Gaucho two days before C7; carried east as proof the cult is operational now.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 55 | 60 | 55 | 50 | 70 | 80 | 11 | +0 | 0 | 7 |
+
+**Skills**: Cthulhu Mythos 30%, Occult 65%, Persuade 60%, Stealth 50%, Listen 55%, Sleight of Hand 45% (the slipped wrist — C7 Eastern Probe alt-encounter)
+
+**Spells (if ungagged ≥2 rounds)**: a 12-syllable call — no mechanical effect at the pit, but every Marked PC recognizes the rhythm from the whispering tunnels (C5): SAN 0/1, and a free clue — the cult chants in the first people's meter.
+
+**Carries**: the coded eight-name list (C7 — handout H6 in handouts-c5-c7.md). Teeth show the Saens-skull wear pattern: first-people communion paste (Hard Cthulhu Mythos to identify; Mercedes will want to study it).
+
+**SAN** when he speaks of the Great Sleeper: 0/1D4. He is calm. He believes what he says. The belief is the unsettling part.
 
 ---
 
