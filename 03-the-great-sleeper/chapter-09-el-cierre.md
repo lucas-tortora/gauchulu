@@ -73,6 +73,8 @@ He tells her the truth, whatever it is. If he cannot hold it alone, he says so n
 
 1. **Nahuel solo, at limit**: He holds. But the final phase requires the focus to withstand the entity's maximum pressure — the moment of deepest resistance before the seal completes. At the limit, without support, a **POW (Hard)** check. On failure: he breaks concentration. The phase can be restarted (he recovers in 2 minutes) but the entity maps the failure point and the restart begins at higher pressure.
 
+> ⚠️ **[THIS TABLE — P14: the anchor SURVIVES by default]** The center anchor at this table is Don Eusebio or a PC volunteer. **They survive the seal** — paying in recovery time, nightmares, and the corners going quiet — exactly as canon Nahuel does. (Any “anchor dies” note elsewhere is struck; chapter rule wins.) If a **PC** anchored: SAN 1/1D6 + CON check at the seal (1D6 damage on failure) + the Nahuel-style aftermath. Death stays available only as the player's own dramatic choice, never the default — Don Eusebio's *“What do I owe?”* lands far better with him alive to ask it.
+
 2. **Nahuel co-anchored by an investigator**: The investigator holds Nahuel's hands, placing themselves within the center ring. The contact grounds Nahuel's focus. He can sustain the final phase. The cost: the investigator takes direct geometric exposure — **SAN 1/1D6** and **CON check** (on failure: 1D6 damage from reality distortion). This is the volunteered sacrifice — not death, but payment.
 
 3. **Marta steps into the center** (if investigators have built genuine rapport with the Wrong Returned): She can co-anchor from the outer ring by extending what the entity built into her — her partial geometric alignment — to hold the center steady from outside. This is Marta's choice; investigators cannot make it for her. She will offer it if she feels the investigators and Kuyen have treated her as a person rather than a resource. If she does: the closing has near-certain success in Phase Five. The cost to Marta — see aftermath.
@@ -145,6 +147,17 @@ The pit is once more a meter deep. The extra two meters of carved wall are gone 
 **The dust on the players, however, has not lifted.** The pale grit that has clung to seams, cuffs, and saddle-leather since C1 is still there. A Marked PC who looks at their own sleeves notices this — the dust did *not* leave with the entity. *"It's still on us,"* one of them may say. Kuyen, kneeling, looks at her own forearms and confirms it without surprise. *"Lo de acá se cerró. Lo de allá no."* — *"What was here is closed. What is there is not."* The pit sealed. The dust is the campaign's reminder that something else is still open. (Keeper note: this is the inline hook into Arc 4. The dust will not lift until C12.)
 
 **SAN Check** (the seal completing): 1/1D6 — not horror. The shock of genuine resolution. Something was terrible for nine months and now it is over, and the mind does not know what to do with *over*.
+
+---
+
+
+---
+
+### Keeper — Roll for Hound (C9)
+
+> ⚠️ **[THIS TABLE]** **During Phases 4–5: NO Mark rolls.** The entity is fully present and fully engaged — there is nothing left to bleed through. The pressure mechanics (CON/POW checks, the contest) *are* the encounter; the five-phase structure needs no added encounter. **One** optional roll only: in the 10-minute gap before Phase 5, a Marked PC who deliberately **looks hard** at the amber geometry to map it (gaining the call-the-direction advantage without the C7 knowledge) rolls at the **raised threshold** — the cost rule cashing out at the worst possible moment. **After the seal: no rolls, ever again, at this site.** The Marks go quiet. Tell the Marked players their dice can stay in the bag — the first post-seal silence is itself a beat.
+>
+> **Call-the-direction note (F10)**: Mercedes' C7 line (*"Put someone you trust on the east"*) counts as equivalent to the C7 Hard Cthulhu Mythos result for Round 1's call-the-direction option.
 
 ---
 
@@ -352,6 +365,8 @@ He rides out alone. The next time the players see him is **Chapter 11**, in Buen
 
 The aftermath in the existing prep covers the survivors at the estancia and Rosa at San Ruiz. In the expanded version, add a brief **travel montage** at the very end of the chapter.
 
+> ⚠️ **[THIS TABLE — P17: where is the goat?]** Decide before this scene. C7's note has the goat *“if it has been following the party”* settling near a Mandinga PC at the pit; this montage has her in the San Ruiz well. Both cannot be true. **If she traveled with the party**: run the six-pupil reveal **at the pit at dawn** instead (she stands at the rim, looks down once, walks west), and the San Ruiz pass finds the well empty — Rosa notes it without alarm. **If she stayed at San Ruiz**: run the well version as written below and strike C7's settles-near beat. Stats unchanged either way.
+>
 > ⚠️ **[THIS TABLE]** Kuyen and Nahuel dead — they do not ride parallel. Travel montage runs with: Mercedes in the carriage with Don Eusebio (if he came), the Wrong Returned (Héctor/Marta if alive), and the investigators.
 >
 > *Three days later. The party rides east. Mercedes is in a hired carriage with Don Eusebio (if he came), and Saúl Carrasco's empty saddlebag tied to her own saddle. Kuyen and Nahuel ride parallel. Marta and Héctor are with them — they wanted to see Buenos Aires once before the geometric alignment finished fading from them. Silvio is back at the estancia, tending the corrals, healing.*

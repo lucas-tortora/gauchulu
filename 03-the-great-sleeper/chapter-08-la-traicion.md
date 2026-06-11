@@ -134,6 +134,8 @@ Kuyen sees this. She begins counter-drawing faster.
 
 **Mechanical effect**: At the end of each ritual phase (there are five — see Chapter 9), the entity makes a contest against the ritual. How well investigators have managed everything to this point determines the difficulty of that contest. If the outer ring is intact, if Nahuel has support, if the asymmetry was corrected, if Quirce is not inside the ring — the contests are manageable. If any of these conditions failed, add one level of difficulty to each contest.
 
+> ⚠️ **[THIS TABLE — P13: difficulty recalibration]** Two table-state conditions are structurally failed before the session begins (Nahuel dead; eastern asymmetry uncorrected) — do **not** also count them as difficulty penalties; that cost is already priced into the restructured ritual. Count only **player-influenceable** conditions: (1) center anchor supported, (2) eastern gap mitigated (human anchor or Mandinga Warding on the east — the [Eastern Probe](../03-the-great-sleeper/chapter-07-la-vispera.md) taught them how), (3) Quirce outside the ring, (4) bone-disturbance tier ≤1 ([C5 carry-forward](../02-la-salamanca/chapter-05-el-manuscrito.md#carry-forward--weakened-binding)). Each failed = +1. Player agency is the variable, not the table's grief.
+
 ---
 
 ## SCENE 3 — THE QUIRCE CRISIS
@@ -146,6 +148,8 @@ The moment Quirce crosses the outer ring boundary, several things happen:
 
 **If investigators act immediately** (pull Quirce out or physically replace him with a correct participant):
 - The entity's attention is briefly on the gap, then returns to contesting the ritual. One extra difficulty level for this phase only. No permanent damage.
+
+> ⚠️ **[THIS TABLE — P9]** The cheatsheet's version of this scene (Quirce *redirects* the closing for binding-for-use; a Wrong Returned dies) is **incorrect** — that is a different scene entirely. Quirce crosses to **observe**, not to sabotage. The sabotage is the Wizard's line already in the panels. Nobody dies here; the consequence is the phase restart and deeper entity mapping. Run the chapter version.
 
 **If investigators cannot act immediately** (they're in positions, they'd have to break their position):
 - The entity invades through the Quirce-gap. Not a full breach — more like a finger inserted into a wound. One investigator in a nearby outer ring position takes 1D6 SAN from the proximity. The phase fails and must be restarted, costing 10 minutes of ritual time. The entity is more deeply mapped into the geometry now.
@@ -204,6 +208,38 @@ The chapter ends not at resolution but at a sustained crisis point. The ritual i
 > *"Two more phases. Don't move."*
 
 ---
+
+
+---
+
+### Keeper — Roll for Hound (C8)
+
+> ⚠️ **[THIS TABLE]** **Two Marked PCs** — each rolls their own 2d6. **Cap: 3 fired aftershocks chapter-wide.** After the third, further doubles produce only the pre-roll tilt — the entity is on-stage; the rolls represent it bleeding through the Marks. Rule: [overview — Mark](../overview.md#mark-of-tindalos) · [entity](../assets/entity-hound.md).
+
+| Trigger | When |
+|---|---|
+| **Ritual opens** | Phase 1, first chant — roll once at the opening read-aloud |
+| **Quirce crosses the ring** | As the entity locates the gap (~15 s) |
+| **Eastern asymmetry activates** | Phase 2 — see **E4 Eastern Incursion** below (scheduled, no roll) |
+| **Cursed Gaucho breaks formation** | During the 5-second El Patrón window |
+| **Coypac echo vision** | After the vision ends — both Marked roll |
+| **Looking hard at the pit's volumetric geometry** | Any phase — raises threshold for that scene |
+
+---
+
+### ⚔️ ENCOUNTER (scheduled guarantee) — The Eastern Incursion (Phase 2)
+
+The table state demands it: the entity confirmed the door in C7's Eastern Probe. Run at Phase 2 (or the moment the Quirce gap opens, whichever first).
+
+> The eastern arc of the laid panels goes thin — the held-note thinness — and then **tears**, two handspans wide, at the Wizard's line. For **1D3 rounds** the entity is *through* at the east: not a body, a **wedge of wrong direction** widening along the panel seam. Whoever holds the eastern position (Héctor, a PC, or the Warding) is the engagement: **CON Hard** per round to hold (Normal if a second person braces them, hand on shoulder); the Mandinga Warding holds **automatically** for round 1 and Normal after. Each failed round: 1D4 SAN to the easterner + 3 min off the phase clock. The wedge withdraws after 1D3 rounds — the entity is *testing*; it saves the real exploitation for Phase 5.
+>
+> **SAN**: 0/1D3 ring-wide; CON costs above for the easterner. **No 2d6 — scheduled.** ([entity stats](../assets/entity-hound.md))
+>
+> **Log rounds-held** → Phase 5 contest one step easier if east held all rounds; one step harder if it broke twice or more.
+>
+> **Marked PC private read**: *It is not breaking in. It is confirming the door it was promised.*
+
+> ⚠️ **[THIS TABLE — P12: Cursed Gaucho breaks formation]** When the Gaucho breaks west, the **western gap** is held by **Marta** physically stepping half-into the broken position while a **Marked PC calls the gap's angle** (the call-the-direction mechanic from C9 Round 1, used early). Phase 2 restarts. **Mercedes, cold**: *"Si vuelve a salir del círculo, lo dejamos afuera. No tenemos a nadie para perderlo dos veces."* — *"If he leaves the circle again, we leave him outside. We have no one to lose him twice."* (This replaces Kuyen's angry line.)
 
 ## GM NOTES
 
@@ -268,7 +304,9 @@ Then Saúl realizes he has been seen. *"Pero me vieron. Ahora saben que yo vine.
 
 Mercedes places her hand on Saúl's shoulder. *"Bien hecho, Saúl. Quedate atrás del círculo. No quiero perderte esta noche también."* — *"Well done, Saúl. Stay behind the circle. I don't want to lose you tonight as well."*
 
-**Mechanical effect**: knowing the Coypac ritual has *twelve priests, two pits, simultaneous opening attempt* gives Kuyen actionable information. She accelerates the closing tempo by one phase — what would have taken Phase 4 to anticipate now happens at Phase 3. **Phase 3's contest difficulty is reduced by one step** because of Saúl's intelligence. This is the mechanical payoff for sending the runner.
+**Mechanical effect**: knowing the Coypac ritual has *twelve priests, two pits, simultaneous opening attempt* gives the closing party actionable information. The closing tempo accelerates the closing tempo by one phase — what would have taken Phase 4 to anticipate now happens at Phase 3. **Phase 3's contest difficulty is reduced by one step** because of Saúl's intelligence. This is the mechanical payoff for sending the runner.
+
+> ⚠️ **[THIS TABLE — P10: Saúul's sequence]** Saúul returns **alive** here, between Phases 1–2, delivers his report, then rides back out. He dies **off-screen** — body found at a *paraje* as a warning. The news arrives in [C9](./chapter-09-el-cierre.md) via an anonymous relay rider with a letter signed Saráchaga ([H10](../assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn)). Do **not** kill him on-screen in C8; do **not** have him arrive alive in C9.
 
 ### NEW SCENE — THE COYPAC ECHO
 

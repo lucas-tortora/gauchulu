@@ -40,6 +40,20 @@ Several useful things, depending on who is in the party:
 
 2. **Visit Kuyen and Nahuel** at the tannery. The cordon ritual is being prepared. The leather panels — six of them, scaled-up versions of the Arc 1 binding — are being painted in red ochre and bone-black. Kuyen explains the timing: the cordon is *moving*, panels carried by walkers, drawn at sequential corners. She needs eight walkers minimum. Currently has four. Players can volunteer (good — they are Marked, the cordon is stronger), or recruit additional people (Inocencia knows two men who would do it for a debt; Galíndez can spare two of his less-armed soldiers). ⚠️ **[THIS TABLE]** Kuyen and Nahuel dead. Replace with: Marta leads the cordon preparation (geometric alignment, traced the diagram from memory in C9). Eight walkers still needed; Marked PCs count stronger. A Mandinga Warding covers one corner without a walker. Fewer resources; same structure.
 
+> **⚠️ [THIS TABLE — P18: cordon worksheet — fill this in before Act 1, not during]**
+>
+> | Slot | Source | Notes |
+> |---|---|---|
+> | 1–2 | **Marta + Héctor** | Only if both survived C9 — check the C9 cost log |
+> | 3–4 | **2 Marked PCs** | Each *"counts stronger"* — a Marked walker hardens their corner |
+> | 5–6 | **Inocencia's two men** | Debt-motivated; Persuade, or simply ask Inocencia |
+> | 7–8 | **Galíndez's two less-armed soldiers** | Costs him perimeter strength — note it for Weak Point 1 |
+> | (one corner) | **Mandinga Warding** | Replaces a walker entirely; hardens that corner to Kuyen-panel equivalent |
+>
+> A full cordon is reachable **only if** players recruit during the day phase AND at least one Wrong Returned lived. Every unfilled corner = one of the three weak points runs one step harder.
+>
+> **F16 — Mercedes assigns it explicitly** (the cordon must be discoverable as the players' biggest mechanical edge): *"Hoy ustedes hacen dos cosas: caminan la ruta, y consiguen ocho personas para el cordón. Galíndez pone el hierro. El cordón pone la geometría. Sin las dos cosas, esta noche es de él."* — *"Today you do two things: walk the route, and find eight people for the cordon. Galíndez provides the iron. The cordon provides the geometry. Without both, tonight is his."*
+
 3. **Speak with the Cursed Gaucho** privately. He will be terse and clear. He is going to be in the carriage with the chest. He knows he is bait. He has a *facón* (large knife) on his back, the *cuchillo de campo* on his belt, and an old flintlock pistol that he has not loaded yet because *"si lo cargo ahora me lo llevo a la cama y no quiero soñar con esto más de lo que ya."* — *"If I load it now I take it to bed with me and I don't want to dream about this more than I already do."* He will load it at dusk.
 
 4. **Inspect the chest**. Mercedes will allow the players a final look at the chest in the vault (not opened) at 4 PM. She wants them to see it once more before it is moved. She places her hand on the iron, says nothing, removes her hand. The players can do the same. The chest is colder than the room. **SAN Check 0/1**.
@@ -51,6 +65,8 @@ Several useful things, depending on who is in the party:
 > *"Mercedes — Esta noche estoy en la calle, no en la galera. No voy a interferir. Voy a observar. Si la geometría se cierra, voy a poder ofrecerle a la Red algo que no han podido medir desde 1610. Si no se cierra — voy a estar para ayudar. No te voy a perdonar lo de Ana, pero esta noche estamos del mismo lado. — A.Q."*
 >
 > *"Mercedes — Tonight I am in the street, not the carriage. I will not interfere. I will observe. If the geometry closes, I can offer the Network something they have not been able to measure since 1610. If it does not close — I will be there to help. I will not forgive you for Ana, but tonight we are on the same side. — A.Q."*
+
+> **F17 — the decision has visible stakes**: Mercedes hands the letter straight to the players: *“Léanlo. Decidan ustedes qué hacemos con él.”* — *“Read it. You decide what we do with him.”* **Including Quirce** buys a second theodolite-spotter at Weak Point 3 — he calls El Patrón's approach **one round early**. **Refusing** costs nothing and gains nothing; he observes from a rooftop anyway, as written. ([handout H14](../assets/handouts-c8-c12.md#h14--quirces-letter-to-mercedes-c12-morning))
 
 Mercedes hands the letter to the players. *"Léanlo. Decidan ustedes qué hacemos con él."* — *"Read it. You decide what we do with him."* Quirce as ally-of-convenience is now on the table. Players can include him, refuse him, or leave him to operate independently.
 
@@ -76,11 +92,15 @@ The players choose their positions:
 
 **Mechanic — the Mark**: Every Marked player rolls 2d6 every two blocks. Snake eyes triggers a Hound aftershock — short, contained, *brief* (1d3 rounds, the geometry of the city limits its duration). This is a real threat tonight; the city is the most geometrically charged place the campaign has visited. Reroll if a player has the binding active in their hand (cordon walker) or is inside the carriage with Mercedes (proximity to the chest).
 
+> **Additional Hound triggers (C12)**: one roll on arrival at **each weak point**, on top of the block cadence. The **dock lock** roll (Act 2) delivers **clarity, not threat** — the Marked see the doorframe. **During the Choice (Act 3): no rolls** — all three endings suspend the mechanic; let the table be still for the decision. **El Patrón near = the silence tell** ([C11](./chapter-11-la-decision.md)): on Calle Belgrano the Marks go silent *before* he rounds the corner — the Marked PC can give the Cursed Gaucho his three seconds of warning at the Stand.
+
 ---
 
 ## THE THREE WEAK POINTS
 
 ### Weak Point 1 — University Exit
+
+> **⚔️ Stats (E8)**: the false *vigilante* and all six ambushers use the [escort stat block](../assets/npc-stats.md#quirces-escort-3-generic) — the vigilante swaps Intimidate 55% for Disguise 50%. Two of the six carry pistols, fired once (into the air or the carriage horses), then knives. **Morale**: three down → the rest scatter into the side streets. **Name Esteban before the night starts** so his death (if combat engages) lands. **Falsified-count edge** (C10's Counter): if the players delivered a false tally, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock is one threshold safer.
 
 The first fifty meters from the Manzana de las Luces. Galíndez's worry: a sniper from a balcony, a trip-line at the corner, a rush from one of the side streets. **What actually happens**:
 
@@ -334,6 +354,11 @@ Distribute the following five cost-tiers among the Marked PCs at the table. Each
 If there are fewer than five Marked PCs, the lighter tiers are dropped from the bottom — five Marked PCs use all five tiers, four use Anchor/Pillar/Wall/Witness, three use Anchor/Pillar/Wall, two use Anchor/Pillar (heavy table — give the players a beat to absorb that), one Marked PC uses **only Anchor** (one PC paying the full cost; this is the campaign's most expensive single moment and should be honored).
 
 > ⚠️ **[THIS TABLE]** Only 2 Marked PCs. Cost-table uses Anchor/Pillar only. One PC dies (Anchor); one PC survives with permanent sense loss and physical mark (Pillar). This is a heavy table. Give the players real time with the assignment before proceeding.
+
+> **⚠️ [THIS TABLE — P19: the Marta valve — Keeper decision point, decide BEFORE the session]**
+> This is the only branch where table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (step 4 already grants Marta *"structural substitution"*): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes offering it the campaign's cruelest gift. If she anchors: both Marked PCs shift down one tier (**Pillar + Wall**), Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence.
+>
+> **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. This is a decision point, not a default: if you prefer the PC-death version, run it as written. Both are honest.
 
 If there are *more* than five Marked PCs (rare but possible if PCs swapped Marks at C7's entity-contact moment), add a sixth tier called **The Edge** at the bottom: survives, no permanent effect, the Mark is gone before the closing finishes. The Edge is for PCs whose involvement was peripheral.
 

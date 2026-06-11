@@ -181,13 +181,15 @@ If confronted:
 
 He means this. The question of whether his presence and his instrument setup compromise the geometry is a real one — it's what investigators should be focused on. His correction to the outer ring's diagram (the asymmetry from Chapter 6) is still present in the leather panels Kuyen is preparing, unless investigators caught it and corrected it.
 
-**If investigators haven't caught the diagram correction**: At some point this scene, a **Spot Hidden** or **Occult** check while looking at the assembled panels reveals the asymmetry. It is subtle enough to have passed Kuyen's review. Correcting it requires removing and redrawing one section of the leather panel — Kuyen can do this in an hour if informed.
+**If investigators haven't caught the diagram correction**: At some point this scene, a **Spot Hidden** or **Occult** check while looking at the assembled panels reveals the asymmetry. It is subtle enough to have passed Kuyen's review. **Correcting it** at this table: see note below.
+
+> ⚠️ **[THIS TABLE — P2: asymmetry policy]** Kuyen is dead — this is the canonical end of the “final chance to fix” window. **The asymmetry is discoverable here, but not redrawable.** Marta, tracing it: *“Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro.”* — *“I can erase the line. I cannot draw the one that belongs. I don’t know it from inside.”* Erasing is worse than leaving it. The correct response is **placement**: a Marked PC or Don Eusebio anchoring the **eastern line physically** (the C3 pure-decision mechanic reused — see C8), or a Mandinga Warding placed there. Discovery here buys *informed placement*, not repair. If the contaminated recopy was quarantined or destroyed in C6, this scene finds no asymmetric line.
 
 **If investigators confront Quirce about the asymmetry**: He admits it immediately. *"It creates an observation window. A moment of maximum pressure before the seal closes. No one was going to be harmed by it — it's a two-second differential."* He does not appear to understand why investigators are angry. The geometry and the people standing in it are different categories of concern to him. *"The closing still works. I just wanted to measure the peak."*
 
-This is the central moral failure of his character — not malice, but a profound mismatch in what counts as harm. He put a two-second amplification into the outer ring of a ritual where **Don Eusebio is standing**. He didn't consider what two seconds of concentrated entity-field does to a human body.
+This is the central moral failure of his character — not malice, but a profound mismatch in what counts as harm.
 
-**Decision**: Can Quirce stay? Kuyen's opinion, if asked: *"He does nothing in the ritual. If his instruments are away from the geometry, he is harmless. If he insists on placing them inside the effective range, he is a problem."* This is a judgment call for the investigators.
+**Decision**: Can Quirce stay? His instruments away from the geometry: harmless. Inside effective range: a problem. This is a judgment call for the investigators.
 
 ---
 
@@ -244,7 +246,7 @@ The Marked investigator can tell others what they experienced. Whether they do i
 >
 > The 2 Mandinga-deal PCs feel the wound warm on this night — the obligation comes due tomorrow. Note to Keeper: deliver this privately to those players before sleep. Not painful. Just present. The goat, if it has been following the party, settles near one of the Mandinga PCs and does not move until dawn.
 >
-> Mercedes arrives without Kuyen to greet her. Her opening line to the players remains valid. The strategic information from Nahuel's scene (entity may be managing the closing toward a peak-pressure failure) is available to Marked PCs via Scene 3's entity communication, or through Mercedes's own assessment when asked: *"The entity's been holding the geometry stable on purpose. It doesn't want a partial binding — it wants a full attempt, at maximum pressure. That's what it's been building toward."*
+> Mercedes arrives without Kuyen to greet her. **Her opening line is rewritten** (P3 above — Kuyen named as dead, the closing reassigned to the ones who remain). The strategic information from Nahuel's scene (entity manages the closing toward a peak-pressure failure) is available via Scene 3 entity communication, Hard CM inference, or **Mercedes' F7 line** (after the Eastern Probe): *"Put someone you trust on the east."* That sentence converts three campaign-long whispers into one actionable instruction.
 >
 > | Status carried into C8 | Detail |
 > |---|---|
@@ -294,7 +296,13 @@ Insert this around 11 PM. A man rides into camp from the west. He is alone. He i
 
 > *"Estoy buscando a la mujer que cierra. Me dijeron que estaba acá. No vengo a cerrar — vengo a ver cómo cierra, para aprender."*  — *"I am looking for the woman who closes. They told me she was here. I am not coming to close — I am coming to see how she closes, in order to learn."*
 
-He is referring to Kuyen. He has been hunting both cults — the Great Sleeper *and* anyone associated with El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition to do *his* closing, eventually, on a different scar in the cordillera.
+> ⚠️ **[THIS TABLE — P4: Cursed Gaucho arrives looking for a dead woman]** He is referring to Kuyen. He does not know she is dead. Someone has to tell him. He receives it without expression, looks at the fire for a long moment, then:
+>
+> *“Entonces llegué tarde dos veces.”* — *“Then I arrived late twice.”*
+>
+> He stays. Mercedes and the manuscript are now the only living line into the closing tradition, and the Marked PCs are the only people left who *perceive* the way Kuyen did. He attaches his apprenticeship to **them** — quietly, without announcement. This upgrades the Marked PCs from afflicted to *lineage*.
+
+He has been hunting both cults — the Great Sleeper *and* anyone associated with El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition to do *his* closing, eventually, on a different scar in the cordillera.
 
 ### NEW SCENE — THE CURSED GAUCHO'S FAMILY
 
@@ -338,13 +346,48 @@ She does not introduce herself dramatically. Kuyen meets her at the perimeter. M
 
 **Mercedes' first words to the players, when she reaches the fire**:
 
-> *"Vine a ver. Y a ayudar si puedo. No vine a cerrar — Kuyen cierra. Vine porque mañana de noche, mientras ustedes cierran este pozo, va a estar pasando algo en Coypac. Si los dos no cierran al mismo tiempo, perdemos los dos. Yo voy a tratar de tener noticias del Coypac antes del amanecer. No prometo nada."*
+> > ⚠️ **[THIS TABLE — P3: Mercedes’ opening line rewritten]** The canon line names Kuyen as the closer. Kuyen is dead. Use the rewritten version below instead.
+
+*"Vine a ver. Y a ayudar si puedo. No vine a cerrar — y la mujer que cerraba está muerta, ya lo sé, lo supe en el camino. Así que ahora cerramos como cierran los que quedan: con el manuscrito, con los que volvieron, y con ustedes. Mañana de noche, mientras ustedes cierran este pozo, va a estar pasando algo en Coypac. Si los dos no cierran al mismo tiempo, perdemos los dos. Voy a tratar de tener noticias del Coypac antes del amanecer. No prometo nada."*
 >
-> *"I came to see. And to help if I can. I did not come to close — Kuyen closes. I came because tomorrow night, while you close this pit, something will be happening at Coypac. If the two do not close at the same time, we lose both. I will try to have news from Coypac before dawn. I promise nothing."*
+> **[EN]** *"I came to see. And to help if I can. I did not come to close — and the woman who closed is dead, I know, I learned it on the road. So now we close the way the ones who remain close: with the manuscript, with the Returned, and with you. Tomorrow night, while you close this pit, something will be happening at Coypac. If the two do not close at the same time, we lose both. I will try to have news from Coypac before dawn. I promise nothing."*
 
 She has brought a Keeper-runner with her — a young man named **Saúl Carrasco**, a Keeper apprentice, mid-twenties, who will ride west at first light to make contact with whatever closing party may exist at Coypac. He is the campaign's first running messenger between the two rituals. **He may not survive the run**; if he does not, the players learn this in C8.
 
 **SAN Check** on Mercedes' arrival: 0/1 — relief that is also dread, because she would not have come if it could be avoided.
+
+### Keeper — Roll for Hound (C7)
+
+> ⚠️ **[THIS TABLE]** **Two Marked PCs** — each rolls their own 2d6. Rule: [overview — Mark](../overview.md#mark-of-tindalos) · [geometric-perception-cues](../assets/geometric-perception-cues.md). **Double 1** → Hound aftershock 1D3 rounds (peripheral, at an angle — [entity](../assets/entity-hound.md)). **Double 1 or 2** after a hard look. The night is saturated — resist rolling at everything; the triggers below are enough. **Cap: 3 fired aftershocks across the chapter.** After the seal in C9, the Marks go quiet at this site permanently.
+
+| Trigger | When |
+|---|---|
+| **San Ruiz second pass** | Tier-2 reconstruction performed by a Marked PC (raised threshold if they "looked hard") |
+| **First long look into the glowing pit** | / any descent into the 3-metre pit |
+| **Marta completes the eastern panel** | Marked PC looks hard at the line |
+| **Entity communication ends (Scene 3)** | Both Marked PCs roll immediately after |
+| **Listening inside the Zonda for the chant** | Deliberate, after midnight |
+| **Sighting through Quirce's theodolite** | Do not let them do it lightly |
+
+---
+
+### ⚔️ ENCOUNTER (scheduled guarantee) — The Eastern Probe (~3 AM)
+
+Run between Scene 3 (entity communication) and the GM notes block. C7 is weight, not action — this is the one short survivable spike that *teaches C8*.
+
+> The vibration under the camp changes meter — once, like a skipped heartbeat — and the **eastern arc of the glowing geometry flares**. For **1D3 rounds**, the aftershock presses the eastern line from below: the drawn leather panels nearest the east **slide toward the pit** across flat ground (STR 40 opposed to hold one); a fire on the eastern side bends flat against the earth; whoever is on watch at the east feels the ground go *directional*, like standing on a roof. If the captured cultist is in camp, he begins — gagged — to hum in time with it. The probe is the entity **testing the thinness it expects to use tomorrow**. It withdraws on its own; it withdraws **one round sooner** if a PC physically stands on the eastern line and holds (CON check, 0/1 SAN) — proof, in their bodies, that the Tier-3 human-anchor mechanic works.
+>
+> **SAN**: 0/1D3 camp-wide; 1/1D4 for the PC who holds the line. **No 2d6 — scheduled manifestation.**
+
+> **⚔️ Alt — The Cultist's Break**: swap in if you want human violence. During the probe's confusion the captured priest slips a wrist, reaches the eastern panel, tries to drag a thumbnail through the eastern line — completing the Wizard's correction in miniature. Two rounds to stop him (grapple vs STR 55 — [stat block](../assets/npc-stats.md#cult-priest-of-the-great-sleeper-captured)). If he succeeds: treat as Tier-2-equivalent east friction in C8.
+
+**Mercedes, immediately after the probe (F7 — sharpen this line so it lands):**
+
+> *"Va a usar el este. Todo en este sitio falla al este primero. Saens lo escribió; la pared de la capilla le faltan los arcos del este; la línea en sus dibujos que nadie dibujó está en el panel del este. Pongan a alguien en quien confíen en el este."*
+>
+> **[EN]** *"It will use the east. Everything about this site fails east first. Saens wrote it; the chapel wall is missing its eastern arcs; the line in your drawings that nobody drew is on the eastern panel. Put someone you trust on the east."*
+
+---
 
 ### Continuity ledger
 

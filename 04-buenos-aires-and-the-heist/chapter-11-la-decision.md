@@ -44,6 +44,8 @@ Mercedes takes the players to the vault at mid-morning. Galíndez and two of his
 - The Marked make a 2d6 roll. Snake eyes here would be catastrophic — there is nowhere for a Hound to *not* manifest in a four-meter circular room. Treat double 1 as a near-miss: the Mark heats the chamber by ten degrees, the candles all gutter, the iron of the chest creaks, but nothing manifests. The geometry holds. The players feel it hold around them.
 - A **Hard Cthulhu Mythos** roll on the chest's locks: the new lock (1810) is *not* a Keeper lock. The keyway is wrong; the maker's mark is European, but a private maker's mark, the kind put on commissions for very specific clients. The lock was added by someone who either (a) thought the existing security was inadequate, or (b) wanted a key in their own pocket. **Mercedes did not put this lock on**. She is visibly disturbed when she sees it.
 
+> ⚠️ **[THIS TABLE — P15: who installed the 1810 lock — canonized]** The lock was installed in 1810 by **Tiburcio Lacasa** — the Keeper uncle from Mercedes' cloister confession (Keeper until his death in 1812, archival access, *“flexible archival habits”*) — using hardware El Patrón commissioned. The “key” El Patrón has held *“hace cuarenta años”* (C12) is **double**: the physical key Tiburcio passed up the chain, and the *locational* key — Mercedes' copied section (~1781), which told him where the book was. One forty-year thread: the confession, the lock, the Lacasa-family cultivation. If players ask *“who installed it?”*, Mercedes, after a silence: *“Tiburcio. Tenía acceso. Y la familia siempre tuvo, digamos, hábitos de archivo flexibles.”* Corroborated in writing by Lacasa's unsent draft ([handout H13](../assets/handouts-c8-c12.md#h13--lacasas-unsent-draft-c11-if-the-satchel-is-taken)) if the players take the satchel in E7 below.
+
 > **C11 redundancy (clue retrieval — primary signal)**: The Hard Cthulhu Mythos roll is the *forensic* read on the lock. The *primary* signal at the table is **Mercedes's visible reaction**, which is automatic and requires no roll. She kneels at the chest, looks at the third lock for three full seconds, and goes pale. Her hand goes to her throat. She says — without looking up — *"Esa cerradura no la pusimos nosotros."* — *"We did not put that lock there."* Then, more quietly: *"Y no la pusimos en mi vida."* — *"And we did not put it there in my lifetime."* Mercedes has been a senior Keeper for thirty-eight years and knows every Keeper-installed lock in this vault by sight. **The wrong-lock signal is delivered by her face before any roll is made.** Players who go on to make the Hard Cthulhu Mythos roll get the *maker's mark* detail (private European commission), which sets up Lacasa-via-uncle-Tiburcio in the C11 cloister scene. Players who do not still know, from Mercedes alone, that someone with no business being there has been in this room.
 - A **Spot Hidden** on the floor near the chest: fresh dust patterns. *Someone has been in this room within the last two weeks*. Mercedes has not. Albarrán has not. Galíndez has not. Saráchaga had not (per the dust — he came down once a year, in November). *Someone has been visiting the chest.*
 
@@ -107,6 +109,8 @@ Players who pursue the murder investigation get the most dangerous information.
 
 A maid at Saráchaga's house — **Luisa**, 19, terrified — saw a *visitante* arrive at the second-patio entrance at approximately 11 PM. She did not see his face. He was wearing a hat, a dark coat, and *boots that were not city boots*. They were spurred. Frontier.
 
+> **F13 — Failsafe (no roll, if Luisa is treated kindly)**: She volunteers one more detail: *“El visitante saludó al portero por su nombre. Dijo 'Bartolomé manda decir…' y después no escuché más.”* — *“The visitor greeted the doorman by name. He said 'Bartolomé sends word…' and then I heard no more.”* **Lacasa named by his own proxy.** Players who *also* find the bootprint (Step 3) get the timing proof; Luisa alone gets them to his door. The chain to Lacasa never stalls on one Track roll.
+
 > *"Eran botas con espuelas, y golpeaban el suelo de un modo que no era de la ciudad. Eran botas que estaban acostumbradas al campo."*  — *"They were spurred boots, and they hit the ground in a way that wasn't a city way. They were boots used to the country."*
 
 Possible interpretations:
@@ -125,6 +129,17 @@ Lacasa's town house is on Calle Reconquista, three blocks from the meeting house
 Lacasa is the killer. Not by his hand — he was a delivery vehicle. He brought El Patrón to Saráchaga.
 
 ### Step 4: Lacasa's office
+
+> ### ⚔️ ENCOUNTER E7 (scheduled guarantee) — The House Cleaners
+>
+> Lacasa's office is not empty when the players arrive. Two hired men — same market as [Quirce's escort](../assets/npc-stats.md#quirces-escort-3-generic), same stat block — are stripping it: drawers out, a satchel of papers, a small fire going in the grate. **This is why the Quirce letter is only *half*-burned — the players interrupt the burning.** They are not killers; they are a cleaning crew on a clock.
+>
+> **Round 1**: surprise favors whoever wasn't holding a candle. They fight to **escape with the satchel**, not to win — one blocks the hall, one goes for the window. If both escape: the players still get the fireplace letter (half-burned) and the strongbox deed (too heavy to carry — [handout H12](../assets/handouts-c8-c12.md#h12--the-areco-deed-e-dadálah)). If the satchel is taken from them: it adds **Lacasa's unsent draft reply to Quirce** ([handout H13](../assets/handouts-c8-c12.md#h13--lacasas-unsent-draft-c11-if-the-satchel-is-taken)) — the only document where Lacasa names *"el dueño del campo de Areco"* as the man he answers to, and his uncle Tiburcio as his predecessor in service. If captured, they know nothing: hired through the same faceless clerk as C10's Counter — El Patrón's human machinery is anonymous, cheap, and everywhere.
+>
+> **SAN**: none — human violence, plain. **Galíndez, after, looking at the half-burned grate**: *"Llegamos quince minutos tarde y por eso sabemos todo. Si llegábamos a tiempo, no sabríamos nada."* — *"We arrived fifteen minutes late and that is why we know everything. If we had arrived on time, we would know nothing."*
+>
+> **F14 — Failsafe**: if the players never come here at all, **Galíndez executes the warrant himself within the day** (he is hunting his colleague's killer) and brings the half-burned letter and the Areco deed to the evening planning session: *"Encontré dos cosas. Una me enoja. La otra me asusta."* — *"I found two things. One makes me angry. The other frightens me."* Same SAN 0/1 on the deed; only the satisfaction of finding it first is lost.
+
 
 If the players search his office (forced entry, or via Galíndez who has the relevant letters for a search warrant from a sympathetic *alcalde*): a half-burned letter in the fireplace, addressed in a handwriting the players will recognize from Arc 2 — Quirce's. The letter was a courtesy; Lacasa was not Quirce's man, he was *El Patrón's* directly, and Quirce was simply notifying him.
 
@@ -371,6 +386,24 @@ The chapter ends in Inocencia's parlor at 12:30 AM. Bread on the table. Pencil o
 > *The pencil is on the table beside the bread. Mercedes is at the window. Galíndez has already gone — there is no time for sleep tonight. Outside, on Calle Belgrano, a clock somewhere in the city begins to strike one. It strikes once. The single bell rings, and rings, and rings, and does not stop ringing for ten seconds longer than a single bell should ring. Then it stops. The street is silent.*
 >
 > *In your room, on the bedside table, you find a single object you do not remember placing there: the small brass disc of a witness-stone. It is hot.*
+
+---
+
+
+---
+
+### Keeper — Roll for Hound (C11)
+
+> ⚠️ **[THIS TABLE]** The vault near-miss rule (above) stands: double 1 in the vault = heat, guttering candles, creaking iron, **no manifestation** — the 1610 geometry holds. Elsewhere:
+
+| Trigger | When |
+|---|---|
+| **The vault descent** | The existing roll; near-miss rule applies |
+| **The recovered well-disc** | Marked PC handles the cooled stone |
+| **The cloister at night** | During Mercedes' confession, if the Marked PC looks hard at the floor inlays while she speaks |
+| **The tannery panels** | Marta's first full layout of the cordon panels |
+
+> **⚠️ EL PATRÓN = NO ROLL — THE SILENCE TELL.** When he is within ~20 m, the Marks go **silent**: the city-hum the Marked have carried since the C10 grid entry stops dead. The absence *is* the detection mechanic — they feel him as a hole in the geometry, the one shape the grid cannot read. It resumes the moment the door closes behind him. Retroactive foreshadowing: any earlier unexplained silence (the crested carriage at Florida y San Martín, C10) was him. **This pays off at the Stand in [C12](./chapter-12-el-libro.md)** — on Calle Belgrano the Marks go silent *before* he rounds the corner, and the Marked PC can give the Cursed Gaucho his three seconds of warning.
 
 ---
 

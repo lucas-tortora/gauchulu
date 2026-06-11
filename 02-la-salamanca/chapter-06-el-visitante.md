@@ -37,11 +37,8 @@ The letter is short, in elegant Buenos Aires Spanish:
 
 > **What the players can spot**:
 >
-> - **Latin speaker** (Library Use, Occult, Cthulhu Mythos, or any character with seminary or university training): *sub signo magno* — *"under the great sign"* — is a colonial-era epistolary signature style used in **occult correspondence**. It is not a Catholic religious closing. It is not a guild closing. It is a closing used by a small network of European-trained occultists in the Americas in the late 18th century, modeled on the *sub sigillo confessionis* convention but secularized and *adapted to a different sign than the cross*. **Quirce is identifying himself, in a coded way, as a member of an occult network.** A player who recognizes this gains a significant Insight head-start for the C6 confrontation.
-> - **Calligraphy**: The signature is dated. The phrase has been used in correspondence for at least two hundred years. Mercedes (in C7 or C8) will recognize it instantly if shown. *"Hace cuarenta años todavía firmaban así. Pensé que se había muerto la costumbre."* — *"Forty years ago they still signed this way. I thought the practice had died."*
-> - **Ink**: A Hard Spot Hidden on the ink — Quirce mixes copper into his black ink (a personal eccentricity). The ink has *gone faintly green* on the paper since the letter arrived, despite no moisture. Investigators who saw Larrea the merchant's tarnished copper (C4→C5 hook, *5b*) will recognize the same effect at smaller scale. **The geometry has been at the letter all night.**
->
-> Quirce knows nothing about the green ink. He believes himself a careful, controlled, nonbeliever-of-his-own-marginalia. He is wrong.
+> - **Library Use / Occult / Cthulhu Mythos / seminary or university background** (all at **Regular** difficulty): *sub signo magno* — *"under the great sign"* — is a colonial-era epistolary signature style used in **occult correspondence**. It is not a Catholic religious closing. It is not a guild closing. It is a closing used by a small network of European-trained occultists in the Americas in the late 18th century, modeled on the *sub sigillo confessionis* convention but secularized and *adapted to a different sign than the cross*. **Quirce is identifying himself, in a coded way, as a member of an occult network.** A player who recognizes this gains a significant Insight head-start for the C6 confrontation. **Failsafe**: Mercedes recognizes it instantly if shown in C7/C8: *"Hace cuarenta años todavía firmaban así. Pensé que se había muerto la costumbre."* — *"Forty years ago they still signed this way. I thought the practice had died."*
+> - **Green ink — automatic for Larrea copper buyers**: Any PC who purchased copper from Don Crisanto Larrea (C5 *5b*) notices the green shift immediately — they have spent days watching exactly this happen to metal in their own saddlebag. No roll. For everyone else: **Hard Spot Hidden**. The ink has *gone faintly green* on the paper since the letter arrived, despite no moisture. **The geometry has been at the letter all night.** Quirce knows nothing about this effect. He believes himself a careful, controlled observer. He is wrong. ([handout H4](../assets/handouts-c5-c7.md#h4--quirces-announcement-letter-5c))
 
 ---
 
@@ -49,7 +46,7 @@ The letter is short, in elegant Buenos Aires Spanish:
 
 **Role**: The other interested party. A man who studies geometric anomalies — but not to close them. The representative of a wider, darker world of knowledge.
 
-**Appearance**: 48 years old. City-built — soft hands, good boots that have seen more cobblestones than field. Well-dressed in a way that reads as deliberately understated: a dark suit, no jewelry, a leather satchel of excellent make. His hair is neat, his mustache trimmed to precision. He has the face of a man whose profession requires him to seem trustworthy at first glance, and who has practiced that seeming for decades.
+**Appearance**: 48 years old. City-built — soft hands, good boots that have seen more cobblestones than field. Well-dressed in a way that reads as deliberately understated: a dark suit, no jewelry, a leather satchel of excellent make. His hair is neat, his mustache trimmed to precision. He has the face of a man whose profession requires him to seem trustworthy at first glance, and who has practiced that seeming for decades. ([stat block](../assets/npc-stats.md#aldao-quirce))
 
 He carries a leather case that contains: brass measurement instruments (angle gauges, a compass of unusual precision, a small theodolite in its box), a notebook written in a cipher that resembles but is not Pitman shorthand, and a reproduction of the Saens manuscript — not a copy investigators have seen, but a *different version*, with annotations in three different hands and sections that are not water-damaged where the original is.
 
@@ -146,12 +143,18 @@ The south pasture. The cattle field. The pit.
 This chapter, Quirce establishes himself as an ally and makes his preparations. He does not yet act against investigators — his moves are subtle and require specific skill checks to detect.
 
 **What he does in the study** (while Don Eusebio meets with investigators):
-A **Spot Hidden** check on the study afterward: Quirce has placed two small brass markers — the kind used for surveying — into gaps in the floor, aligned with the study's corners. They are designed to extend the ritual geometry's observable field toward the study position. He intends to observe from the study window with his theodolite during the closing.
+A **Spot Hidden** check on the study afterward: Quirce has placed **two** small brass markers — the kind used for surveying — into gaps in the floor, aligned with the study's corners. They are designed to extend the ritual geometry's observable field toward the study position. He intends to observe from the study window with his theodolite during the closing.
 
-> **C4 redundancy (clue retrieval)**: If players miss the Spot Hidden, **Tomás or one of the ranch hands** will mention, in passing the next morning, that they heard Quirce *moving furniture* in the study late last night — *"Como cuando se reorganiza un cuarto. Pero no movió nada visible."* — *"Like when someone rearranges a room. But he didn't move anything visible."* This is the players' second chance to find the markers. A Marked PC who walks into the study after this remark sees the *deflection* the markers cause (the string-deflection observable consequence in C6's D5 list) without needing the Spot Hidden roll at all.
+> **C4 redundancy (clue retrieval)**: If players miss the Spot Hidden, **Tomás or one of the ranch hands** will mention, in passing the next morning, that they heard Quirce *moving furniture* in the study last night — *"Como cuando se reorganiza un cuarto. Pero no movió nada visible."* — *"Like when someone rearranges a room. But he didn't move anything visible."* This is the players' second chance to find the markers. A Marked PC who walks into the study after this remark sees the *deflection* the markers cause (the 8° string-deflection in the D5 list below) without needing the Spot Hidden roll at all.
 
 **What he does with Don Eusebio's diagrams**:
-He has "corrected" three of Don Eusebio's variant attempts. The corrections are accurate — they would work better. But a **Hard Occult** check reveals that one correction introduces a slight asymmetry in the outer ring that will, at the moment of maximum closure pressure, cause the geometry to "ring" — vibrate momentarily — before sealing. This is his observation window. It will not prevent the closing. It will, however, expose anyone in the outer ring to a concentrated moment of the entity's field. Which includes Don Eusebio.
+He has "corrected" three of Don Eusebio's variant attempts. The corrections are accurate — they would work better. But a **Hard Occult** check reveals that one correction introduces a slight asymmetry in the **eastern outer ring** that will, at the moment of maximum closure pressure, cause the geometry to "ring" — vibrate momentarily — before sealing. This is his observation window. It will not prevent the closing. It will, however, expose anyone in the outer ring to a concentrated moment of the entity's field.
+
+> **⚠️ [THIS TABLE — P1: asymmetry carrier]** No leather panels exist at this table — Kuyen never drew them. The Wizard's eastern correction lives in **Don Eusebio's recopied sheets** (this study, these diagrams). When Marta draws the C7 panels, she uses these recopies for scale and proportion — that is the transfer vector. **Destroy or quarantine the contaminated recopy now** and the asymmetry never reaches the panels, making C8's east marginally more defensible. Leave it and the asymmetry transfers intact, exactly as the table state has always had it: **never corrected, entity's primary attack vector in C8**.
+>
+> The recognition beat — previously Kuyen's — now runs here, at the pit assembly: a **Marked PC** looking hard at the corrected recopy, or **Marta** tracing it with her finger in the dark, stops and says: *"Esta línea no la dibujé yo. La dibujó alguien que sabe el dibujo desde adentro. No fue Quirce."* Quirce, confronted directly at any point, **admits it instantly**: *"It creates an observation window. A moment of maximum pressure before the seal closes. No one was going to be harmed by it — it's a two-second differential."* He does not understand why anyone is angry.
+
+> **F2 — Marginalia failsafe**: If no player examines the notebook in C6, **Mercedes finds the three older-hand annotations automatically in C7** within the first hour of arriving at camp — she asks to see *"la copia de Quirce, no la de ustedes"* (she has suspected a second source since his letters). She reads ten minutes by firelight, marks three places with grass stems, and says: *"Tres notas. No son de Quirce. Mano más vieja, pluma más vieja, y las tres están donde Saens escribe del libro. Quirce está cargando las cartas de otro adentro de las suyas — y no creo que lo sepa."* Then she translates the three marginalia ([handout H5](../assets/handouts-c5-c7.md#h5--the-three-marginalia-in-the-older-hand)). Players who found them in C6 get Mercedes *confirming* the hand's age — connective tissue, not repetition.
 
 **Whether to tell Don Eusebio**: Investigators who catch this face a choice. Exposing Quirce now may cause Don Eusebio to refuse to cooperate entirely (he invited Quirce; admitting he was manipulated is difficult for him). Waiting to deal with Quirce at the pit is riskier but may be more controllable.
 
@@ -226,25 +229,37 @@ The group is assembled — investigators, Don Eusebio, Quirce, Silvio, Héctor, 
 
 | Object/Knowledge | Details |
 |---|---|
-| Quirce's annotated manuscript | Contains network annotations — proof of wider organization if investigators study it |
-| Quirce's brass markers | Evidence of his observation setup — his real agenda |
-| Quirce's diagram "correction" | The asymmetry in the outer ring — will cause a moment of maximum exposure at closure |
+| Quirce's annotated manuscript | Contains network annotations + three older-hand marginalia (Great Wizard) — [handout H5](../assets/handouts-c5-c7.md#h5--the-three-marginalia-in-the-older-hand); failsafe: Mercedes in C7 |
+| Quirce's **two** brass markers | Evidence of his observation setup — his real agenda; [stat: Quirce](../assets/npc-stats.md#aldao-quirce) |
+| Quirce's diagram "correction" | The **eastern outer ring asymmetry** — will cause a moment of maximum exposure at closure; transfer vector: Don Eusebio's recopies → C7 panels (P1) |
 | Don Eusebio's agreement | Conditional, fragile — he can still break. He needs managing. |
 | Silvio's pit descent | He understands something now he didn't before. What he saw is for Chapter 7. |
-| Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta, Kuyen, Nahuel — all at the pit |
-| Kuyen's timeline | Tomorrow night. Not optional. |
+| Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta. **No Kuyen, no Nahuel.** |
+| Don Eusebio's timeline | *"Tomorrow night."* Set by him, not by Kuyen. |
+| *Eligio Dadálah* | El Patrón's name, spoken through Quirce — first instance. Land deed alias → [C11](../04-buenos-aires-and-the-heist/chapter-11-la-decision.md#step-3-don-bartolomé-lacasa). |
+| Mercedes' second letter | Necronomicón in Buenos Aires since 1610 — [handout H7](../assets/handouts-c5-c7.md#h7--mercedes-second-letter-c6-expansion). |
 
 > **[THIS TABLE — C6 CONSEQUENCE — 2026-05-29]**
-> Final scene and "Kuyen's timeline" do not run — Kuyen and Nahuel are both dead. The closing ritual has no trained director and no trained anchor. Don Eusebio stands at the pit rim instead; his offer to stand in the outer ring is the chapter's true closing beat.
+> Kuyen and Nahuel are both dead. The closing ritual has no trained director and no trained anchor. Don Eusebio stands at the pit rim; **he sets the timeline** — *"Tomorrow night."*
 >
-> The eastern panel asymmetry introduced by Quirce (via the Wizard) is **not corrected** — Kuyen's confrontation in the expansion scene runs differently (see below). The asymmetry carries forward as an active threat into C8.
+> The **eastern outer ring asymmetry** lives in Don Eusebio's recopied sheets (not Kuyen's panels — Kuyen never drew them). The recognition beat runs **at the pit assembly over the recopied paper**, not over leather. A Marked PC or Marta notices it; Quirce admits it instantly. The asymmetry is **never corrected** — it persists into C8 as the entity's primary attack vector.
+>
+> Eusebio's commitment is **negotiated** (the chapter's emotional spine), not invoked. The coercion invocation (*"I invoke the anchor of the first opening"*) is Quirce's fallback only if the negotiation completely collapses.
 >
 > | Status carried into C7 | Detail |
 > |---|---|
-> | Ritual leadership | Vacant. Don Eusebio, Mercedes, Marked PCs, Wrong Returned are the available personnel. |
-> | Eastern asymmetry | Unresolved. Entity's primary attack vector in C8. |
-> | Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta. No Kuyen, no Nahuel. |
-> | "Tomorrow night" | Still the timeline — but without Kuyen to drive it, Don Eusebio sets it. |
+> | Ritual leadership | Vacant. Mercedes + Marta + Marked PCs. |
+> | Eastern asymmetry | Unresolved. Lives in the recopies. Transfer: Marta uses them in C7. Quarantine possible if players act now. |
+> | Full group assembled | Investigators, Eusebio, Quirce, Silvio, Héctor, Marta. |
+> | Reader-path | Log status from C5. |
+>
+> **C6 exit checklist:**
+> - [ ] Quirce's escort statted if physical confrontation happened ([escort block](../assets/npc-stats.md#quirces-escort-3-generic))
+> - [ ] Did anyone quarantine/destroy the contaminated recopy? Log decision.
+> - [ ] Marginalia found in C6, or Mercedes failsafe armed for C7
+> - [ ] Sub signo magno recognized? (Regular — wider than before)
+> - [ ] Green ink spotted? (Auto for Larrea buyers, Hard SH otherwise)
+> - [ ] E2b Assembly Reading fired at the rim (scheduled)
 
 ---
 
@@ -286,17 +301,17 @@ Insert this twice during the chapter. Brief. Wordless on Quirce's part the first
 
 Quirce's mouth closes. His eyes refocus. He is unaware. He continues looking at the diagrams.
 
-**SAN Check**: 0/1D6 — for the avatar's first audible introduction, the casualness of the thanks, the casualness of the signature. *Eligio Dadálah* is the name in El Patrón's land deeds (Arc 4); the players are now hearing it for the first time in C6.
+**SAN Check**: 0/1D6 — for the avatar's first audible introduction, the casualness of the thanks, the casualness of the signature. *Eligio Dadálah* is the name in El Patrón's land deeds ([Arc 4](../04-buenos-aires-and-the-heist/chapter-11-la-decision.md#step-3-don-bartolomé-lacasa)); the players are now hearing it for the first time in C6.
 
 The players cannot yet act on it. Quirce will deny. But they have heard the name, and at least one of them now knows that the most polite person in the room has, for ten seconds, been someone else.
 
 > **Third instance — the Wizard's whisper (C6 redundancy)**: Add a brief third moment, immediately after the second. Quirce, still unaware that El Patrón just spoke through him, leans forward to look at a diagram and *exhales* — a long breath, not quite a word. The player closest to him, with a **Listen** roll, hears within the breath a single word, not in any voice they have heard before, hoarser, older, distant: *"…Salamanca…"* That is all. Quirce shakes his head as if a fly had passed near his ear. He continues looking at the diagram.
 >
-> This second whisper is **the Great Wizard of Salamanca**, not El Patrón. **Two masters are using Quirce, and they do not coordinate.** The Wizard rides Quirce's marginalia (see *Kuyen's Confrontation* below); El Patrón rides his voice. The Wizard's whisper here is the players' first audible signal that there is a second hand on Quirce's strings — important when Mercedes' Arc 3 letter (C8) and Saúl Carrasco's Coypac intel start naming "twelve priests" and a tall man in ochre. The *ochre* is the Wizard. **SAN 0/1** for the player who hears it.
+> This second whisper is **the Great Wizard of Salamanca**, not El Patrón. **Two masters are using Quirce, and they do not coordinate.** The Wizard rides Quirce's marginalia; El Patrón rides his voice. The Wizard's whisper here is the players' first audible signal that there is a second hand on Quirce's strings. **SAN 0/1** for the player who hears it.
 
 ### NEW SCENE — KUYEN'S CONFRONTATION OF THE WIZARD'S WORK
 
-> ⚠️ **[THIS TABLE]** Kuyen is dead. Scene runs differently: a **Marked PC** inspecting the panels notices the asymmetric line (geometry perception). Or Marta, tracing the diagram with her finger in the dark, stops and says the same thing in Kuyen's place. The recognition still lands; the voice is different.
+> ⚠️ **[THIS TABLE]** Kuyen is dead. This scene is superseded by the **[P1 asymmetry-carrier block](#quirces-move--the-setup)** above: the recognition beat runs at the pit assembly over the **recopied sheets**, not over leather panels. A Marked PC or Marta notices the eastern line. Quirce admits it instantly. The beat's function is unchanged — the voice is different. *Do not also run the Kuyen version below.*
 
 Add this in the assembly at the pit at chapter's end. As Kuyen lays the leather panels for tomorrow's closing, she pauses on one panel — the asymmetric one Quirce "corrected." She stares at it for a long moment and then says, without looking up:
 
@@ -305,6 +320,37 @@ Add this in the assembly at the pit at chapter's end. As Kuyen lays the leather 
 Kuyen does not name the Great Wizard. She does not need to. **The asymmetry was the Wizard's correction, channeled through Quirce.** Quirce believes he made it himself. He didn't. He was a hand. The Wizard has been writing through him for months.
 
 This shifts the players' understanding of Quirce: he is not a fully autonomous agent. He is closer to Lacasa (Arc 4) than the players currently know — a man being used who has not yet realized.
+
+---
+
+### Keeper — Roll for Hound (C6)
+
+> ⚠️ **[THIS TABLE]** **Two Marked PCs** — each rolls their own 2d6 at triggers below. Rule: [overview — Mark](../overview.md#mark-of-tindalos) · [geometric-perception-cues](../assets/geometric-perception-cues.md). **Double 1** → Hound aftershock 1D3 rounds (peripheral, at an angle — [entity](../assets/entity-hound.md)). **Double 1 or 2** if a Marked PC **looked hard** at geometry this scene.
+
+| Trigger | When |
+|---|---|
+| **Green ink on Quirce's letter** | Marked PC looks hard at it (geometry worked the letter all night) |
+| **Brass markers in the study** | Marked PC enters the study with markers placed; anyone moves or removes a marker; the string-deflection demo is performed |
+| **The eastern correction on the recopies** | Marked PC looks hard at it, or anyone traces the asymmetric line with a finger |
+| **2nd mediumship moment** | As the candle flames bend toward Quirce's mouth |
+| **Silvio's descent** | Only if a Marked PC follows him *into* the pit |
+| **Pit assembly at dusk** | On arrival at the rim — see E2b below (scheduled, no additional roll) |
+
+---
+
+### ⚔️ ENCOUNTER E2b — The Assembly Reading *(scheduled guarantee)*
+
+At dusk, when the full roster is standing at the rim for the first time — investigators, Eusebio, Quirce, Silvio, Héctor, Marta — the geometry registers the **complete closing roster assembled for the first time** and reads it.
+
+> The blood arcs brighten by a degree no one can swear to. The **eastern arc goes thin** — the held-note thinness from the corrected recopy. Then, for **1D3 rounds**, the [Hound](../assets/entity-hound.md) is present at the rim — at the angle where the pit wall meets the dusk shadow, opposite whoever stands nearest the east. It moves person to person along the rim the way an officer reviews a line. Quirce, electrified, tries to *measure* it (his theodolite case is open before round 2). It departs **through the eastern thinness** — showing the table, wordlessly, exactly where C8 will break.
+>
+> **SAN**: 1/1D4 each. First manifestation for any PC who missed C3's: 1/1D6. Fire / breaking line-of-sight ends it early; weapons pass through. **Marked PC private read**: *It counted. The count was nine short.* (The dead — Kuyen, Nahuel, the tribe — it remembers the canonical roster.)
+>
+> **Don Eusebio, after**, quietly: *"Vino a pasar lista."* — *"It came to take attendance."*
+
+**No 2d6 for this encounter** — it is scheduled. Do not also fire a Mark roll.
+
+> **⚠️ E2a — Quirce's escort (contingent)**: Three hired men by the corral ([escort stat block](../assets/npc-stats.md#quirces-escort-3-generic)). They matter only if the party turns physical with Quirce. They fight to extract him, not to kill — and will not follow anyone toward the pit after dark: *"Eso no lo pagó."*
 
 ### NEW SCENE — THE NECRONOMICON, NAMED IN OPEN AIR
 

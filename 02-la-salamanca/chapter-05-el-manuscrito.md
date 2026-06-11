@@ -583,6 +583,28 @@ Log **bone disturbance tier** on your chapter exit checklist ([steamroll section
 
 ---
 
+### ⭐ Reader-path failsafe — Reading Over the Skull
+
+> **[THIS TABLE — F1]** Run this **only if no PC read page 79 aloud at the ruins** (Scene 4). If the seed was already planted, skip. This is the second and final chance before the path closes permanently.
+
+After the diagram lesson settles and the party has looked at Saens's skull for a while, Marta looks at whoever is holding the manuscript. She is not asking:
+
+> *"Él escribió para el que viniera después. Nadie se lo leyó nunca en voz alta. Léanselo. Acá. Él está acá."*
+>
+> **[ES]** *"He wrote for the one who would come after. No one ever read it back to him aloud. Read it to him. Here. He is here."*
+
+She means **page 79** ([handout](../assets/handouts-c5-c7.md#h2--manuscript-page-79-the-readers-page)), read aloud, over the skull, in the chamber's silence.
+
+**If a PC reads it** — slowly, with weight — the **Reader-path seed is planted** exactly as the ruins version would have. Note the PC's name. Log it. That PC will be recognized by Mercedes in [C8](../03-the-great-sleeper/chapter-08-la-traicion.md) and offered the Use ending privately in [C11](../04-buenos-aires-and-the-heist/chapter-11-la-decision.md).
+
+**If multiple PCs read**, the seed lands on the slowest, heaviest reading.
+
+**If the table declines** both invitations (ruins + skull): the Reader path is closed honestly — they were asked twice. Only Hide and Destroyed remain in C12. Do not retrofit.
+
+> **Roll for Hound**: reading page 79 aloud *inside the bone chamber* is a trigger — both Marked PCs roll 2d6 ([keeper table](#keeper-roll-for-hound-c5)). The geometry is already awake here; the skull is a resonator. **Double 1** → cataloguing pass (1 round) immediately following the last syllable. It is not angry. It heard.
+
+---
+
 ## SCENE 8 — THE WHISPERING TUNNELS
 
 Beyond the bone chamber, three tunnels lead deeper. Roughly two meters tall, smooth-walled, ceilings carved with the dual diagram's outer ring repeated at one-meter intervals. **The whispering happens** because the tunnels are *acoustically tuned* — every word spoken inside any tunnel is repeated at the entrance of all three tunnels, in the speaker's voice, at the exact volume of the original.
@@ -938,7 +960,15 @@ If investigators **argue for staying** (more exploration, wizard chamber, "we ne
 > **[THIS TABLE — C5 CONSEQUENCE — 2026-05-29]**
 > Kuyen is dead — so [Scene 10](#scene-10-the-warning-without-kuyen-this-table-source-of-truth) **must run in full** (A+B+C + [departure](#departure-return-west)). Steamroll per [keeper section](#keeper-steamroll-return-west) if players linger. The eastern panel asymmetry is NOT corrected at any point in Arc 2; it persists into [C8](../03-the-great-sleeper/chapter-08-la-traicion.md) where the entity exploits it immediately.
 >
-> **Reader-path note**: Confirm at table whether a PC read [page 79](#deep-read-the-manuscript-chapter-5-additions) aloud (see seed note above). If yes: note which PC. This unlocks the Use ending in [C12](../04-buenos-aires-and-the-heist/chapter-12-el-libro.md). If no PC read it aloud, Use is unavailable and only Hide/Destroyed are on the table in C12.
+> **Reader-path note**: Confirm at table whether a PC read [page 79](#deep-read-the-manuscript-chapter-5-additions) aloud — either at the ruins (Scene 4) or over the skull ([failsafe F1 above](#reader-path-failsafe--reading-over-the-skull)). If yes: **log the PC's name here** — this unlocks the Use ending in [C12](../04-buenos-aires-and-the-heist/chapter-12-el-libro.md). If no PC read it aloud at either opportunity, Use is unavailable and only Hide/Destroyed are on the table in C12. **Do not retrofit.**
+>
+> **Exit checklist (required before C6):**
+> - [ ] Reader PC logged (or path confirmed closed)
+> - [ ] Bone disturbance tier logged (0–3) — carries to C8 east-friction
+> - [ ] Both Marked PCs stood at the carved stone (C7 Tier-2 insurance) — if uncertain, Héctor pauses them there on ascent
+> - [ ] Encounter fired? If no cataloguing pass AND no Great Wizard fight ran: run [E1 Ascent Reading](#scene-10-the-warning-without-kuyen-this-table-source-of-truth) as the party clears the shaft at dusk (1D3 rounds, peripheral Hound, SAN 1/1D4, scheduled — no 2d6)
+> - [ ] Mercedes' reply ([H1](../assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9)) + Tomás note ([H3](../assets/handouts-c5-c7.md#h3--tomáss-note-c5-scene-9)) handed out
+> - [ ] Party departure: return west, Héctor/Marta leave without being asked
 
 ---
 

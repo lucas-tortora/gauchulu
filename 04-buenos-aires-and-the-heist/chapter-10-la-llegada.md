@@ -98,6 +98,14 @@ Mercedes's purpose this chapter is to *show* the players the public face — the
 
 **What the disc does**: It is a *witness-stone* — Keeper-made, brass over a core of *piedra parada* from the old Tehuelche binding tradition. When a Marked person rests a hand on it, the stone communicates the state of the vault below: cold and steady (containment intact), warm (containment under stress), or hot (containment failing). It does not speak. It is a thermometer for the binding.
 
+> ### ⚔️ ENCOUNTER E6a (scheduled) — The Witness Flicker
+>
+> When the **second** Marked PC touches the disc: the stone reads warm — and then, for three heartbeats, it reads *back*. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone is on the line. **1 round.** It does not act. It *registers* the Marks — the vault's geometry meeting the pit's survivors. Then the rug is a rug.
+>
+> Mercedes, watching their faces: *"Eso no lo hace con los Custodios."* — *"It doesn't do that with the Keepers."*
+>
+> **SAN**: 0/1D3 for the touching PC, 0/1 for the other Marked. Not combat — recognition. The vault now knows them; in [C12](./chapter-12-el-libro.md), the dock geometry will lock around them *by name*. **No 2d6 — scheduled.**
+
 **What it reads tonight**: Warm. Not hot. Warm.
 
 Mercedes watches each player's face as they touch it. *"Sí. Eso me dijeron también."* — *"Yes. That's what they told me too."* She replaces the rug.
@@ -303,6 +311,34 @@ The decision the Keepers were going to delay for weeks — until the stone was h
 > *Galíndez stands by the table and does not move. Mercedes kneels beside the body and closes Saráchaga's eyes — the only one of you who can do this without either of them flinching. From the third patio, the well makes a sound: a single low note, almost subsonic. Galíndez looks up at it sharply. Then it stops.*
 >
 > *The bell of the Cabildo, a few blocks away, begins to strike six. You count without thinking. It strikes seven.*
+
+---
+
+
+---
+
+### Keeper — Roll for Hound (C10)
+
+> ⚠️ **[THIS TABLE]** City variant: doubles in Buenos Aires communicate **information, not manifestation** (the entry rule, generalized). Double 1 = a clarity-flash of the grid's purpose; no Hound — *except* at the witness-stone, where the Flicker (E6a above) is scheduled regardless.
+
+| Trigger | When |
+|---|---|
+| **Crossing into the 11×9 grid** | Entry — the chapter's existing roll |
+| **The rector's-office witness-stone** | Each Marked PC's touch (E6a fires on the second) |
+| **The locked stairwell (Archivo Privado)** | Marked PC lingers or looks hard at Quirce's pencil marks |
+| **San Ignacio chapel floor** | Marked PC counts the marble inlays |
+| **Saráchaga's death-room** | Entering the second patio at dawn — the room is *charged*; they feel it before the door |
+| **The third-patio well** | Looking down at the hot disc |
+
+---
+
+### ⚔️ ENCOUNTER E6b — The Counter *(the human encounter — Scene 5 night beats)*
+
+The watching figure on the corner is catchable. If the players double back, split, or set a trap (Galíndez approves: *"Háganlo. Yo cubro."*), they take him: a hired man, Banda Oriental accent, no cult marks — [escort stat block](../assets/npc-stats.md#quirces-escort-3-generic); same labor market. He fights one round to flee — knife-work, then surrender or rooftops.
+
+> On him: no name, a few coins, and a folded paper with **tally marks in two columns** — one column counts the party, the other counts **only the Marked**, and the second column is circled. Twice. ([handout H16](../assets/handouts-c8-c12.md#h16--the-counters-tally-paper-c10-encounter)) He was paid this morning, by a clerk he can't describe, to *"contar a los marcados"* — count the Marked — and leave the paper in a crack in the Cabildo's wall at dawn. He does not know what "marked" means. He counted the ones the *mate* seller flinched at.
+>
+> **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge: El Patrón's dock geometry expects the wrong number of Marks, and the first Mark-roll at the dock ([C12](./chapter-12-el-libro.md)) is one threshold safer.
 
 ---
 
