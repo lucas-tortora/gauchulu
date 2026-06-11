@@ -48,7 +48,7 @@ Padre Saens carved this stone alone, after the rest of the Jesuit mission was go
 | *La atadura* | "The binding" — compact form of the closing, used as a token or amulet | Silver ornament, doorframes, wax seals, scratched on portable objects |
 | *El ancla* | "The anchor" — the center of either aspect; where a body must lie | Padre Saens (1763), Nahuel (C3), Marta (C5), the carriage in BA (C12) |
 | *La piedra* | "The stone" — Padre Saens's carved stone, the canonical record | Jesuit ruins, C5 |
-| *El ostium* | Latin for "door" — the opening's eastern outlet | Don Eusebio's manuscript, marionette rite |
+| *El ostium* | Latin for "door" — the opening's eastern outlet | Don Eusebio's manuscript, Graveyard Kiss folio |
 
 ---
 
@@ -82,30 +82,77 @@ Tomás copied a fragment of the opening from what he saw on a branded hide, scra
 
 > *On the table*: Tomás may give this stone to a player he trusts in C1. The two faces side-by-side are the chapter's silent argument — *one stone, one hand, two opposed shapes* — and a player who turns it over and notices the difference is already half-way to the chapel revelation.
 
-### The Marionette Rite — Eusebio's Locked-Study Page
+### The Graveyard Kiss (*De Osculo Sepulcrali*) — Eusebio's Locked-Study Page
 
-![The marionette rite — folio from the locked study](../assets/marionette-rite.svg)
+![The Graveyard Kiss — folio from the locked study](../assets/marionette-rite.svg)
 
-`assets/marionette-rite.svg`
+`assets/marionette-rite.svg` *(filename unchanged; folio title is now **De Osculo Sepulcrali**)*
 
-A page from the colonial Jesuit manuscript, with Eusebio's frantic marginalia in different ink. **It is a low-level derivative of the opening** — uses only the eastern fragment (one anchor, one spoke, one arc, the vesica tilted east) plus a body diagram of seven bind-points. Not a major working. A pet ritual.
+A page from the colonial Jesuit manuscript, with Eusebio's frantic marginalia in different ink. **Create Zombie variant** — a low-level derivative of the **opening** aspect: the eastern fragment (one anchor, one spoke, one arc, vesica tilted east) traced in **blood** on the ground, with the corpse laid over it. Not a major working. A pet rite.
 
-What it does:
+#### Requirements
 
-- Animates a fresh corpse (less than a day old) as a marionette of meat and pressure.
-- The body **moves**; the body **does not obey**. *Non vivificat sed movet*. It walks where the operator stands; it does not answer. It does not see the operator. It sees something else through the operator.
-- Lasts **until sunrise**, then collapses.
-- Requires **a handful of soil from the open pit**.
-- This is the same mechanism that powers the reanimated cattle at the end of C1 (those are not undead — they are carcasses operated by the entity's geometric field at field scale). The marionette rite does it at body scale, with one practitioner.
+- A **human corpse** that retains sufficient flesh for mobility after activation.
+- The **diagram in blood** (Figura I — eastern fragment; ostium to the east).
+- Corpse laid on the diagram, **navel at the anchor**.
+- **One ounce** of the caster's blood placed in the corpse's mouth.
+- The caster **kisses the lips** and exhales *part of the self* into the body.
 
-How players will encounter it:
+#### Casting
+
+| Step | Detail |
+|---|---|
+| **Roll** | POW |
+| **Cost** | **5 POW** (permanent — gift to the corpse) · **1D10 SAN** · **10 HP** total (may be split among participating casters) |
+| **On success** | Caster may give the zombie **1D4 simple commands**; it will carry them out |
+| **Zombie** | **10 HP** |
+
+*Non vivificat sed movet et parum obedit.* It does not restore life — it loans motion and brief obedience. The created thing is a **zombie**, not the entity-field marionettes at the pit (those are defensive, geometry-driven, and do not take commands).
+
+#### How players encounter it
 
 1. Don Eusebio is gone east at the end of C1; the locked study is still locked, the key is gone.
-2. Force the door (C1 endgame stretch goal, or revisit at C2/C5/C8): the desk is full of recopying drafts. The folio is the cleanest, most legible copy he made.
-3. They can read it. They can perform it. **It is performable.** Cost is real (SAN, 1D6; 0/1 each subsequent use; geometric Mark advances one level on first performance).
-4. Every time a player performs the marionette rite, El Patrón knows their hand a little better. By C12 he can recognize them at distance. **This is a power they should be afraid to use, not afraid to find.**
+2. Force the door (C1 endgame stretch goal, or revisit at C2/C5/C8): the desk is full of recopying drafts. The folio is the cleanest copy he made.
+3. They can read it. They can perform it. **It is performable.** Costs are real (POW, SAN, HP).
+4. Every time a player performs the rite, **El Patrón** knows their hand a little better. By C12 he can recognize them at distance. **A power they should be afraid to use, not afraid to find.**
 
-> *Note on the rite as plot device*: this is the **first piece of operable Mythos magic** the players have access to. It is intentionally low-level — it does not solve anything, it complicates everything. Don't push players toward it. Let them find it. Let them decide.
+> *Plot device*: this is the **first piece of operable Mythos magic** the players can access. Low-level — does not solve anything, complicates everything. Don't push them toward it. Let them find it.
+
+### The Bone Vigil (*De Vigilia Ossium*) — Bone Chamber Niche
+
+![The Bone Vigil — draft found in the bone chamber](../assets/bone-vigil-rite.svg)
+
+`assets/bone-vigil-rite.svg`
+
+A **closing-aspect** pet rite — Saens's draft, rolled in waxed cloth in a limestone niche in the C5 bone chamber. Not in the bound manuscript. He wrote it after his failed solo closing and before he lay down on the diagram to die.
+
+| | Graveyard Kiss (study) | Bone Vigil (chamber) |
+|---|---|---|
+| **Aspect** | Opening (eastern blood fragment) | Closing (full ring + center) |
+| **Does** | Animates corpse; 1D4 commands | **Answers one honest question** about the scar |
+| **Found** | Eusebio's locked study | Bone chamber south-wall niche |
+| **Phrase** | — | *Antu kishu, lan amukey* (→ Mercedes C8) |
+
+#### Requirements
+
+- Complete dual diagram underfoot (bone chamber floor).
+- **Kneeler** beside center skull — never on it, never moving it.
+- **Walker** with long bone, touching outer-ring skulls clockwise from east.
+- Kneeler: *Antu kishu, lan amukey* + **thirteen breaths** still.
+- One honest question spoken aloud.
+
+#### Casting
+
+| Step | Detail |
+|---|---|
+| **Roll** | CON (Hard), kneeler |
+| **Cost** | 1D6 SAN + 1D4 HP (kneeler) · 0/1 SAN (walker) |
+| **On success** | Geometry answers once, truthfully (sensation / image / misdirected voice — not a lecture) |
+| **On failure** | Marked PCs roll 2d6 for Hound |
+
+**Optional**: Tier 1 bone disturbance + restored bones + successful vigil = no penalty. Successful kneeler: one eastern CON check at pit closing is Regular instead of Hard (once).
+
+Full scene text: [C5 bone chamber — hidden rite](../02-la-salamanca/chapter-05-el-manuscrito.md#the-bone-vigil-de-vigilia-ossium--hidden-rite).
 
 ---
 
@@ -214,6 +261,7 @@ This compact token is what carries the closing across the world when no one can 
 | C1 | Don Eusebio produces the hide | `cow-hide-geometry.svg` |
 | C1 | Tomás slips the player his stone | `tomas-stone.svg` |
 | C1 | Players force the locked study (if they do) | `marionette-rite.svg` |
+| C5 | Bone chamber niche (Spot Hidden) | `bone-vigil-rite.svg` |
 | C2 | Players meet Rosa | `binding-symbol.svg` (on her throat) |
 | C2 | Players enter the chapel | `chapel-wall.svg` |
 | C2 | Rosa shows them what is under the grinding stone (if earned) | `rosa-grinding-stone.svg` |

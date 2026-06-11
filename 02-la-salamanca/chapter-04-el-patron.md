@@ -189,6 +189,8 @@ He will now answer questions. He will not lie about things he has already confir
 
 ### The Manuscript
 
+> **Saens notes**: [player handout](./padre-saens-manuscript-player.md) · [keeper](./padre-saens-notes-keeper.md)
+
 **Physical description**: A handwritten journal, roughly 80 pages, bound in brown leather softened to almost fabric by age. The writing is in a formal clerical Spanish of the mid-18th century — legible but archaic. The ink is brown-black. Some pages have diagrams. The final pages are water-damaged, partially illegible.
 
 **Author**: Padre Ignacio Saens, S.J. (Society of Jesus). Dates in the text range from 1761 to 1763. The manuscript was never published, never catalogued. It was hidden in a wall.

@@ -109,6 +109,7 @@ Full prep: [chapter-05-el-manuscrito.md](./chapter-05-el-manuscrito.md) · [scen
 7. **Bone Chamber** (Scene 7)
 
 * Saens's skull at center; non-human skulls = *first people*. Partial binding. SAN 1/1D6
+* **Bone Vigil** (niche, south wall): `bone-vigil-rite.svg` — kneeler + walker, CON Hard, 1 honest question. *Antu kishu, lan amukey*
 * **Diagram lesson**: lay `dual-diagram-anchor.svg` on skull; Marta/Héctor explain opening / closing / anchor; center = Eusebio or PC (Nahuel dead)
 * **Bones moved?** Tier 1–3 → **cataloguing pass** (survivable, 1–3 rnds), not C3 fight; log tier for C8 east penalty
 * Larrea copper re-tarnishes on walls (if bought)

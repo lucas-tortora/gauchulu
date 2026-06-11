@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  THE BONE VIGIL (De Vigilia Ossis) - La Tierra Mala / C5 bone chamber
+  Closing-aspect pet rite. Saens's draft for whoever came after.
+
+  Found rolled in waxed cloth, limestone niche, bone chamber wall.
+
+  Mechanics (keeper): complete dual diagram; kneeler + walker; CON Hard;
+  1D6 SAN + 1D4 HP kneeler; geometry answers one honest question on success.
+
+  Print A4 portrait.
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 620 880"
+     width="620" height="880"
+     font-family="Georgia, 'Times New Roman', serif">
+
+  <defs>
+    <radialGradient id="parchment" cx="50%" cy="48%" r="62%">
+      <stop offset="0%"  stop-color="#e8e0c4"/>
+      <stop offset="60%" stop-color="#d4c9a8"/>
+      <stop offset="100%" stop-color="#a89068"/>
+    </radialGradient>
+    <filter id="age" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.95" numOctaves="2" seed="9"/>
+      <feColorMatrix values="0 0 0 0 0.18  0 0 0 0 0.14  0 0 0 0 0.08  0 0 0 0.12 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+    <filter id="foxing" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="21"/>
+      <feColorMatrix values="0 0 0 0 0.38  0 0 0 0 0.22  0 0 0 0 0.06  0 0 0 0.16 0"/>
+      <feComposite in2="SourceGraphic" operator="in"/>
+    </filter>
+  </defs>
+
+  <rect width="620" height="880" fill="url(#parchment)"/>
+  <rect width="620" height="880" fill="#000" opacity="0.07" filter="url(#age)"/>
+  <rect width="620" height="880" fill="#2a1a08" opacity="0.45" filter="url(#foxing)"/>
+
+  <!-- water stain lower edge -->
+  <ellipse cx="310" cy="820" rx="240" ry="48" fill="#6a5030" opacity="0.12"/>
+
+  <text x="310" y="54" text-anchor="middle" fill="#1a1208" font-size="16"
+        letter-spacing="3" font-style="italic">
+    DE VIGILIA OSSIUM
+  </text>
+  <line x1="120" y1="70" x2="500" y2="70" stroke="#1a1208" stroke-width="0.7" opacity="0.7"/>
+  <text x="310" y="88" text-anchor="middle" fill="#1a3d2e" font-size="10" font-style="italic">
+    la vigilia del hueso &#8212; para preguntar al diagrama
+  </text>
+  <text x="310" y="104" text-anchor="middle" fill="#3a1f08" font-size="9.5" font-style="italic">
+    no cierra. escucha. responde una vez.
+  </text>
+
+  <!-- FIG I: closing ring plan (green ink) -->
+  <g transform="translate(170 290)" stroke="#1a3d2e" fill="none" stroke-linecap="round">
+    <circle cx="0" cy="0" r="88" stroke-width="1.8"/>
+    <circle cx="0" cy="0" r="72" stroke-width="0.6" stroke-dasharray="2 4" opacity="0.55"/>
+  </g>
+  <g transform="translate(170 290)" fill="#1a3d2e" stroke="none">
+    <circle cx="0" cy="-88" r="3"/>
+    <circle cx="76" cy="-44" r="2.4"/>
+    <circle cx="76" cy="44" r="2.4"/>
+    <circle cx="0" cy="88" r="3"/>
+    <circle cx="-76" cy="44" r="2.4"/>
+    <circle cx="-76" cy="-44" r="2.4"/>
+    <!-- eastern arc emphasized -->
+    <circle cx="88" cy="0" r="4.2" fill="#1a3d2e" stroke="#1a1208" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(170 290)" stroke="#1a3d2e" fill="none" opacity="0.7">
+    <polygon points="0,58 50,-29 -50,-29" stroke-width="1" stroke-dasharray="3 2"/>
+  </g>
+  <g transform="translate(170 290)">
+    <circle cx="0" cy="0" r="5" fill="#1a1208"/>
+    <circle cx="0" cy="0" r="12" stroke="#1a1208" stroke-width="0.8" fill="none" stroke-dasharray="2 2"/>
+  </g>
+  <!-- walker path arrow clockwise -->
+  <g transform="translate(170 290)" stroke="#1a3d2e" stroke-width="0.9" fill="none" opacity="0.75">
+    <path d="M 0,-100 A 100 100 0 0 1 100,0"/>
+    <polygon points="100,0 94,-4 94,4" fill="#1a3d2e"/>
+  </g>
+  <text x="170" y="418" text-anchor="middle" font-size="8.5" fill="#1a1208" font-style="italic">
+    Figura I. &#8212; anulus claudendi (sensu horario)
+  </text>
+  <text x="170" y="430" text-anchor="middle" font-size="8" fill="#1a3d2e">
+    el caminante toca cada cr&#225;neo del anillo. no el del centro.
+  </text>
+
+  <!-- FIG II: kneeler beside skull -->
+  <g transform="translate(450 295)" stroke="#1a1208" fill="none" stroke-linecap="round">
+    <!-- kneeling figure silhouette -->
+    <ellipse cx="-28" cy="-20" rx="14" ry="16" stroke-width="1"/>
+    <path d="M -28,-4 L -28,50 L -42,78 L -24,82 L -14,50" stroke-width="1"/>
+    <path d="M -28,10 L -48,38" stroke-width="0.9"/>
+    <path d="M -28,10 L -8,38" stroke-width="0.9"/>
+    <!-- hands on thighs - not touching -->
+    <line x1="-38" y1="42" x2="-38" y2="52" stroke-width="0.8"/>
+    <line x1="-18" y1="42" x2="-18" y2="52" stroke-width="0.8"/>
+    <!-- center skull on floor -->
+    <ellipse cx="22" cy="58" rx="16" ry="13" stroke-width="1.1"/>
+    <circle cx="22" cy="52" r="2.5" fill="#1a1208"/>
+    <path d="M 14,62 Q 22,68 30,62" stroke-width="0.8"/>
+    <!-- dashed: do not touch -->
+    <line x1="-10" y1="58" x2="6" y2="58" stroke-width="0.6" stroke-dasharray="2 2" opacity="0.5"/>
+    <text x="22" y="88" text-anchor="middle" font-size="7" fill="#1a1208" font-style="italic" stroke="none">cranium &#8212; noli movere</text>
+    <!-- breath count -->
+    <text x="-28" y="-38" text-anchor="middle" font-size="8" fill="#1a3d2e" font-style="italic" stroke="none">XIII spiritus</text>
+  </g>
+  <text x="450" y="418" text-anchor="middle" font-size="8.5" fill="#1a1208" font-style="italic">
+    Figura II. &#8212; vigilans iuxta centrum
+  </text>
+  <text x="450" y="430" text-anchor="middle" font-size="8" fill="#3a1f08">
+    arrodillado al lado. trece respiraciones sin moverse.
+  </text>
+
+  <g stroke="#1a1208" stroke-width="0.5" fill="none" stroke-dasharray="1.6 2.6" opacity="0.45">
+    <path d="M 262 300 Q 352 295 405 315"/>
+  </g>
+
+  <!-- PHRASE BOX -->
+  <g transform="translate(60 455)">
+    <rect x="0" y="0" width="500" height="44" fill="#d4c9a8" stroke="#1a3d2e" stroke-width="0.6" opacity="0.9"/>
+    <text x="250" y="18" text-anchor="middle" font-size="10" fill="#1a3d2e" font-style="italic">
+      verba Antu-Rayo (Mapudungun)
+    </text>
+    <text x="250" y="34" text-anchor="middle" font-size="11" fill="#1a1208" letter-spacing="1">
+      Antu kishu, lan amukey
+    </text>
+  </g>
+
+  <!-- COST -->
+  <g transform="translate(60 515)">
+    <rect x="0" y="0" width="500" height="48" fill="#e0d6b8" stroke="#1a1208" stroke-width="0.6" opacity="0.88"/>
+    <text x="250" y="16" text-anchor="middle" font-size="9" fill="#1a1208" font-style="italic">PRETIVM</text>
+    <text x="250" y="32" text-anchor="middle" font-size="9.5" fill="#1a1208">
+      tirada CON (difficilis) &#183; 1D6 mentis &#183; 1D4 PV al vigilante
+    </text>
+    <text x="250" y="44" text-anchor="middle" font-size="8.5" fill="#3a1f08" font-style="italic">
+      &#233;xito: una pregunta honesta. una respuesta verdadera.
+    </text>
+  </g>
+
+  <!-- INSTRUCTIONS -->
+  <g transform="translate(60 580)" fill="#1a1208" font-size="10.5">
+    <text x="0" y="0" font-style="italic" font-size="11">DE MODO OPERANDI</text>
+    <line x1="0" y1="6" x2="500" y2="6" stroke="#1a1208" stroke-width="0.5" opacity="0.6"/>
+    <text x="0" y="24"><tspan font-style="italic">i.</tspan> diagrama completo bajo los pies (hueso o piedra).</text>
+    <text x="0" y="40"><tspan font-style="italic">ii.</tspan> vigilante arrodillado <tspan font-weight="bold">junto</tspan> al cr&#225;neo central. no encima. no moverlo.</text>
+    <text x="0" y="56"><tspan font-style="italic">iii.</tspan> caminante con un hueso largo: tocar cada cr&#225;neo del anillo, horario.</text>
+    <text x="0" y="72"><tspan font-style="italic">iv.</tspan> vigilante pronuncia las palabras de Antu-Rayo. trece respiraciones quietas.</text>
+    <text x="0" y="88"><tspan font-style="italic">v.</tspan> una pregunta honesta sobre la herida. la geometr&#237;a responde una vez.</text>
+    <text x="0" y="104"><tspan font-style="italic">vi.</tspan> no pedir lo que no se est&#225; dispuesto a o&#237;r.</text>
+  </g>
+
+  <text x="310" y="748" text-anchor="middle" font-size="9" fill="#1a1208" font-style="italic">
+    Scripsi hoc postquam solus iacui. Alius vigilabit.
+  </text>
+  <text x="310" y="762" text-anchor="middle" font-size="8" fill="#3a1f08" font-style="italic">
+    "escrib&#237; esto despu&#233;s de acostarme solo. otro vigilar&#225;."
+  </text>
+
+  <!-- Saens marginal note (his own hand, not Eusebio) -->
+  <g font-family="'Brush Script MT', cursive" fill="#1a3d2e" font-style="italic">
+    <g transform="translate(42 700) rotate(-3)">
+      <text x="0" y="0" font-size="13">no obtuve respuesta.</text>
+      <text x="0" y="16" font-size="13">obtuve presi&#243;n.</text>
+    </g>
+    <g transform="translate(480 200) rotate(8)">
+      <text x="0" y="0" font-size="12">el este duele primero</text>
+    </g>
+    <g transform="translate(520 680) rotate(-5)">
+      <text x="0" y="0" font-size="11">para el pr&#243;ximo</text>
+    </g>
+  </g>
+
+  <g transform="translate(40 850)" fill="#3a1f08">
+    <text x="0" y="0" font-size="8" font-style="italic">[rollo hallado en nicho de caliza &#183; c&#225;mara de huesos]</text>
+  </g>
+  <g transform="translate(580 850)" fill="#3a1f08" text-anchor="end">
+    <text x="0" y="0" font-size="8" font-style="italic">Saens, S.I. &#8212; borrador, 1762</text>
+  </g>
+
+</svg>

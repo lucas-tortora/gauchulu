@@ -247,6 +247,8 @@ Larrea is bewildered. Twenty years a merchant; he has never seen this. He asks i
 
 ## DEEP READ: THE MANUSCRIPT — CHAPTER 5 ADDITIONS
 
+> **Saens notes**: [player handout](./padre-saens-manuscript-player.md) · [keeper](./padre-saens-notes-keeper.md)
+
 If investigators spend time in the ruins cross-referencing the manuscript with the carved stone, additional passages become legible or interpretable that weren't clear before:
 
 **Page 71 (margin — illegible until the carved stone is in sight)**:
@@ -441,6 +443,43 @@ Then run [**Geometry points west**](#scene-7-the-bone-chamber) (compass) if you 
 **Geometry points west** (run this — do not wait for players to ask): Any compass brought underground **drifts toward west** — the bearing of [Estancia La Esperanza](../REF-NPCs.md#don-eusebio-valdez) and the burial pit. Not broken; *pulled*. Marked PCs feel it as a **tug in the chest**, same direction Héctor named on the road: *the hole is where someone tore through.* Unmarked PCs see only the needle misbehaving. **This is the campaign telling them where the closing happens.** If players debate whether the ruins are "the place," answer through the world: the teacher is here; the wound is west.
 
 **Larrea's copper ([5b](#the-merchant-with-tarnished-copper-5b))**: If investigators bought the tarnished copper from Don Crisanto Larrea, it *re-tarnishes* on contact with the chamber walls — confirming the link to the pit geometry.
+
+### The Bone Vigil (*De Vigilia Ossium*) — hidden rite
+
+**Discovery**: In the **south wall** of the chamber, a limestone niche the size of two fists — easy to miss in lantern light. **Spot Hidden (Regular)** or **Search (Hard)** after the [diagram lesson](#explaining-the-diagram-marta-and-héctor), or when anyone searches the walls for papers.
+
+> *Inside: a roll of waxed cloth, stiff with age. Unrolled: three sheets in Saens's hand — a draft, not part of the bound manuscript upstairs. The ink is greener than the study folios. The title reads **De Vigilia Ossium**. Figura I shows the closing ring walked clockwise; Figura II shows a kneeler beside a skull, not on it. A Mapudungun phrase is boxed: **Antu kishu, lan amukey**. At the bottom, in a shaking hand: *Scripsi hoc postquam solus iacui. Alius vigilabit.* — "I wrote this after I lay down alone. Another will keep vigil."*
+
+**Handout**: [`bone-vigil-rite.svg`](../assets/bone-vigil-rite.svg) — print and pass across the table when they unroll it.
+
+**What it is**: A **closing-aspect** pet rite — counterpart to the opening-aspect [Graveyard Kiss](../01-la-tierra-mala/diagrams.md#the-graveyard-kiss-de-osculo-sepulcrali--eusebios-locked-study-page) in Eusebio's study. Saens drafted it **after** his first solo attempt failed and **before** he lay down on the diagram to die. It does not close anything. It lets the geometry **answer one honest question** about the scar at La Esperanza.
+
+**Héctor**, if they read it aloud: *"El cura lo escribió para quien viniera después. No para él."* — *"The priest wrote it for whoever came after. Not for himself."* He will not stop them performing it.
+
+**Requirements**
+
+- A **complete dual diagram** underfoot (the bone floor qualifies; a traced copy at the pit does not — too imprecise unless drawn at Hard Occult).
+- **Kneeler** beside Saens's skull — **never on it, never moving it** (Héctor intervenes if they try).
+- **Walker** with a **long bone** from the floor, touching each **outer-ring skull** once, **clockwise**, starting at the eastern station.
+- Kneeler speaks **Antu kishu, lan amukey** (Antu-Rayo's fragment — the same line [Mercedes](../REF-NPCs.md#doña-mercedes-solís) leads at the pit in C8) and holds **thirteen breaths** without moving.
+- Then **one honest question** about the La Esperanza scar, spoken aloud.
+
+**Casting**
+
+| Step | Detail |
+|---|---|
+| **Roll** | **CON (Hard)** for the kneeler; walker needs no roll unless they disturb a skull |
+| **Cost** | Kneeler: **1D6 SAN**, **1D4 HP** (geometry presses inward) · Walker: **0/1 SAN** |
+| **On success** | The chamber answers **once**, truthfully — not in speech: pressure, image, compass-pull, or a sentence in the kneeler's own voice from the wrong direction. Keeper gives a **true** short answer (east fails first, Eusebio must stand in outer ring, Quirce's asymmetry, what the pit wants, etc.) |
+| **On failure** | Kneeler cannot rest properly that night; **both Marked PCs roll 2d6** for Hound ([keeper table](#keeper-roll-for-hound-c5)) |
+
+**Optional benefit — bone disturbance**: If investigators triggered [Tier 1](#if-they-disturb-the-bones) disturbance, **restored the bones**, and complete the vigil successfully in the same scene → **no eastern penalty** from that disturbance.
+
+**Optional benefit — C8**: A kneeler who succeeded may treat **one** eastern-segment CON check at the pit closing as **Regular** instead of Hard (once per campaign).
+
+**Campaign cost**: Like the Graveyard Kiss, each performance teaches **El Patrón** the performer's hand. Low-level, but not free.
+
+> *Do not push this rite. Let them find the niche. If they perform it, make the answer worth the SAN — and make clear it is **one question**, not a hotline.*
 
 ### If they disturb the bones
 
@@ -881,6 +920,7 @@ If investigators **argue for staying** (more exploration, wizard chamber, "we ne
 | [Carved stone](#scene-4-the-jesuit-mission-ruins) | [Dual diagram](../assets/dual-diagram.svg) — opening and closing as one shape |
 | [La Salamanca entrance](#scene-5-descent-at-the-carved-stone) | Shaft at chapel stone; known and reusable |
 | [Bone chamber](#scene-7-the-bone-chamber) | [Saens](../REF-NPCs.md#padre-ignacio-saens-sj)'s skull; first-people skulls; partial binding; [bone disturbance tier](#if-they-disturb-the-bones) |
+| [Bone Vigil rite](#the-bone-vigil-de-vigilia-ossium--hidden-rite) | [`bone-vigil-rite.svg`](../assets/bone-vigil-rite.svg) · closing-aspect question rite · *Antu kishu, lan amukey* |
 | [Clay tablet](#scene-8-the-whispering-tunnels) | Offering chamber; [Mercedes](../REF-NPCs.md#doña-mercedes-solís) will want it |
 | [Flooded diagram](#scene-8-the-whispering-tunnels) | Underwater geometry still active |
 | [Sealed door](#optional-the-chamber-of-the-great-wizard) | [Great Wizard](../REF-NPCs.md#the-great-wizard-of-salamanca) — optional if forced |

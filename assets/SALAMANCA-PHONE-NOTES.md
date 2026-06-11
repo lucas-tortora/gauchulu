@@ -105,6 +105,7 @@
 4. **The Carved Stone & The Descent**
    * Spot Hidden / Cthulhu Mythos: the stone moves
    * Bone chamber below: Padre Saens's body laid as the geometric center (non-human skulls at the outer ring — "the first people")
+   * **Bone Vigil** (niche): `bone-vigil-rite.svg` — closing-aspect rite; 1 honest question answered; phrase → Mercedes C8
    * He achieved a *partial* binding — bought ~6 decades by becoming the anchor
    * **SAN 1/1D6**
 
