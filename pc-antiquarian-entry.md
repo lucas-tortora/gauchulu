@@ -31,7 +31,7 @@ _Stat block exists already — this is the in-fiction integration only. Player-c
 
 ## ENTRY SCENE — right before the ritual _(chosen)_
 
-_Confirmed: the Antiquarian arrives **right before the ritual** (dusk), and is **player-controlled** — so the beat hands them a choice, not a scripted action. The [mid-ritual fallback](/chat/8c5ccf00-5930-4e79-9226-420bc13725c0#fallback--mid-ritual-entry-only-if-theyre-refused-at-the-rim) below is kept only for what happens if the table refuses them at the rim._
+_Confirmed: the Antiquarian arrives **right before the ritual** (dusk), and is **player-controlled** — so the beat hands them a choice, not a scripted action. The [mid-ritual fallback](#fallback--mid-ritual-entry-only-if-theyre-refused-at-the-rim) below is kept only for what happens if the table refuses them at the rim._
 
 **The justification:** a seeker feels the closing from miles off. Like the Wrong Returned who "felt it from Tres Lagunas," the Antiquarian sensed the geometry waking — the **Leipzig** training is what let them read the signs at a distance — and rode the last stretch hard to reach it.
 
