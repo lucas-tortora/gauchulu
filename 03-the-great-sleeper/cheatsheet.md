@@ -7,7 +7,7 @@
 
 ## CHAPTER 7 — LA VÍSPERA (1 PAGE)
 
-Full prep: [chapter-07-la-vispera.md](./chapter-07-la-vispera.md)
+Full prep: [cap. 7](campaign.md#chapter-7--la-víspera)
 
 **GOAL**: Recover the symbol at San Ruiz → last conversations → Cursed Gaucho + cultist + Mercedes arrive → entity speaks → eastern probe
 
@@ -69,7 +69,7 @@ Full prep: [chapter-07-la-vispera.md](./chapter-07-la-vispera.md)
 
 ## CHAPTER 8 — LA TRAICIÓN (1 PAGE)
 
-Full prep: [chapter-08-la-traicion.md](./chapter-08-la-traicion.md)
+Full prep: [cap. 8](campaign.md#chapter-8--la-traición)
 
 **GOAL**: Run phases 1–3 → Quirce's breach → the eastern incursion → Don Eusebio's "No." → hold to a sustained crisis
 
@@ -122,7 +122,7 @@ Full prep: [chapter-08-la-traicion.md](./chapter-08-la-traicion.md)
 
 ## CHAPTER 9 — EL CIERRE (1 PAGE)
 
-Full prep: [chapter-09-el-cierre.md](./chapter-09-el-cierre.md)
+Full prep: [cap. 9](campaign.md#chapter-9--el-cierre)
 
 **GOAL**: Phases 4–5 → the seal → the cost → Coypac news → ride east
 

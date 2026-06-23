@@ -41,6 +41,6 @@ This arc has no prior detailed prep — the three chapters in this folder were w
 
 ## Chapters
 
-- [Chapter 10 — La Llegada](./chapter-10-la-llegada.md) — *Arrival, the University, the Keepers, the debate begins*
-- [Chapter 11 — La Decisión](./chapter-11-la-decision.md) — *Containment fails, El Patrón escalates, the transport is planned*
-- [Chapter 12 — El Libro](./chapter-12-el-libro.md) — *The transport, the heist, the reveal, the choice — Hidden, Used, or Destroyed*
+- [Chapter 10 — La Llegada](campaign.md) — *Arrival, the University, the Keepers, the debate begins*
+- [Chapter 11 — La Decisión](campaign.md) — *Containment fails, El Patrón escalates, the transport is planned*
+- [Chapter 12 — El Libro](campaign.md) — *The transport, the heist, the reveal, the choice — Hidden, Used, or Destroyed*

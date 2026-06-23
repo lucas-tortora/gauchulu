@@ -10,7 +10,7 @@
 > **Source of truth.** This is a snapshot of `02-la-salamanca/cheatsheet.md` in the
 > campaign repo. If the chapters change, re-export from there. For full bilingual
 > read-aloud boxes and NPC Q&A, also add the chapter files to the Project:
-> `chapter-04-el-patron.md`, `chapter-05-el-manuscrito.md`, `chapter-06-el-visitante.md`.
+> `campaign.md` (cap. 4), `campaign.md` (cap. 5), `campaign.md` (cap. 6).
 
 ## TABLE STATE — read this first (applies to all three chapters)
 

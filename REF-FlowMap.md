@@ -875,30 +875,30 @@ How the flow map relates to other reference documents:
 
 **Arc 1 — La Tierra Mala**
 - `01-la-tierra-mala/README.md`
-- `01-la-tierra-mala/chapter-01-el-contrato.md`
-- `01-la-tierra-mala/chapter-02-las-senales.md`
-- `01-la-tierra-mala/chapter-03-el-ritual-roto.md`
+- `campaign.md` (cap. 1)
+- `campaign.md` (cap. 2)
+- `campaign.md` (cap. 3)
 - `01-la-tierra-mala/cheatsheet.md` — ultra-condensed at-the-table reference (3 chapters, 1 page each)
 
 **Arc 2 — La Salamanca**
 - `02-la-salamanca/README.md`
-- `02-la-salamanca/chapter-04-el-patron.md`
-- `02-la-salamanca/chapter-05-el-manuscrito.md`
-- `02-la-salamanca/chapter-06-el-visitante.md`
+- `campaign.md` (cap. 4)
+- `campaign.md` (cap. 5)
+- `campaign.md` (cap. 6)
 - `02-la-salamanca/cheatsheet.md` — ultra-condensed at-the-table reference (3 chapters, 1 page each)
 
 **Arc 3 — The Great Sleeper**
 - `03-the-great-sleeper/README.md`
-- `03-the-great-sleeper/chapter-07-la-vispera.md`
-- `03-the-great-sleeper/chapter-08-la-traicion.md`
-- `03-the-great-sleeper/chapter-09-el-cierre.md`
+- `campaign.md` (cap. 7)
+- `campaign.md` (cap. 8)
+- `campaign.md` (cap. 9)
 - `03-the-great-sleeper/cheatsheet.md` — ultra-condensed at-the-table reference (3 chapters, 1 page each)
 
 **Arc 4 — Buenos Aires & The Heist**
 - `04-buenos-aires-and-the-heist/README.md`
-- `04-buenos-aires-and-the-heist/chapter-10-la-llegada.md`
-- `04-buenos-aires-and-the-heist/chapter-11-la-decision.md`
-- `04-buenos-aires-and-the-heist/chapter-12-el-libro.md`
+- `campaign.md` (cap. 10)
+- `campaign.md` (cap. 11)
+- `campaign.md` (cap. 12)
 - `04-buenos-aires-and-the-heist/cheatsheet.md` — ultra-condensed at-the-table reference (3 chapters; C12 runs 1–2 pages)
 
 ### Visual handouts and GM trigger sheets (`assets/`)

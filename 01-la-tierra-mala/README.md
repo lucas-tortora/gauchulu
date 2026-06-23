@@ -38,9 +38,9 @@ The players begin as hired hunters tasked with pursuing local tribes blamed for 
 
 ## Chapters
 
-- [Chapter 01 — El Contrato](./chapter-01-el-contrato.md) — *The Contract → The Pit*
-- [Chapter 02 — Las Señales](./chapter-02-las-senales.md) — *Signs → The Chapel*
-- [Chapter 03 — El Ritual Roto](./chapter-03-el-ritual-roto.md) — *Broken Ritual → Hound*
+- [Chapter 01 — El Contrato](campaign.md) — *The Contract → The Pit*
+- [Chapter 02 — Las Señales](campaign.md) — *Signs → The Chapel*
+- [Chapter 03 — El Ritual Roto](campaign.md) — *Broken Ritual → Hound*
 
 ### Reference
 

@@ -21,14 +21,14 @@ glanceable. **Never invent table facts.** Everything comes from the files below.
 | Need | Read |
 |---|---|
 | Quick running notes (default) | `02-la-salamanca/cheatsheet.md` — the relevant chapter section |
-| Full scene detail / read-aloud boxes / NPC Q&A | `02-la-salamanca/chapter-04-el-patron.md` (C4) · `chapter-05-el-manuscrito.md` (C5) · `chapter-06-el-visitante.md` (C6) |
+| Full scene detail / read-aloud / NPC Q&A | `campaign.md` — the relevant `# CHAPTER N` section (C4–C6). Player-facing text is **Spanish**; Keeper notes/mechanics English. Has the Invunche / antiquarian tunnel in C5. |
 | Live table state for the whole campaign | `TABLE-STATE.md` (deprecated banner → points back to chapters) · NPC status in `REF-NPCs.md` |
 
 Chapter → file map:
 
-- **Chapter 4 — El Patrón** → `chapter-04-el-patron.md`
-- **Chapter 5 — El Manuscrito** → `chapter-05-el-manuscrito.md`
-- **Chapter 6 — El Visitante** → `chapter-06-el-visitante.md`
+- **Chapter 4 — El Patrón** → `campaign.md` → `# CHAPTER 4 — EL PATRÓN`
+- **Chapter 5 — El Manuscrito** → `campaign.md` → `# CHAPTER 5 — EL MANUSCRITO…` (has the Invunche / antiquarian tunnel)
+- **Chapter 6 — El Visitante** → `campaign.md` → `# CHAPTER 6 — EL VISITANTE`
 
 ## How to respond
 
@@ -41,17 +41,16 @@ Chapter → file map:
    layer — keep it short.
 3. **Drill down only when asked.** For a specific scene's read-aloud box, full
    NPC Q&A, manuscript passages, or exact mechanics → read the relevant
-   `chapter-0X-*.md` and quote the specific block. Don't dump the whole file.
+   `campaign.md` (the right `# CHAPTER N`) and quote the specific block. Don't dump the whole file.
 4. **Lead with the table state.** Every chapter file carries `[THIS TABLE]`
    flags for the C3-divergence state. Surface the relevant one *first* so Lucas
    never reads a beat that no longer runs. The standing state for this arc:
    **Kuyen, Nahuel, the whole tribe, and Concepción are dead; 2 PCs are Marked;
    the party holds only the 75% chapel stone-fragment until the 2nd San Ruiz
    pass (pre-C7); the eastern-panel asymmetry is never corrected.**
-5. **Keep both languages.** The chapters are bilingual — read-aloud boxes, NPC
-   answers, and setting descriptions have an English original plus an `[ES]`
-   Argentine-Spanish rendering. When quoting dialogue or a box, give **both**
-   unless Lucas asks for one language only. He may run the table in Spanish.
+5. **Language.** In `campaign.md`, player-facing text — read-aloud, descriptions,
+   NPC dialogue — is **Spanish**; Keeper notes/mechanics stay English. Quote the
+   Spanish as-is.
 
 ## Phone-friendly output rules
 
@@ -62,7 +61,7 @@ Chapter → file map:
 - Only read the large chapter files when a specific scene/quote is requested —
   the cheatsheet covers the rest and is faster on a phone.
 - If asked for a single scene's read-aloud text, quote the box verbatim
-  (English + `[ES]`), then the SAN check, and stop.
+  (Spanish), then the SAN check, and stop.
 
 ## Quick reference — what each chapter is
 

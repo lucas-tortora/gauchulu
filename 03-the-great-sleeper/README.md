@@ -35,6 +35,6 @@ The detailed prep currently in this folder reflects an **earlier campaign draft*
 
 ## Chapters
 
-- [Chapter 07 — La Víspera](./chapter-07-la-vispera.md) — *The Eve: pre-ritual confessions, the entity speaks to the Marked*
-- [Chapter 08 — La Traición](./chapter-08-la-traicion.md) — *The Betrayal: Don Eusebio's defection moment, Quirce's breach, ritual phases 1–3*
-- [Chapter 09 — El Cierre](./chapter-09-el-cierre.md) — *The Closing: phases 4–5, the seal, the cost, the aftermath*
+- [Chapter 07 — La Víspera](campaign.md) — *The Eve: pre-ritual confessions, the entity speaks to the Marked*
+- [Chapter 08 — La Traición](campaign.md) — *The Betrayal: Don Eusebio's defection moment, Quirce's breach, ritual phases 1–3*
+- [Chapter 09 — El Cierre](campaign.md) — *The Closing: phases 4–5, the seal, the cost, the aftermath*

@@ -341,6 +341,29 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 ---
 
+### EL INVUNCHE — GUARDIÁN DE LA SALAMANCA
+*Weak-ghoul chassis. A child the brujos broke into a sentinel. The toll is the encounter.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 55 | 70 | 40 | 25 | 50 | 65 | 11 | +0 | 0 | 4 |
+
+**Move 4** — drags, hops; cannot run, climb, or jump.  
+**Armor**: 1 (gristle & warped bone)  
+**Dodge**: 12%  
+**Sanity loss to see it**: 1/1D4 (+0/1D4 again when a PC realizes it was made, not born)
+
+**Attacks** — 1 per round (slow, telegraphs; an alert PC can stay clear):
+- **Warped grip (claw)** 45% — 1D6. May instead spend its action to **grapple** (opposed STR/CON); once it holds, its bite lands automatically next round.
+- **Bite** 40% — 1D4. Guttural, tongueless.
+- **Maldición (curse)** — opposed **POW 65** vs target's POW. On success: **penalty die to all rolls until the victim leaves La Salamanca** + **−1D10 Luck**. Once per target; costs its action. This is its real weapon.
+
+**Skills**: Listen 75%, Stealth 30%, Fighting (Brawl) 45%, Intimidate 50%.
+
+**Behaviour**: Never leaves its post. Fleeing always works — no pursuit into the tunnels or toward the door. Paid in tribute, it drags aside, lets them pass, and resumes. Guards the approach to the [Great Wizard's chamber](campaign.md#the-guardian--el-invunche); killing it tells the Wizard his guardian is gone.
+
+---
+
 ## ARC 3–4 — THE PIT / BUENOS AIRES (C7–C12)
 
 ---

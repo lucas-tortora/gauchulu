@@ -8,7 +8,7 @@
 
 ## H1 — MERCEDES' FIRST REPLY (C5, Scene 9)
 
-> **Keeper**: delivered by post-road runner while the party is at the ruins. Two pages, fine hand, no seal ornament. SAN 0/1 on the Necronomicón line. Full scene: [C5 Scene 9](../02-la-salamanca/chapter-05-el-manuscrito.md#scene-9-doña-mercedes-reply).
+> **Keeper**: delivered by post-road runner while the party is at the ruins. Two pages, fine hand, no seal ornament. SAN 0/1 on the Necronomicón line. Full scene: [C5 Scene 9](campaign.md#doña-mercedes-reply).
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## H2 — MANUSCRIPT PAGE 79 (THE READER'S PAGE)
 
-> **Keeper**: hand this card to whichever player holds the manuscript. Do **not** ask anyone to read it aloud — Marta's invitation ([failsafe F1](../02-la-salamanca/REVIEW-sessions-5-7.md#f1--reader-path-seed-second-chance-paste-into-c5-scene-7-after-the-diagram-lesson)) or the players' own instinct does that. If a PC reads it aloud: **Reader-path seed planted** — [seed rules](../02-la-salamanca/chapter-05-el-manuscrito.md#deep-read-the-manuscript-chapter-5-additions). SAN 0/1. Roll for Hound if read aloud at the stone or in the bone chamber.
+> **Keeper**: hand this card to whichever player holds the manuscript. Do **not** ask anyone to read it aloud — Marta's invitation ([failsafe F1](../02-la-salamanca/REVIEW-sessions-5-7.md#f1--reader-path-seed-second-chance-paste-into-c5-scene-7-after-the-diagram-lesson)) or the players' own instinct does that. If a PC reads it aloud: **Reader-path seed planted** — [seed rules](campaign.md#deep-read-the-manuscript). SAN 0/1. Roll for Hound if read aloud at the stone or in the bone chamber.
 
 ---
 
@@ -116,7 +116,7 @@
 
 ## H6 — THE CULTIST'S CODED LIST (EIGHT NAMES)
 
-> **Keeper**: sewn into the lining of the captured priest's coat ([C7 captured-cultist scene](../03-the-great-sleeper/chapter-07-la-vispera.md#new-scene--the-captured-cultist)). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
+> **Keeper**: sewn into the lining of the captured priest's coat ([C7 captured-cultist scene](campaign.md#contenido)). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
 
 ---
 
@@ -143,7 +143,7 @@
 
 ## H7 — MERCEDES' SECOND LETTER (C6 expansion)
 
-> **Keeper**: arrives by **express rider** at the pit camp, after the assembly ([C6 — the Necronomicón named in open air](../02-la-salamanca/chapter-06-el-visitante.md#new-scene--the-necronomicon-named-in-open-air)). Short, written fast, the hand less careful than H1 — she paid for speed.
+> **Keeper**: arrives by **express rider** at the pit camp, after the assembly ([C6 — the Necronomicón named in open air](campaign.md#the-necronomicón-named)). Short, written fast, the hand less careful than H1 — she paid for speed.
 
 ---
 

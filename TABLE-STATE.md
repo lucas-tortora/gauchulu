@@ -4,12 +4,12 @@
 Table-specific state is now embedded directly in each chapter file as `[THIS TABLE — date]` callouts, and in `REF-NPCs.md` for NPC status.
 
 **Find it here instead:**
-- C1 outcome → end of `01-la-tierra-mala/chapter-01-el-contrato.md`
-- C2 outcome → end of `01-la-tierra-mala/chapter-02-las-senales.md`
-- C3 outcome → end of `01-la-tierra-mala/chapter-03-el-ritual-roto.md`
+- C1 outcome → end of `campaign.md` (cap. 1)
+- C2 outcome → end of `campaign.md` (cap. 2)
+- C3 outcome → end of `campaign.md` (cap. 3)
 - NPC deaths (Kuyen, Nahuel, Concepción, the tribe) → `REF-NPCs.md`
 - Arc 2–4 table-state consequences (all chapters) → the `[THIS TABLE]` callouts in each chapter file
-- **San Ruiz two-pass routing + 3-tier binding-symbol retrieval** → `02-la-salamanca/chapter-04-el-patron.md` (first pass) and `03-the-great-sleeper/chapter-07-la-vispera.md` (second pass)
+- **San Ruiz two-pass routing + 3-tier binding-symbol retrieval** → `campaign.md` (cap. 4) (first pass) and `campaign.md` (cap. 7) (second pass)
 - Design rationale for the Arc 2–4 repairs → `assets/arc-review-plan.md`
 - Mandinga sequence → `assets/mandinga-sequence.md`
 - Ritual structure (4 rounds, Cata, goat window) → `assets/ritual-diagram-c3.md`

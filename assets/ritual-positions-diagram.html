@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Closing — Ritual Positions by Phase</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    background: #faf8f4;
+    font-family: 'Georgia', serif;
+    color: #1a1a1a;
+    padding: 24px 16px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.45;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .phases {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+  }
+  .phase-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+  .phase-label {
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.45;
+    text-align: center;
+    line-height: 1.3;
+  }
+  .phase-label .arc {
+    display: block;
+    opacity: 0.7;
+    font-size: 9px;
+    font-weight: normal;
+  }
+  svg.ring { overflow: visible; }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    margin-top: 18px;
+    justify-content: center;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 10px;
+    opacity: 0.65;
+  }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .legend-square { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+  .crisis-banner {
+    font-size: 9px;
+    text-align: center;
+    line-height: 1.5;
+    max-width: 100px;
+    min-height: 24px;
+  }
+</style>
+</head>
+<body>
+<h1>The Closing — Ritual Positions by Phase</h1>
+<div class="phases" id="phases"></div>
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#4a7a4a"></div> Stable</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#b94a4a"></div> Crisis / broken</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#8a6a2a"></div> Mobile</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#888"></div> Outside</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#2a5a8a"></div> Entity pressure</div>
+  <div class="legend-item"><div class="legend-square" style="background:#c8a84a;opacity:0.5"></div> Panel laid</div>
+</div>
+
+<script>
+const phases = [
+  {
+    label: 'Phase 1', arc: 'C8 — Open', crisisText: '',
+    panelSegment: 1,
+    nodes: [
+      { label: 'Silvio',    sub: 'N watch',   angle: 0,   color: '#4a7a4a', facing: true },
+      { label: 'Antiquar.', sub: 'E / reader', angle: 90,  color: '#4a7a4a' },
+      { label: 'Gaucho',    sub: 'W hold',    angle: 270, color: '#4a7a4a' },
+      { label: 'Marked PC', sub: 'S hold',    angle: 180, color: '#4a7a4a' },
+      { label: 'Eusebio',  sub: 'CENTER',    angle: null, color: '#2a5a8a', center: true },
+      { label: 'Mercedes', sub: 'reads',     angle: 135, color: '#8a6a2a', r: 0.55 },
+      { label: 'Marta',    sub: 'places',    angle: 45,  color: '#8a6a2a', r: 0.55 },
+      { label: 'Quirce',   sub: 'outside',   angle: 60,  color: '#888',   r: 1.35 },
+    ]
+  },
+  {
+    label: 'Phase 2', arc: 'C8 — Crisis', crisisText: 'East tears\nQuirce crosses in\nGaucho breaks W',
+    panelSegment: 2, eastTear: true,
+    nodes: [
+      { label: 'Silvio',    sub: 'N watch',  angle: 0,   color: '#4a7a4a', facing: true },
+      { label: 'Antiquar.', sub: 'BRACE E',  angle: 90,  color: '#b94a4a', pulse: true },
+      { label: 'Gaucho',    sub: 'BREAKS',   angle: 270, color: '#b94a4a' },
+      { label: 'Marta',     sub: 'covers W', angle: 270, color: '#8a6a2a', r: 0.72 },
+      { label: 'Marked PC', sub: 'S hold',   angle: 180, color: '#4a7a4a' },
+      { label: 'Eusebio',  sub: 'CENTER',   angle: null, color: '#2a5a8a', center: true },
+      { label: 'Mercedes', sub: 'reads',    angle: 135, color: '#8a6a2a', r: 0.55 },
+      { label: 'Quirce',   sub: '⚠ inside', angle: 55,  color: '#b94a4a', r: 0.78 },
+    ]
+  },
+  {
+    label: 'Phase 3', arc: 'C8 — The Offer', crisisText: 'Entity presses\nEusebio directly',
+    panelSegment: 3,
+    nodes: [
+      { label: 'Silvio',    sub: 'N watch', angle: 0,   color: '#4a7a4a', facing: true },
+      { label: 'Antiquar.', sub: 'E hold',  angle: 90,  color: '#4a7a4a' },
+      { label: 'Gaucho',    sub: 'back W',  angle: 270, color: '#4a7a4a' },
+      { label: 'Marked PC', sub: 'S hold',  angle: 180, color: '#4a7a4a' },
+      { label: 'Eusebio',  sub: '⚠ PRESSED', angle: null, color: '#b94a4a', center: true, pulse: true },
+      { label: 'Mercedes', sub: 'reads',   angle: 135, color: '#8a6a2a', r: 0.55 },
+      { label: 'Marta',    sub: 'floats',  angle: 45,  color: '#8a6a2a', r: 0.55 },
+      { label: 'Quirce',   sub: 'outside', angle: 60,  color: '#888',   r: 1.35 },
+    ]
+  },
+  {
+    label: 'Phase 4', arc: 'C9 — Deep Close', crisisText: 'Entity tests each\nposition in sequence',
+    panelSegment: 4, innerRing: true,
+    nodes: [
+      { label: 'Silvio',    sub: 'N watch', angle: 0,   color: '#4a7a4a', facing: true },
+      { label: 'Antiquar.', sub: 'E hold',  angle: 90,  color: '#4a7a4a' },
+      { label: 'Gaucho',    sub: 'W hold',  angle: 270, color: '#4a7a4a' },
+      { label: 'Marked PC', sub: 'S hold',  angle: 180, color: '#4a7a4a' },
+      { label: 'Eusebio',  sub: 'CENTER',  angle: null, color: '#2a5a8a', center: true },
+      { label: 'Mercedes', sub: 'reads',   angle: 135, color: '#8a6a2a', r: 0.55 },
+      { label: 'Marta',    sub: 'places',  angle: 45,  color: '#8a6a2a', r: 0.55 },
+    ]
+  },
+  {
+    label: 'Phase 5', arc: 'C9 — Final Seal', crisisText: 'All join the chant\nAll pressure inward',
+    panelSegment: 5, innerRing: true, inwardPress: true,
+    nodes: [
+      { label: 'Silvio',    sub: 'joins chant', angle: 0,   color: '#4a7a4a' },
+      { label: 'Antiquar.', sub: 'E / chant',   angle: 90,  color: '#4a7a4a' },
+      { label: 'Gaucho',    sub: 'W / chant',   angle: 270, color: '#4a7a4a' },
+      { label: 'Marked PC', sub: 'S / chant',   angle: 180, color: '#4a7a4a' },
+      { label: 'Eusebio',  sub: 'HOLDS',       angle: null, color: '#2a5a8a', center: true },
+      { label: 'Mercedes', sub: 'leads chant', angle: 135, color: '#8a6a2a', r: 0.55 },
+      { label: 'Marta',    sub: 'last line',   angle: 45,  color: '#8a6a2a', r: 0.55 },
+    ]
+  },
+];
+
+const W = 130, H = 130;
+const cx = W/2, cy = H/2;
+const outerR = 50, innerR = 33;
+
+function toXY(angleDeg, r) {
+  const rad = (angleDeg - 90) * Math.PI / 180;
+  return { x: cx + r * Math.cos(rad), y: cy + r * Math.sin(rad) };
+}
+
+function makePanelArc(phase) {
+  let arcs = '';
+  const total = phase.panelSegment;
+  const segAngle = 90;
+  for (let i = 0; i < Math.min(total, 4); i++) {
+    const startDeg = i * segAngle;
+    const endDeg = startDeg + segAngle - 3;
+    const s = toXY(startDeg, outerR - 7);
+    const e = toXY(endDeg, outerR - 7);
+    arcs += `<path d="M ${cx} ${cy} L ${s.x} ${s.y} A ${outerR-7} ${outerR-7} 0 0 1 ${e.x} ${e.y} Z" fill="#c8a84a" opacity="0.18"/>`;
+  }
+  if (total >= 4 && phase.innerRing) {
+    arcs += `<circle cx="${cx}" cy="${cy}" r="${innerR - 5}" fill="#c8a84a" opacity="${total >= 5 ? 0.22 : 0.10}"/>`;
+  }
+  return arcs;
+}
+
+const container = document.getElementById('phases');
+
+phases.forEach((phase, pi) => {
+  const card = document.createElement('div');
+  card.className = 'phase-card';
+
+  const lbl = document.createElement('div');
+  lbl.className = 'phase-label';
+  lbl.innerHTML = `${phase.label}<span class="arc">${phase.arc}</span>`;
+  card.appendChild(lbl);
+
+  let parts = [];
+
+  const defs = `<defs>
+    <marker id="ao${pi}" markerWidth="4" markerHeight="4" refX="3" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#4a7a4a" opacity="0.6"/>
+    </marker>
+    <marker id="ai${pi}" markerWidth="4" markerHeight="4" refX="3" refY="2" orient="auto">
+      <path d="M0,0 L4,2 L0,4 Z" fill="#2a5a8a" opacity="0.5"/>
+    </marker>
+  </defs>`;
+
+  parts.push(makePanelArc(phase));
+  parts.push(`<circle cx="${cx}" cy="${cy}" r="${outerR}" fill="none" stroke="#666" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.35"/>`);
+  if (phase.innerRing) {
+    parts.push(`<circle cx="${cx}" cy="${cy}" r="${innerR}" fill="none" stroke="#888" stroke-width="1.1" stroke-dasharray="2 2" opacity="0.45"/>`);
+  } else {
+    parts.push(`<circle cx="${cx}" cy="${cy}" r="${innerR}" fill="none" stroke="#aaa" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.18"/>`);
+  }
+  parts.push(`<circle cx="${cx}" cy="${cy}" r="2" fill="#aaa" opacity="0.3"/>`);
+
+  if (phase.eastTear) {
+    const ep = toXY(90, outerR);
+    parts.push(`<line x1="${cx}" y1="${cy}" x2="${ep.x}" y2="${ep.y}" stroke="#b94a4a" stroke-width="0.9" stroke-dasharray="2 2" opacity="0.5"/>`);
+  }
+  if (phase.inwardPress) {
+    [0,90,180,270].forEach(a => {
+      const p1 = toXY(a, outerR - 12);
+      const p2 = toXY(a, innerR + 3);
+      parts.push(`<line x1="${p1.x}" y1="${p1.y}" x2="${p2.x}" y2="${p2.y}" stroke="#2a5a8a" stroke-width="0.8" opacity="0.4" marker-end="url(#ai${pi})"/>`);
+    });
+  }
+
+  phase.nodes.forEach(node => {
+    const r = node.r ? node.r * outerR : outerR;
+    let nx, ny;
+    if (node.center) { nx = cx; ny = cy; }
+    else { const p = toXY(node.angle, r); nx = p.x; ny = p.y; }
+
+    const dotR = node.center ? 8 : 5.5;
+    if (node.pulse) {
+      parts.push(`<circle cx="${nx}" cy="${ny}" r="${dotR+4}" fill="none" stroke="${node.color}" stroke-width="0.8" opacity="0.3"/>`);
+    }
+    if (node.facing) {
+      const p2 = toXY(node.angle, r + 13);
+      parts.push(`<line x1="${nx}" y1="${ny}" x2="${p2.x}" y2="${p2.y}" stroke="${node.color}" stroke-width="1" opacity="0.45" marker-end="url(#ao${pi})"/>`);
+    }
+    parts.push(`<circle cx="${nx}" cy="${ny}" r="${dotR}" fill="${node.color}" opacity="0.85"/>`);
+
+    let dy = 0, dx = 0;
+    if (node.center) { dy = -11; dx = 0; }
+    else if (node.angle === 0)   { dy = -9; }
+    else if (node.angle === 180) { dy = 11; }
+    else if (node.angle === 90)  { dx = 9; }
+    else if (node.angle === 270) { dx = -9; }
+    else if (node.angle === 45 || node.angle === 55) { dx = 8; dy = -4; }
+    else if (node.angle === 135) { dx = 8; dy = 4; }
+    else if (node.angle === 225) { dx = -8; dy = 4; }
+    else if (node.angle === 315) { dx = -8; dy = -4; }
+    else if (node.angle === 60)  { dx = 8; dy = -3; }
+
+    const anchor = (node.angle === 270 || (node.r && node.angle > 180 && node.angle < 360)) ? 'end'
+                 : (node.angle === 90  || (node.r && node.angle > 0   && node.angle < 180)) ? 'start'
+                 : 'middle';
+
+    parts.push(`<text x="${nx+dx}" y="${ny+dy}" text-anchor="${anchor}" font-size="7" font-family="Georgia,serif" fill="#1a1a1a" opacity="0.9" font-weight="bold">${node.label}</text>`);
+    parts.push(`<text x="${nx+dx}" y="${ny+dy+8}" text-anchor="${anchor}" font-size="5.8" font-family="Georgia,serif" fill="#1a1a1a" opacity="0.5">${node.sub}</text>`);
+  });
+
+  const svg = document.createElementNS('http://www.w3.org/2000/svg','svg');
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  svg.setAttribute('width', '100%');
+  svg.setAttribute('class', 'ring');
+  svg.innerHTML = defs + parts.join('');
+  card.appendChild(svg);
+
+  const banner = document.createElement('div');
+  banner.className = 'crisis-banner';
+  if (phase.crisisText) {
+    banner.style.color = (pi === 0) ? '#666' : '#b94a4a';
+    banner.style.opacity = (pi === 0) ? '0.4' : '0.9';
+    banner.innerHTML = phase.crisisText.replace(/\n/g, '<br>');
+  }
+  card.appendChild(banner);
+
+  container.appendChild(card);
+});
+</script>
+</body>
+</html>

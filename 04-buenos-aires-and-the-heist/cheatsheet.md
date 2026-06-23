@@ -7,7 +7,7 @@
 
 ## CHAPTER 10 — LA LLEGADA (1 PAGE)
 
-Full prep: [chapter-10-la-llegada.md](./chapter-10-la-llegada.md)
+Full prep: [cap. 10](campaign.md#chapter-10--la-llegada)
 
 **GOAL**: Enter the city → Keepers as people → witness-stone warm → a Keeper dead by dawn
 
@@ -54,7 +54,7 @@ Full prep: [chapter-10-la-llegada.md](./chapter-10-la-llegada.md)
 
 ## CHAPTER 11 — LA DECISIÓN (1 PAGE)
 
-Full prep: [chapter-11-la-decision.md](./chapter-11-la-decision.md)
+Full prep: [cap. 11](campaign.md#chapter-11--la-decisión)
 
 **GOAL**: The vault → the killer's trail → Ana → the tannery terms → Mercedes' confession → El Patrón in the parlor
 
@@ -104,7 +104,7 @@ Full prep: [chapter-11-la-decision.md](./chapter-11-la-decision.md)
 
 ## CHAPTER 12 — EL LIBRO (1–2 PAGES)
 
-Full prep: [chapter-12-el-libro.md](./chapter-12-el-libro.md) · GM map: [`assets/city-grid.svg`](../assets/city-grid.svg)
+Full prep: [cap. 12](campaign.md#chapter-12--el-libro) · GM map: [`assets/city-grid.svg`](../assets/city-grid.svg)
 
 **STRUCTURE: 4 ACTS** — Transport 90′ · Reveal 90′ · Choice 90′ · Aftermath 60′. Do not collapse them.
 
