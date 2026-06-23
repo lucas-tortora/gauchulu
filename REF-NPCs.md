@@ -644,6 +644,8 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Core Motivation**: Acquire the Necronomicón. Force its movement, because *moving* is when it can be stolen. Forty years of arrangement, three networks of agents, two sealed pits, and one careful courtship of Mercedes herself — all converging on a single midnight transport down Calle Belgrano.
 
+**The spine — how he uses the players (Keeper).** The Necronomicón is **the key**: literally the object that opens the doorframe to the rest of his avatar at the dock (C12), and the only thing he has wanted for forty years. He cannot take it himself — the **1610 vault binds the book *and* him together**, and no agent of his can breach that geometry from outside (it holds; see the vault near-miss rule). The book only leaves if the **Keepers choose to move it**, and they only choose that under a threat dire enough to make staying put worse. So everything in Arcs 1–3 is **manufactured pressure**: Don Eusebio's opening, Coypac, the Great Wizard, the stone warming under the city. **The players are the lever.** Closing the pampas scar proves the threat is real; riding north with Mercedes and their two Marks tips the Keeper council toward the transport. They believe they are racing to secure the book before the cult can — in truth they are carrying it out of the one place it was ever safe, on the night and the route he chose. **He is not chasing them to Buenos Aires; he is reeling them in.** The one thing he cannot script is what they *do* with the book once it is on the dock — the only move he never gets to make for them (see **Key Hook**).
+
 **The Cover He Performs**:
 - A landowner with property near Areco
 - A correspondent with reach

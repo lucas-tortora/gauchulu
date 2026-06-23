@@ -96,7 +96,7 @@ Each PC who chooses poder picks one spell. No two PCs may take the same spell in
 
 ### MENGUA / SHRIVELLING
 *ES: Mengua — EN: Shrivelling*
-*Source: [Call of Cthulhu 7e Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/), Spells chapter*
+*Source: Call of Cthulhu 7e Keeper Rulebook, Spells chapter*
 *Alt. names: Shriving, The Withering Blast of Death, The Black Words*
 
 > *"Hay que poder devolver lo que le mandan."*
@@ -115,7 +115,7 @@ Each PC who chooses poder picks one spell. No two PCs may take the same spell in
 
 ### MARCA DEL DUEÑO / WARDING
 *ES: Marca del Dueño — EN: Warding*
-*Source: [Call of Cthulhu 7e Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/), Spells chapter*
+*Source: Call of Cthulhu 7e Keeper Rulebook, Spells chapter*
 
 > *"La pampa tiene dueño. Recuérdeselo."*
 
@@ -133,7 +133,7 @@ Each PC who chooses poder picks one spell. No two PCs may take the same spell in
 
 ### ESPANTO / IMPLANT FEAR
 *ES: Espanto — EN: Implant Fear*
-*Source: [Call of Cthulhu 7e Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/), Spells chapter*
+*Source: Call of Cthulhu 7e Keeper Rulebook, Spells chapter*
 *Alt. names: Finger of Doom, Eibon's Jinx, The Evil Eye*
 
 > *"A veces alcanza con correrlos."*
@@ -152,7 +152,7 @@ Each PC who chooses poder picks one spell. No two PCs may take the same spell in
 
 ### VOZ DEL PATRÓN / DOMINATE
 *ES: Voz del Patrón — EN: Dominate*
-*Source: [Call of Cthulhu 7e Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/), Spells chapter*
+*Source: Call of Cthulhu 7e Keeper Rulebook, Spells chapter*
 *Alt. names: Command of the Wizard, The Chant of Possession, Baleful Influence*
 
 > *"Lo que yo doy, lo doy entero."*
@@ -171,7 +171,7 @@ Each PC who chooses poder picks one spell. No two PCs may take the same spell in
 
 ### CUERO / FLESH WARD
 *ES: Cuero — EN: Flesh Ward*
-*Source: [Call of Cthulhu 7e Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/), Spells chapter*
+*Source: Call of Cthulhu 7e Keeper Rulebook, Spells chapter*
 *Alt. names: Protect Thee from Mighty Blows, Armour of the Will, Blood Shield*
 
 > *"La pampa endurece a los que se quedan."*

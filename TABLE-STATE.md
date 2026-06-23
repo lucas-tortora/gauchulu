@@ -233,11 +233,11 @@ No PC takes both. One or the other.
 
 | ES name | EN name (rulebook) | Effect summary | Cost | Source |
 |---|---|---|---|---|
-| Mengua | [Shrivelling](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Opposed POW; target loses 1 HP per MP invested | Variable MP + SAN = MP÷2 | KR Spells |
-| Marca del Dueño | [Warding](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | 1m circle; entities need POW contest to cross | 5 POW perm. + SAN 1/1D6 | KR Spells |
-| Espanto | [Implant Fear](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Target loses 0/1D6 SAN and retreats to safety | 12 MP + SAN 1D6 | KR Spells |
-| Voz del Patrón | [Dominate](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Opposed POW; target obeys for 1 combat round; recastable | 1 MP + 1 SAN per cast | KR Spells |
-| Cuero | [Flesh Ward](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook/) | Each MP = 1D6 armor vs physical; lasts 24h or until depleted | Variable MP + SAN 1D4 | KR Spells |
+| Mengua | Shrivelling | Opposed POW; target loses 1 HP per MP invested | Variable MP + SAN = MP÷2 | KR Spells |
+| Marca del Dueño | Warding | 1m circle; entities need POW contest to cross | 5 POW perm. + SAN 1/1D6 | KR Spells |
+| Espanto | Implant Fear | Target loses 0/1D6 SAN and retreats to safety | 12 MP + SAN 1D6 | KR Spells |
+| Voz del Patrón | Dominate | Opposed POW; target obeys for 1 combat round; recastable | 1 MP + 1 SAN per cast | KR Spells |
+| Cuero | Flesh Ward | Each MP = 1D6 armor vs physical; lasts 24h or until depleted | Variable MP + SAN 1D4 | KR Spells |
 
 *One spell per PC who chooses poder. First choice locks that spell — no two PCs take the same one. Full mechanics in `assets/mandinga-sequence.md`.*
 

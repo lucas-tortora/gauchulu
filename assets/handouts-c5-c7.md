@@ -2,13 +2,15 @@
 *Suggested repo location: `assets/handouts-c5-c7.md`*
 *Phone-friendly: each handout is self-contained between rules. Show the screen, or read the ES block aloud and let them hold the EN. Keeper notes are in blockquotes — do not show those.*
 
+*(Companion file: [handouts-c8-c12.md](./handouts-c8-c12.md) — H8–H16.)*
+
 **Index** — [H1 Mercedes' reply](#h1--mercedes-first-reply-c5-scene-9) · [H2 Page 79](#h2--manuscript-page-79-the-readers-page) · [H3 Tomás's note](#h3--tomáss-note-c5-scene-9) · [H4 Quirce's letter](#h4--quirces-announcement-letter-5c) · [H5 The marginalia](#h5--the-three-marginalia-in-the-older-hand) · [H6 The coded list](#h6--the-cultists-coded-list-eight-names) · [H7 Mercedes' second letter](#h7--mercedes-second-letter-c6-expansion)
 
 ---
 
 ## H1 — MERCEDES' FIRST REPLY (C5, Scene 9)
 
-> **Keeper**: delivered by post-road runner while the party is at the ruins. Two pages, fine hand, no seal ornament. SAN 0/1 on the Necronomicón line. Full scene: [C5 Scene 9](campaign.md#doña-mercedes-reply).
+> **Keeper**: delivered by post-road runner while the party is at the ruins. Two pages, fine hand, no seal ornament. SAN 0/1 on the Necronomicón line. Full scene: [C5 Scene 9](../campaign.md#doña-mercedes-reply).
 
 ---
 
@@ -38,7 +40,7 @@
 
 ## H2 — MANUSCRIPT PAGE 79 (THE READER'S PAGE)
 
-> **Keeper**: hand this card to whichever player holds the manuscript. Do **not** ask anyone to read it aloud — Marta's invitation ([failsafe F1](../02-la-salamanca/REVIEW-sessions-5-7.md#f1--reader-path-seed-second-chance-paste-into-c5-scene-7-after-the-diagram-lesson)) or the players' own instinct does that. If a PC reads it aloud: **Reader-path seed planted** — [seed rules](campaign.md#deep-read-the-manuscript). SAN 0/1. Roll for Hound if read aloud at the stone or in the bone chamber.
+> **Keeper**: hand this card to whichever player holds the manuscript. Do **not** ask anyone to read it aloud — Marta's invitation ([failsafe F1 — Reader-path seed](../campaign.md#reader-path-failsafe--reading-over-the-skull)) or the players' own instinct does that. If a PC reads it aloud: **Reader-path seed planted** — [seed rules](../campaign.md#deep-read-the-manuscript). SAN 0/1. Roll for Hound if read aloud at the stone or in the bone chamber.
 
 ---
 
@@ -54,6 +56,8 @@
 
 ## H3 — TOMÁS'S NOTE (C5, Scene 9)
 
+↩ **Scene in campaign:** [C5 — Doña Mercedes' Reply](../campaign.md#doña-mercedes-reply)
+
 > **Keeper**: arrives with (or just after) Mercedes' letter, carried by a boy on a tired horse. Block capitals, charcoal pencil, written fast.
 
 ---
@@ -66,7 +70,9 @@
 
 ## H4 — QUIRCE'S ANNOUNCEMENT LETTER (5c)
 
-> **Keeper**: found on the sala mantelpiece on the C6 return (or handed over by Tomás / Don Eusebio). Elegant Buenos Aires Spanish, expensive paper. Spots, per [F3/F4 failsafes](../02-la-salamanca/REVIEW-sessions-5-7.md#f3--sub-signo-magno-c6-requires-a-latineducated-pc): *sub signo magno* = occult-network signature (Library Use / **Occult** / Mythos / seminary background, Regular); the black ink has gone **faintly green** — automatic notice for any PC who bought Larrea's copper, Hard Spot Hidden otherwise.
+↩ **Scene in campaign:** [C6 — Quirce's Announcement Letter](../campaign.md#quirces-announcement-letter)
+
+> **Keeper**: found on the sala mantelpiece on the C6 return (or handed over by Tomás / Don Eusebio). Elegant Buenos Aires Spanish, expensive paper. Spots, per [the *sub signo magno* gloss](../campaign.md#quirces-announcement-letter): *sub signo magno* = occult-network signature (Library Use / **Occult** / Mythos / seminary background, Regular); the black ink has gone **faintly green** — automatic notice for any PC who bought Larrea's copper, Hard Spot Hidden otherwise.
 
 ---
 
@@ -90,7 +96,9 @@
 
 ## H5 — THE THREE MARGINALIA IN THE OLDER HAND
 
-> **Keeper**: found inside **Quirce's annotated copy** of the Saens manuscript — Hard Cthulhu Mythos in C6, or handed over by **Mercedes in C7** ([failsafe F2](../02-la-salamanca/REVIEW-sessions-5-7.md#f2--wizards-marginalia-in-quirces-copy-c6-hard-cthulhu-mythos-currently-no-failsafe)). Three notes, older Castilian, older pen, positioned exactly where Saens writes of the book. The hand is the [Great Wizard's](../REF-NPCs.md#the-great-wizard-of-salamanca) — do not say so; let the table conclude it. Show this as three torn slips, or read each as it is found.
+↩ **Scene in campaign:** [C6 — Quirce's Move (the marginalia)](../campaign.md#quirces-move)
+
+> **Keeper**: found inside **Quirce's annotated copy** of the Saens manuscript — Hard Cthulhu Mythos in C6, or handed over by **Mercedes in C7** ([the marginalia failsafe](../campaign.md#quirces-move)). Three notes, older Castilian, older pen, positioned exactly where Saens writes of the book. The hand is the [Great Wizard's](../REF-NPCs.md#the-great-wizard-of-salamanca) — do not say so; let the table conclude it. Show this as three torn slips, or read each as it is found.
 
 ---
 
@@ -116,7 +124,7 @@
 
 ## H6 — THE CULTIST'S CODED LIST (EIGHT NAMES)
 
-> **Keeper**: sewn into the lining of the captured priest's coat ([C7 captured-cultist scene](campaign.md#contenido)). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
+> **Keeper**: sewn into the lining of the captured priest's coat ([C7 — the captured cultist](../campaign.md#the-cursed-gaucho)). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
 
 ---
 
@@ -143,7 +151,7 @@
 
 ## H7 — MERCEDES' SECOND LETTER (C6 expansion)
 
-> **Keeper**: arrives by **express rider** at the pit camp, after the assembly ([C6 — the Necronomicón named in open air](campaign.md#the-necronomicón-named)). Short, written fast, the hand less careful than H1 — she paid for speed.
+> **Keeper**: arrives by **express rider** at the pit camp, after the assembly ([C6 — the Necronomicón named in open air](../campaign.md#the-necronomicón-named)). Short, written fast, the hand less careful than H1 — she paid for speed.
 
 ---
 
