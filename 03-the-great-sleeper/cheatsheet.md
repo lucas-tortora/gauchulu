@@ -1,5 +1,5 @@
 # ARC 3 — THE GREAT SLEEPER (ULTRA-CONDENSED GM SHEETS)
-*UPDATED 2026-06-10 — reconciled with chapter files + [THIS TABLE] state. Replaces previous version. Changes logged in [REVIEW-sessions-8-12](./REVIEW-sessions-8-12.md).*
+*UPDATED 2026-06-10 — reconciled with chapter files + [THIS TABLE] state. Replaces previous version. Changes logged in REVIEW-sessions-8-12.*
 
 > ⚠️ **[THIS TABLE — STANDING STATE]** Kuyen, Nahuel, the tribe, Concepción: **dead**. 2 Marked PCs. 2 Mandinga-deal PCs. Eastern asymmetry **never corrected** — discoverable, not redrawable, **anchorable** (human anchor or Warding on the eastern line). Rosa hostile. Chapel stone-fragment = 75% until San Ruiz second pass.
 
@@ -7,7 +7,7 @@
 
 ## CHAPTER 7 — LA VÍSPERA (1 PAGE)
 
-Full prep: [cap. 7](campaign.md#chapter-7--la-víspera)
+Full prep: [cap. 7](../chapter-07.md#chapter-7--la-víspera)
 
 **GOAL**: Recover the symbol at San Ruiz → last conversations → Cursed Gaucho + cultist + Mercedes arrive → entity speaks → eastern probe
 
@@ -69,7 +69,7 @@ Full prep: [cap. 7](campaign.md#chapter-7--la-víspera)
 
 ## CHAPTER 8 — LA TRAICIÓN (1 PAGE)
 
-Full prep: [cap. 8](campaign.md#chapter-8--la-traición)
+Full prep: [cap. 8](../chapter-08.md#chapter-8--la-traición)
 
 **GOAL**: Run phases 1–3 → Quirce's breach → the eastern incursion → Don Eusebio's "No." → hold to a sustained crisis
 
@@ -122,7 +122,7 @@ Full prep: [cap. 8](campaign.md#chapter-8--la-traición)
 
 ## CHAPTER 9 — EL CIERRE (1 PAGE)
 
-Full prep: [cap. 9](campaign.md#chapter-9--el-cierre)
+Full prep: [cap. 9](../chapter-09.md#chapter-9--el-cierre)
 
 **GOAL**: Phases 4–5 → the seal → the cost → Coypac news → ride east
 

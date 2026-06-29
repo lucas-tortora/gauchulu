@@ -1,6 +1,6 @@
 # HANDOUT — EL ANTICUARIO · LO QUE SABE DE SUS ESTUDIOS DE OCULTISMO
 
-*Companion to [`pc-antiquarian-entry.md`](pc-antiquarian-entry.md). Player-facing knowledge the Antiquarian carries into the campaign — Leipzig training, the antiquarian trade, years of fringe correspondence, and the trail that led south. Spanish, first person, written as entries copied out of their own notebook so the player can quote, read aloud, paraphrase, or sit on it as they like.*
+*The Antiquarian's player-facing knowledge the Antiquarian carries into the campaign — Leipzig training, the antiquarian trade, years of fringe correspondence, and the trail that led south. Spanish, first person, written as entries copied out of their own notebook so the player can quote, read aloud, paraphrase, or sit on it as they like.*
 
 ---
 
@@ -8,7 +8,7 @@
 >
 > - **Everything below the divider is the player handout.** Lead with the **TL;DR**, then hand over the detail sections as wanted. None of it is the *spine*: there is **no** mention of the *Necronomicón* by name, no vault, no Manzana de las Luces, no El Patrón. It is biography, theory, a personal wound (Leipzig), and a trail of rumor that points south. This holds the "knows fragments, not the spine" stance from the entry doc.
 > - **Section VI — *EL RUMOR DEL LIBRO*** is gated behind a **Hard Occult** roll. Hand it over **only on a success.** Even then the Antiquarian gets a *rumor*, not the truth: a book by "an old mad Arab," a surviving copy said to be somewhere in the southern Spanish dominions. **They do not know its name** (it is the *Necronomicón* / *Al-Azif* of Abdul Alhazred — never tell the player that), **do not know what it is**, and **have no idea it sits under the University of Buenos Aires.** Let the recognition land later at the table, via Mercedes or the page-47 marginalia.
-> - The hook-leaf (the vellum fragment of the dual diagram, [entry doc § *Hook item*](pc-antiquarian-entry.md)) is the *physical* proof that turned theory into obsession, and one of the very objects he came chasing. Sections I and II assume he owns it; cut those lines if the player declined the item.
+> - The hook-leaf (the vellum fragment of the dual diagram the Antiquarian bought years ago) is the *physical* proof that turned theory into obsession, and one of the very objects he came chasing. Sections I and II assume he owns it; cut those lines if the player declined the item.
 > - **Timeline:** he is already in-country (the Buenos Aires shop). The *ocean* crossing is his post-war emigration; the *pampas* ride to La Esperanza is the last lead. This is consistent with the dusk arrival in the entry doc.
 
 ---

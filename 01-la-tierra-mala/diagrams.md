@@ -152,7 +152,7 @@ A **closing-aspect** pet rite — Saens's draft, rolled in waxed cloth in a lime
 
 **Optional**: Tier 1 bone disturbance + restored bones + successful vigil = no penalty. Successful kneeler: one eastern CON check at pit closing is Regular instead of Hard (once).
 
-Full scene text: [C5 bone chamber — hidden rite](campaign.md#the-bone-vigil-de-vigilia-ossium--hidden-rite).
+Full scene text: [C5 bone chamber — hidden rite](../chapter-05.md#the-bone-vigil-de-vigilia-ossium--hidden-rite).
 
 ---
 

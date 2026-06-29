@@ -469,5 +469,5 @@ The prayer is an example of *folk practice as functional ritual*. Rosa is not ma
 - [`overview.md`](./overview.md) — high-level campaign vision, factions, themes.
 - [`REF-NPCs.md`](./REF-NPCs.md) — full NPC dossiers per character.
 - [`REF-FlowMap.md`](./REF-FlowMap.md) — earlier (legacy) detailed flowmap; superseded by this document but still useful for chapter-internal sequencing.
-- [`REF-CampaignReview.md`](./REF-CampaignReview.md) — earlier campaign review notes.
+- `REF-CampaignReview.md` — earlier campaign review notes.
 - Per-arc folders contain `README.md` (arc summary), the `chapter-XX-*.md` prep files, and `01-la-tierra-mala/cheatsheet.md` (Arc 1 condensed GM sheets).

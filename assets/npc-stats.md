@@ -360,7 +360,7 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 **Skills**: Listen 75%, Stealth 30%, Fighting (Brawl) 45%, Intimidate 50%.
 
-**Behaviour**: Never leaves its post. Fleeing always works — no pursuit into the tunnels or toward the door. Paid in tribute, it drags aside, lets them pass, and resumes. Guards the approach to the [Great Wizard's chamber](campaign.md#the-guardian--el-invunche); killing it tells the Wizard his guardian is gone.
+**Behaviour**: Never leaves its post. Fleeing always works — no pursuit into the tunnels or toward the door. Paid in tribute, it drags aside, lets them pass, and resumes. Guards the approach to the [Great Wizard's chamber](../chapter-05.md#the-guardian--el-invunche); killing it tells the Wizard his guardian is gone.
 
 ---
 

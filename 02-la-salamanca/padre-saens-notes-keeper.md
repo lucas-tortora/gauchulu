@@ -1,7 +1,7 @@
 # Padre Ignacio Saens — Keeper Reference
 
 > **DM only.** Player handout → [`padre-saens-manuscript-player.md`](./padre-saens-manuscript-player.md)  
-> Sources: [C4](campaign.md#the-locked-study) · [C5](campaign.md#deep-read-the-manuscript) · [REF-NPCs](../REF-NPCs.md#padre-ignacio-saens-sj) · [pit-closing-ref](../assets/pit-closing-ref.md)
+> Sources: [C4](../chapter-04.md#the-locked-study) · [C5](../chapter-05.md#deep-read-the-manuscript) · [REF-NPCs](../REF-NPCs.md#padre-ignacio-saens-sj) · [pit-closing-ref](../assets/pit-closing-ref.md)
 
 ---
 
@@ -68,7 +68,7 @@ Saens returned alone the year before he died. Stood in for opener + knowledge-ho
 - Partial binding held ~6 decades; Antu-Rayo lineage maintained counter-rites until thinned  
 - Don Eusebio's ritual widened wound already opening  
 - **Do not move skull** — Héctor: *"Sigue trabajando."*  
-- Disturbance tiers: see [C5 bone chamber](campaign.md#if-they-disturb-the-bones)
+- Disturbance tiers: see [C5 bone chamber](../chapter-05.md#if-they-disturb-the-bones)
 
 **Marta's correction** (spoken, not manuscript): door vs wound — *"No es una herida. Es una puerta. La herida es lo que le hicimos nosotros."*
 
@@ -116,5 +116,5 @@ Run **all three** (goat / eastern sheet / La Llorona pull) + departure beat. Eas
 
 - [Player manuscript](./padre-saens-manuscript-player.md)  
 - [Dual diagram](../assets/dual-diagram.svg) · [opening](../assets/dual-diagram-opening.svg) · [closing](../assets/dual-diagram-closing.svg) · [anchor](../assets/dual-diagram-anchor.svg)  
-- [C4 study](campaign.md#the-locked-study) · [C5 deep read](campaign.md#deep-read-the-manuscript) · [Scene 10](campaign.md#the-warning-without-kuyen)  
-- [Pit closing](../assets/pit-closing-ref.md) · [Reader path → C12](campaign.md)
+- [C4 study](../chapter-04.md#the-locked-study) · [C5 deep read](../chapter-05.md#deep-read-the-manuscript) · [Scene 10](../chapter-05.md#the-warning-without-kuyen)  
+- [Pit closing](../assets/pit-closing-ref.md) · [Reader path → C12](../chapter-12.md)

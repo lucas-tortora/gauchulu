@@ -1,5 +1,5 @@
 # ARC 2 — LA SALAMANCA (ULTRA-CONDENSED GM SHEETS)
-*UPDATED 2026-06-10 — C5 augmented and C6 reconciled with [cap. 6](campaign.md#chapter-6--el-visitante) + [THIS TABLE] state. Replaces previous version. Changes logged in [REVIEW-sessions-5-7](./REVIEW-sessions-5-7.md) (P1, P5, F1–F6, E1–E2).*
+*UPDATED 2026-06-10 — C5 augmented and C6 reconciled with [cap. 6](../chapter-06.md#chapter-6--el-visitante) + [THIS TABLE] state. Replaces previous version. Changes logged in REVIEW-sessions-5-7 (P1, P5, F1–F6, E1–E2).*
 
 ---
 
@@ -48,7 +48,7 @@
 
 ## CHAPTER 5 — EL MANUSCRITO (1 PAGE)
 
-Full prep: [cap. 5](campaign.md#chapter-5--el-manuscrito-y-los-que-volvieron) · [scene index](campaign.md#contenido) · handouts: [H1–H3](../assets/handouts-c5-c7.md)
+Full prep: [cap. 5](../chapter-05.md#chapter-5--el-manuscrito-y-los-que-volvieron) · [scene index](../campaign.md#contenido) · handouts: [H1–H3](../assets/handouts-c5-c7.md)
 
 **GOAL**: Translate the manuscript → ruins → bone chamber → plant the Reader-path seed (with failsafe) → return west
 
@@ -71,11 +71,11 @@ Full prep: [cap. 5](campaign.md#chapter-5--el-manuscrito-y-los-que-volvieron) ·
    * **⭐ READER FAILSAFE (F1)** — if p. 79 was NOT read aloud at the ruins: Marta — *"Él escribió para el que viniera después… Léanselo. Acá. Él está acá."* → p. 79 read aloud **over the skull** plants the seed identically ([handout H2](../assets/handouts-c5-c7.md#h2--manuscript-page-79-the-readers-page)). Declined twice = path closed honestly.
    * **Bones moved?** Tier 1–3 → cataloguing pass (survivable, 1–3 rnds); **log the tier** (C8 east friction); Marta repairs in 1 hour (*"Mi cuerpo lo sabe"*)
    * **Bone Vigil** (niche, south wall): `bone-vigil-rite.svg` — kneeler + walker, CON Hard, 1 honest question. *Antu kishu, lan amukey*
-8. **Whispering Tunnels** — offering tablet (Mercedes will want it) · flooded active diagram · sealed door (Wizard — optional; [stat sheet](campaign.md#the-chamber-of-the-great-wizard))
+8. **Whispering Tunnels** — offering tablet (Mercedes will want it) · flooded active diagram · sealed door (Wizard — optional; [stat sheet](../chapter-05.md#the-chamber-of-the-great-wizard))
 9. **Mercedes' Reply** ([handout H1](../assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9)) — Necronomicón named; *"honest about his observations, a liar about his intentions"*; Tomás's note ([H3](../assets/handouts-c5-c7.md#h3--tomáss-note-c5-scene-9)): *"Vuelvan. Quirce viene."* SAN 0/1
 10. **The Warning, Without Kuyen** — STEAMROLL A+B+C + departure: *return west; days not weeks; east fails first*
 
-**🐾 ROLL FOR HOUND (C5)** — full table in chapter ([keeper table](campaign.md#roll-for-hound--c5)): El Pelón ring · carved stone / p. 79 aloud · shaft opens · bone chamber (entry, disturbance, copper, skull) · **p. 79 aloud in the chamber (F1)** · tunnels · Wizard chamber (separate table) · goat's pupils on the eastern arc
+**🐾 ROLL FOR HOUND (C5)** — full table in chapter ([keeper table](../chapter-05.md#roll-for-hound--c5)): El Pelón ring · carved stone / p. 79 aloud · shaft opens · bone chamber (entry, disturbance, copper, skull) · **p. 79 aloud in the chamber (F1)** · tunnels · Wizard chamber (separate table) · goat's pupils on the eastern arc
 
 **⚔️ ENCOUNTERS** — cataloguing pass (conditional, bone disturbance) · Great Wizard (optional, if the seal is forced) · **E1 ASCENT READING (guarantee — run ONLY if neither above fired)**: as the last PC clears the shaft at dusk, the Hound catalogues the party on the surface, 1D3 rounds, peripheral, at the wall-shadow angle. Reads each PC in turn; doesn't attack unless attacked; fire / breaking line-of-sight ends it. SAN 1/1D4. *Marked read: it is noting what leaves.* No 2d6 — scheduled. Carry-forward: in C8 it goes east **first** — it knows they know.
 
@@ -91,7 +91,7 @@ Full prep: [cap. 5](campaign.md#chapter-5--el-manuscrito-y-los-que-volvieron) ·
 
 ## CHAPTER 6 — EL VISITANTE (1 PAGE)
 
-Full prep: [cap. 6](campaign.md#chapter-6--el-visitante) · handouts: [H4–H5, H7](../assets/handouts-c5-c7.md) · *Corrections vs the old sheet (P5): Quirce is **48**; **two** brass markers in the study; the asymmetry is **eastern** (never "northern"); mediumship SAN **0/1D6**; Eusebio's commitment is **negotiated**, not invoked.*
+Full prep: [cap. 6](../chapter-06.md#chapter-6--el-visitante) · handouts: [H4–H5, H7](../assets/handouts-c5-c7.md) · *Corrections vs the old sheet (P5): Quirce is **48**; **two** brass markers in the study; the asymmetry is **eastern** (never "northern"); mediumship SAN **0/1D6**; Eusebio's commitment is **negotiated**, not invoked.*
 
 **GOAL**: Unmask Quirce (without losing him) → force Don Eusebio's commitment → name El Patrón → assemble at the pit
 

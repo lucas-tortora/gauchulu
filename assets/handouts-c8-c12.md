@@ -9,7 +9,7 @@
 
 ## H8 — SAÚL CARRASCO'S SPOKEN REPORT (C8, between Phases 1-2)
 
-↩ **Scene in campaign:** [C8 — Saúl Carrasco's Return](../campaign.md#saúl-carrascos-return)
+↩ **Scene in campaign:** [C8 — Saúl Carrasco's Return](../chapter-08.md#saúl-carrascos-return)
 
 > **Keeper**: delivered before he dismounts, at the limit of horse and rider. Mechanical payoff: Phase 3 contest one step easier. Read aloud; this card lets the table keep the facts in hand during the ritual.
 
@@ -27,7 +27,7 @@
 
 ## H9 — THE COYPAC VISION CARD (C8, Marked PCs)
 
-↩ **Scene in campaign:** [C8 — The Coypac Echo](../campaign.md#the-coypac-echo)
+↩ **Scene in campaign:** [C8 — The Coypac Echo](../chapter-08.md#the-coypac-echo)
 
 > **Keeper**: hand privately to a Marked PC who makes the Regular POW roll mid-Phase 2 — or to the table after Mercedes' bonfire confirmation if no one did. SAN 1/1D4.
 
@@ -41,7 +41,7 @@
 
 ## H10 — THE COYPAC RELAY REPORT (C9, dawn)
 
-↩ **Scene in campaign:** [C9 — The Coypac Relay](../campaign.md#the-coypac-relay)
+↩ **Scene in campaign:** [C9 — The Coypac Relay](../chapter-09.md#the-coypac-relay)
 
 > **Keeper**: carried by an **anonymous relay rider** — NOT Saúl (Saúl is dead; the news of his body at the *paraje* arrives in the following days). Single page, fast official hand. Mercedes reads it, closes her eyes, does not weep.
 
@@ -57,7 +57,7 @@
 
 ## H11 — SARÁCHAGA'S LAST ENTRY (C10, dawn)
 
-↩ **Scene in campaign:** [C10 — Dawn, A Keeper Is Dead](../campaign.md#dawn--a-keeper-is-dead)
+↩ **Scene in campaign:** [C10 — Dawn, A Keeper Is Dead](../chapter-10.md#dawn--a-keeper-is-dead)
 
 > **Keeper**: his notebook, closed, on the long pine table, exactly where he left it. The entry is in his private shorthand — show the coded face first; **Ana Bermúdez** translates (the only other shorthand reader in the city is Quirce). He died converted. He died agreeing. He died alone.
 
@@ -77,9 +77,9 @@
 
 ## H12 — THE ARECO DEED ("E. DADÁLAH")
 
-↩ **Scene in campaign:** [C11 — Tracing Saráchaga's Last Hours](../campaign.md#tracing-saráchagas-last-hours)
+↩ **Scene in campaign:** [C11 — Tracing Saráchaga's Last Hours](../chapter-11.md#tracing-saráchagas-last-hours)
 
-> **Keeper**: in Lacasa's strongbox (C11 — found by the players during/after the [House Cleaners scene](../campaign.md#tracing-saráchagas-last-hours), or delivered by Galíndez per failsafe F14). SAN 0/1 — a legal landowner for a decade.
+> **Keeper**: in Lacasa's strongbox (C11 — found by the players during/after the [House Cleaners scene](../chapter-11.md#tracing-saráchagas-last-hours), or delivered by Galíndez per failsafe F14). SAN 0/1 — a legal landowner for a decade.
 
 ---
 
@@ -93,7 +93,7 @@
 
 ## H13 — LACASA'S UNSENT DRAFT (C11, if the satchel is taken)
 
-↩ **Scene in campaign:** [C11 — Tracing Saráchaga's Last Hours](../campaign.md#tracing-saráchagas-last-hours)
+↩ **Scene in campaign:** [C11 — Tracing Saráchaga's Last Hours](../chapter-11.md#tracing-saráchagas-last-hours)
 
 > **Keeper**: only enters play if the players take the satchel from the House Cleaners. A draft reply to Quirce, unsigned, never sent — the only document in which Lacasa names the man he answers to.
 
@@ -109,13 +109,13 @@
 
 *The matter of the old man is done. Do not write to this house again."*
 
-> **Keeper**: *"como respondió mi tío antes que yo"* — Tiburcio Lacasa, named by his nephew's own hand. This corroborates Mercedes' cloister confession and the 1810-lock canonization ([the 1810-lock canonization](../campaign.md#the-vault-finally)) without her having to argue it. *"Lo del viejo está hecho"* — Saráchaga, in seven words.
+> **Keeper**: *"como respondió mi tío antes que yo"* — Tiburcio Lacasa, named by his nephew's own hand. This corroborates Mercedes' cloister confession and the 1810-lock canonization ([the 1810-lock canonization](../chapter-11.md#the-vault-finally)) without her having to argue it. *"Lo del viejo está hecho"* — Saráchaga, in seven words.
 
 ---
 
 ## H14 — QUIRCE'S LETTER TO MERCEDES (C12, morning)
 
-↩ **Scene in campaign:** [C12 — The Day Before the Night](../campaign.md#the-day-before-the-night)
+↩ **Scene in campaign:** [C12 — The Day Before the Night](../chapter-12.md#the-day-before-the-night)
 
 > **Keeper**: runner, 6 PM, day of the transport. Mercedes hands it straight to the players: *"Léanlo. Decidan ustedes qué hacemos con él."* Including him buys a spotter at Weak Point 3 (he calls El Patrón's approach one round early); refusing costs nothing.
 
@@ -133,7 +133,7 @@
 
 ## H15 — THE READER'S CARD (C12, Use ending — PRINT BEFORE THE SESSION)
 
-↩ **Scene in campaign:** [C12 — Option 2: Used](../campaign.md#option-2--used)
+↩ **Scene in campaign:** [C12 — Option 2: Used](../chapter-12.md#option-2--used)
 
 > **Keeper**: a separate physical slip, one sentence, handed to the Reader-PC's player at the dock. Tell them, exactly: *"This is what your character reads. You read it aloud at the table. When you finish, El Patrón is bound."* Reading it aloud at the table IS the binding. Holding it and putting it down is choosing Hide or Destroyed. Only place in the campaign where the player's physical act is the character's act. **Gate**: C5 seed + C8 recognition + C11 cloister all logged.
 
@@ -149,9 +149,9 @@
 
 ## H16 — THE COUNTER'S TALLY PAPER (C10 encounter)
 
-↩ **Scene in campaign:** [C10 — The Streets at Night](../campaign.md#the-streets-at-night)
+↩ **Scene in campaign:** [C10 — The Streets at Night](../chapter-10.md#the-streets-at-night)
 
-> **Keeper**: found on the watcher if caught ([the C10 counter encounter](../campaign.md#the-streets-at-night)). A folded scrap, cheap paper, charcoal pencil. He was paid to leave it in a crack in the Cabildo's wall at dawn. He does not know what "marked" means.
+> **Keeper**: found on the watcher if caught ([the C10 counter encounter](../chapter-10.md#the-streets-at-night)). A folded scrap, cheap paper, charcoal pencil. He was paid to leave it in a crack in the Cabildo's wall at dawn. He does not know what "marked" means.
 
 ---
 

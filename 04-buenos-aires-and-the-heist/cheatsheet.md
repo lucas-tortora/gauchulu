@@ -1,5 +1,5 @@
 # ARC 4 — BUENOS AIRES & THE HEIST (ULTRA-CONDENSED GM SHEETS)
-*UPDATED 2026-06-10 — reconciled with chapter files + [THIS TABLE] state. Replaces previous version. Changes logged in [REVIEW-sessions-8-12](../03-the-great-sleeper/REVIEW-sessions-8-12.md).*
+*UPDATED 2026-06-10 — reconciled with chapter files + [THIS TABLE] state. Replaces previous version. Changes logged in REVIEW-sessions-8-12.*
 
 > ⚠️ **[THIS TABLE — STANDING STATE]** No tribal allies survive to the city — only Héctor/Marta if they lived through C9. 2 Marked PCs (Destroyed cost-table = Anchor/Pillar — see C12). Mandinga debt **paid** at the C9 seal; the spells remain, free. The dust is still on everyone. **Reader-path status: check the log** (C5 seed → C8 recognition → C11 cloister) — all three or Use is off the table. **Do not retrofit.**
 
@@ -7,7 +7,7 @@
 
 ## CHAPTER 10 — LA LLEGADA (1 PAGE)
 
-Full prep: [cap. 10](campaign.md#chapter-10--la-llegada)
+Full prep: [cap. 10](../chapter-10.md#chapter-10--la-llegada)
 
 **GOAL**: Enter the city → Keepers as people → witness-stone warm → a Keeper dead by dawn
 
@@ -54,7 +54,7 @@ Full prep: [cap. 10](campaign.md#chapter-10--la-llegada)
 
 ## CHAPTER 11 — LA DECISIÓN (1 PAGE)
 
-Full prep: [cap. 11](campaign.md#chapter-11--la-decisión)
+Full prep: [cap. 11](../chapter-11.md#chapter-11--la-decisión)
 
 **GOAL**: The vault → the killer's trail → Ana → the tannery terms → Mercedes' confession → El Patrón in the parlor
 
@@ -104,7 +104,7 @@ Full prep: [cap. 11](campaign.md#chapter-11--la-decisión)
 
 ## CHAPTER 12 — EL LIBRO (1–2 PAGES)
 
-Full prep: [cap. 12](campaign.md#chapter-12--el-libro) · GM map: [`assets/city-grid.svg`](../assets/city-grid.svg)
+Full prep: [cap. 12](../chapter-12.md#chapter-12--el-libro) · GM map: [`assets/city-grid.svg`](../assets/city-grid.svg)
 
 **STRUCTURE: 4 ACTS** — Transport 90′ · Reveal 90′ · Choice 90′ · Aftermath 60′. Do not collapse them.
 
