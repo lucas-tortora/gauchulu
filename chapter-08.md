@@ -31,8 +31,6 @@ The ritual is scheduled for **dusk** — the hour the partial bindings used, whe
 
 > ⚠️ **[THIS TABLE] — eastern asymmetry.** If not destroyed/quarantined in C6 and not mitigated in C7, it activates by Phase 2. The entity knows the gap and uses it ([the Eastern Incursion](#the-eastern-incursion)). A **Mandinga Warding** at the eastern position partially seals it; a human anchor on the eastern line holds it physically (the C3 pure-decision mechanic). Neither fully substitutes for a correct panel.
 
-> † _Canon note: at the published table the curandera draws the final panel at dawn and the focus-boy re-marks his palms; both are dead here. The mechanics — a still center, a mobile director maintaining the symbol — are redistributed exactly as the table above shows._
-
 > ⊕ **Added PC — the Antiquarian (occultist).** A Leipzig-trained scholar who treats the geometry as the edge of the knowable — no verdict on whether it is good or evil, only the conviction that it must be _understood_. Loosely tied to the same European occult lineage as Quirce's network, never initiated. They have traveled with the party since [La Salamanca](chapter-05.md#the-whispering-tunnels) (C5); at the closing they take a position — see [The Antiquarian at the Ring](#the-antiquarian-at-the-ring-added-pc). Their best fit is **co-reader + eastern line**: a second literate hand on the procedure, and a willing body on the thin side who can attempt to _read_ the asymmetry. _(These are **sequential, not simultaneous**: they co-read during setup and Phase 1 to steady tempo, then **commit to the east** once it activates at Phase 2. The eastern position demands a still body, not an active voice — once bracing they cannot also read the procedure aloud, and reading the wedge forfeits that round's hold.)_ **Mechanically this directly mitigates the difficulty recalibration** — a human anchor holding the east is condition (2) of the [Phase-contest count](#scene-2--the-entity-responds), so each phase's contest runs **one step easier on the east** while they hold. Note their live wire: a seeker is _not_ invested in whether the pit closes — when the line breaks, whether they hold it or let it ride to see what happens is a player choice. Quirce (if present) sees a kindred observer, not a rival: _"No viene a detenerlo ni a empezarlo — viene a ver adentro. Como yo. Pero no le va a importar si se rompe."_
 
 ### Roll for Hound — C8
@@ -56,7 +54,7 @@ Between noon and late afternoon, Don Eusebio disappears — not permanently, not
 
 **If not intercepted**, he returns on his own after an hour — quieter, more resolved, in a way that could read either direction. **If intercepted**, he does not lie:
 
-> _"I was thinking about leaving. Getting on a horse and riding north. Not being here for whatever happens tonight."_ _(Pause.)_ _"I didn't leave. I'm still here. But I wanted you to know I thought about it. So whatever I do tonight, you know I had the choice and I didn't take it. I want it to mean something."_
+> _"Estuve pensando en irme. Montar un caballo y andar hacia el norte. No estar acá para lo que pase esta noche."_ _(Pausa.)_ _"No me fui. Todavía estoy acá. Pero quería que lo supieran. Para que cualquier cosa que haga esta noche, sepan que tuve la opción y no la tomé. Necesito que signifique algo."_
 
 An act of courage — not heroism, but the deliberate choice to be present in a moment he is terrified of, and the need for a witness to it.
 
@@ -188,7 +186,7 @@ He stops. He cannot remember the third line. Ten seconds, hat in hand, eyes clos
 
 **Read aloud — the opening**:
 
-> _The sun touches the horizon. Mercedes' voice begins — reading the angular chant from Saens's manuscript, the same shape the creek bed used weeks ago. As Marta passes each panel it brightens. The entity in the pit responds at once: the vibration in the chest deepens; the carved walls pulse with a light that is not warm. The center anchor closes their eyes, opens them, and is somewhere else — present, but turned inward, into the center of the shape, breathing slowed to something near absence. The geometry above the pit begins to close. You feel it — not with the body's normal senses, but with something underneath them, something that knows angles even when it can't see them._
+> _El sol toca el horizonte. La voz de Mercedes empieza — leyendo el canto angular del manuscrito de Saens, la misma forma que usó el lecho del arroyo hace semanas. Mientras Marta pasa cada panel, brilla. La entidad en el pozo responde de inmediato: la vibración en el pecho se profundiza; las paredes talladas pulsan con una luz que no es cálida. El ancla del centro cierra los ojos, los abre, y está en otro lugar — presente, pero girada hacia adentro, hacia el centro de la forma, la respiración desacelerada hasta algo cercano a la ausencia. La geometría sobre el pozo empieza a cerrarse. Lo sienten — no con los sentidos normales del cuerpo, sino con algo debajo de ellos, algo que conoce los ángulos incluso cuando no puede verlos._
 
 **SAN Check**: 0/1D4 — the ritual beginning, the geometry responding.
 
@@ -202,7 +200,7 @@ He stops. He cannot remember the third line. Ten seconds, hat in hand, eyes clos
 
 **The charge — and the geometry answers.** Warriors gallop in for the saddlebags. The instant one crosses into the ring's effective range, the **fully-present entity reads him** — and these are hostile intruders, not a stray Quirce: the cataloguing turns *outward*.
 
-> _Read aloud:_ _The first rider crosses the line of the panels at a dead gallop — and the night bends around him. His shadow throws three ways at once. The horse comes out the far side; the man does not. There is no sound. The second rider sees it, and still comes, because the man behind him has a lance at his back._
+> _El primer jinete cruza la línea de los paneles al galope — y la noche se dobla alrededor de él. Su sombra cae en tres direcciones a la vez. El caballo sale del otro lado; el hombre no. No hay sonido. El segundo jinete lo ve, y sigue igual, porque el hombre detrás de él tiene una lanza en la espalda._
 
 > **Run the cull with the geometry, not the players' dice.** Breaching warriors are **picked off by the entity** (1–2 per round, no PC action). The players' job is unchanged: **hold.** The correct play is the one the ritual already demands.
 
@@ -266,7 +264,7 @@ _(mid-Phase 2)_
 
 A Marked investigator perceives, on a **Regular POW** roll (Marked PCs are now in their primary medium) — hand the [H9 vision card](assets/handouts-c8-c12.md#h9--the-coypac-vision-card-c8-marked-pcs):
 
-> _Two pits, at once, in the same vision — the pit you are at, and the pit at Coypac, joined by a line only the Marked can see, running through the cordillera. At Coypac, twelve figures around a dry pit, chanting in time with the entity's vibration. At the water pit, one figure standing waist-deep, holding something brick-sized wrapped in oilcloth. You do not need a Mythos roll to know what it is. It is a book._
+> _Dos pozos, a la vez, en la misma visión — el pozo donde están, y el pozo en Coypac, unidos por una línea que solo los Marcados pueden ver, corriendo por la cordillera. En Coypac, doce figuras alrededor de un pozo seco, cantando en sincronía con la vibración de la entidad. En el pozo de agua, una figura parada hasta la cintura, sosteniendo algo del tamaño de un ladrillo envuelto en encerado. No hace falta una tirada de Mitos para saber qué es. Es un libro._
 
 The cult has a **piece of the Necronomicón** at Coypac — a hand-copied section, likely bound from pages the Great Wizard copied over decades.
 
@@ -349,9 +347,9 @@ _(scheduled — Phase 2)_
 
 The entity confirmed this door in [C7's Eastern Probe](chapter-07.md#the-eastern-probe). Run at Phase 2, or the moment the Quirce gap opens — whichever is first.
 
-> _The eastern arc of the laid panels goes thin — the held-note thinness — and then **tears**, two handspans wide, at the line Marta drew from the contaminated recopy. For **1D3 rounds** the entity is _through_ at the east: not a body, a **wedge of wrong direction** widening along the panel seam. Whoever holds the eastern position is the engagement: **CON Hard** per round to hold (Normal if a second person braces them, hand on shoulder); a Mandinga Warding holds **automatically** round 1, Normal after. Each failed round: 1D4 SAN to the easterner and 3 minutes off the phase clock. After 1D3 rounds the wedge withdraws — the entity is _testing_, exactly as it rehearsed; it saves the real exploitation for Phase 5._
+> _El arco este de los paneles tendidos se adelgaza — el adelgazamiento de nota sostenida — y después **se rasga**, dos palmos de ancho, en la línea que Marta dibujó de la recopia contaminada. Durante **1D3 rondas** la entidad está _pasando_ por el este: no un cuerpo, una **cuña de dirección equivocada** que se ensancha a lo largo de la costura del panel. Quien sostiene la posición del este es el enfrentamiento: **CON Difícil** por ronda para aguantar (Normal si una segunda persona lo apoya, mano en el hombro); una Protección Mandinga aguanta **automáticamente** la ronda 1, Normal después. Cada ronda fallada: 1D4 COR al hombre del este y 3 minutos del reloj de la fase. Después de 1D3 rondas la cuña se retira — la entidad está _probando_, exactamente como ensayó; guarda la explotación real para la Fase 5._
 
-**SAN**: 0/1D3 ring-wide; CON costs above for the easterner. **No 2d6 — scheduled.** **Marked PC private read**: _It is not breaking in. It is confirming the door it was promised._
+**SAN**: 0/1D3 ring-wide; CON costs above for the easterner. **No 2d6 — scheduled.** **Marked PC private read**: _No está entrando. Está confirmando la puerta que le prometieron._
 
 > **Log rounds-held** → Phase 5's final contest is one step easier if the east held all rounds, one step harder if it broke twice or more.
 
@@ -362,6 +360,8 @@ The entity confirmed this door in [C7's Eastern Probe](chapter-07.md#the-eastern
 ## SCENE 3 — THE QUIRCE CRISIS
 
 As Phase 2 deploys, Quirce moves. He has kept his theodolite on the eastern rise, outside range, as agreed — but he now **crosses inside the outer ring** with a brass instrument and crouches at a position inside the geometry's effective range. He is not trying to disrupt the ritual; he is trying to **observe from inside**, having calculated that his body and instrument won't affect success. He is wrong. A person inside the ring who is not anchor, opener, or aligned Wrong Returned creates a **structural inconsistency** — an unguarded node the entity immediately exploits, mechanically equivalent to a gap in the ring.
+
+> _Quirce no corre. Camina — tranquilo, profesional, un instrumento de bronce en la mano — y cruza la línea de los paneles como quien entra a un cuarto a tomar una medición que lleva años esperando tomar. Por un segundo nadie reacciona; está tan seguro de lo que hace que parece que tuviera permiso. Se agacha adentro del anillo, apoya una rodilla en el pasto que brilla, y acerca el ojo al instrumento. Y entonces el aire alrededor de él cambia — un grado más frío, el pozo de golpe más fuerte, como si el lugar acabara de notar que hay alguien parado donde no debería haber nadie._
 
 **Noticing**: a **Spot Hidden** as he crosses — _"He is inside the geometry."_ Once seen, the boundary is obvious (the grass differs inside the ring, the air is a degree colder, the pit louder).
 
@@ -454,9 +454,9 @@ His priority is now established for Arc 4: **if El Patrón is in reach, the Curs
 
 The chapter's most important scene. The entity has been aware of Don Eusebio since he first drew the geometry — to it, he is the most significant node, the one whose spatial-recognition pattern is embedded in the scar. When it locates him, it stops contesting the geometry broadly and presses **his** position specifically.
 
-> _Something is looking at him. Not from the pit — from everywhere at once, from the corners, from the angles the fires make with the flat earth. The same attention he felt in the study in the first months, when the land was producing and there was a sound beneath the ground he told himself was cattle. That attention, clarified. Stripped of the comfort of denial._
-> 
-> _And in that attention, an offer. Not in words. In certainty. The land will produce again. The cattle will be fat. The drought will end. All of it, available, if he simply steps out of the ring — back to the version of things where he is the patrón and the land obeys._
+> _Algo lo está mirando. No desde el pozo — desde todos lados a la vez, desde las esquinas, desde los ángulos que los fuegos hacen con la tierra plana. La misma atención que sintió en el estudio en los primeros meses, cuando la tierra producía y había un sonido bajo la tierra que se decía que era el ganado. Esa atención, clarificada. Despojada de la comodidad de la negación._
+>
+> _Y en esa atención, una oferta. Sin palabras. En certeza. La tierra va a producir de nuevo. El ganado va a estar gordo. La sequía va a terminar. Todo eso, disponible, si simplemente sale del anillo — de vuelta a la versión de las cosas donde él es el patrón y la tierra obedece._
 
 This is the first half of his final test — the **wordless offer**, which he withstands in silence (he says nothing here). He answers it _aloud_ in [C9, Phase Four](chapter-09.md#phase-four--the-deep-close), with the single word **"No."** Play the two as one arc — temptation here, the spoken refusal there — not as a repeated beat. Whether he steps out or stays depends on six chapters of history — specifically whether the investigators treated him as a human being capable of choice or a tool to be managed.
 
@@ -490,9 +490,9 @@ The chapter ends not at resolution but at sustained crisis. The ritual runs but 
 
 > **Observable, fold in as the night runs**: at each phase start the inner-ring candles lean ~20° toward the next phase's pressure (watchers can read which side is tested next). When Don Eusebio takes position, his shadow is briefly _two_ — one offset and larger, gone in five seconds (the entity checking whether he'll hold). Behind Quirce, the dust does not settle — it hangs in a footprint shape for ten seconds (the geometry keeping a record). During El Patrón's manifestation, every locust within fifty meters _stops_ mid-air for five seconds. At the Phase 5 climax, anyone with a bullet still in them (the Cursed Gaucho) feels it go _cool_ — the geometry knows where iron is.
 
-> _The pit below is fully lit by its own geometry — a map of itself glowing from the carved walls, the soil arcs, the leather sections. The entity's counter-movement has slowed. Not stopped — slowed. Something in the outer ring's integrity is holding it back. Mercedes looks around the ring. She counts. She nods, one small precise motion._
-> 
-> _"Two more phases. Don't move."_
+> _El pozo debajo está completamente iluminado por su propia geometría — un mapa de sí mismo brillando desde las paredes talladas, los arcos del suelo, las secciones de cuero. El contra-movimiento de la entidad se ha ralentizado. No detenido — ralentizado. Algo en la integridad del anillo exterior lo está conteniendo. Mercedes mira alrededor del anillo. Cuenta. Asiente, un pequeño movimiento preciso._
+>
+> _"Dos fases más. No se muevan."_
 
 ---
 

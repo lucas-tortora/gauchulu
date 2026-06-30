@@ -83,13 +83,13 @@ Each phase is a **sustained action**, not a single roll — positions held, the 
 <text x="140" y="155" text-anchor="middle" font-size="6.5" font-family="Georgia,serif" fill="#1a1a1a" opacity="0.35" font-style="italic">Light goes amber. Sound drops below hearing. All hold.</text>
 </svg>
 
-> _Marta lays the fourth segment — the inner ring, which compresses the geometry toward the pit's center. As it goes down, the pit's light shifts from pale yellow-white toward **amber**: the entity's light and the binding's light mixing. The sound deepens — not louder, lower than hearing now. You feel it in the bones of the feet._
+> _Marta tiende el cuarto segmento — el anillo interior, que comprime la geometría hacia el centro del pozo. Cuando cae, la luz del pozo pasa de un amarillo-blanco pálido al **ámbar**: la luz de la entidad y la del ritual mezclándose. El sonido se profundiza — no más fuerte, más bajo que el oído ahora. Se siente en los huesos de los pies._
 
 The entity tests each outer-ring position **in sequence**, as if running down a list — ~30 seconds each. The investigator at the tested position holds (automatic if strong; **CON Normal** if the position was compromised in C8).
 
 **Don Eusebio's position** (center or south — the entity follows the opener): it presses him differently — **CON Hard**, or **POW** if he is solo; **Normal** if someone braces him, hand on shoulder.
 
-> _The entity finds the recognition it's tracked all night. Don Eusebio. The opener. The geometry knows him the way a scar knows the hand that made it. He shudders once — full-body, as if struck — and grips the marker with both hands. His lips move without sound. Then he stops shuddering and becomes absolutely still. He says: "No." One word. Not dramatic. Final._
+> _La entidad encuentra el reconocimiento que rastreó toda la noche. Don Eusebio. El que abrió. La geometría lo conoce de la manera en que una cicatriz conoce la mano que la hizo. Tiembla una vez — todo el cuerpo, como si lo golpearan — y agarra el marcador con ambas manos. Sus labios se mueven sin sonido. Después deja de temblar y se queda absolutamente quieto. Dice: "No." Una palabra. Sin drama. Final._
 
 > **Keeper note**: this is his actual redemptive moment — the spoken answer to the wordless offer he withstood in [C8, Scene 4](chapter-08.md#scene-4--don-eusebio-in-the-ring) — not a grand gesture, just _"No"_ spoken with complete authority to something that has been his landlord for eight months. Whether it's the bravest thing he's ever done is between him and the investigators who witnessed it.
 
@@ -173,17 +173,15 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 
 > ⚠️ **[THIS TABLE] — the anchor survives by default.** The center anchor (Don Eusebio or a PC volunteer) **survives the seal** — paying in recovery time, nightmares, and the corners going quiet. If a **PC** anchored: SAN 1/1D6 + CON check at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
 
-> † _Canon note: at the published table the curandera cradles the focus-boy's face and asks if he can hold the last phase; both are dead here. The mechanic — an honest check before the maximum-pressure phase, and a co-anchor option that distributes the cost — is preserved through Mercedes and the volunteer rules above._
-
 ### Phase Five — the working
 
-> _The complete binding geometry is now present: outer ring, inner ring, the center the anchor holds, extending from the panels down into the pit along the carved walls. The entity stops testing. All the pressure distributed across the ring collapses **inward** — to the center, to the seal. It is no longer trying to escape; it is trying to prevent the closing, pressing the center from every direction at once, the geometry bending like a panel in a gale._
-> 
-> _The chant has not stopped since Phase One. Now, with the geometry complete and the entity pressing inward, **every NPC in the ring joins the line.** Don Eusebio, who has never spoken Mapudungun, finds the syllables in his mouth: **"Antu kishu, lan amukey."** Mercedes, who learned the language from books and never said it aloud, says it. The Wrong Returned say it. Quirce, if still in range, says it — without consenting, without understanding. They have not learned it. The geometry is teaching them, this once, because it needs them to._
+> _La geometría de unión completa está ahora presente: anillo exterior, anillo interior, el centro que el ancla sostiene, extendiéndose desde los paneles hacia abajo por las paredes talladas del pozo. La entidad deja de probar. Toda la presión distribuida por el anillo colapsa **hacia adentro** — hacia el centro, hacia el sello. Ya no está tratando de escapar; está tratando de impedir el cierre, presionando el centro desde todas las direcciones a la vez, la geometría doblándose como un panel en un vendaval._
+>
+> _El canto no se ha detenido desde la Fase Uno. Ahora, con la geometría completa y la entidad presionando hacia adentro, **cada PNJ en el anillo se une a la línea.** Don Eusebio, que nunca habló mapudungun, encuentra las sílabas en la boca: **"Antu kishu, lan amukey."** Mercedes, que aprendió el idioma de los libros y nunca lo dijo en voz alta, lo dice. Los Que Volvieron lo dicen. Quirce, si sigue en rango, lo dice — sin consentir, sin entender. No lo aprendieron. La geometría se los está enseñando, esta vez, porque los necesita._
 
 > **The chant — run it slowly.** _Antu kishu, lan amukey_ is **the geometry's own line**, taught to everyone in the ring at this moment — including the players, who may say it aloud at the table (no roll; the fiction recognizes the speaking as participation). Marked PCs who say it tonight will dream the chant for the rest of the campaign.
 > 
-> † _Canon note: the curandera also carried a **mobile working chant** (Newen mapu kelluiñ) that she sustained across the phases — the base tone under the primary reading. **By default it died with her**: nobody at this table knows it, and the felt **silence** where that voice should be is correct, not a gap to fill. One chant lost with the dead; one chant the land supplies. **Exception — the Antiquarian:** if that PC rolled **Extreme Occult** at creation ([C8 prior knowledge](chapter-08.md#prior-knowledge--occult-roll-at-character-creation)) and chooses to sustain Newen mapu kelluiñ from Phase 1, the base tone **is** supplied and the closing runs at full efficacy — but imperfectly, a European scholar reading the dead woman's words from a page. The silence is filled, not healed. Whether that is enough is the player's to weigh, not yours to resolve._
+> **The second voice — the chant that is missing.** There was a second chant — a **mobile working tone**, _Newen mapu kelluiñ_, held low and unbroken beneath the primary reading. The curandera carried it; **it died with her.** Nobody in this ring knows it, and the felt **silence** where that voice should be is correct — let the table feel the hole, do not fill it. One chant the land teaches tonight (_Antu kishu, lan amukey_); one chant lost with the dead. **Exception — the Antiquarian:** if that PC rolled **Extreme Occult** at creation ([C8 prior knowledge](chapter-08.md#prior-knowledge--occult-roll-at-character-creation)) and chooses to sustain _Newen mapu kelluiñ_ from Phase 1, the base tone **is** supplied and the closing runs at full efficacy — but imperfectly, a European scholar reading the dead woman's words off a page. The silence is filled, not healed. Whether that is enough is the player's to weigh, not yours to resolve.
 
 **The 3-round climax**:
 
@@ -191,13 +189,13 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 
 **Round 2 — the offer to the center.** The entity repeats what it did to Don Eusebio, now directed at the anchor:
 
-> _Not an offer — a revelation. It shows them, from the inside, what the closing will do **to them**: the geometric connection they've carried will close with the scar. They will be ordinary again, or something close to it, or something they cannot currently imagine. It is offering a choice between two kinds of loss — keep the connection (which has been destroying them) or complete the closing and lose it (which may feel like losing themselves)._
+> _No es una oferta — es una revelación. Les muestra, desde adentro, lo que el cierre les hará **a ellos**: la conexión geométrica que han cargado se cerrará con la cicatriz. Van a ser ordinarios de nuevo, o algo cercano a eso, o algo que actualmente no pueden imaginar. Está ofreciendo una elección entre dos tipos de pérdida — conservar la conexión (que los ha estado destruyendo) o completar el cierre y perderla (lo que puede sentirse como perderse a uno mismo)._
 
 One round to decide. If a co-anchor is holding their hands, that person feels the offer being made and can answer it without words — a human hand in the center of the choice is itself a vote for the closing. **End of Round 2**: the decision is made. They hold. The geometry tightens.
 
 **Round 3 — the seal.**
 
-> _The final contraction. Outer ring holds, inner ring holds, center holds. The entity's counter-movement stops — not from retreat, but because there is no longer room. Marta draws the last line, connecting the final gap. The connection completes._
+> _La contracción final. El anillo exterior aguanta, el anillo interior aguanta, el centro aguanta. El contra-movimiento de la entidad se detiene — no por retirada, sino porque ya no hay espacio. Marta dibuja la última línea, conectando el último hueco. La conexión se completa._
 
 The pit seals bottom-up: the carved wall-lines compress and go dark in sequence; the soil arcs fade; the panels glow amber-bright three seconds, then dark. **The sound stops** — not fades, stops. The vibration ends. The silence is not empty; it is the silence of a space that was occupied and is now not. The pit is a meter deep again; the extra two meters of carved wall are _gone_, as if they never extended.
 
@@ -215,29 +213,31 @@ The pit sealed. The dust is the reminder that something else is still open — a
 
 ## THE COST
 
-**The center anchor** (Don Eusebio or PC): alive. They look at their hands. _"I can feel where the corners are, but I can't hear them anymore… like the difference between knowing where a room is and being in it."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **co-anchored or Marta-assisted**, substantially better — exhausted, not broken.
+**The center anchor** (Don Eusebio or PC): alive. They look at their hands. _"Puedo sentir dónde están los ángulos, pero ya no los escucho… como la diferencia entre saber dónde está un cuarto y estar dentro."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **co-anchored or Marta-assisted**, substantially better — exhausted, not broken.
 
-**Héctor and Marta**: the Wrong Returned feel the closing first. As the seal completes, Marta flinches — the first genuine physical reaction in months — then **laughs**, involuntary, a sound from below calculation. Héctor takes her hand. _"It's quiet," he says. "Yes," she says._ They are not instantly restored; the alignment fades over weeks like dye washing out. They will always be different, but the pull, the sound in the angles, the wrong shadow — those go. _"I think I'll be able to sleep again. Eventually."_ **If Marta co-anchored**: the fade burns off all at once — she spends the night unable to speak or move, not from trauma but from becoming abruptly, entirely herself; by morning she is present, quiet, and hungry for the first time in fourteen months.
+**Héctor and Marta**: the Wrong Returned feel the closing first. As the seal completes, Marta flinches — the first genuine physical reaction in months — then **laughs**, involuntary, a sound from below calculation. Héctor takes her hand. _"Está quieto"_, dice. _"Sí"_, dice ella. They are not instantly restored; the alignment fades over weeks like dye washing out. They will always be different, but the pull, the sound in the angles, the wrong shadow — those go. _"Creo que voy a poder dormir de nuevo. Eventualmente."_ **If Marta co-anchored**: the fade burns off all at once — she spends the night unable to speak or move, not from trauma but from becoming abruptly, entirely herself; by morning she is present, quiet, and hungry for the first time in fourteen months.
 
-**Silvio**: collapses when the seal completes — sits down hard, catches himself, stares at the pit. _"It stopped."_ He looks at his normal hands, his normal shadow, then at Don Eusebio: _"You did it."_ Not absolution. Statement of fact.
+**Silvio**: collapses when the seal completes — sits down hard, catches himself, stares at the pit. _"Paró."_ He looks at his normal hands, his normal shadow, then at Don Eusebio: _"Lo hicieron."_ Not absolution. Statement of fact.
 
 **Don Eusebio**: still at his position long after the seal. When he turns, he looks at the estancia on the horizon and asks: _**"What do I owe?"**_ He does not mean spiritually — he means legally, practically, materially: for the tribe's deaths, for Silvio and the Wrong Returned, for what Dolores died trying to stop alone. He is not negotiating. He wants to pay. **The investigators answer. It is the last significant choice of the campaign.** (In 1821 the _campaña_ sits outside reliable courts — his wealth makes prosecution unlikely, so accountability is social, moral, practical: compensate the dead's people, support the Wrong Returned, fund the San Ruiz chapel, meet Rosa, make Dolores's name known. Or he is simply ruined — cattle gone, land unproductive, the entity's "abundance" withdrawn with it.)
 
-**Quirce**: at his theodolite when the seal completes; he has written continuously since leaving the ring. He approaches before dawn, says nothing of what he observed: _"I owe a debt here. I know I do. The question of how to pay it will take time to answer."_ No money, no apology — only the oblique possibility that his network's knowledge could be used to _close_ anomalies rather than observe them. Whether the players trust this is theirs to decide. He leaves before sunrise; the notebook goes with him.
+**Quirce**: at his theodolite when the seal completes; he has written continuously since leaving the ring. He approaches before dawn, says nothing of what he observed: _"Tengo una deuda acá. Lo sé. La pregunta de cómo pagarla va a llevar tiempo."_ No money, no apology — only the oblique possibility that his network's knowledge could be used to _close_ anomalies rather than observe them. Whether the players trust this is theirs to decide. He leaves before sunrise; the notebook goes with him.
 
 ---
 
 ## AFTERMATH
 
-**Rosa** (if anyone rides to San Ruiz): she is grinding corn. _"I felt it close. Around midnight."_
+**Rosa** (if anyone rides to San Ruiz): she is grinding corn. _"Lo sentí cerrarse. Era cerca de la medianoche."_
 
-> ⚠️ **[THIS TABLE]** Rosa is **hostile** (C2 outcome — inner walls broken, the seal destroyed on her watch, and she blames the investigators). The _"Sit down"_ warmth may not come. If they tell her about **Dolores** — how her work at the seal was found and used, how the eastern wall was named incomplete, how the symbol in the clay mattered — she does not speak for a long time, then: _"She was right all along. I knew she was right. I didn't help her enough."_ _(Pause.)_ _"None of us did."_ In the weeks after she begins planting over the pit — something slow-growing. _"It will take years. But I want something alive there."_ If they never mention Dolores, she stays cold; she knows the pit closed, but not that they tried.
+> ⚠️ **[THIS TABLE]** Rosa is **hostile** (C2 outcome — inner walls broken, the seal destroyed on her watch, and she blames the investigators). The _"Sit down"_ warmth may not come. If they tell her about **Dolores** — how her work at the seal was found and used, how the eastern wall was named incomplete, how the symbol in the clay mattered — she does not speak for a long time, then: _"Ella tenía razón todo el tiempo. Yo sabía que tenía razón. No la ayudé lo suficiente."_ _(Pausa.)_ _"Ninguna la ayudó."_ In the weeks after she begins planting over the pit — something slow-growing. _"Va a llevar años. Pero quiero que haya algo vivo ahí."_ If they never mention Dolores, she stays cold; she knows the pit closed, but not that they tried.
 
 **The land**: grass rings persist a few months, then fade; the metallic smell goes within days; the ground settles and firms; scavengers and birds return to the south pasture for the first time in eight months. The fig tree in the Jesuit ruins keeps growing for years; nobody removes it. The Luz Mala never appears at the estancia again.
 
-**Final lines** (morning after): the surviving anchor, if a PC, may say something like _"I still feel the corners. They're quiet now… like knowing where a door used to be. Not standing in it."_ — or nobody says it, and the silence is its own version of the morning. **Silvio**, once his shadow falls right again: _"I've been thinking about going back to my family's house in Mendoza. I don't think I've thought about that in months."_ He looks surprised. _"That's— that's normal, isn't it."_
+> _En las semanas que siguen, el pastizal sur vuelve despacio a ser un campo. Los anillos de pasto se quedan unos meses y después se borran solos. El olor a metal se va en días. La tierra se asienta, se endurece, deja de sonar hueca bajo las botas. Y una mañana, por primera vez en ocho meses, hay pájaros en el campo del sur — un carancho parado en un poste, después teros gritando al amanecer, después chimangos peleándose por algo en el pasto. El ganado que quedó baja a pastar sin que nadie lo arree. La higuera de las ruinas jesuíticas sigue creciendo, año tras año, y nadie la corta. La Luz Mala no vuelve a aparecer en La Esperanza. La tierra no se acuerda. Es lo único que la tierra sabe hacer con algo así: olvidarlo, lentamente, hasta que vuelve a ser solamente tierra._
 
-> † _Canon note: the curandera's morning-after line ("It will scar over… it won't be what it was") and her burning of the leather panels are not delivered here. Mercedes folds the panels once, sets them aside, does not burn them; later, without announcement, they are gone._
+**Final lines** (morning after): the surviving anchor, if a PC, may say something like _"Todavía siento los ángulos. Están quietos ahora… como saber dónde había una puerta. Sin estar en ella."_ — or nobody says it, and the silence is its own version of the morning. **Silvio**, once his shadow falls right again: _"Estuve pensando en volver a la casa de mi familia en Mendoza. No creo que haya pensado en eso en meses."_ He looks surprised. _"Eso es— eso es normal, ¿no?"_
+
+> **The panels.** No one burns them — the woman who would have lit that fire is dead. Mercedes folds each panel once, by hand, and stacks them in the carriage without a word. When a player asks whether they should be destroyed: _"Esto no se quema. La que lo quemaba no está. Se guarda, o se deja ir cuando esté listo — y todavía no está listo."_ Some days later, without announcement, the panels are simply gone. No one sees her do it.
 
 ---
 
@@ -254,12 +254,6 @@ This is the first time the Buenos Aires Keeper **Saráchaga** appears in writing
 > **HANDOUT H10 — The Coypac relay report** *(anonymous rider, not Saúl)* — [📄 player handout](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn)
 >
 > *"Coypac está cerrado parcialmente. Un pozo cedió, el otro no. La cuadrilla se retiró antes del amanecer hacia el norte. Llevan un objeto de tamaño de un libro envuelto en encerado. Dos sacerdotes muertos, los demás vivos. La tribuna de Salamanca quedó marcada — la geometría se grabó en la roca de la cordillera durante la apertura parcial. Los Custodios están reuniéndose en Buenos Aires. Mercedes, quedate o volvete según veas.*
->
-> *— Saráchaga"*
->
-> ---
->
-> *"Coypac is partially closed. One pit gave, the other did not. The group retreated before dawn to the north. They are carrying a book-sized object wrapped in oilcloth. Two priests dead, the rest alive. The Salamanca site is marked — the geometry burned itself into the cordillera rock during the partial opening. The Keepers are gathering in Buenos Aires. Mercedes, stay or come back as you see fit.*
 >
 > *— Saráchaga"*
 
@@ -289,11 +283,11 @@ He rides out alone. The next time the players see him is [C11](chapter-11.md#cha
 
 The travel runs without the dead riding parallel — Mercedes in a hired carriage with Don Eusebio (if he came) and Saúl's empty saddlebag tied to her saddle; the Wrong Returned (if alive) wanting to see Buenos Aires once before the alignment finishes fading; the investigators.
 
-> _On the first afternoon east, the party passes through San Ruiz. Rosa is in the square, alone, sweeping in front of the chapel. The goat is in the well. As the party passes, the goat looks up — and a Marked PC who looks down sees, for the first time, that she has **six pupils, three in each eye, arranged in a line.** No one else sees it. The Marked PC understands in the same look that she has been watching the campaign all along, and will be there when they ride back, and when their grandchildren ride back. Rosa, not looking up: "Adios, gente. Buen viaje." She does not stop sweeping._
-> 
-> _On the second day, the party stops at the Jesuit ruins. The fig tree is still there. Marta walks to the carved stone, places her hand on it once, says nothing, and mounts._
-> 
-> _On the fourth day, the smoke of Buenos Aires is on the horizon — saladero smoke, port smoke, the city a low brown haze before the buildings appear. Mercedes rides up beside whichever player has been most attentive to her since C7, looking at the haze: "Esta es la parte difícil. Lo del campo era el principio. Lo de la ciudad es el resto."_
+> _La primera tarde hacia el este, el grupo pasa por San Ruiz. Rosa está en la plaza, sola, barriendo frente a la capilla. La cabra está en el aljibe. Al pasar el grupo, la cabra mira hacia arriba — y un Marcado que mira hacia abajo ve, por primera vez, que tiene **seis pupilas, tres en cada ojo, alineadas en una fila.** Nadie más lo ve. El Marcado entiende en esa misma mirada que ella ha estado mirando la campaña todo el tiempo, y va a estar ahí cuando regresen, y cuando regresen sus hijos. Rosa, sin levantar la vista: "Adiós, gente. Buen viaje." No deja de barrer._
+>
+> _El segundo día, el grupo se detiene en las ruinas jesuíticas. La higuera sigue ahí. Marta camina hasta la piedra tallada, pone la mano en ella una vez, no dice nada, y monta._
+>
+> _El cuarto día, el humo de Buenos Aires está en el horizonte — humo de saladero, humo del puerto, la ciudad una bruma baja y marrón antes de que aparezcan los edificios. Mercedes se pone al lado de quien haya sido más atento con ella desde C7, mirando la bruma: "Esta es la parte difícil. Lo del campo era el principio. Lo de la ciudad es el resto."_
 
 **→ [Chapter 10 — La Llegada](chapter-10.md#chapter-10--la-llegada)**
 
@@ -309,7 +303,7 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 - [ ] Phase 5 three rounds; *Antu kishu, lan amukey* spoken at the table; **missing chant acknowledged** (Kuyen's *Newen mapu kelluiñ* died with her — let the silence be felt) **unless the Antiquarian rolled Extreme Occult and chooses to supply it** (full efficacy, imperfectly — a scholar reading from a page).
 - [ ] **No Mark rolls during Phases 4–5.** After the seal: Marks go quiet forever at this site — tell the players their dice can stay in the bag.
 - [ ] Dust does **not** lift — Mercedes: *"Lo de acá se cerró. Lo de allá no."*
-- [ ] Rosa: hostile unless Dolores was named; Concepción beats struck.
+- [ ] Rosa: hostile unless **Dolores** was named (Rosa's sister, the chapel woman); if named, the *"Ninguna la ayudó"* beat and the planting-over-the-pit beat land.
 - [ ] Goat location resolved (traveling with party → six-pupil reveal at the pit rim at dawn; staying at San Ruiz → well reveal as written).
 - [ ] Coypac relay (a few days after the closing, before riding out — **not** dawn): anonymous relay rider, [Saráchaga letter H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn), Saúl confirmed dead; Don Eusebio's east-ride choice; Cursed Gaucho's tannery rendezvous set.
 - [ ] Mandinga-deal PCs: private moment — the wound closes cleanly when the seal holds. The debt is paid. The spell remains.

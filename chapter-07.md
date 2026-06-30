@@ -35,8 +35,6 @@ _(recovering the symbol)_
 
 Riding _to the pit to close it_, the party passes San Ruiz a second time — and this is where the complete binding symbol is recovered. Run the three tiers in order; each is a genuine fallback, so the closing is never hard-blocked by one cold NPC or one failed roll.
 
-> † _Canon note: the complete binding symbol normally lives in the curandera's memory; with her dead, it must be retrieved here. Everything below exists to make that retrieval reliable._
-
 **Tier 1 — Rosa hands it over (the earned path).** The party's intent is now true and present-tense: _we are going to the pit to finish what Dolores started._ That is the condition Rosa set on the first pass. She lifts her grinding stone and gives them the complete symbol scratched beneath it — **as a transaction, not forgiveness**:
 
 > _"No lo hago por ustedes. Lo hago por la que dejaron suelta."_
@@ -51,9 +49,9 @@ If the party committed early and only passed San Ruiz once, fold this handover i
 
 ## THE PIT AT NIGHT — CHANGED
 
-> _In daylight it is a depression in the earth — ten meters across, a meter deep at the center, the collapsed carcasses dried into something flat and dark, the blood arcs faded but present. At night, the geometry is visible to anyone. The blood arcs glow faintly — not phosphorescent, not biological, not fire. They glow the way something glows when it is the origin of the light rather than its reflection. From the edge you can see the complete outer circle and the inner arcs and where they intersect. It is beautiful in exactly the way a very precise and very wrong thing can be beautiful._
-> 
-> _The pit is also deeper than it was. You were in it in Chapter 1 — it was one meter deep then. It is now three. The walls are not slumped; this is not erosion. The sides are vertical, and they show the same carved geometry as Saens's chapel stone, extending downward. Something has been carving from beneath._
+> _De día es una depresión en la tierra — diez metros de ancho, un metro de profundidad en el centro, los cadáveres derrumbados secos en algo plano y oscuro, los arcos de sangre desvanecidos pero presentes. De noche, la geometría es visible para cualquiera. Los arcos de sangre brillan tenuemente — no fosforescentes, no biológicos, no fuego. Brillan como brilla algo cuando es el origen de la luz y no su reflejo. Desde el borde se puede ver el círculo exterior completo y los arcos interiores y dónde se cruzan. Es hermoso exactamente de la manera en que puede serlo algo muy preciso y muy equivocado._
+>
+> _El pozo también es más profundo que antes. Estuvieron en él en el capítulo 1 — entonces tenía un metro de profundidad. Ahora tiene tres. Las paredes no se derrumbaron; no es erosión. Los costados son verticales, y muestran la misma geometría tallada que la piedra de la capilla de Saens, extendiéndose hacia abajo. Algo ha estado tallando desde abajo._
 
 **SAN Check**: 1/1D4 — the glowing geometry, the new depth, the carved walls.
 
@@ -71,21 +69,21 @@ The night before the ritual is when characters say the things they haven't said.
 
 Before midnight, Don Eusebio seeks out an investigator who has treated him with consistent honesty (if none exists, he seeks out Silvio — worse for him; play it that way). He does not confess dramatically. He sits by the fire:
 
-> _"When the cattle started dying, the first ones — the land was producing like nothing I'd seen. Fat animals, deep grass, good water. I told myself the ritual was working but something needed to be calibrated. Not that I'd done something wrong. That I needed to adjust."_ _(Quiet.)_ _"There were nine more weeks of that reasoning."_
+> _"Cuando empezaron a morir los primeros animales — los primeros — la tierra producía como nunca había visto. Animales gordos, pasto profundo, agua buena. Me dije que el ritual funcionaba pero que había algo que ajustar. No que había hecho algo mal. Que tenía que calibrar."_ _(Silencio.)_ _"Hubo otras nueve semanas de ese razonamiento."_
 
 If the investigator listens without judgment:
 
-> _"The first person I saw walking south at night was Concepción. The girl. Thirteen years old, an orphan my wife took in before she passed. Barefoot, in her nightdress, going south like she'd been called. I ran out and brought her back. Then I caught her the next week, and the week after. She was getting better at slipping past me. I told myself I'd handle it. That I had time."_
+> _"La primera persona que vi caminando hacia el sur de noche fue Concepción. La niña. Trece años, huérfana que mi mujer recogió antes de morir. Descalza, en camisón, yendo al sur como si la llamaran. Salí corriendo y la traje de vuelta. Después la encontré la semana siguiente, y la otra. Se le daba mejor zafarse de mí. Me dije que lo iba a resolver. Que tenía tiempo."_
 
-> _"Then you came. And you saw what I saw — you saw her go into the pit like she was going home. And you saw her start undoing the thing I'd done, with her little hands, with a rock, because she knew how. A thirteen-year-old girl knew how to close it and I didn't."_
+> _"Después llegaron ustedes. Y vieron lo que yo veía — la vieron entrar al pozo como si volviera a casa. Y la vieron empezar a deshacer lo que yo había hecho, con las manos, con una piedra, porque ella sabía cómo. Una niña de trece años sabía cómo cerrarlo y yo no."_
 
-_(A long silence. This is the part he has been unable to say.)_
+_(Un silencio largo. Esto es lo que no ha podido decir.)_
 
-> _"You were there. You went down after her. And it wasn't enough — the cattle reached her before she could finish, before any of us could reach the center. She died in that pit doing the thing I should have done eight months before. I rode east that afternoon, before it happened — not to help. To get away from the sight of it. Because I couldn't bear to see whether you would save her or whether she would save us. I came back two days later to a grave."_
+> _"Ustedes estuvieron ahí. Bajaron detrás de ella. Y no fue suficiente — el ganado la alcanzó antes de que pudiera terminar, antes de que cualquiera de nosotros pudiera llegar al centro. Murió en ese pozo haciendo lo que yo debería haber hecho ocho meses antes. Ese tarde me fui al este, antes de que pasara — no a ayudar. Para no ver. Porque no podía soportar ver si ustedes la salvaban a ella o si ella nos salvaba a nosotros. Volví dos días después a una tumba."_
 
 He looks at his hands. The next sentence is the one he has waited six months to say to someone:
 
-> _"She hums it. Still. In my head — I can't stop hearing it. The rhythm of the pit. The last morning, when she brought you water, she was humming it under her breath and none of us knew what it was. She didn't know she did it. The pit had her tongue before it had the rest of her. That is what a thirteen-year-old girl carried out of my land because I needed eight more head of cattle."_
+> _"La tararea. Todavía. En mi cabeza — no puedo dejar de escucharla. El ritmo del pozo. La última mañana, cuando les trajo agua, la tarareaba por lo bajo y ninguno de nosotros sabía qué era. Ella no sabía que lo hacía. El pozo le tomó la lengua antes que el resto. Eso es lo que una niña de trece años se llevó de mi tierra porque yo necesitaba ocho cabezas más de ganado."_
 
 This is the **payoff for the hum first audible in C1** (a player or the foreman catching her humming under her breath when she brought the _mate_; see Chapter 1). If anyone noticed it then, tell them now: _that tune was the rhythm the pit beats against the soles of feet at night._ If no one noticed, this is still where it lands — and the fact they _missed_ it is its own quiet horror. Have Don Eusebio's line land on whichever player remembers the hum.
 
@@ -99,15 +97,15 @@ This is the last significant reveal about his character. He did not protect her;
 
 Silvio is the only one awake at 3 AM, sitting at the pit's edge, looking down. If an investigator sits beside him:
 
-> _"When I went in — yesterday — it showed me the inside. Not in pictures. In angles. Like I could feel the shape of what it is from the inside out."_ _(He watches the glowing arcs.)_ _"It's been here a very long time. Longer than the carving. The carving is recent — maybe a few thousand years. The scar is — I don't have words for how old the scar is. It's like trying to say how old the dirt is."_
+> _"Cuando entré — ayer — me mostró el interior. No en imágenes. En ángulos. Como si pudiera sentir la forma de lo que es desde adentro hacia afuera."_ _(Mira los arcos brillantes.)_ _"Lleva mucho tiempo acá. Más que el tallado. El tallado es reciente — quizás unos pocos miles de años. La cicatriz es — no tengo palabras para lo vieja que es la cicatriz. Es como intentar decir cuántos años tiene la tierra."_
 
 If asked what the entity wants:
 
-> _"It doesn't want things. It moves. The opening is a place where it can move more easily. It's been using this place since the scar happened. We opened it wider. Now it has too much of itself here and it can't go back the way it came."_ _(Pause.)_ _"That's what I think the closing does. Not expels it. Narrows the door back down. So it can still be here, but only the way it always was — in the corners, in the angles. Not… through."_
+> _"No quiere cosas. Se mueve. La apertura es un lugar donde puede moverse más fácilmente. Viene usando este lugar desde que pasó la cicatriz. Lo abrimos más. Ahora tiene demasiado de sí mismo acá y no puede volver por donde vino."_ _(Pausa.)_ _"Eso es lo que creo que hace el cierre. No lo expulsa. Angosta la puerta de vuelta. Para que pueda seguir estando acá, pero solo como siempre estuvo — en las esquinas, en los ángulos. No… pasando."_
 
 The most accurate description of the entity anyone offers: it doesn't want, it moves; the opening made it more present than it has been in centuries; the closing returns it to background noise rather than active intrusion. **SAN Check**: 0/1 — not horror, the dawning comprehension of its scale and indifference.
 
-> † _Canon note: two cut conversations carried mechanics that now arrive elsewhere. The focus-boy's revelation — that the entity has been **moderating its pressure on the binding so the closing is attempted and fails at peak pressure**, with him as the focus it wants intact — now reaches the party through [the entity's own communication](#the-entity-speaks), a Hard Cthulhu Mythos inference, or [Mercedes after the probe](#the-eastern-probe). The curandera's practical assessment — **speed is the advantage; every outer-ring role must be filled or the closing loses tempo; the center needs a co-anchor** — now comes from Mercedes' guidance and from Don Eusebio asking the PCs directly: "If I stand in the center, I need someone behind me. Someone who can feel it." The co-anchor option (a PC holding the center-keeper's hands, or standing at an inner-ring position) still distributes SAN/CON strain across volunteers._
+> **Keeper — what the entity is doing.** It has been **moderating its pressure on the binding** so the closing is attempted and fails at peak pressure — it _wants_ the ritual run. The party reaches this through [the entity's own communication](#the-entity-speaks) (_"el resultado es conocido"_), a Hard Cthulhu Mythos inference, or [Mercedes after the probe](#the-eastern-probe). And the practical assessment that decides the night — **speed is the advantage; every outer-ring role filled or the closing loses tempo; the center needs a co-anchor** — comes from Mercedes' guidance and from Don Eusebio asking the PCs himself: _"Si me paro en el centro, necesito a alguien atrás mío. Alguien que lo sienta."_ The co-anchor (a PC holding the center-keeper's hands, or at an inner-ring position) distributes SAN/CON strain across volunteers — see [C9, Phase Five](chapter-09.md#phase-five--the-final-seal).
 
 ---
 
@@ -121,7 +119,7 @@ Quirce does not sleep. If any investigator is awake and watching, he is at the p
 
 If confronted:
 
-> _(He looks up without guilt.)_ _"I knew you'd come eventually. Yes, I'm documenting. That is what I do."_ _(A pause.)_ _"I'm not here to stop your ritual. I want to see it work. I want to measure what a successful closing looks like from the outside. There are people who need to know that it's possible."_
+> _(Levanta la vista sin culpa.)_ _"Sabía que venían tarde o temprano. Sí, estoy documentando. Es lo que hago."_ _(Una pausa.)_ _"No vine a detener el ritual. Quiero verlo funcionar. Quiero medir cómo se ve un cierre exitoso desde afuera. Hay gente que necesita saber que es posible."_
 
 He means it. The real question — whether his presence and instruments compromise the geometry — is what investigators should focus on. His eastern correction is still present in the panels Marta is preparing, **unless investigators caught and quarantined it in C6**.
 
@@ -129,7 +127,7 @@ He means it. The real question — whether his presence and instruments compromi
 
 > ⚠️ **[THIS TABLE] — asymmetry policy.** With the curandera dead, this is the **final "chance to place" window — the line is discoverable but not redrawable.** Marta, tracing it: _"Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro."_ **Erasing is worse than leaving it** (a gap beats a lie, but only just). The correct response is **placement**: a Marked PC or Don Eusebio anchoring the **eastern line physically** (the C3 pure-decision mechanic reused — see C8), or a **Mandinga Warding** placed there. Discovery here buys _informed placement_, not repair. If the contaminated recopy was quarantined or destroyed in C6, this scene finds no asymmetric line.
 
-**If confronted about the asymmetry**: he admits it immediately. _"It creates an observation window. A moment of maximum pressure before the seal closes. No one was going to be harmed by it — it's a two-second differential."_ He does not understand why anyone is angry. The geometry and the people standing in it are different categories of concern to him. _"The closing still works. I just wanted to measure the peak."_ This is his central moral failure — not malice, a profound mismatch in what counts as harm.
+**If confronted about the asymmetry**: he admits it immediately. _"Crea una ventana de observación. Un momento de máxima presión antes de que el sello cierre. Nadie iba a salir lastimado — es un diferencial de dos segundos."_ He does not understand why anyone is angry. The geometry and the people standing in it are different categories of concern to him. _"El cierre igual funciona. Solo quería medir el pico."_ This is his central moral failure — not malice, a profound mismatch in what counts as harm.
 
 **Decision**: can Quirce stay? Instruments away from the geometry: harmless. Inside effective range: a problem. A judgment call for the investigators.
 
@@ -143,13 +141,13 @@ _(2–4 AM — to the Marked)_
 
 At some point between 2 and 4 AM, any investigator who received the Mark in Chapter 3 experiences the following — not a dream; they may be awake:
 
-> _The corners of the space are wrong. Not dramatically — two degrees, three. The angles of the tents, the angles of the night sky meeting the flat horizon, the corners where your blanket meets the ground — all slightly off. The wrongness is consistent and complete: the whole space has shifted, as if seen through glass that is not quite flat._
-> 
-> _In that wrongness, something is present. Not visible. Present the way cold is present — a condition of the space rather than an object in it._
-> 
-> _It does not communicate in language. It communicates in geometry. What it expresses is not words but spatial relationships:_
-> 
-> _**You are in the right place. The shape is known. The attempt is expected. The outcome is known.**_
+> _Los ángulos del espacio están mal. No dramáticamente — dos grados, tres. Los ángulos de las carpas, los ángulos del cielo nocturno encontrándose con el horizonte plano, las esquinas donde la manta toca el suelo — todos levemente desviados. La equivocación es consistente y completa: todo el espacio se desplazó, como visto a través de un vidrio que no es del todo plano._
+>
+> _En esa equivocación, algo está presente. No visible. Presente como está presente el frío — una condición del espacio más que un objeto en él._
+>
+> _No se comunica en lenguaje. Se comunica en geometría. Lo que expresa no son palabras sino relaciones espaciales:_
+>
+> _**Están en el lugar correcto. La forma es conocida. El intento es esperado. El resultado es conocido.**_
 
 **SAN Check**: 1/1D4 — it spoke to you, and what it said was that it has anticipated this.
 
@@ -179,8 +177,6 @@ The line that frames the threat is delivered by **Mercedes** once she arrives (o
 
 The structural threat of the new framing: **the awakening attempt and the closing run in parallel.** The Cult of the Great Sleeper uses any _opening_ the closing fails to seal. The players are in a race with a second, distant ritual.
 
-> † _Canon note: this warning is normally the curandera's; here Mercedes carries it, having suspected as much on the road._
-
 ---
 
 ## THE CURSED GAUCHO
@@ -190,6 +186,8 @@ _(~11 PM — and the captured cultist)_
 A man rides into camp from the west, alone, unannounced. The horses at the perimeter shy from him; whoever has perimeter watch (Tomás, or a PC) does not raise an alarm — they stare.
 
 **Appearance** — mid-thirties; sun-blasted, lean; a scar from earlobe to chin, a clean diagonal that never closed right. Black _bombachas_, a _vicuña poncho_, a wide hat. Two knives in plain sight (a _facón_ on his back, a _cuchillo de campo_ on his belt); an old flintlock on the saddle, unloaded. His horse is a _zaino_ of unusual quality, pushed hard two or three days. His eyes do not move when others enter the firelight; he looks at one person at a time, completely, then moves to the next.
+
+> _Un jinete entra al campamento desde el oeste, solo, sin anunciarse. Los caballos del perímetro se apartan de él antes de que la gente lo vea — se tiran de las riendas, ponen los ojos en blanco. El que tiene la guardia no da la alarma; se queda mirando. El hombre desmonta sin que nadie se lo pida y camina hasta el fuego con la calma de quien ya midió a cada uno desde la oscuridad. La cicatriz le baja del lóbulo de la oreja al mentón, una diagonal limpia que nunca cerró bien. No saluda. Mira a cada uno, de a uno, completo, y recién cuando terminó de mirarlos a todos, habla._
 
 On entry:
 
@@ -255,6 +253,8 @@ _(~4 AM)_
 
 After the entity has spoken, after the Cursed Gaucho's story, after the cultist is questioned, a small carriage reaches the perimeter. Mercedes. She has come from Buenos Aires by post-coach and the last leg by hired _galera_, dressed for travel and tired the way only old scholars tire.
 
+> _Una galera tirada por dos caballos cansados llega al perímetro poco antes del amanecer. Baja una mujer mayor, sola, vestida de viaje, con el cansancio particular de los que pasaron la vida entre libros y ahora cruzaron setecientos kilómetros sin dormir. Se queda un momento al borde de la luz del fuego y mira el campamento — los paneles de cuero tendidos en el suelo, los Marcados, el pozo que brilla en la oscuridad. Lo entiende todo en una sola mirada. La cara no le hace nada. Después camina hacia el fuego, despacio, como quien llega a un velorio al que ya sabía que iba a llegar tarde._
+
 > ⚠️ **[THIS TABLE]** There is no one who knew her for thirty years to greet her. She looks at the camp. She looks at the players. She understands in an instant. Her face does nothing. She walks to the fire. The embrace is absent, and the players carry the weight of why.
 
 **Before she speaks**, she walks the length of the fire and shakes each player's hand in turn. Taking the third hand, she pauses — almost imperceptibly — and rubs her thumb across the cuff of the player's jacket. She nods once, to herself, and moves on. She does not name what she felt. **This is the dust runner at its most distant point in the campaign**: Mercedes, seven hundred kilometers from the pit, recognizes the pit-dust on their clothing because she has read the manuscript that says what it is — fine grey particulate from the original carving's limestone, ground over centuries by the geometry, which does not wash out because it is not, strictly, dust. She will not say this aloud. She filed it; that is enough.
@@ -266,7 +266,9 @@ After the entity has spoken, after the Cursed Gaucho's story, after the cultist 
 > _"Vine a ver. Y a ayudar si puedo. No vine a cerrar — y la mujer que cerraba está muerta, ya lo sé, lo supe en el camino. Así que ahora cerramos como cierran los que quedan: con el manuscrito, con los que volvieron, y con ustedes. Mañana de noche, mientras ustedes cierran este pozo, va a estar pasando algo en Coypac. Si los dos no cierran al mismo tiempo, perdemos los dos. Voy a tratar de tener noticias del Coypac antes del amanecer. No prometo nada."_
 > 
 
-She has brought a Keeper-runner, **Saúl Carrasco**, a Keeper apprentice in his mid-twenties, who will ride west at first light to make contact with whatever closing party exists at Coypac — the campaign's first running messenger between the two rituals. **He may not survive the run**; if he doesn't, the players learn it in C8.
+> **Failsafe — the marginalia, if missed in C6.** If no one examined Quirce's annotated manuscript in [C6](chapter-06.md#quirces-move), Mercedes finds the three older-hand notes within her first hour at the fire. She asks for _"la copia de Quirce, no la de ustedes"_ (she has suspected a second source since his letters), reads ten minutes by firelight, and marks three places with grass stems: _"Tres notas. No son de Quirce. Mano más vieja, pluma más vieja, y las tres están donde Saens escribe del libro. Quirce está cargando las cartas de otro adentro de las suyas — y no creo que lo sepa."_ Then she translates them ([H5](assets/handouts-c5-c7.md#h5--the-three-marginalia-in-the-older-hand)). **Do not let this drop**: it is the players' confirmation that a *second hand* — the [Great Wizard](chapter-05.md#the-chamber-of-the-great-wizard) — sits above Quirce and names the Necronomicón. If it didn't land in C6, it lands here.
+
+She has brought a Keeper-runner, **Saúl Carrasco**, a Keeper apprentice in his mid-twenties, who rides west at first light to make contact with whatever closing party exists at Coypac — the campaign's first running messenger between the two rituals. He returns **alive** during the ritual with what he finds ([C8 — Saúl's return](chapter-08.md#saúl-carrascos-return)) and stays behind the circle through the closing. **His fate is sealed after the seal holds — not on this run**: he insists on riding the post road at dawn and does not survive it; the party learns it in [C9](chapter-09.md#the-coypac-relay). Do not kill him on-screen tonight.
 
 **SAN Check** on her arrival: 0/1 — relief that is also dread, because she would not have come if it could be avoided.
 
@@ -280,7 +282,7 @@ _(~3 AM — scheduled — then into C8)_
 
 Run this as the one short, survivable spike in a chapter that is otherwise weight, not action. It exists to _teach_ C8.
 
-> _The vibration under the camp changes meter — once, like a skipped heartbeat — and the **eastern arc of the glowing geometry flares**. For **1D3 rounds**, the aftershock presses the eastern line from below: the leather panels nearest the east **slide toward the pit** across flat ground (STR 40 opposed to hold one); a fire on the eastern side bends flat against the earth; whoever is on watch at the east feels the ground go **directional**, like standing on a roof. If the captured cultist is in camp, he begins — gagged — to hum in time with it. The probe is the entity **testing the thinness it expects to use tomorrow.** It withdraws on its own; it withdraws **one round sooner** if a PC physically stands on the eastern line and holds (CON check, 0/1 SAN) — proof, in their bodies, that the Tier-3 human-anchor mechanic works._
+> _La vibración bajo el campamento cambia de compás — una vez, como un latido saltado — y el **arco este de la geometría brillante llamea**. Durante **1D3 rondas**, el aftershock presiona la línea del este desde abajo: los paneles de cuero más cercanos al este **se deslizan hacia el pozo** sobre suelo plano (FUE 40 opuesto para sostener uno); un fuego en el lado este se aplana contra la tierra; quien esté de guardia en el este siente que el suelo se vuelve **direccional**, como pararse en un techo. Si el cultista capturado está en el campamento, empieza — amordazado — a tararear en sincronía. La exploración es la entidad **probando la delgadez que espera usar mañana.** Se retira sola; se retira **una ronda antes** si un jugador se para físicamente en la línea del este y aguanta (tirada de CON, 0/1 COR) — prueba, en sus cuerpos, de que el mecanismo de ancla humana funciona._
 
 **SAN**: 0/1D3 camp-wide; 1/1D4 for the PC who holds the line. **No 2d6 — scheduled manifestation.**
 
@@ -309,6 +311,7 @@ Put someone you trust on the east.
 - [ ] **San Ruiz second pass**: run tiers in order; log which tier delivered the symbol (Tier 1 = Rosa hands it over; Tier 2 = Marked PC reconstructs; Tier 3 = partial eastern segment).
 - [ ] [Mercedes' arrival line](#doña-mercedes-arrives-late): use the *[THIS TABLE]* rewrite (Kuyen's name → acknowledgment she is dead; the Coypac coordination line).
 - [ ] [The Cursed Gaucho](#the-cursed-gaucho): flag that he's looking for a dead woman; run *"Entonces llegué tarde dos veces"* beat; he attaches to the Marked PCs.
+- [ ] **H5 marginalia failsafe** ([older-hand notes](#doña-mercedes-arrives-late)): if Quirce's notebook went unexamined in C6, Mercedes finds and translates the three notes within her first hour — the Great Wizard above Quirce, the Necronomicón named. Do not let the thread drop.
 - [ ] Panel-drawing beat with Marta + contaminated recopied sheets; asymmetry **discoverable, not redrawable** (Marta: *"Puedo borrar la línea. No puedo poner la que va."*).
 - [ ] Asymmetry policy decided (recommend B — human anchor or Warding, not redraw): note for C8.
 - [ ] Roll for Hound C7 table live.

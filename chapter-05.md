@@ -594,47 +594,11 @@ _(scheduled — Session 5's guaranteed encounter)_
 
 Run **as the party exits the shaft at dusk** — skip it only if the cataloguing pass or the Wizard fight already ran. It closes the gap where the second half of the session could otherwise end without a single encounter.
 
-> _The party climbs out carrying knowledge the chamber did not have loose in the world an hour ago — and the geometry registers the withdrawal. As the last PC's head clears the shaft, the light over the ruins goes wrong: the shadows of the chest-high walls fall **at angles the sun does not justify**. For **1D3 rounds**, [El Sabueso](assets/entity-hound.md) executes a cataloguing pass on the surface — peripheral, at the angle where the chapel wall meets its own shadow. It reads each PC in turn (for the Marked: the sensation of being read _page by page_). It does not attack unless attacked. Fire or breaking line-of-sight ends it early._
+> _El grupo sale llevando un conocimiento que la cámara no tenía suelto en el mundo una hora atrás — y la geometría registra la retirada. Cuando la última cabeza despeja el pozo, la luz sobre las ruinas se vuelve extraña: las sombras de las paredes a la altura del pecho caen **en ángulos que el sol no justifica**. Durante **1D3 rondas**, [El Sabueso](assets/entity-hound.md) ejecuta un paso de catalogación en la superficie — periférico, en el ángulo donde la pared de la capilla se encuentra con su propia sombra. Lee a cada personaje por turno (para los Marcados: la sensación de ser leído _página por página_). No ataca a menos que lo ataquen. El fuego o cortar la línea de visión lo termina antes._
 
-**SAN**: 1/1D4 each. **Marked PC private read**: _It is not stopping you from leaving. It is noting what leaves._ **Roll for Hound**: none — this _is_ the manifestation; do not stack a 2d6 on top.
+**SAN**: 1/1D4 each. **Marked PC private read**: _No te está impidiendo salir. Está registrando lo que se va._ **Roll for Hound**: none — this _is_ the manifestation; do not stack a 2d6 on top.
 
 > **Carry-forward**: the Hound has now read the party **with the diagram lesson in their heads**. In C8 it goes to the east _first_ — it knows they know.
-
----
-
-## DOÑA MERCEDES' REPLY
-
-The party spent 2-3 days at the estancia before heading east — enough time for a letter to reach Buenos Aires and begin its return journey. By the time they emerge from La Salamanca and **ride back to La Esperanza** (another day's travel), roughly 10-14 days have passed since Mercedes' original letter arrived. Her reply is waiting at the estancia when they return, forwarded from the post road. *(Keeper: do not deliver this underground or at the ruins — it arrives at the estancia on their return. If they somehow stayed at the ruins longer than 3 days, the runner may have passed them on the road.)*
-
-From **[Mercedes](REF-NPCs.md#do%C3%B1a-mercedes-sol%C3%ADs)**, replying to whoever wrote to her after the [first letter](#opening--the-morning-letter). (If no one wrote, she writes anyway, alerted by Quirce's correspondence.) Two pages; key passages:
-
-- _"La red de Quirce no es lo que él dice. Documenta 'anomalías geométricas' con fines sobre los que la red no se ha puesto de acuerdo. Algunos quieren cerrarlas. Otros quieren estudiarlas y aceptar el costo. Quirce pertenece a la segunda categoría. Considérenlo honesto en cuanto a sus observaciones y mentiroso en cuanto a sus intenciones."_
-- _"Lo que Saens llamaba la figura está en el Necronomicón. He leído partes. No puedo decir dónde se encuentra ahora. Sí puedo decir que el ritual de cierre que parecen preparando servirá para **esta** apertura, pero no atenderá la cuestión más amplia. Hay más de una cicatriz. El libro las describe todas. El libro no es seguro y no se puede destruir con los medios a nuestro alcance. Lo guardamos; no lo usamos; lo mantenemos donde no pueda ser movido."_
-- _"Si llegaran a estar en Buenos Aires una vez terminado esto, escríbanme. Los recibiré. Hasta entonces: cuídense de Quirce, y escuchen al Pombero — es, a pesar de las apariencias, la parte más honesta de su situación."_
-- _"No acampen en las ruinas admirando el diagrama. Ya vieron al maestro. La herida que abrieron está en La Esperanza — vuelvan al oeste, prepárense ahí, y no dejen que Quirce decida el calendario por ustedes."_
-
-**Runner from the estancia** (same delivery, or a second note): [Tomás](REF-NPCs.md#tom%C3%A1s-arredondo) sends a boy on a tired horse. The south pasture was **silent** again last night — no cattle sound at all. Grass rings wider than a week ago. A sealed letter from [Quirce](chapter-06.md#quirces-announcement-letter) is on the sala mantel (_"within five days"_). Tomás's note, block hand: _"Vuelvan. El patron no duerme. Quirce viene."_
-
-**SAN Check**: 0/1 — the casualness of _"I have read parts of the Necronomicón."_ Hand out the letter and Tomás's note:
-
-> **HANDOUT H1 — Mercedes' reply (C5)** *(The C4 letter was narrated to the players, not distributed as a handout.)* — [📄 player handout](assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9)
->
-> *"La red de Quirce no es lo que él dice que es. Documenta 'anomalías geométricas' con fines sobre los que la red no se ha puesto de acuerdo internamente. Algunos de sus miembros quieren cerrarlas. Otros quieren estudiarlas y aceptar el costo. Quirce pertenece a la segunda categoría. Considérenlo honesto en cuanto a sus observaciones y mentiroso en cuanto a sus intenciones.*
->
-> *Lo que Saens llamaba la figura está en el Necronomicón. He leído partes del Necronomicón. No puedo decir dónde se encuentra ahora. Sí puedo decir que el ritual de cierre que parecen estar preparando servirá para esta apertura, pero no atenderá la cuestión más amplia. Hay más de una cicatriz. El libro las describe todas. El libro no es seguro y no se puede destruir con los medios a nuestro alcance. Lo guardamos; no lo usamos; lo mantenemos donde no pueda ser movido.*
->
-> *Si llegaran a estar en Buenos Aires una vez terminado esto, escríbanme. Los recibiré. Hablaremos de lo que viene después. Hasta entonces: cuídense de Quirce, y escuchen al Pombero — es, a pesar de las apariencias, la parte más honesta de su situación.*
->
-> *No acampen en las ruinas admirando el diagrama. Ya vieron al maestro. La herida que abrieron está en La Esperanza — vuelvan al oeste, prepárense ahí, y no dejen que Quirce decida el calendario por ustedes.*
->
-> *— M.S."*
->
-
-> **HANDOUT H3 — Tomás's note** — [📄 player handout](assets/handouts-c5-c7.md#h3--tomáss-note-c5-scene-9)
->
-> **"VUELVAN. EL PATRON NO DUERME. QUIRCE VIENE."**
->
-> *"COME BACK. THE PATRON ISN'T SLEEPING. QUIRCE IS COMING."*
 
 ---
 
@@ -665,8 +629,8 @@ This scene puts two things in the players' hands before the closing: **(1)** ret
 
 If investigators argue for staying (more exploration, the wizard chamber, "we need to understand more"):
 
-- Marta: _"Understanding without closing is how Saens died alone on the floor below us."_
-- Héctor: _"The pit is pulling harder than this stone. I can feel it from here. So can you, if you stop pretending you can't."_ (Marked PCs: **automatic** — the westward tug intensifies as he speaks.)
+- Marta: _"Entender sin cerrar es cómo murió Saens solo en el piso de abajo."_
+- Héctor: _"El pozo jala más fuerte que esta piedra. Lo siento desde acá. Ustedes también, si dejan de fingir que no."_ (Marcados: **automático** — la tensión hacia el oeste se intensifica cuando habla.)
 - The [goat](REF-NPCs.md#la-cabra-the-goat), if present, has already walked west and stopped on the road — looking back once, then continuing.
 - The [Luz Mala](REF-NPCs.md#la-luz-mala) on the southern horizon **does not follow them east** into open pampa; it stays between them and the ruins entrance — a sensor, not a chase. The message is spatial: _nothing more to learn here right now._
 
@@ -711,7 +675,7 @@ If investigators argue for staying (more exploration, the wizard chamber, "we ne
 - [ ] Log **bone disturbance tier** (0–3) for C8 east friction — write it in your C8 notes now.
 - [ ] Both Marked PCs stood at the carved dual-diagram stone (Tier-2 symbol insurance). If unsure, Héctor pauses them there on the way out.
 - [ ] Encounter check: if no cataloguing pass and no Wizard fight ran → [The Ascent Reading](#the-ascent-reading) at exit.
-- [ ] [Mercedes' reply](assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9) handout given + [The Warning](#the-warning-without-kuyen) steamroll + departure west.
+- [ ] [The Warning](#the-warning-without-kuyen) steamroll + departure west. *(Mercedes' first reply arrives at the estancia on return — see [C6](chapter-06.md#doña-mercedes-first-reply).)*
 - [ ] **Exit state**: party leaves knowing (a) closing happens at the pit not the ruins, (b) return west now, (c) east fails first, (d) Quirce is inbound.
 
 ---

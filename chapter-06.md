@@ -29,9 +29,7 @@ _(between-chapter hook, 5c)_
 
 Two days before the investigators return (a day they spent at the carved stone), a courier delivered a single sealed letter to Don Eusebio. Tomás kept it on the sala mantel, unopened — Don Eusebio has not been opening mail. The players may find it the morning of their return, or Tomás hands it over, or Don Eusebio does.
 
-> _"Don Eusebio Valdez —_ _Recibida su llamada de auxilio. Por la confianza que mantenemos hace ya varios años, considero apropiado hacerle visita en persona en lugar de despachar a uno de mis aprendices. Salgo mañana al amanecer; estaré en su estancia, salvo demoras, dentro de cinco días. Le pido que mantenga el sitio tranquilo y que no decida nada importante hasta que conversemos._ _Atte., A. Quirce — sub signo magno"_
-> 
-> _"Don Eusebio Valdez — Your call for help received. Given the trust we have maintained over several years, I think it appropriate to visit you in person rather than dispatch an apprentice. I depart tomorrow at dawn; I will be at your estancia, barring delay, within five days. I ask you keep the place quiet and decide nothing important until we have spoken. Sincerely, A. Quirce — sub signo magno"_
+> _"Don Eusebio Valdez — Recibida su llamada de auxilio. Por la confianza que mantenemos hace ya varios años, considero apropiado hacerle visita en persona en lugar de despachar a uno de mis aprendices. Salgo mañana al amanecer; estaré en su estancia, salvo demoras, dentro de cinco días. Le pido que mantenga el sitio tranquilo y que no decida nada importante hasta que conversemos. — Atte., A. Quirce — sub signo magno"_
 
 > **What the players can spot**:
 > 
@@ -50,9 +48,46 @@ Two days before the investigators return (a day they spent at the carved stone),
 
 ---
 
+## DOÑA MERCEDES' FIRST REPLY
+
+The party spent 2–3 days at the estancia before heading east — enough time for a letter to reach Buenos Aires and begin its return journey. By the time they emerge from La Salamanca and ride back, roughly 10–14 days have passed since Mercedes' original letter arrived. Her reply is waiting at the estancia when they return, alongside Quirce's announcement letter. *(Keeper: do not deliver this underground or at the ruins — it arrives at the estancia on their return.)*
+
+From **[Mercedes](REF-NPCs.md#do%C3%B1a-mercedes-sol%C3%ADs)**, replying to whoever wrote to her after the [C5 morning letter](chapter-05.md#opening--the-morning-letter). (If no one wrote, she writes anyway, alerted by Quirce's correspondence.) Two pages; key passages:
+
+- _"La red de Quirce no es lo que él dice. Documenta 'anomalías geométricas' con fines sobre los que la red no se ha puesto de acuerdo. Algunos quieren cerrarlas. Otros quieren estudiarlas y aceptar el costo. Quirce pertenece a la segunda categoría. Considérenlo honesto en cuanto a sus observaciones y mentiroso en cuanto a sus intenciones."_
+- _"Lo que Saens llamaba la figura está en el Necronomicón. He leído partes. No puedo decir dónde se encuentra ahora. Sí puedo decir que el ritual de cierre que parecen preparando servirá para **esta** apertura, pero no atenderá la cuestión más amplia. Hay más de una cicatriz. El libro las describe todas. El libro no es seguro y no se puede destruir con los medios a nuestro alcance. Lo guardamos; no lo usamos; lo mantenemos donde no pueda ser movido."_
+- _"Si llegaran a estar en Buenos Aires una vez terminado esto, escríbanme. Los recibiré. Hasta entonces: cuídense de Quirce, y escuchen al Pombero — es, a pesar de las apariencias, la parte más honesta de su situación."_
+- _"No acampen en las ruinas admirando el diagrama. Ya vieron al maestro. La herida que abrieron está en La Esperanza — vuelvan al oeste, prepárense ahí, y no dejen que Quirce decida el calendario por ustedes."_
+
+**Runner from the estancia**: [Tomás](REF-NPCs.md#tom%C3%A1s-arredondo) sends a boy on a tired horse. The south pasture was **silent** again last night — no cattle sound at all. Grass rings wider than a week ago. Tomás's note, block hand: _"Vuelvan. El patron no duerme. Quirce viene."_
+
+**SAN Check**: 0/1 — the casualness of _"He leído partes del Necronomicón."_ Hand out the letter and Tomás's note:
+
+> **HANDOUT H1 — Primera carta de Mercedes** *(La carta de C5 fue narrada — no se distribuyó como handout.)* — [📄 player handout](assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9)
+>
+> *"La red de Quirce no es lo que él dice que es. Documenta 'anomalías geométricas' con fines sobre los que la red no se ha puesto de acuerdo internamente. Algunos de sus miembros quieren cerrarlas. Otros quieren estudiarlas y aceptar el costo. Quirce pertenece a la segunda categoría. Considérenlo honesto en cuanto a sus observaciones y mentiroso en cuanto a sus intenciones.*
+>
+> *Lo que Saens llamaba la figura está en el Necronomicón. He leído partes del Necronomicón. No puedo decir dónde se encuentra ahora. Sí puedo decir que el ritual de cierre que parecen estar preparando servirá para esta apertura, pero no atenderá la cuestión más amplia. Hay más de una cicatriz. El libro las describe todas. El libro no es seguro y no se puede destruir con los medios a nuestro alcance. Lo guardamos; no lo usamos; lo mantenemos donde no pueda ser movido.*
+>
+> *Si llegaran a estar en Buenos Aires una vez terminado esto, escríbanme. Los recibiré. Hablaremos de lo que viene después. Hasta entonces: cuídense de Quirce, y escuchen al Pombero — es, a pesar de las apariencias, la parte más honesta de su situación.*
+>
+> *No acampen en las ruinas admirando el diagrama. Ya vieron al maestro. La herida que abrieron está en La Esperanza — vuelvan al oeste, prepárense ahí, y no dejen que Quirce decida el calendario por ustedes.*
+>
+> *— M.S."*
+
+> **HANDOUT H3 — Nota de Tomás** — [📄 player handout](assets/handouts-c5-c7.md#h3--tomáss-note-c5-scene-9)
+>
+> **"VUELVAN. EL PATRON NO DUERME. QUIRCE VIENE."**
+
+---
+
 ## QUIRCE ARRIVES
 
 The investigators return to find Aldao Quirce already at the estancia. Don Eusebio let him in — out of some mix of hope, anxiety, and the social training of a man who cannot turn away a visitor from Buenos Aires. Quirce has been in the study two hours; Don Eusebio is in the sala, drinking mate he isn't tasting, waiting. The estancia feels tighter, more watched.
+
+> _Vuelven a una estancia que no se siente como la que dejaron. El mismo patio, los mismos perros, el mismo molino de viento girando despacio — pero todo un grado más quieto, como una casa donde alguien está enfermo en el cuarto del fondo. Don Eusebio está en la sala con un mate en la mano que se le enfrió hace rato; no lo está tomando, lo está sosteniendo. No se levanta cuando entran. Desde el estudio, al fondo del pasillo, llega un sonido leve y metódico: un golpecito de metal, una pausa, el roce de una pluma. Lleva dos horas así._
+>
+> _"Llegó ayer", dice Don Eusebio, sin mirar la puerta del estudio. "Dijo que los iba a esperar. Que no decidiéramos nada hasta hablar con él." Una pausa. "No le ofrecí quedarse. Tampoco le dije que no."_
 
 **Aldao Quirce** ([stat block](assets/npc-stats.md#aldao-quirce)) — 48. City-built: soft hands, good boots that have seen more cobblestones than field. Dark suit, no jewelry, an excellent leather satchel. Hair neat, mustache precise. The face of a man whose profession requires him to seem trustworthy, practiced for decades. His case holds brass measurement instruments (angle gauges, an unusually precise compass, a small theodolite), a notebook in a cipher resembling but not Pitman shorthand, and a reproduction of the Saens manuscript — a _different version_ from the party's, annotated in three hands, with sections that are _not_ water-damaged where the original is.
 
@@ -66,11 +101,11 @@ The investigators return to find Aldao Quirce already at the estancia. Don Euseb
 
 **Q&A**
 
-- _"How did you hear about the situation here?"_ → "Don Eusebio wrote to me. I'd published a paper on the colonial-era geometry sites of the province." _(True but incomplete — he was watching this site from the network's records before the letter arrived.)_
-- _"What exactly is your expertise?"_ → "Field geometry. The study of how certain spatial configurations persist in land-use areas. Quite academic." _(An honest tell — he finds 'academic' slightly funny here.)_
-- _"Can you help us close this?"_ → "Absolutely. That's exactly why I'm here." _(He intends to help — after his instruments are in position and his observations complete.)_
-- _"Why does your copy have sections ours doesn't?"_ → _(half-second pause)_ "A private archive in Montevideo. The water damage must have occurred after the copies were made." _(Plausible. Not true.)_
-- _"Are you here to observe, or to help?"_ → _(still moment, then calibrated warmth)_ "I've come a long way to help. I hope my presence hasn't started on a suspicious note." _(He hasn't answered. Nor denied.)_
+- _"¿Cómo se enteró de la situación acá?"_ → _"Don Eusebio me escribió. Publiqué un trabajo sobre los sitios de geometría colonial de la provincia."_ _(Verdadero pero incompleto — vigilaba este sitio desde los registros de la red antes de que llegara la carta.)_
+- _"¿Cuál es exactamente su especialidad?"_ → _"Geometría de campo. El estudio de cómo ciertas configuraciones espaciales persisten en zonas habitadas. Bastante académico."_ _(Un gesto de honestidad — le resulta un poco gracioso el 'académico' aquí.)_
+- _"¿Puede ayudarnos a cerrarlo?"_ → _"Por supuesto. Para eso vine exactamente."_ _(Tiene intención de ayudar — después de que sus instrumentos estén en posición y sus observaciones completas.)_
+- _"¿Por qué su copia tiene secciones que la nuestra no tiene?"_ → _(pausa de medio segundo)_ _"Un archivo privado en Montevideo. El daño del agua debe haberse producido después de que se hicieran las copias."_ _(Plausible. No es verdad.)_
+- _"¿Vino a observar o a ayudar?"_ → _(un momento quieto, después calidez calibrada)_ _"Vine de lejos para ayudar. Espero que mi presencia no haya empezado con una nota de sospecha."_ _(No respondió. Tampoco lo negó.)_
 
 ---
 
@@ -82,18 +117,18 @@ The chapter's central negotiation: persuading or coercing Don Eusebio to stand i
 
 **His objections, in order**:
 
-1. _"There must be another way. Saens may have been wrong."_ — The carved stone refutes this: the closing geometry shows an outer ring with human-scale positions. It was designed to require the opener's presence.
-2. _"I don't know how to perform a ritual."_ — He doesn't need to. He stands in a position and does not leave it. The director handles the ritual; he handles his feet.
-3. _"Something will happen to me."_ — Honest fear; the manuscript only says the geometry "knows" the opener. What that recognition does is unknown.
-4. _"I'll be arrested. Exposed. The land records, the workers—"_ — the real fear beneath the supernatural one. The legal consequences are real, and investigators with leverage (evidence, witnesses, Rosa's testimony) can press here.
+1. _"Tiene que haber otra forma. Saens pudo haberse equivocado."_ — The carved stone refutes this: the closing geometry shows an outer ring with human-scale positions. It was designed to require the opener's presence.
+2. _"No sé cómo realizar un ritual."_ — He doesn't need to. He stands in a position and does not leave it. The director handles the ritual; he handles his feet.
+3. _"Me va a pasar algo."_ — Honest fear; the manuscript only says the geometry "knows" the opener. What that recognition does is unknown.
+4. _"Me van a arrestar. Me van a exponer. Los registros de tierras, los peones—"_ — the real fear beneath the supernatural one. The legal consequences are real, and investigators with leverage (evidence, witnesses, Rosa's testimony) can press here.
 
 **Breaking point**: he agrees when confronted with Silvio, standing in the courtyard holding the fence post, knuckles white. Don Eusebio looks at him a long time, then:
 
-> _"I told myself he chose to go out that night. That I didn't send him."_ _(He did not send him. That doesn't help.)_ _"When does this happen?"_
+> _"Me dije que él eligió salir esa noche. Que yo no lo mandé."_ _(No lo mandó. No ayuda.)_ _"¿Cuándo pasa esto?"_
 
 **His condition**: he agrees on one condition — that **Quirce comes too**. He doesn't trust Quirce and doesn't want to be alone with the investigators in a ritual circle; he wants a witness on nobody's side. Double-edged: Quirce at the pit is exactly what Quirce wants. Investigators who realize this face a choice.
 
-> Eusebio's commitment is **negotiated** — the chapter's emotional spine — not invoked. _(Coercion fallback, only if the negotiation completely collapses: Quirce invokes "the anchor of the first opening," which Don Eusebio "cannot refuse." Use as a last resort; the negotiated version is the payoff.)_ The moment he looks at Silvio and says _"I told myself he chose to go"_ is the moment he stops being a villain and becomes a culpable human being who has to live with what he did. That is worse.
+> Eusebio's commitment is **negotiated** — the chapter's emotional spine — not invoked. _(Coercion fallback, only if the negotiation completely collapses: Quirce invokes "the anchor of the first opening," which Don Eusebio "cannot refuse." Use as a last resort; the negotiated version is the payoff.)_ The moment he looks at Silvio and says _"Me dije que él eligió salir"_ is the moment he stops being a villain and becomes a culpable human being who has to live with what he did. That is worse.
 
 ---
 
@@ -103,7 +138,7 @@ Midway through the chapter — while investigators deal with Don Eusebio or Quir
 
 **Tracking him**: a **Tracking** roll finds his footprints going straight south, no loop, no stop, to the pit's edge — and descending.
 
-**If investigators follow immediately**: Silvio is _in_ the pit, among the collapsed carcasses, looking at the geometry scratched into the earth. Not in distress: _"It wanted to show me something. I let it. I understand the closing now."_ He comes back up without resistance and will not explain what he saw.
+**If investigators follow immediately**: Silvio is _in_ the pit, among the collapsed carcasses, looking at the geometry scratched into the earth. Not in distress: _"Quería mostrarme algo. Lo dejé. Entiendo el cierre ahora."_ He comes back up without resistance and will not explain what he saw.
 
 **If they don't follow**: he returns on his own after dark, unchanged — or rather, what he was, but quieter. He says nothing and goes back to work.
 
@@ -189,9 +224,7 @@ The recognition beat runs at the pit assembly at chapter's end, over the recopie
 
 > _"Esta línea no la dibujé yo. La dibujó alguien que sabe el dibujo desde adentro, no desde afuera. No fue Quirce."_
 
-She does not name the Wizard; she does not need to. **The asymmetry was the Wizard's correction, channeled through Quirce** — Quirce believes he made it himself; he was a hand. **Quirce, confronted directly at any point, admits it instantly**: _"It creates an observation window. A moment of maximum pressure before the seal closes. No one was going to be harmed by it — it's a two-second differential."_ He does not understand why anyone is angry. This shifts the players' read of him: he is not a fully autonomous agent — closer to a man being used who has not yet realized it.
-
-> † _Canon note: at the published table the curandera Kuyen recognizes the foreign line while laying leather panels; here the same recognition lands over Don Eusebio's recopied paper, since no panels exist yet. The mechanic — the eastern asymmetry's origin and that it is never corrected — is unchanged._
+She does not name the Wizard; she does not need to. **The asymmetry was the Wizard's correction, channeled through Quirce** — Quirce believes he made it himself; he was a hand. **Quirce, confronted directly at any point, admits it instantly**: _"Crea una ventana de observación. Un momento de máxima presión antes de que el sello cierre. Nadie iba a salir lastimado — es un diferencial de dos segundos."_ He does not understand why anyone is angry. This shifts the players' read of him: he is not a fully autonomous agent — closer to a man being used who has not yet realized it.
 
 ---
 
@@ -201,9 +234,9 @@ _(scheduled — the session's guaranteed encounter)_
 
 At dusk, when the full roster stands at the rim for the first time — investigators, Don Eusebio, Quirce, Silvio, Héctor, Marta — the geometry registers the **complete closing roster assembled for the first time** and reads it.
 
-> _The blood arcs brighten by a degree no one can swear to. The **eastern arc goes thin** — the held-note thinness from the corrected recopy. Then, for **1D3 rounds**, the [Hound](assets/entity-hound.md) is present at the rim — at the angle where the pit wall meets the dusk shadow, opposite whoever stands nearest the east. It moves person to person along the rim the way an officer reviews a line. Quirce, electrified, tries to **measure** it (his theodolite case is open before round 2). It departs **through the eastern thinness** — showing the table, wordlessly, exactly where C8 will break._
+> _Los arcos de sangre brillan un grado que nadie puede jurar. El **arco este se adelgaza** — el adelgazamiento de nota sostenida de la recopia corregida. Después, durante **1D3 rondas**, el [Sabueso](assets/entity-hound.md) está presente en el borde — en el ángulo donde la pared del pozo se encuentra con la sombra del crepúsculo, frente a quien esté más cerca del este. Se mueve de persona en persona a lo largo del borde como un oficial que pasa revista. Quirce, electrizado, intenta **medirlo** (el estuche del teodolito está abierto antes de la ronda 2). Se retira **a través del adelgazamiento del este** — mostrando a la mesa, sin palabras, exactamente dónde romperá C8._
 
-**SAN**: 1/1D4 each. First manifestation for any PC who missed C3's: 1/1D6. Fire / breaking line-of-sight ends it early; weapons pass through. **No 2d6 — scheduled.** **Marked PC private read**: _It counted. The count was nine short._ (The dead — the curandera, the focus-boy, the tribe — it remembers the canonical roster.)
+**SAN**: 1/1D4 each. First manifestation for any PC who missed C3's: 1/1D6. Fire / breaking line-of-sight ends it early; weapons pass through. **No 2d6 — scheduled.** **Marked PC private read**: _Contó. Le faltaban nueve._ (The dead — the curandera, the focus-boy, the tribe — it remembers the canonical roster.)
 
 > **Don Eusebio, after**, quietly: _"Vino a pasar lista."_ This is the line that makes "tomorrow night" land.
 
@@ -217,6 +250,8 @@ _(in open air — and the final image)_
 
 As the players set up camp at the pit for the night, **Mercedes' second letter** arrives by fast, costly express rider:
 
+> **Keeper — timing.** Mercedes dispatched this from the road by fast Keeper relay (fresh mounts at each *posta*) before she fully committed to coming in person; the rider outruns her hired coach by a few hours, so the letter lands tonight and **she herself reaches the pit before dawn** ([C7, ~4 AM](chapter-07.md#doña-mercedes-arrives-late)). The *"escríbanme"* was true when she wrote it and overtaken by her decision to follow it west. If you'd rather not have letter and author arrive the same night, deliver this one back at the estancia alongside [her first reply](#doña-mercedes-first-reply) instead.
+
 > _"Si todo lo que ustedes describen es cierto, mañana se cierra esta abertura. Hay otras. La que más me preocupa es la única que no está en tierra: el libro. El Necronomicón está en una bóveda en Buenos Aires desde 1610. Si la cerradura abajo se está debilitando, está porque alguien ha empezado a tocar la bóveda desde acá. No vengan al norte. Cierren primero. Después escríbanme. — M.S."_
 
 This is the campaign's first clear statement, **outside the manuscripts**, that the Necronomicón is in Buenos Aires and that the events in the pampas are _connected_ to a vault in the city. Hand out Mercedes' second letter:
@@ -224,12 +259,6 @@ This is the campaign's first clear statement, **outside the manuscripts**, that 
 > **HANDOUT H7 — Mercedes' second letter** *(arrives by express rider)* — [📄 player handout](assets/handouts-c5-c7.md#h7--mercedes-second-letter-c6-expansion)
 >
 > *"Si todo lo que ustedes describen es cierto, mañana se cierra esta abertura. Hay otras. La que más me preocupa es la única que no está en tierra: el libro. El Necronomicón está en una bóveda en Buenos Aires desde 1610. Si la cerradura abajo se está debilitando, está porque alguien ha empezado a tocar la bóveda desde acá. No vengan al norte. Cierren primero. Después escríbanme.*
->
-> *— M.S."*
->
-> ---
->
-> *"If everything you describe is true, tomorrow this opening closes. There are others. The one that most concerns me is the only one not in the ground: the book. The Necronomicón has been in a vault in Buenos Aires since 1610. If the lock below is weakening, it is because someone has started to touch the vault from here. Do not come north. Close first. Then write to me.*
 >
 > *— M.S."*
 
@@ -241,19 +270,17 @@ The players now hold: a name on the avatar (_Eligio Dadálah_); a second voice o
 
 There is no trained practitioner waiting at the pit. The group is assembled — investigators, Don Eusebio, Quirce, Silvio, Héctor, Marta — but the night lands as a question, not a command.
 
-> _The south pasture at dusk. The collapsed carcasses, the grass rings, the dead center, the pit. The light bending early around the geometry before it sets._
-> 
-> _Don Eusebio is already there when the group arrives, standing at the rim — in the place Silvio used to stand, the northern watch position — and he does not turn when he hears the horses. He has been here a while; the grass is pressed where he has been shifting his weight._
-> 
-> _"I've been trying to remember who is supposed to stand where,"_ he says, still facing the pit. A long pause. _"I opened it. I know where the center is."_
-> 
-> _He doesn't say he knows how to close it. He turns, finally, and looks at the investigators — at the Marked ones a half-second longer. He is asking without asking: I can find the center because I made it. I need the rest of you to be the rest of it._
+> _El pastizal sur al atardecer. Los cadáveres desmoronados, los anillos de pasto, el centro muerto, el pozo. La luz doblándose temprano alrededor de la geometría antes de ponerse._
+>
+> _Don Eusebio ya está ahí cuando llega el grupo, parado en el borde — en el lugar donde Silvio solía pararse, la posición de vigilancia del norte — y no se da vuelta cuando escucha los caballos. Lleva un rato acá; el pasto está aplastado donde estuvo cambiando el peso._
+>
+> _"Estuve tratando de recordar quién tiene que pararse dónde"_, dice, todavía mirando el pozo. Una pausa larga. _"Yo lo abrí. Sé dónde está el centro."_
+>
+> _No dice que sabe cómo cerrarlo. Se da vuelta, finalmente, y mira a los investigadores — a los Marcados medio segundo más. Está preguntando sin preguntar: puedo encontrar el centro porque lo hice yo. Necesito que el resto de ustedes sea el resto._
 
-When no one answers his unasked question, he answers it himself: _"Tomorrow night. It has to be tomorrow night. It's not waiting for us."_ **Don Eusebio sets the timeline, not anyone else.**
+When no one answers his unasked question, he answers it himself: _"Mañana a la noche. Tiene que ser mañana a la noche. No nos está esperando."_ **Don Eusebio sets the timeline, not anyone else.**
 
-> **For Marked PCs**: standing at the rim, you feel it — the eastern arc of the buried shape is _thin_, the way a held note goes thin before it breaks. Quirce's correction did that, and no one corrected it back. You will be standing on that thinness tomorrow.
-
-> † _Canon note: at the published table the curandera waits at the pit and sets the timeline with "Tomorrow night." Here Don Eusebio — the opener — sets it instead; the beat's function (the closing is imminent, the night is coming) is unchanged._
+> **Para Marcados**: parados en el borde, lo sienten — el arco este de la forma enterrada está _delgado_, como una nota sostenida que se adelgaza antes de romperse. La corrección de Quirce hizo eso, y nadie lo corrigió. Mañana van a estar parados sobre ese adelgazamiento.
 
 ---
 
@@ -262,6 +289,7 @@ When no one answers his unasked question, he answers it himself: _"Tomorrow nigh
 
 ## SESSION CHECKLIST — C6
 
+- [ ] **Mercedes' first reply** ([H1](assets/handouts-c5-c7.md#h1--mercedes-first-reply-c5-scene-9)) + Tomás's note ([H3](assets/handouts-c5-c7.md#h3--tomáss-note-c5-scene-9)) handed out on arrival at the estancia (moved from C5).
 - [ ] Cheatsheet corrections before you sit down: **eastern** not northern; Quirce age = **48**; mediumship SAN = **0/1D6**; brass markers = **two** in the study; Eusebio's commitment = negotiated (coercion is Quirce's fallback only).
 - [ ] Asymmetry carrier in play: asymmetry lives in **Don Eusebio's recopied diagrams** (not Kuyen's panels — she's dead). Recognition beat runs over paper, not leather.
 - [ ] Roll for Hound C6 table live.
