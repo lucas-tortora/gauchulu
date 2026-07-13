@@ -5,25 +5,15 @@
 **Emotional Arc**: Guilt → Horror → Desperate Resolve
 **Key Seed**: Consequences are permanent. Knowledge you acted on incorrectly does not become retroactively innocent.
 
-> **[THIS TABLE — 2026-05-24] MODIFIED DAMAGE STATE.** The chapel seal was destroyed in C2. The eastern gap cannot be closed geometrically tonight — the clay symbol is buried under rubble. One investigator has a Major Wound. La Llorona is moving east and will be perceptible on the ride. The goat follows the party. Kuyen's opening line: *"¿Qué tocaron en San Ruiz?"*
->
-> **Cata — eastern anchor**: The eastern gap is occupied by an unwilling human anchor (Cata, late teens, wrists bound to stakes). See `assets/ritual-diagram-c3.md` for the full decision tree and Cata's escape attempt mechanics.
->
-> **4-round structure**: This table ran 4 rounds (Chaos / Testing / Penetration / Climax) rather than the canonical 3. Round structure and Cata escape rolls by round in `assets/ritual-diagram-c3.md`. Goat intervention window: R3 if deal was made.
->
-> **Mandinga sequence**: Two PCs near death post-ritual. Full scene in `assets/mandinga-sequence.md`.
-
----
-
 ## OPENING SITUATION
 
-The investigators know the truth now — or enough of it. They know Don Eusebio opened something. They know Kuyen's people are trying to close it. They know Dolores tried and failed alone. They have the complete binding symbol, or at least its location.
+The investigators know the truth now — or enough of it. They know Don Eusebio opened something. They know Kuyen's people are trying to close it. They know Dolores tried and failed alone. But they arrive damaged and empty-handed: the chapel seal is destroyed, so they do **not** carry the complete binding symbol — only the 75% chapel stone-fragment, the complete clay symbol buried under the rubble they made and out of reach. One investigator is carrying a Major Wound. La Llorona is loose behind them, displaced and moving east — perceptible on the ride. And the goat travels with them, already ahead of them at every turn. The eastern gap cannot be closed geometrically tonight: there is no complete symbol to close it with.
 
 The question is whether they believed Rosa when she said: *"Lo que sea que los vean hacer — déjenlos terminar."* — *"Whatever you see them doing — let them finish."*
 
 The tension of this chapter is built into the investigators' prior decisions. If they reported Kuyen's camp location to Don Eusebio, if they were skeptical of Rosa, if they have been playing the middle — all of that pressure now arrives at once.
 
-**Finding the Encampment**: The tribe is two hours east of San Ruiz on foot. The trail is faint but consistent — fires banked low, careful movement. As investigators approach at night (or dusk — the ritual runs at dusk), they smell woodsmoke and hear chanting: low, rhythmic, not melodic. More like a repetition of angles than of notes.
+**Finding the Encampment**: The tribe is two hours east of San Ruiz on foot. The trail is faint but consistent — fires banked low, careful movement. As investigators approach at dusk (the ritual runs at dusk), they smell woodsmoke and hear chanting: low, rhythmic, not melodic. More like a repetition of angles than of notes. **Kuyen sees them arrive and her first words are a diagnostic, not a greeting:** *"¿Qué tocaron en San Ruiz?"* — *"What did you touch in San Ruiz?"* She already feels the seal is gone.
 
 ---
 
@@ -37,7 +27,7 @@ The tension of this chapter is built into the investigators' prior decisions. If
 >
 > *Una mujer está parada un poco aparte, al borde del oeste. Es la única que los nota llegar.*
 
-> **[THIS TABLE — 2026-05-24] THE EASTERN POSITION IS OCCUPIED.** When investigators crest the bank, the eastern gap in the diagram is not empty. A young woman — late teens, wrists bound to ground stakes at either side of the gap, kneeling on the ochre line — is the anchor. She is unwilling. She is conscious. She has been there long enough to be past crying. She will look at the investigators when they arrive. Kuyen does not explain this proactively. If asked: *"Necesitaba un ancla del este. Esto es lo que encontré."* — one sentence, no apology. If a PC volunteers to replace her, Kuyen unbinds her immediately. **This is the moral decision point of C3 at this table.** Full scene: `TABLE-STATE.md` — C3 PREP, *The eastern anchor*.
+**The eastern position is occupied.** When the investigators crest the bank, the eastern gap in the diagram is not empty. A young woman — Cata, late teens, wrists bound to ground stakes at either side of the gap, kneeling on the ochre line — is the anchor. She is unwilling. She is conscious. She has been there long enough to be past crying. She looks at the investigators when they arrive. Kuyen does not explain this proactively; if asked, *"Necesitaba un ancla del este. Esto es lo que encontré."* — one sentence, no apology. If a PC volunteers to replace her, Kuyen unbinds her immediately. **This is the moral decision point of the chapter** — Cata's escape-attempt mechanics by round are in `assets/ritual-diagram-c3.md`.
 
 > **Visual handout**: see `assets/tribal-binding.svg`. Print at A3 portrait. The eastern arc is *visibly thin and dashed* — that is where the Hound will enter. The four cardinal fires, the animal-track sympathies (guanaco N, puma S, condor W, *erased* E), and the four spiral motifs at the diagonals are the Tehuelche-Mapuche folk geometry — *the same closing aspect* of the dual diagram (`assets/dual-diagram.svg`), but in the visual vocabulary the entity does not yet recognize. **A Marked PC who later sees both handouts side by side will see the relationship instantly. Tonight, they should just feel the eastern wrongness.** Place the handout on the table when investigators reach the creek bed; let them locate the gap themselves.
 
@@ -202,10 +192,10 @@ Kuyen and Nahuel (if he can be revived or sustained) are attempting to restore t
 
 ---
 
-## SCENE 3 — HOLD THE CIRCLE (3 ROUNDS)
+## SCENE 3 — HOLD THE CIRCLE
 
 ### Objective
-Protect Kuyen and Nahuel. Keep the circle's geometry intact for 3 rounds. The Hound cannot be killed — it can be harassed, distracted, and slowed. Think less "combat" and more "holding a position under siege."
+Protect Kuyen and Nahuel. Keep the circle's geometry intact. The Hound cannot be killed — it can be harassed, distracted, and slowed. Think less "combat" and more "holding a position under siege." **At this table the hold ran four rounds, not three — Chaos / Testing / Penetration / Climax** — with the goat's intervention window opening in Round 3 if the Mandinga deal had been made. Per-round mechanics, the eastern-anchor escape rolls, and the goat window are laid out in `assets/ritual-diagram-c3.md`.
 
 **Round Structure**:
 
@@ -361,26 +351,26 @@ Don Eusebio knows the ritual worked. He knows investigators helped. He will be d
 
 ---
 
-> **[THIS TABLE — C3 OUTCOME — 2026-05-24] THE RITUAL FAILED.**
->
-> **What happened:**
-> - The Hound passed through. All four rounds ran; the eastern position was not held in time.
-> - **Nahuel: DEAD.** Died at center when the working collapsed. The entity was using him as a classification point. He had been holding for 23 days. He did not crack — the working cracked around him.
-> - **Kuyen: DEAD.** Died on the eastern line in the final moment — she moved to hold it herself when no one else did, completed a partial symbol, and took the full distortion load. She got something closed. Not enough.
-> - **Tribe: ALL DEAD.** The two survivors from R1 did not survive the collapse.
-> - **2 PCs: MARKED.** Took damage from the Hound's distortion field and survived. Geometry perception is permanent. The Hound knows their position at all times. Dawn scene applies — run privately with each Marked PC before C4.
-> - **All 3 PCs fled.** Two due to temporary insanity (determine which condition — phobia, amnesia, or violence as appropriate per SAN loss). One fled because it was the rational thing to do. Nobody is ashamed of leaving. The creek bed was no longer survivable.
-> - **2 PCs accepted Mandinga's deal** (chalice, SAN 1D5 each). Wounds closed. The deal stands: must be present at the pit closing and must not obstruct it. The ritual failing does not cancel the debt — Mandinga hired them to close a pit, not to run a ritual. The pit is still open. The obligation is still running.
->
-> **What this changes going into Arc 2:**
->
-> | Loss | Downstream consequence |
-> |---|---|
-> | Kuyen dead | The only person who understood the full closing sequence is gone. Rosa has the diagram but will not cooperate. The Great Wizard knows a version but it is El Patrón's version. The investigators need another path to the closing — and they no longer have a guide. |
-> | Nahuel dead | No co-anchor available for C8. Don Eusebio's C7 confession becomes the only remaining anchor candidate — a man with nothing left to lose. |
-> | Tribe dead | No living counter-ritual. The entity's pull on the region is now unopposed until the investigators act. |
-> | Creek bed focal point | Permanent. The geometry here is thinner than anywhere else in the campaign area. If the party passes through again, things will be different. |
-> | 2 Marked PCs + Mandinga deal | The deal PCs are tethered to the closing. The Marked PCs are tethered to the entity. These are not the same obligation and they will pull in different directions at least once before C8. |
-> | Zonda | Intensifying. The entity is measurably closer to full ingress. This is not abstract — weather, animals, and people in the region will reflect it from C4 onward. |
+## THE OUTCOME — THE RITUAL FAILED
+
+The Hound passed through. All four rounds ran; the eastern position was not held in time.
+
+- **Nahuel: dead.** Died at center when the working collapsed. The entity was using him as a classification point. He had been holding for 23 days. He did not crack — the working cracked around him.
+- **Kuyen: dead.** Died on the eastern line in the final moment — she moved to hold it herself when no one else did, completed a partial symbol, and took the full distortion load. She got something closed. Not enough.
+- **The tribe: all dead.** The two survivors from Round 1 did not survive the collapse.
+- **2 PCs Marked.** Took damage from the Hound's distortion field and survived. Geometry perception is permanent; the Hound knows their position at all times. The dawn scene applies — run it privately with each Marked PC before C4.
+- **All 3 PCs fled.** Two due to temporary insanity (determine the condition — phobia, amnesia, or violence, per SAN loss). One fled because it was the rational thing to do. Nobody is ashamed of leaving; the creek bed was no longer survivable.
+- **2 PCs accepted Mandinga's deal** (chalice, SAN 1D5 each — full scene in `assets/mandinga-sequence.md`). Wounds closed. The deal stands: they must be present at the pit closing and must not obstruct it. The ritual failing does not cancel the debt — Mandinga hired them to close a pit, not to run a ritual. The pit is still open; the obligation is still running.
+
+**What this changes going into Arc 2:**
+
+| Loss | Downstream consequence |
+|---|---|
+| Kuyen dead | The only person who understood the full closing sequence is gone. Rosa has the diagram but will not cooperate. The Great Wizard knows a version but it is El Patrón's version. The investigators need another path to the closing — and they no longer have a guide. |
+| Nahuel dead | No co-anchor available for C8. Don Eusebio's C7 confession becomes the only remaining anchor candidate — a man with nothing left to lose. |
+| Tribe dead | No living counter-ritual. The entity's pull on the region is now unopposed until the investigators act. |
+| Creek bed focal point | Permanent. The geometry here is thinner than anywhere else in the campaign area. If the party passes through again, things will be different. |
+| 2 Marked PCs + Mandinga deal | The deal PCs are tethered to the closing. The Marked PCs are tethered to the entity. These are not the same obligation and they will pull in different directions at least once before C8. |
+| Zonda | Intensifying. The entity is measurably closer to full ingress. This is not abstract — weather, animals, and people in the region will reflect it from C4 onward. |
 
 ---

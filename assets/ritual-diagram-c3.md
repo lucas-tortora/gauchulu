@@ -75,7 +75,7 @@ Investigators arrive to find the eastern position already occupied — an unwill
 
 **If players say nothing and let the ritual begin**: Cata is the anchor. The ritual proceeds. Her outcome is determined at R4.
 
-**If players try to free her against Kuyen's wishes**: Kuyen will block this. *"Si la sueltan ahora se cae todo."* If they force it anyway, Round 1 begins with an empty eastern gap. See TABLE-STATE.md — C3 PREP.
+**If players try to free her against Kuyen's wishes**: Kuyen will block this. *"Si la sueltan ahora se cae todo."* If they force it anyway, Round 1 begins with an empty eastern gap.
 
 ---
 
@@ -219,7 +219,7 @@ She is not testing. She wants to know what she is working with.
 
 ---
 
-## THIS TABLE — SUMMARY
+## SUMMARY — THE STATE GOING INTO THE RITUAL
 
 | | |
 |---|---|

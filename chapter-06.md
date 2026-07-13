@@ -6,11 +6,13 @@
 
 > **Keeper note.** Quirce is the most dangerous person in this arc — not because he can fight, but because he is intelligent, patient, and morally certain. He is not evil by his own lights; he is a researcher who has deprioritized specific people against the value of knowledge. That makes him harder to argue with than a villain. Don't rush his reveal — let the players earn it from the brass markers, the theodolite, and the corrected diagrams.
 
+> **Where the table stands.** The party is at the estancia, part-way through this chapter. Already resolved: the **malón deal** — the players bargained with one warrior, which does not call the raid off (it still strikes in [C8](chapter-08.md#the-malón-strikes)); the **tarnished copper** — they talked Quirce into using it to widen the geometry's observation field ([Quirce's move](#quirces-move)); and **Don Eusebio's commitment** — he agreed to stand at the *center*, not the outer ring, on the condition that a PC stand with him, and a **Marked PC volunteered** ([Confronting Don Eusebio](#confronting-don-eusebio)). Still to run: the **[mediumship](#the-mediumship)** has not fired, and the party has given Quirce time to modify the geometry diagrams before the dusk ritual — pick up in that window.
+
 ---
 
 ## ROLL FOR HOUND — C6
 
-> ⚠️ **[THIS TABLE]** Two Marked PCs, each rolls their own 2d6. **Double 1** → Hound aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). **Double 1 or 2** if a Marked PC looked hard at geometry this scene. Pre-roll beat as in C5: the tilt comes before the dice.
+**Two Marked PCs, each rolls their own 2d6.** **Double 1** → Hound aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). **Double 1 or 2** if a Marked PC looked hard at geometry this scene. Pre-roll beat as in C5: the tilt comes before the dice.
 
 |Trigger|When|
 |---|---|
@@ -113,7 +115,7 @@ The investigators return to find Aldao Quirce already at the estancia. Don Euseb
 
 _(the closing requirement)_
 
-The chapter's central negotiation: persuading or coercing Don Eusebio to stand in the outer ring of the closing. He has read the manuscript; he knew this would be asked, and has built arguments against it.
+The chapter's central negotiation: persuading or coercing Don Eusebio to take his place in the closing. He has read the manuscript; he knew this would be asked, and has built arguments against it.
 
 **His objections, in order**:
 
@@ -126,9 +128,15 @@ The chapter's central negotiation: persuading or coercing Don Eusebio to stand i
 
 > _"Me dije que él eligió salir esa noche. Que yo no lo mandé."_ _(No lo mandó. No ayuda.)_ _"¿Cuándo pasa esto?"_
 
-**His condition**: he agrees on one condition — that **Quirce comes too**. He doesn't trust Quirce and doesn't want to be alone with the investigators in a ritual circle; he wants a witness on nobody's side. Double-edged: Quirce at the pit is exactly what Quirce wants. Investigators who realize this face a choice.
+**His condition — and where he agreed to stand.** He agreed to more than the outer ring: he will stand at the **center**, the anchor position, but only on the condition that **a PC stands there with him**. He does not trust the investigators to leave him alone in the worst position of the working, and he wants someone bound to it beside him. A **Marked PC volunteered** to take that place. (The canonical bargain — that Quirce comes too, as a witness on nobody's side — never surfaced here; his fear was of being alone at the center, not of Quirce.)
 
 > Eusebio's commitment is **negotiated** — the chapter's emotional spine — not invoked. _(Coercion fallback, only if the negotiation completely collapses: Quirce invokes "the anchor of the first opening," which Don Eusebio "cannot refuse." Use as a last resort; the negotiated version is the payoff.)_ The moment he looks at Silvio and says _"Me dije que él eligió salir"_ is the moment he stops being a villain and becomes a culpable human being who has to live with what he did. That is worse.
+
+This choice carries into C8/C9:
+
+- The **center is the anchor position** — the [center anchor](chapter-08.md#scene-1--the-ritual-begins) prepares the body (palms marked in ochre) and holds under the deepest pressure in [Phases 4–5](chapter-09.md#phase-four--the-deep-close). Eusebio volunteering means the table **has a center anchor** — one of the "no trained center" structural failures ([C8 difficulty](chapter-08.md#scene-1--the-ritual-begins)) is partly answered by a willing, if untrained, body.
+- A **Marked PC at the center** is the most exposed position in the working — pressed against the geometry the entity reads best. This is where the Marks will scream loudest; weigh it against the C8/C9 Mark-roll notes.
+- **Eusebio at the center leaves the outer ring lighter.** The eastern outer-ring line (Quirce's asymmetry) still fails first ([C8 eastern incursion](chapter-08.md#the-eastern-incursion)) and now has one fewer body braced around it. Recheck the C8 position roster before the closing.
 
 ---
 
@@ -156,9 +164,15 @@ Quirce establishes himself as an ally and makes preparations. He does not yet ac
 
 > **Failsafe**: if they miss the Spot Hidden, **Tomás or a ranch hand** mentions the next morning that Quirce was _moving furniture_ in the study last night — _"Como cuando se reorganiza un cuarto. Pero no movió nada visible."_ A Marked PC who walks in after this sees the markers' **deflection** (an 8° string-deflection toward the south-west window — the line of sight to the pit) without any roll.
 
+**At this table the players went further than missing the markers — they helped him.** They talked Quirce into using the [tarnished copper](chapter-05.md#the-merchant-with-tarnished-copper-5b) to expand the geometry's area of observation, and he agreed (of course — a wider, more precise observation window is his whole purpose). Three things follow:
+
+- The copper is **metallically similar to Quirce's brass markers**, and the [dual diagram already "recognized" it and tried to extend through it from below](chapter-05.md#the-merchant-with-tarnished-copper-5b). Using it at the pit doesn't only widen what Quirce *sees* — it widens what the geometry *reaches*. The observation field and the entity's field are the same field.
+- The players believe Quirce is cooperating with *them*. He is. That makes his eventual [Quirce crisis](chapter-08.md#scene-3--the-quirce-crisis) land harder — he never lied to them here; they handed him the instrument.
+- A **Marked PC near the copper once it's placed** should feel the extension unprompted (as with the C5 chapel-floor copper): the thing they helped set up is *humming toward the pit*, not away from it.
+
 **With Don Eusebio's diagrams**: he has "corrected" three of Don Eusebio's variant attempts. The corrections are accurate — they would work better — but a **Hard Occult** check reveals one introduces a slight asymmetry in the **eastern outer ring** that, at maximum closure pressure, makes the geometry "ring" before sealing. It won't prevent the closing; it exposes anyone in the outer ring to a concentrated moment of the entity's field. This is his observation window.
 
-> ⚠️ **[THIS TABLE] — where the asymmetry lives.** With the curandera dead, there are **no leather panels at the estancia**. Quirce's eastern correction lives in **Don Eusebio's recopied diagrams** (the sheaf from the [C4 locked study](chapter-04.md#the-locked-study)). In C7, when Marta and the party draw the leather panels from the [San Ruiz symbol](chapter-07.md#san-ruiz--second-pass), Don Eusebio's recopies are the only large-format reference at the camp — used to fill gaps and check proportions, and _that_ is the moment the Wizard's line crosses onto the panels. **Destroy or quarantine the contaminated recopy now** and the asymmetry never reaches the panels (C8's east becomes marginally more defensible). Leave it and it transfers intact: **the eastern panel asymmetry is never corrected — the entity's primary attack vector in C8.**
+> **Where the asymmetry lives.** With the curandera dead, there are **no leather panels at the estancia**. Quirce's eastern correction lives in **Don Eusebio's recopied diagrams** (the sheaf from the [C4 locked study](chapter-04.md#the-locked-study)). In C7, when Marta and the party draw the leather panels from the [San Ruiz symbol](chapter-07.md#san-ruiz--second-pass), Don Eusebio's recopies are the only large-format reference at the camp — used to fill gaps and check proportions, and _that_ is the moment the Wizard's line crosses onto the panels. **Destroy or quarantine the contaminated recopy now** and the asymmetry never reaches the panels (C8's east becomes marginally more defensible). Leave it and it transfers intact: **the eastern panel asymmetry is never corrected — the entity's primary attack vector in C8.**
 
 **The notebook — a word in another hand.** When investigators pursue his annotated manuscript, a **Hard Cthulhu Mythos** roll on the cipher annotations reveals: most are in Quirce's hand, but **three are not.** Older, neater, a different pen — positioned exactly where Saens wrote about the _Necronomicón_ (the [C4 marginal note](chapter-04.md#the-locked-study) plus two others). Translated from the older Castilian:
 
@@ -198,6 +212,8 @@ This is the chapter's quiet hinge: **two masters use Quirce, and they do not coo
 
 > **Run cold. Drop the dialogue with no setup.** The horror is the casualness.
 
+> **At this table, resume here.** The mediumship has not yet run. The party gave Quirce time to modify the geometry diagrams before the dusk ritual — that quiet window, Quirce heads-down over the sheets, is the natural place for the first involuntary possession to fire. Run it while he works, then move to the **[dusk assembly reading](#the-assembly-reading)**. (He is also carrying the [tarnished copper](#quirces-move) into his setup.)
+
 **First instance.** Mid-conversation with the players, Quirce stops mid-sentence. His face does not change. His eyes go _elsewhere_ — not glassy, _focused on something not in the room_. For ten seconds. Then he resumes his sentence, in the middle of the word he was on. He does not appear to notice. **Spot Hidden / Psychology**: the players see what just happened. Quirce did not.
 
 > **Failsafe — Don Eusebio is in the room.** He sees it. If no one makes the roll, after Quirce leaves the sala Don Eusebio looks at the players: _"¿Vieron?"_ If they answer "see what?": _"La pausa. Diez segundos. No es la primera vez."_ He has watched Quirce for two months and noticed the pauses; he simply could not interpret them. He has the data; the players have the framework.
@@ -209,6 +225,8 @@ This is the chapter's quiet hinge: **two masters use Quirce, and they do not coo
 Quirce's mouth closes. His eyes refocus. He is unaware. He continues looking at the diagrams.
 
 > **Observable**: candle flames on the desk _bend horizontally_ toward Quirce's mouth, then snap upright when the voice stops. No draft. The man across the desk won't have noticed — he was looking at Quirce's eyes.
+
+> **Failsafe — the name must land.** If the players never leave a single PC alone with Quirce, the voice speaks anyway in whatever moment he is bent over the diagrams (the setup window before the dusk ritual is ideal — a PC watching him work overhears it). If even that is missed, **Don Eusebio heard it** on one of the earlier days and repeats it, uneasy: _"Una vez habló y no era su voz. Dijo un nombre — Eligio Dadálah. ¿Ustedes saben quién es?"_ The *name* is the payoff; make sure it lands in C6, because Arc 4 assumes the players have heard it here first.
 
 **SAN Check**: 0/1D6 — the avatar's first audible introduction, the casualness of the thanks and the signature. _Eligio Dadálah_ is the name in El Patrón's land deeds ([Arc 4](chapter-11.md#tracing-saráchagas-last-hours)); the players are now hearing it for the first time.
 
@@ -281,9 +299,6 @@ There is no trained practitioner waiting at the pit. The group is assembled — 
 When no one answers his unasked question, he answers it himself: _"Mañana a la noche. Tiene que ser mañana a la noche. No nos está esperando."_ **Don Eusebio sets the timeline, not anyone else.**
 
 > **Para Marcados**: parados en el borde, lo sienten — el arco este de la forma enterrada está _delgado_, como una nota sostenida que se adelgaza antes de romperse. La corrección de Quirce hizo eso, y nadie lo corrigió. Mañana van a estar parados sobre ese adelgazamiento.
-
----
-
 
 ---
 

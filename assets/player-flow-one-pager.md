@@ -92,4 +92,4 @@ In all three endings the **dust lifts** at the moment of the binding (Rosa's cha
 
 ---
 
-*See also: `assets/cast-one-pager.md` (the actors), per-arc `cheatsheet.md` files (chapter-by-chapter scene flow), `flowmap.md` & `REF-FlowMap.md` (decision-point and ending-state matrices), `assets/cold-opens.md` (chapter cold-opens in 1820s Spanish).*
+*See also: `assets/cast-one-pager.md` (the actors), the per-chapter files `chapter-01.md`…`chapter-12.md` (scene flow), `flowmap.md` (decision points and ending state), `assets/cold-opens.md` (chapter cold-opens in 1820s Spanish).*

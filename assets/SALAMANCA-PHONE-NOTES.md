@@ -7,10 +7,10 @@
 > Reflects the **C3-divergence table state** below — beats that no longer run are
 > already removed or flagged.
 >
-> **Source of truth.** This is a snapshot of `02-la-salamanca/cheatsheet.md` in the
-> campaign repo. If the chapters change, re-export from there. For full bilingual
-> read-aloud boxes and NPC Q&A, also add the chapter files to the Project:
-> `campaign.md` (cap. 4), `campaign.md` (cap. 5), `campaign.md` (cap. 6).
+> **Source of truth.** This is a condensed snapshot of the C4–C6 chapter files in
+> the campaign repo. If the chapters change, re-derive from them. For full bilingual
+> read-aloud boxes and NPC Q&A, read the chapter files directly:
+> `chapter-04.md`, `chapter-05.md`, `chapter-06.md`.
 
 ## TABLE STATE — read this first (applies to all three chapters)
 
@@ -23,6 +23,12 @@
   corrected** — it carries into C8 as the entity's primary attack vector.
 - **Loose:** La Llorona moving east toward the pit; the goat follows the party.
 
+**⏸️ YOU ARE HERE (2026-07-01) — mid-C6, paused before the mediumship & dusk ritual.**
+- **Resume:** Quirce is modifying the diagrams → run the **mediumship** while he works → then the **dusk assembly reading**.
+- **Malón:** party cut a deal with **one warrior**, but the priests spend the warriors — **it does NOT call off the raid; the malón still strikes in C8** (the bought warrior may be first culled).
+- **Tarnished copper:** players talked **Quirce into using it to widen the geometry's observation field** — they handed him his window; a Marked PC feels it *humming toward the pit*.
+- **Don Eusebio at the CENTER** (not the outer ring), condition = **a PC with him**; **a Marked PC volunteered.** Untrained center anchor; Marked PC most exposed; outer/eastern ring one body lighter — recheck the C8 roster.
+
 ---
 
 # ARC 2 — LA SALAMANCA (ULTRA-CONDENSED GM SHEETS)
@@ -33,7 +39,7 @@
 
 **GOAL**: Confront the man who lied → break his denial → reveal the manuscript
 
-> ⚠️ **[THIS TABLE]** No clean "return." The party fled C3 in pieces — run **THE RETURN** (creek bed, dawn, SAN 0/1D4) then **SAN RUIZ — ROSA, FIRST PASS** (cold; stone-fragment returned; La Llorona news delivered; **symbol withheld**) before they reach the gate. They hold only the **75% chapel stone-fragment**, not the complete binding symbol (earned on the 2nd San Ruiz pass, pre-C7). **Kuyen, Nahuel, the whole tribe, and Concepción are dead.** Two PCs are Marked (permanent geometry perception).
+> **No clean "return."** The party fled C3 in pieces — run **THE RETURN** (creek bed, dawn, SAN 0/1D4) then **SAN RUIZ — ROSA, FIRST PASS** (cold; stone-fragment returned; La Llorona news delivered; **symbol withheld**) before they reach the gate. They hold only the **75% chapel stone-fragment**, not the complete binding symbol (earned on the 2nd San Ruiz pass, pre-C7). **Kuyen, Nahuel, the whole tribe, and Concepción are dead.** Two PCs are Marked (permanent geometry perception).
 
 **SCENE FLOW**
 

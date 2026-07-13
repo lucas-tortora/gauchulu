@@ -29,13 +29,11 @@ This chapter begins with the investigators following that trail — the patrón'
 
 > *El pueblo está quieto. No quieto-de-abandonado, no quieto-de-pueblo-fantasma — algo intermedio. Las casas están enteras. Las puertas, abiertas. Hay pan sobre una mesa adentro de una ventana, duro como piedra. Ropa tendida en una soga, descolorida hasta el gris. El durazno crece sin freno sobre el camino. No huele a podredumbre. No hay cuerpos. No hay huesos en la calle. Apenas — un lugar al que la gente se fue rápido, mientras estaba usando las cosas.*
 
-> *En el centro de la plaza del pueblo hay un brocal de piedra — la boca tendrá vara y media de ancho. Cuando ustedes pasan al lado a caballo, un sonido: un balido suave, después silencio. **Hay una cabra adentro del aljibe.** Una cabra marrón con blanco, viva, parada en una repisa de mampostería caída unas tres varas más abajo. Está ilesa. No tiene soga. El aljibe está seco — no hay agua en el fondo, sólo piedras y la cabra. Los mira desde abajo sin alarma. No vuelve a balar.* (GM-only — do not read: investigators who try to fetch her up will find she does not resist being lifted, but the moment her hooves touch grass she walks back to the well and jumps in. She has done this before. Whoever once tried to rescue her gave up. **Do not name this. Do not explain it. The goat lives in the well.**)
+> *En el centro de la plaza del pueblo hay un brocal de piedra — la boca tendrá vara y media de ancho. Cuando ustedes pasan al lado a caballo, un sonido: un balido suave, después silencio. **Hay una cabra adentro del aljibe.** Una cabra marrón con blanco, viva, parada en una repisa de mampostería caída unas tres varas más abajo. Está ilesa. No tiene soga. El aljibe está seco — no hay agua en el fondo, sólo piedras y la cabra. Los mira desde abajo sin alarma. No vuelve a balar.* (GM-only — do not read: the goat does not resist being lifted. As written she walks back to the well the moment her hooves touch grass — but **at this table the players hauled her out for good** (it cost two injuries), and she did not return. She travels with the party now. **Do not name what she is. Do not explain it.**)
 
-> **Atmospheric runner — the goat (D5/3a)**: This is one of the campaign's three quiet recurring motifs (see `flowmap.md`). The goat is *still alive throughout the campaign*. She does not eat (Spot Hidden in C2 will find no goat-droppings near her ledge). She does not appear to bleed if cut. She watches. She is not malevolent and she is not friendly. **No NPC ever brings her up directly.** Rosa, asked about her, will say only *"Está ahí desde antes de que se fueran. Yo le tiro pasto a veces. No le hace falta."* — *"She has been there since before they left. I throw her grass sometimes. She doesn't need it."* If players return to San Ruiz at any later point in the campaign — C8 if they pass through on the ride east, the C12 epilogue — **the goat is still there.** This is the campaign's most patient witness. She is not a clue. She is the campaign reminding the players that what is happening in the geometry leaks into the ordinary.
+> **Atmospheric runner — the goat (D5/3a)**: This is one of the campaign's three quiet recurring motifs. The goat is *alive throughout the campaign*. She does not eat (Spot Hidden finds no goat-droppings where she stood). She does not appear to bleed if cut. She watches. She is not malevolent and she is not friendly. **No NPC ever brings her up directly.** Rosa, asked about her, will say only *"Está ahí desde antes de que se fueran. Yo le tiro pasto a veces. No le hace falta."* — *"She has been there since before they left. I throw her grass sometimes. She doesn't need it."* **At this table she no longer lives in the well** — the players took her out, and she follows the party now, watching the gravely injured PC. She is a Mandinga marker: her being in the well was Rosa's fixed point in the geometry (present tense, always, like naming the church on the square), and pulling her out removed the last constant in Rosa's reading of San Ruiz. When the party returns, **the well is empty** and Rosa reads the absence like a missing landmark. This is the campaign's most patient witness — a reminder that what is happening in the geometry leaks into the ordinary.
 >
 > *Una cabra vive en el brocal del aljibe comunal. Los mira con pupilas horizontales y mastica.*
-
-> **[THIS TABLE — 2026-05-24] ALTERNATE OUTCOME — GOAT EXTRACTED.** The players successfully extracted the goat from the well (two injuries). She did not walk back in. The well is now empty. Rosa's *"la cabra está ahí"* was her reading a fixed point in the geometry — present tense, always, like naming the church on the square. The investigators removed the last constant in her reading of San Ruiz. The goat now follows the party. She watches the gravely injured PC. She is likely a Pombero marker. **When players return to San Ruiz, the well is empty.** Full implications: `TABLE-STATE.md` — The Goat Thread.
 
 **Keeper Notes**:
 - San Ruiz was evacuated approximately 14 months ago. The departure was orderly enough to take people and animals but not belongings. They left mid-meal, mid-task.
@@ -146,7 +144,7 @@ She stayed also because she is too old to be afraid of what might come back, and
 
 **SAN Check**: 0/1 — the chapel itself, the weight of what it represents, the two layers of symbols telling a story of attempted salvation.
 
-> **[THIS TABLE — 2026-05-24] INNER WALLS ENTIRELY BROKEN. SEAL DESTROYED.** The players broke the inner walls. Dolores's counter-symbols are rubble. The clay binding symbol beneath the floor is intact but buried. Rosa's prayer has no surface to anchor. La Llorona is displaced and enraged — eyes open, moving east toward the pit. The Zonda arrived early as a direct consequence. Full cascade: `TABLE-STATE.md`.
+**What the players did here — the seal destroyed.** In this chapel the investigators broke the inner walls entirely. Dolores's counter-symbols are rubble; the complete binding symbol in the clay beneath the floor survives but is buried and effectively out of reach; Rosa's daily prayer has no surface left to anchor to. The partial binding that had held the entity at the edge for fourteen months fails here. Two consequences ride east with the party: **La Llorona is displaced and enraged** — no longer walking her circuit but moving toward the pit, eyes open — and the **Zonda arrives early** (canonically a C7 phenomenon at the pit), the geometry's failure broadcasting outward.
 
 ---
 
@@ -292,9 +290,9 @@ Use these in passing, without explanation. They are the chapter's silent argumen
 
 ---
 
-> **[THIS TABLE — 2026-05-24] THE DEPARTURE FROM SAN RUIZ**
->
-> *The canonical close (Rosa's silent prayer, the chapel walls holding) does not happen at this table. The walls are rubble. Run the following scene as the investigators prepare to leave. The Zonda is still blowing.*
+## THE DEPARTURE FROM SAN RUIZ
+
+The chapter does not close on Rosa's silent prayer and the chapel walls holding — the walls are rubble. It closes on this: the investigators preparing to leave, the Zonda still blowing.
 
 ### The storm breaks
 
@@ -426,19 +424,18 @@ The others arrive. The goat is in the road ahead of them. She is already where t
 
 ---
 
-> **[THIS TABLE — C2 OUTCOME — 2026-05-24]**
->
-> **Inner walls entirely broken. Seal destroyed.** The players broke the chapel walls entirely. Dolores's counter-symbols are rubble. Rosa's prayer has no surface to anchor to. The partial binding that held the entity at the edge for 14 months has failed. The entity is measurably closer to fully through.
->
-> **The clay beneath the chapel floor** is still intact underground — buried under rubble, retrievable if someone goes back, but Rosa controls access and will not cooperate with these investigators. This is what the pit closing requires. It cannot be improvised.
->
-> **La Llorona — enraged, displaced, moving east.** When her circuit was destroyed, a fragment of her original awareness surfaced. She is not destroyed — she is loose, without a pattern, with all her original grief and none of her exhausted calm. Her eyes are open. She is moving toward the burial pit, toward the geometry she never finished. She knows who broke the walls.
->
-> **Zonda storm arrived early at San Ruiz.** Canonically the Zonda appears in C7 at the pit. Its arrival here, two arcs early, is a direct consequence of the chapel seal collapsing.
->
-> **The goat — extracted, follows the party.** The players extracted the goat from the well. She now follows the party. She will precede them everywhere. She does not bleat, does not sweat, does not react to gunfire. She is Mandinga's creature, now visible to the entity's geometry for the first time since the gate opened. She is in play. See `assets/mandinga-sequence.md` for the deal mechanic.
->
-> **Rosa** does not yet know the walls are gone — but she will, and when she does she will not cooperate with these investigators. Her ornament, her memory of the complete symbol, and access to the clay excavation all go through her. All closed until the relationship is repaired, if it can be.
-| Child's remains | Emotional weight; someone sacrificed peace for protection |
+## WHERE CHAPTER 2 LEAVES THINGS
+
+**The seal is destroyed.** The players broke the chapel walls entirely — Dolores's counter-symbols are rubble, Rosa's prayer has no surface to anchor to, and the partial binding that held the entity at the edge for fourteen months has failed. The entity is measurably closer to fully through.
+
+**The clay beneath the chapel floor** survives underground, buried under rubble — retrievable if someone goes back, but Rosa controls access. It holds the complete binding symbol the pit closing requires (buried with a child's remains — someone sacrificed peace for protection), and it cannot be improvised.
+
+**La Llorona is loose.** When her circuit was destroyed a fragment of her original awareness surfaced. She is not destroyed — she is displaced, without a pattern, carrying all of her grief and none of her exhausted calm. Her eyes are open. She is moving east toward the burial pit, toward the geometry she never finished. She knows who broke the walls.
+
+**The Zonda came early.** Canonically a C7 phenomenon at the pit, its arrival here two arcs early is a direct consequence of the seal collapsing.
+
+**The goat is with the party.** The players pulled her from the well; she follows them now — preceding them everywhere, never bleating, never sweating, unmoved by gunfire. She is Mandinga's creature, visible to the entity's geometry for the first time since the gate opened, and in play (the deal mechanic is in `assets/mandinga-sequence.md`).
+
+**Rosa** does not yet know the walls are gone — but she will, and when she does she will not cooperate with these investigators. Her ornament, her memory of the complete symbol, and access to the clay excavation all run through her, and all of it is closed until the relationship is repaired, if it can be.
 
 ---

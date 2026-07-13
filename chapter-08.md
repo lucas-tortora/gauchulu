@@ -6,6 +6,8 @@
 
 > **Keeper note.** Two things make this chapter: Quirce's breach is the final stress-test of the players' preparation (caught the asymmetry / kept Quirce out → survivable; missed things / trusted him → harder), and **Don Eusebio's choice in the ring is the moral hinge of the whole campaign**. Make the offer to him vivid and _wordless_ — a sensation of abundance, the ground fertile again — and make the choice genuinely uncertain.
 
+> 📋 **Running the ritual live?** A consolidated running order for the whole night — Phases 1–5, positions, NPC cues, the contest ledger, and the SAN log in one place — is in [`assets/ritual-runsheet-c8-c9.md`](assets/ritual-runsheet-c8-c9.md).
+
 ---
 
 ## OPENING SITUATION
@@ -16,26 +18,38 @@ Nobody trained leads this ritual. It is built from fragments — Saens's manuscr
 
 |Position|This table|
 |---|---|
-|**Center anchor**|**Don Eusebio** (he opened the wound; the geometry knows him — the dramatically correct choice) **or** a Marked PC who volunteers|
+|**Center anchor**|**Don Eusebio** (he opened the wound; the geometry knows him), with **a Marked PC beside him at the center** — the pairing he agreed to in [C6](chapter-06.md#confronting-don-eusebio)|
 |**Ritual director / panels**|**Mercedes** guides from the manuscript; **Marta** places the panels by feel; Marked PCs adjust; **the Antiquarian** (added PC) can co-read the procedure, steadying tempo|
 |**Eastern position**|**the Antiquarian** (added PC — literate; can _try to read_ the asymmetry, not only brace it), **Héctor** (partial alignment), or a Marked PC — the side that fails first|
 |**Western position**|the **Cursed Gaucho** (he asked, Mercedes agreed, with terms), with **Marta** floating as the aligned substitute who can step into any broken position|
 |**Northern watch**|**Silvio** — back to the ritual, facing out, calling the entity's approach|
-|**Southern ring**|**Don Eusebio** if a PC took the center; this is where [Scene 4](#scene-4--don-eusebio-in-the-ring) lands|
+|**Southern ring**|a standard outer position at this table — Don Eusebio is at the center, so [Scene 4](#scene-4--don-eusebio-in-the-ring) lands there, not here|
 
-The entity presses whoever opened the wound, wherever Don Eusebio stands — so **Scene 4 follows him to the center or the south.** If he anchors the center, his lower POW means the entity presses him harder, and the Round-2 offer is not "you'll lose a geometric sense" but _"the land will be ordinary again and you will have to live in it knowing what you cost it."_
+The entity presses whoever opened the wound, wherever Don Eusebio stands — and at this table he stands at the **center**, so **Scene 4 lands at the center.** His lower POW means the entity presses him harder there, and the Round-2 offer is not "you'll lose a geometric sense" but _"the land will be ordinary again and you will have to live in it knowing what you cost it."_ The Marked PC beside him is in the most exposed position in the working.
 
 > 📍 **[Ritual positions diagram — all 5 phases](assets/ritual-positions-diagram.html)**
 
 The ritual is scheduled for **dusk** — the hour the partial bindings used, when shadow-geometry is longest and the entity's movement through surface angles is slightly compromised. Six hours remain. Six hours in which nothing should go wrong, and two things do.
 
-> ⚠️ **[THIS TABLE] — eastern asymmetry.** If not destroyed/quarantined in C6 and not mitigated in C7, it activates by Phase 2. The entity knows the gap and uses it ([the Eastern Incursion](#the-eastern-incursion)). A **Mandinga Warding** at the eastern position partially seals it; a human anchor on the eastern line holds it physically (the C3 pure-decision mechanic). Neither fully substitutes for a correct panel.
+> **Eastern asymmetry.** If not destroyed/quarantined in C6 and not mitigated in C7, it activates by Phase 2. The entity knows the gap and uses it ([the Eastern Incursion](#the-eastern-incursion)). A **Mandinga Warding** at the eastern position partially seals it; a human anchor on the eastern line holds it physically (the C3 pure-decision mechanic). Neither fully substitutes for a correct panel.
+
+> **The tarnished copper is in the geometry.** The party helped Quirce place [the copper](chapter-06.md#quirces-move) to widen his observation field — which is the *entity's* field too. A **Marked PC feels it humming toward the pit** (no roll) and the party can pull it before Phase 1: doing so denies Quirce the pre-set inside reference he crossed the ring for, so his [Scene 3 crossing](#scene-3--the-quirce-crisis) is far less tempting (he observes from outside as agreed) — and the eastern contest runs **one step easier the first phase**. Leave it in place and it stands as a second Quirce-marker: his crossing lands as written, and the entity's outward cataloguing (the [malón cull](#the-malón-strikes)) reaches one ring wider.
 
 > ⊕ **Added PC — the Antiquarian (occultist).** A Leipzig-trained scholar who treats the geometry as the edge of the knowable — no verdict on whether it is good or evil, only the conviction that it must be _understood_. Loosely tied to the same European occult lineage as Quirce's network, never initiated. They have traveled with the party since [La Salamanca](chapter-05.md#the-whispering-tunnels) (C5); at the closing they take a position — see [The Antiquarian at the Ring](#the-antiquarian-at-the-ring-added-pc). Their best fit is **co-reader + eastern line**: a second literate hand on the procedure, and a willing body on the thin side who can attempt to _read_ the asymmetry. _(These are **sequential, not simultaneous**: they co-read during setup and Phase 1 to steady tempo, then **commit to the east** once it activates at Phase 2. The eastern position demands a still body, not an active voice — once bracing they cannot also read the procedure aloud, and reading the wedge forfeits that round's hold.)_ **Mechanically this directly mitigates the difficulty recalibration** — a human anchor holding the east is condition (2) of the [Phase-contest count](#scene-2--the-entity-responds), so each phase's contest runs **one step easier on the east** while they hold. Note their live wire: a seeker is _not_ invested in whether the pit closes — when the line breaks, whether they hold it or let it ride to see what happens is a player choice. Quirce (if present) sees a kindred observer, not a rival: _"No viene a detenerlo ni a empezarlo — viene a ver adentro. Como yo. Pero no le va a importar si se rompe."_
 
+> **Running order — hang the set-pieces off the five phases.** The phases are the spine; everything else interleaves:
+> - **Afternoon (pre-ritual):** [First Fracture](#first-fracture--don-eusebio-considers-leaving) — Don Eusebio wavers and is witnessed.
+> - **Dusk, taking positions:** [the Antiquarian chooses ring or rim](#the-antiquarian-at-the-ring-added-pc); palms marked, panels laid.
+> - **Phase 1** — [Scene 1: the ritual begins](#scene-1--the-ritual-begins); **[the malón strikes](#the-malón-strikes)** on the first chant.
+> - **Between 1 and 2:** [Saúl returns](#saúl-carrascos-return) with the Coypac intel (Phase 3 −1 step).
+> - **Phase 2 — the triple crisis** ([Scene 2](#scene-2--the-entity-responds)): [the eastern incursion](#the-eastern-incursion) tears, the [Coypac echo](#the-coypac-echo) vision lands, **[Quirce crosses the ring](#scene-3--the-quirce-crisis)**, and the **[Cursed Gaucho breaks west](#the-cursed-gaucho-breaks-formation)** — all inside one phase; run them fast and overlapping.
+> - **Phase 3** — [Scene 4](#scene-4--don-eusebio-in-the-ring): the entity finds Don Eusebio and makes the wordless offer; he holds (or is held).
+> - **Between phases:** [Mercedes' hook](#mercedes-between-phases) to a quiet Marked PC.
+> - **Phases 4–5 are [C9](chapter-09.md#chapter-9--el-cierre).** The chapter ends mid-working, [holding](#end-of-chapter-8--the-holding-position) — write the exit state.
+
 ### Roll for Hound — C8
 
-> ⚠️ **[THIS TABLE]** Two Marked PCs, each their own 2d6. **Cap: 3 fired aftershocks chapter-wide** — after the third, further doubles produce only the pre-roll tilt. The entity is _on-stage_ tonight; the dice represent it bleeding through the Marks, not arriving. [Entity](assets/entity-hound.md).
+**Two Marked PCs, each their own 2d6.** **Cap: 3 fired aftershocks chapter-wide** — after the third, further doubles produce only the pre-roll tilt. The entity is _on-stage_ tonight; the dice represent it bleeding through the Marks, not arriving. [Entity](assets/entity-hound.md).
 
 |Trigger|When|
 |---|---|
@@ -176,7 +190,7 @@ _At the table: highest-agency starting position of any PC. They arrive knowing t
 
 **The assembly.** Mercedes leads everyone to position; Marta lays the leather panels in the pit's upper ring, the complete binding in interlocking sections. As each piece is placed, the blood arcs below intensify — the new geometry resonating with the old. The Wrong Returned stand without instruction, as if they attended a rehearsal no one else was invited to.
 
-**Don Eusebio at the southern position**, before the chant — he removes his hat, looks at the dead grass he has not been able to face for eight months, and says, as Tomás once said it at this rim ([C1](chapter-01.md#chapter-1--el-contrato--el-pozo)):
+**Don Eusebio, before he takes the center**, removes his hat, looks at the dead grass he has not been able to face for eight months, and says, as Tomás once said it at this rim ([C1](chapter-01.md#chapter-1--el-contrato--el-pozo)):
 
 > _"Por la tierra que fue buena, y por la tierra que se cansó. Que la tierra descanse…"_
 
@@ -194,7 +208,7 @@ He stops. He cannot remember the third line. Ten seconds, hat in hand, eyes clos
 
 ## THE MALÓN STRIKES
 
-> ⚠️ **[THIS TABLE — 2026-06-23]** Fires **as the first chant goes up**, *only if the [malón](chapter-05.md#the-malón-for-the-maps) was not broken on the road back from La Salamanca.* The raiders waited for exactly this — everyone locked in position, hands full of the working — to come for the saddlebags (the Wizard's maps and notes). **What the warriors don't understand, the priests do.**
+The malón strikes **as the first chant goes up.** The party did not break the raiders on the road back from La Salamanca — they cut a deal with one warrior, and a bargain with a single warrior means nothing to the ochre priests who drive the raid and spend the warriors as expendable muscle. (The bought warrior may well be **among the first culled by the geometry** — the priests spent him, deal and all: a cold, earned horror beat if the players catch it.) Only **breaking the stalkers on the road** or **returning the maps** ever called the raid off, and the party did neither — so run the strike in full. The raiders waited for exactly this — everyone locked in position, hands full of the working — to come for the saddlebags (the Wizard's maps and notes). **What the warriors don't understand, the priests do.**
 
 **The priests stay out — and spend the warriors.** The two ochre priests hold at the rim, well outside the ring's range. They **know** the working eats anyone who crosses active geometry, so they send the **warriors** in to snatch the maps in the chaos, as expendable. *(Horror beat, if the players catch it — a **Psychology / Occult** read, or a priest's flat face as a warrior is taken: the men were spent on purpose.)*
 
@@ -224,7 +238,7 @@ Within three minutes, the vibration intensifies and the carved walls begin to _m
 
 **Mechanical effect**: at the end of each of the five phases ([C9](chapter-09.md#chapter-9--el-cierre)), the entity makes a contest against the ritual. The difficulty depends on how well the players managed the night.
 
-> ⚠️ **[THIS TABLE — difficulty recalibration]** Two conditions are structurally failed before the session begins (no trained center; eastern asymmetry uncorrected) — do **not** also count them as penalties; that cost is already priced into the restructured ritual. Count only **player-influenceable** conditions, each failed = **+1**: (1) center anchor supported (a second person braced behind them), (2) eastern gap mitigated (Warding or a human anchor on the east — the [Eastern Probe](chapter-07.md#the-eastern-probe) taught them how), (3) Quirce outside the ring, (4) [bone-disturbance tier](chapter-05.md#if-they-disturb-the-bones) ≤ 1. Player agency is the variable, not the table's grief.
+> **Difficulty recalibration.** Two conditions are structurally failed before the session begins (no trained center; eastern asymmetry uncorrected) — do **not** also count them as penalties; that cost is already priced into the restructured ritual. Count only **player-influenceable** conditions, each failed = **+1**: (1) center anchor supported (a second person braced behind them), (2) eastern gap mitigated (Warding or a human anchor on the east — the [Eastern Probe](chapter-07.md#the-eastern-probe) taught them how), (3) Quirce outside the ring, (4) [bone-disturbance tier](chapter-05.md#if-they-disturb-the-bones) ≤ 1. Player agency is the variable, not the table's grief.
 
 > 📋 **Contest ledger — settle before Phase 1, then read down each phase.** Every lever the players earned across the campaign lives here, so you don't have to hunt for them mid-ritual.
 >
@@ -254,7 +268,7 @@ A horseman gallops in from the west — Saúl Carrasco, two days in the saddle a
 
 **Mechanical payoff**: knowing Coypac has twelve priests, two pits, simultaneous opening, **lowers Phase 3's contest difficulty by one step** — the reward for sending the runner. *(player card: [H8](assets/handouts-c8-c12.md#h8--saúl-carrascos-spoken-report-c8-between-phases-1-2))*
 
-> ⚠️ **[THIS TABLE] — Saúl's sequence.** He returns **alive** here, delivers the report. Mercedes tells him to stay behind the circle — he does, through the full ritual. After the seal holds at dawn, he insists on riding the post road to warn any inbound Keeper couriers before they can be intercepted. Mercedes objects; he rides anyway: _"Alguien tiene que decirles."_ He does not make it to the first relay station. His body is left at a _paraje_ as a warning; the news reaches the party in [C9](chapter-09.md#the-coypac-relay) by anonymous relay rider, letter signed Saráchaga ([H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn)). Do not kill him on-screen now; do not have him arrive alive in C9.
+> **Saúl's sequence.** He returns **alive** here, delivers the report. Mercedes tells him to stay behind the circle — he does, through the full ritual. After the seal holds at dawn, he insists on riding the post road to warn any inbound Keeper couriers before they can be intercepted. Mercedes objects; he rides anyway: _"Alguien tiene que decirles."_ He does not make it to the first relay station. His body is left at a _paraje_ as a warning; the news reaches the party in [C9](chapter-09.md#the-coypac-relay) by anonymous relay rider, letter signed Saráchaga ([H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn)). Do not kill him on-screen now; do not have him arrive alive in C9.
 
 ---
 
@@ -370,7 +384,7 @@ As Phase 2 deploys, Quirce moves. He has kept his theodolite on the eastern rise
 - **Act immediately**: the entity's attention goes briefly to the gap, then back to contesting — **+1 difficulty this phase only**, no permanent damage.
 - **Cannot act** (everyone is locked in position): the entity invades through the gap — a finger in a wound. One investigator in a nearby outer-ring position takes **1D6 SAN**; the phase fails and restarts (**−10 minutes**); the entity is more deeply mapped into the geometry.
 
-> ⚠️ **[THIS TABLE]** Quirce crosses to **observe, not sabotage** — nobody dies here. The sabotage was the Wizard's line already in the panels; Quirce is negligent, not a saboteur (it sets up his C9 _"I owe a debt"_ arc). The consequence is the restart and deeper mapping.
+> Quirce crosses to **observe, not sabotage** — nobody dies here. The sabotage was the Wizard's line already in the panels; Quirce is negligent, not a saboteur (it sets up his C9 _"I owe a debt"_ arc). The consequence is the restart and deeper mapping.
 
 **Quirce, when pulled**: he does not resist, steps out when told — but he is **shaking**, not from cold, from what he experienced inside for those 15 seconds, writing rapidly in cipher. Whatever he saw gave him what he came for and cost him something he didn't expect to pay. He won't speak of it this chapter.
 
@@ -380,7 +394,7 @@ In the same moment — the 5-second geometric distortion the Quirce-gap opens �
 
 The Gaucho breaks formation and runs at El Patrón through the gap. **This breaks the western position more thoroughly than Quirce's crossing.** El Patrón is gone the instant the gap closes; the Gaucho stands in the dark, _facón_ in hand, alone, breathing hard. He has confirmed tonight that El Patrón knows him by sight and will come within knife range to remind him of it.
 
-> ⚠️ **[THIS TABLE]** The western gap is held by **Marta** stepping half-into the broken position (her alignment substitutes one round) while a **Marked PC calls the gap's angle** for her. Phase 2 restarts (−10 minutes). **Mercedes, cold**: _"Si vuelve a salir del círculo, lo dejamos afuera. No tenemos a nadie para perderlo dos veces."_
+> The western gap the Gaucho leaves is held by **Marta** stepping half-into the broken position (her alignment substitutes one round) while a **Marked PC calls the gap's angle** for her. Phase 2 restarts (−10 minutes). **Mercedes, cold**: _"Si vuelve a salir del círculo, lo dejamos afuera. No tenemos a nadie para perderlo dos veces."_
 
 His priority is now established for Arc 4: **if El Patrón is in reach, the Cursed Gaucho goes for him, regardless of cost.** Players who plan around this will be ahead of him. **SAN** for those who saw El Patrón: 0/1D4 — the casualness of his presence at the edge of a closing ritual, watching.
 
@@ -460,13 +474,13 @@ The chapter's most important scene. The entity has been aware of Don Eusebio sin
 
 This is the first half of his final test — the **wordless offer**, which he withstands in silence (he says nothing here). He answers it _aloud_ in [C9, Phase Four](chapter-09.md#phase-four--the-deep-close), with the single word **"No."** Play the two as one arc — temptation here, the spoken refusal there — not as a repeated beat. Whether he steps out or stays depends on six chapters of history — specifically whether the investigators treated him as a human being capable of choice or a tool to be managed.
 
-- **Relationship built (honest engagement)**: he stays. He grips the outer-ring marker with both hands and does not move. His face is not heroic — it is the face of someone experiencing something terrible and not leaving. He says nothing.
-- **Transactional or hostile**: he falters — one step back, out of position. The outer ring breaks; the southern segment fails; the phase collapses.
-- **Recovery** (if he steps out): an investigator can escort him back — hand on shoulder, eye contact, _"Don Eusebio. Back."_ He goes. But the position now holds because someone holds him there, not by his own will, and the geometry reflects that — the southern resistance is weaker.
+- **Relationship built (honest engagement)**: he stays. He grips the center marker with both hands and does not move. His face is not heroic — it is the face of someone experiencing something terrible and not leaving. He says nothing.
+- **Transactional or hostile**: he falters — one step back, out of the center. The anchor gives; the geometry loses the point it is built around; the phase collapses.
+- **Recovery** (if he steps out): the **Marked PC beside him at the center** — or another investigator — can hold him there: hand on shoulder, eye contact, _"Don Eusebio. Back."_ He goes. But the center now holds because someone holds him in it, not by his own will, and the geometry reflects that — the anchor is weaker.
 
 **SAN Check** (watching him take the offer): 0/1D4 — not for the entity, but for the comprehension that this is what he's been running from, and he is not running now.
 
-> **Keeper note — recovery aftermath**: because he has nothing left to lose, Don Eusebio may **volunteer to anchor the center without being asked**. Let him. It is the only thing he has to offer that costs him something — and his survival into C9 is what lets him ask the campaign's final moral question.
+> **Keeper note — recovery aftermath**: Don Eusebio is already the center anchor (he committed to it in [C6](chapter-06.md#confronting-don-eusebio)). Holding it through this is the only thing he has to offer that costs him something — and his survival into C9 is what lets him ask the campaign's final moral question.
 
 ---
 
@@ -496,16 +510,13 @@ The chapter ends not at resolution but at sustained crisis. The ritual runs but 
 
 ---
 
-
----
-
 ## SESSION CHECKLIST — C8
 
-- [ ] Restructured positions table read; center anchor decided (**Don Eusebio vs PC volunteer**) before dusk — commit.
+- [ ] Restructured positions table read; center anchor is **Don Eusebio (committed in C6), with a Marked PC beside him** — confirm positions before dusk.
 - [ ] Contest-difficulty recalibration: count only player-influenceable conditions (center supported / east mitigated / Quirce outside / bone-tier ≤1). **Do not** count Nahuel-dead or asymmetry-never-corrected as additional penalties — already baked in.
 - [ ] [The Eastern Incursion](#the-eastern-incursion) at Phase 2 (scheduled, no 2d6); log **rounds held** for Phase 5 contest.
 - [ ] Saúl returns alive between Phases 1–2 with the Coypac intel (twelve priests, two pits, the ochre man); Coypac vision + Mercedes confirmation.
-- [ ] **[THIS TABLE] [Malón strikes](#the-malón-strikes)** as the first chant goes up — *unless broken on the road back* (C5). Priests stay out, **warriors charge and are culled by the geometry**; players **hold** (don't break the ring). Per breaching warrior **+1 phase difficulty (cap +2)** / SAN 0/1; stolen catalejo recovered after.
+- [ ] [Malón strikes](#the-malón-strikes) as the first chant goes up (the party's warrior-deal did not call it off). Priests stay out, **warriors charge and are culled by the geometry**; players **hold** (don't break the ring). Per breaching warrior **+1 phase difficulty (cap +2)** / SAN 0/1; stolen catalejo recovered after.
 - [ ] Cursed Gaucho breaks formation: **Marta + Marked PC** covers the western gap; Mercedes' cold line (*"Si vuelve a salir…"*).
 - [ ] Only the Cursed Gaucho, the Marked PCs, and Mercedes see El Patrón during the 5-second window.
 - [ ] Scene 4 (Don Eusebio's *"No."*) runs exactly as written — **the spine**.

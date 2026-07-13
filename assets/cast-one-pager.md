@@ -58,4 +58,4 @@ There are no hidden right answers. The campaign's argument is that **the people 
 
 ---
 
-*See also: `REF-NPCs.md` (long dossier), per-arc `cheatsheet.md` files (at-table scene flow), `flowmap.md` (campaign-scale flowcharts), `assets/spanish-style-guide.md` (1820s register), `assets/cold-opens.md` (chapter cold-opens in 1820s Spanish).*
+*See also: `REF-NPCs.md` (long dossier), `flowmap.md` (campaign-scale overview + chapter grid), `assets/spanish-style-guide.md` (1820s register), `assets/cold-opens.md` (chapter cold-opens in 1820s Spanish).*

@@ -6,6 +6,8 @@
 
 > **Keeper note.** Don't rush the aftermath — the ritual's completion is not the chapter's end; the aftermath is where the campaign's emotional payload lands. Give each NPC a moment. And **Don Eusebio's "What do I owe?" is the campaign's final moral question** — it belongs entirely to the investigators; do not guide them to an answer. One thread stays open on purpose: **the dust on the players does not lift.** That is the inline hook into Arc 4.
 
+> 📋 **Running the ritual live?** Phases 4–5 continue the same running order started in C8 — see [`assets/ritual-runsheet-c8-c9.md`](assets/ritual-runsheet-c8-c9.md) for the full night in one sequence.
+
 ---
 
 ## OPENING SITUATION
@@ -15,6 +17,8 @@ The ritual is running; phases completed in C8 carry forward; **two phases remain
 > **If C8 ended before Phase 3** (forced restarts ate the clock): the five-phase total is fixed — only where C9 picks up shifts. Run each outstanding earlier phase first using the **[Phase Four](#phase-four--the-deep-close)** structure (a position-by-position sustained action, ~30 s per station, CON Normal / Hard if compromised), then proceed to Phase Five. Each extra phase also burns ~10–15 minutes of the pre-dawn clock — track it. Everyone is in position, exhausted. The pit is the most active it has been all campaign: carved walls pulsing with the soil-arcs' light, the geometry extending upward in three dimensions — flat becoming volumetric. The entity is more present than it has ever been. Close to breach. Close to closing. Both at once.
 
 Each phase is a **sustained action**, not a single roll — positions held, the symbol maintained, the entity contesting. Between phases: 10–15 minutes to speak, check, move.
+
+> **The shape of the chapter — the working, then the long exhale.** Two phases of ritual ([Four](#phase-four--the-deep-close), [Five](#phase-five--the-final-seal)) close the pit; **everything after is aftermath, and that is where the payload lands — do not rush it.** Run [the cost](#the-cost) and [the aftermath](#aftermath) in one quiet breath at dawn (each NPC gets a line); [the Coypac relay](#the-coypac-relay) arrives days later, before [riding out](#riding-out) east. Then → [C10](chapter-10.md#chapter-10--la-llegada).
 
 ---
 
@@ -87,7 +91,7 @@ Each phase is a **sustained action**, not a single roll — positions held, the 
 
 The entity tests each outer-ring position **in sequence**, as if running down a list — ~30 seconds each. The investigator at the tested position holds (automatic if strong; **CON Normal** if the position was compromised in C8).
 
-**Don Eusebio's position** (center or south — the entity follows the opener): it presses him differently — **CON Hard**, or **POW** if he is solo; **Normal** if someone braces him, hand on shoulder.
+**Don Eusebio's position** (the center — the entity follows the opener): it presses him differently — **CON Hard**, or **POW** if he is solo; **Normal** if the Marked PC beside him braces him, hand on shoulder.
 
 > _La entidad encuentra el reconocimiento que rastreó toda la noche. Don Eusebio. El que abrió. La geometría lo conoce de la manera en que una cicatriz conoce la mano que la hizo. Tiembla una vez — todo el cuerpo, como si lo golpearan — y agarra el marcador con ambas manos. Sus labios se mueven sin sonido. Después deja de temblar y se queda absolutamente quieto. Dice: "No." Una palabra. Sin drama. Final._
 
@@ -171,7 +175,7 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 2. **Anchor co-anchored by an investigator**: the investigator stands in the center ring, holding the anchor's hands — grounding the focus. The anchor sustains the phase. Cost to the investigator: **SAN 1/1D6** and a **CON check** (1D6 damage on failure). The volunteered sacrifice — payment, not death.
 3. **Marta steps into the center** (only if the players built genuine rapport with the Wrong Returned): she co-anchors from the outer ring by extending her partial geometric alignment to hold the center steady from outside. **Her choice; the investigators cannot make it for her.** If she does, Phase Five has near-certain success. Cost: see below.
 
-> ⚠️ **[THIS TABLE] — the anchor survives by default.** The center anchor (Don Eusebio or a PC volunteer) **survives the seal** — paying in recovery time, nightmares, and the corners going quiet. If a **PC** anchored: SAN 1/1D6 + CON check at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
+> **The anchor survives by default.** The center anchor — Don Eusebio, with the Marked PC beside him — **survives the seal**, paying in recovery time, nightmares, and the corners going quiet. The Marked PC at the center takes **SAN 1/1D6 + a CON check** at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
 
 ### Phase Five — the working
 
@@ -207,13 +211,13 @@ The pit sealed. The dust is the reminder that something else is still open — a
 
 **SAN Check** (the seal completing): 1/1D6 — not horror. The shock of genuine resolution: something was terrible for eight months and now it is _over_, and the mind does not know what to do with _over_.
 
-> ⚠️ **[THIS TABLE] — Roll for Hound (C9).** **During Phases 4–5: no Mark rolls.** The entity is fully present and engaged; there is nothing left to bleed through — the pressure mechanics _are_ the encounter. One optional roll only: in the 10-minute gap before Phase 5, a Marked PC who deliberately **looks hard** at the amber geometry to map it rolls at the **raised threshold**. **After the seal: no rolls, ever again, at this site.** The Marks go quiet — tell the Marked players their dice can stay in the bag. The first post-seal silence is itself a beat.
+> **Roll for Hound (C9).** **During Phases 4–5: no Mark rolls.** The entity is fully present and engaged; there is nothing left to bleed through — the pressure mechanics _are_ the encounter. One optional roll only: in the 10-minute gap before Phase 5, a Marked PC who deliberately **looks hard** at the amber geometry to map it rolls at the **raised threshold**. **After the seal: no rolls, ever again, at this site.** The Marks go quiet — tell the Marked players their dice can stay in the bag. The first post-seal silence is itself a beat.
 
 ---
 
 ## THE COST
 
-**The center anchor** (Don Eusebio or PC): alive. They look at their hands. _"Puedo sentir dónde están los ángulos, pero ya no los escucho… como la diferencia entre saber dónde está un cuarto y estar dentro."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **co-anchored or Marta-assisted**, substantially better — exhausted, not broken.
+**The center anchor** (Don Eusebio, and the Marked PC who stood beside him): both alive. They look at their hands. _"Puedo sentir dónde están los ángulos, pero ya no los escucho… como la diferencia entre saber dónde está un cuarto y estar dentro."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **co-anchored or Marta-assisted**, substantially better — exhausted, not broken.
 
 **Héctor and Marta**: the Wrong Returned feel the closing first. As the seal completes, Marta flinches — the first genuine physical reaction in months — then **laughs**, involuntary, a sound from below calculation. Héctor takes her hand. _"Está quieto"_, dice. _"Sí"_, dice ella. They are not instantly restored; the alignment fades over weeks like dye washing out. They will always be different, but the pull, the sound in the angles, the wrong shadow — those go. _"Creo que voy a poder dormir de nuevo. Eventualmente."_ **If Marta co-anchored**: the fade burns off all at once — she spends the night unable to speak or move, not from trauma but from becoming abruptly, entirely herself; by morning she is present, quiet, and hungry for the first time in fourteen months.
 
@@ -229,7 +233,7 @@ The pit sealed. The dust is the reminder that something else is still open — a
 
 **Rosa** (if anyone rides to San Ruiz): she is grinding corn. _"Lo sentí cerrarse. Era cerca de la medianoche."_
 
-> ⚠️ **[THIS TABLE]** Rosa is **hostile** (C2 outcome — inner walls broken, the seal destroyed on her watch, and she blames the investigators). The _"Sit down"_ warmth may not come. If they tell her about **Dolores** — how her work at the seal was found and used, how the eastern wall was named incomplete, how the symbol in the clay mattered — she does not speak for a long time, then: _"Ella tenía razón todo el tiempo. Yo sabía que tenía razón. No la ayudé lo suficiente."_ _(Pausa.)_ _"Ninguna la ayudó."_ In the weeks after she begins planting over the pit — something slow-growing. _"Va a llevar años. Pero quiero que haya algo vivo ahí."_ If they never mention Dolores, she stays cold; she knows the pit closed, but not that they tried.
+> But Rosa is **hostile** — the inner walls were broken and the seal destroyed on her watch (C2), and she blames the investigators. The _"Sit down"_ warmth may not come. If they tell her about **Dolores** — how her work at the seal was found and used, how the eastern wall was named incomplete, how the symbol in the clay mattered — she does not speak for a long time, then: _"Ella tenía razón todo el tiempo. Yo sabía que tenía razón. No la ayudé lo suficiente."_ _(Pausa.)_ _"Ninguna la ayudó."_ In the weeks after she begins planting over the pit — something slow-growing. _"Va a llevar años. Pero quiero que haya algo vivo ahí."_ If they never mention Dolores, she stays cold; she knows the pit closed, but not that they tried.
 
 **The land**: grass rings persist a few months, then fade; the metallic smell goes within days; the ground settles and firms; scavengers and birds return to the south pasture for the first time in eight months. The fig tree in the Jesuit ruins keeps growing for years; nobody removes it. The Luz Mala never appears at the estancia again.
 
@@ -279,11 +283,11 @@ He rides out alone. The next time the players see him is [C11](chapter-11.md#cha
 
 ### The ride east
 
-> ⚠️ **[THIS TABLE] — where is the goat?** Decide before this scene. **If [the goat](assets/npc-stats.md#la-cabra-the-goat) traveled with the party**: run the six-pupil reveal **at the pit at dawn** (she stands at the rim, looks down once, walks west), and the San Ruiz pass finds the well empty — Rosa notes it without alarm. **If she stayed at San Ruiz**: run the well version below. Either way her stats are unchanged.
+**The goat, at the pit at dawn.** She traveled with the party, and now — as the seal holds and the light comes up — she stands at the rim of the sealed pit, looks down into it once, and a **Marked PC** who looks at her sees for the first time that she has **six pupils, three in each eye, aligned in a row**. Nobody else sees it. The Marked PC understands in that look that she has been watching the whole campaign, and always would have been. Then she turns and walks **west** — back toward San Ruiz, toward her territory — and is gone. When the party passes San Ruiz on the ride east, the well is empty; Rosa notes the absence without alarm. ([Her stats](assets/npc-stats.md#la-cabra-the-goat) are unchanged.)
 
 The travel runs without the dead riding parallel — Mercedes in a hired carriage with Don Eusebio (if he came) and Saúl's empty saddlebag tied to her saddle; the Wrong Returned (if alive) wanting to see Buenos Aires once before the alignment finishes fading; the investigators.
 
-> _La primera tarde hacia el este, el grupo pasa por San Ruiz. Rosa está en la plaza, sola, barriendo frente a la capilla. La cabra está en el aljibe. Al pasar el grupo, la cabra mira hacia arriba — y un Marcado que mira hacia abajo ve, por primera vez, que tiene **seis pupilas, tres en cada ojo, alineadas en una fila.** Nadie más lo ve. El Marcado entiende en esa misma mirada que ella ha estado mirando la campaña todo el tiempo, y va a estar ahí cuando regresen, y cuando regresen sus hijos. Rosa, sin levantar la vista: "Adiós, gente. Buen viaje." No deja de barrer._
+> _La primera tarde hacia el este, el grupo pasa por San Ruiz. Rosa está en la plaza, sola, barriendo frente a la capilla. El aljibe está vacío — la cabra ya no está ahí, se fue hacia el oeste al amanecer, y Rosa lo nota sin alarma, como quien nota que faltó algo que siempre estuvo. Rosa, sin levantar la vista: "Adiós, gente. Buen viaje." No deja de barrer._
 >
 > _El segundo día, el grupo se detiene en las ruinas jesuíticas. La higuera sigue ahí. Marta camina hasta la piedra tallada, pone la mano en ella una vez, no dice nada, y monta._
 >
@@ -293,18 +297,15 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 
 ---
 
-
----
-
 ## SESSION CHECKLIST — C9
 
 - [ ] San Ruiz symbol tier from C7 honored in the ritual's precision during Phases.
-- [ ] Phase 4 position tests; southern test with the Eusebio mechanic; **anchor survives by default** (Don Eusebio's *"What do I owe?"* lands better alive).
+- [ ] Phase 4 position tests; the **center** test with the Eusebio mechanic; **anchor survives by default** (Don Eusebio's *"What do I owe?"* lands better alive).
 - [ ] Phase 5 three rounds; *Antu kishu, lan amukey* spoken at the table; **missing chant acknowledged** (Kuyen's *Newen mapu kelluiñ* died with her — let the silence be felt) **unless the Antiquarian rolled Extreme Occult and chooses to supply it** (full efficacy, imperfectly — a scholar reading from a page).
 - [ ] **No Mark rolls during Phases 4–5.** After the seal: Marks go quiet forever at this site — tell the players their dice can stay in the bag.
 - [ ] Dust does **not** lift — Mercedes: *"Lo de acá se cerró. Lo de allá no."*
 - [ ] Rosa: hostile unless **Dolores** was named (Rosa's sister, the chapel woman); if named, the *"Ninguna la ayudó"* beat and the planting-over-the-pit beat land.
-- [ ] Goat location resolved (traveling with party → six-pupil reveal at the pit rim at dawn; staying at San Ruiz → well reveal as written).
+- [ ] Goat: traveled with the party → six-pupil reveal at the pit rim at dawn; she walks west; the San Ruiz well is empty when they pass.
 - [ ] Coypac relay (a few days after the closing, before riding out — **not** dawn): anonymous relay rider, [Saráchaga letter H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn), Saúl confirmed dead; Don Eusebio's east-ride choice; Cursed Gaucho's tannery rendezvous set.
 - [ ] Mandinga-deal PCs: private moment — the wound closes cleanly when the seal holds. The debt is paid. The spell remains.
 - [ ] **Decision**: end at C9, continue to C10, or run hybrid closing note.

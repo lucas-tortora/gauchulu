@@ -30,7 +30,7 @@ The chapel had *both layers on the same walls*: the community had been reinforci
 |---|---|---|
 | **Complete symbol** | Clay under chapel floor, buried with child's bones | Intact, buried under rubble |
 | Carved layer (opening) | Chapel walls | Standing |
-| Dolores's layer (closing) | Chapel walls, scratched | **[THIS TABLE] DESTROYED** |
+| Dolores's layer (closing) | Chapel walls, scratched | **DESTROYED** |
 | Rosa's silver ornament | Rosa's throat | Four-line binding. Available. |
 | Tomás's stone (reverse) | With investigators | Partial counter-binding fragment |
 | Hide fragment | With investigators | Opening fragment — matches, not closes |
@@ -117,4 +117,4 @@ A Marked PC reads shape the way other people read a room. They know if a floor p
 | Kuyen's working | Operational, overloaded. Eastern arc still open. |
 | La Llorona | Displaced, enraged, moving east toward the pit. |
 
-*Full cascade and C3 prep: `TABLE-STATE.md`*
+*Full C3 prep: `chapter-03.md` and `assets/ritual-diagram-c3.md`. Campaign-scale state ledger: `flowmap.md`.*

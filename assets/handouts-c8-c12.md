@@ -164,3 +164,23 @@
 *The second column is circled. Twice.*
 
 > **Keeper**: adjust the first column to your party's actual headcount; the second is always exactly the number of Marked PCs — **2** at this table. If the players falsify the count before it is delivered, El Patrón's dock geometry expects the wrong number of Marks: first Mark-roll at the dock is one threshold safer (C12, Act 2).
+
+---
+
+## H17 — A HAND-DRAWN TUNNEL SKETCH (C11, if a cleaner is caught or the cellar is searched)
+
+↩ **Scene in campaign:** [C11 — Tracing Saráchaga's Last Hours](../chapter-11.md#tracing-saráchagas-last-hours)
+
+> **Keeper**: obtainable either way — interrogate a caught House Cleaner, or Spot Hidden the cellar if both escape. A private map, generations old, added to by at least two hands.
+
+---
+
+> *Un plano a mano alzada, en papel amarillento, doblado en ocho durante tanto tiempo que los pliegues están blandos. Una casa marcada con una cruz chica sobre la calle Reconquista. Una línea que baja, se mete bajo tierra, corre unas cuadras, y llega a una unión marcada con una X grande — al lado, la palabra "SELLADO," en una tinta más vieja que el resto. Del mismo punto salen otras dos líneas, más finas, dibujadas después, cada una con un signo de pregunta: una hacia "Cabildo (¿?)", otra hacia "Merced." Al margen, en la misma mano vieja de la X:*
+>
+> *"Lo que se guarda abajo no es nuestro para vigilar solos."*
+
+**[EN]** *A freehand map on yellowed paper, folded in eighths so long the creases have gone soft. A house marked with a small cross on Calle Reconquista. A line running down and underground, a few blocks, to a junction marked with a large X — beside it, the word "SEALED," in ink older than the rest. From the same point two thinner lines branch off, drawn later, each with a question mark: one toward "Cabildo (?)," one toward "Merced." In the margin, in the same old hand as the X:*
+
+*"What is kept below is not ours to watch alone."*
+
+> **Keeper**: the X and its caption are **Tiburcio Lacasa's** hand — the same Keeper who installed the 1810 lock ([the vault](../chapter-11.md#the-vault-finally)). The branch lines are later additions — the family kept mapping past the point Tiburcio marked sealed. Nobody, including the Lacasas, ever finished the map. **Do not resolve where the tunnels actually go.** The unanswered branches are the point — one more thing under the city that outlived the people who tried to chart it.

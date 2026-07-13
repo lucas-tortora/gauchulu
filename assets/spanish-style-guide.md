@@ -227,15 +227,15 @@ The chant is not a prayer in the Catholic sense; it is a four-line invocation Ku
 
 These are issues found in the current Spanish dialogue across chapters. They are minor; the existing prose is largely period-appropriate. Fix as you encounter them.
 
-**Chapter 1 (`campaign.md` (cap. 1)):**
+**Chapter 1 (`chapter-01.md`):**
 - Line 26: *"el grueso de las paredes de adobo"* → *"el grueso de las paredes de adobe."* (*adobo* = marinade.)
 - Line 138: *"Desde antes que abrieran el campo del sur."* — leave as-is. Rural drop of *de*; correct gaucho register.
 - Line 363: *"¡SIGAN BORRANDO!"* — leave as-is (*ustedes* form). Correct.
 
-**Chapter 4 (`campaign.md` (cap. 4)):**
+**Chapter 4 (`chapter-04.md`):**
 - Verify: any uses of *"tú"* in Eusebio/Quirce dialogue → convert to *vos* or *usted* per the matrix in §2.
 
-**Chapter 5 (`campaign.md` (cap. 5)):**
+**Chapter 5 (`chapter-05.md`):**
 - Verify: any *vosotros* forms → convert to *ustedes*.
 
 **Chapter 8, 9, 10, 11, 12:**

@@ -8,15 +8,17 @@
 
 > **Opening situation.** The camp's roster: the investigators, Don Eusebio, Quirce, Silvio, Héctor, Marta — and Mercedes, once she arrives. The leather panels are being laid out, but nobody trained draws them, and no one yet holds the center. Three small fires burn — not for warmth (it is summer) but for the geometry they make in the dark, the way fire defines angles and pushes the shapeless back.
 
-> ⚠️ **[THIS TABLE] — who draws the panels.** Marta draws them by body memory, working from: the [San Ruiz symbol](#san-ruiz--second-pass) (Tier 1/2/3), the chapel stone-fragment (75%), Saens's manuscript diagrams, and — for scale and proportion — **Don Eusebio's recopied sheets**, which carry [Quirce's/the Wizard's eastern correction](chapter-06.md#the-eastern-asymmetry-recognized). If the players destroyed or quarantined the contaminated sheet in C6, the asymmetry does **not** transfer. Otherwise it transfers, and the table state holds: the eastern panel asymmetry is never corrected.
+> **Who draws the panels.** Marta draws them by body memory, working from: the [San Ruiz symbol](#san-ruiz--second-pass) (Tier 1/2/3), the chapel stone-fragment (75%), Saens's manuscript diagrams, and — for scale and proportion — **Don Eusebio's recopied sheets**, which carry [Quirce's/the Wizard's eastern correction](chapter-06.md#the-eastern-asymmetry-recognized). If the players destroyed or quarantined the contaminated sheet in C6, the asymmetry does **not** transfer. Otherwise it transfers, and the eastern panel asymmetry is never corrected.
 
-> ⚠️ **[THIS TABLE] — where the procedure comes from.** With the curandera dead, the complete symbol no longer lives in her memory and must be recovered (below). The procedure that _uses_ the symbol comes from **Saens's manuscript, read aloud by Mercedes**. Saens failed for lack of a second person, not lack of knowledge — the party is the second person he never had. Her loss makes the closing slower and harder, not impossible.
+> **Where the procedure comes from.** With the curandera dead, the complete symbol no longer lives in her memory and must be recovered (below). The procedure that _uses_ the symbol comes from **Saens's manuscript, read aloud by Mercedes**. Saens failed for lack of a second person, not lack of knowledge — the party is the second person he never had. Her loss makes the closing slower and harder, not impossible.
+
+> **The shape of the night.** Day runs into dark in order: the [San Ruiz second pass](#san-ruiz--second-pass) on the ride in (symbol recovered), then [the pit at night](#the-pit-at-night--changed), then the [last conversations](#last-conversations) before midnight. **After midnight it stops being linear** — Quirce, the entity, the Zonda, the Cursed Gaucho, Mercedes' arrival, and the eastern probe all land between ~11 PM and dawn; the **clock spine at the head of [Last Conversations](#last-conversations)** gives the times. Interleave to taste. It closes on the probe and Mercedes' one instruction — *put someone you trust on the east* — then [rolls into C8](#into-chapter-8).
 
 ---
 
 ## ROLL FOR HOUND — C7
 
-> ⚠️ **[THIS TABLE]** Two Marked PCs, each rolls their own 2d6. **Double 1** → aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). **Double 1 or 2** after a hard look. The night is **saturated** — the pit glows, the entity speaks, the Zonda broadcasts. Resist rolling at everything; the triggers below are enough. **Cap: 3 fired aftershocks across the chapter.** After the seal in C9, the Marks go quiet at this site permanently.
+**Two Marked PCs, each rolls their own 2d6.** **Double 1** → aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). **Double 1 or 2** after a hard look. The night is **saturated** — the pit glows, the entity speaks, the Zonda broadcasts. Resist rolling at everything; the triggers below are enough. **Cap: 3 fired aftershocks across the chapter.** After the seal in C9, the Marks go quiet at this site permanently.
 
 |Trigger|When|
 |---|---|
@@ -125,7 +127,7 @@ He means it. The real question — whether his presence and instruments compromi
 
 **If investigators haven't caught the asymmetry yet**: a **Spot Hidden** or **Occult** check while looking at the assembled panels reveals it. It is subtle enough to have passed even a trained eye.
 
-> ⚠️ **[THIS TABLE] — asymmetry policy.** With the curandera dead, this is the **final "chance to place" window — the line is discoverable but not redrawable.** Marta, tracing it: _"Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro."_ **Erasing is worse than leaving it** (a gap beats a lie, but only just). The correct response is **placement**: a Marked PC or Don Eusebio anchoring the **eastern line physically** (the C3 pure-decision mechanic reused — see C8), or a **Mandinga Warding** placed there. Discovery here buys _informed placement_, not repair. If the contaminated recopy was quarantined or destroyed in C6, this scene finds no asymmetric line.
+> **Asymmetry policy.** With the curandera dead, this is the **final "chance to place" window — the line is discoverable but not redrawable.** Marta, tracing it: _"Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro."_ **Erasing is worse than leaving it** (a gap beats a lie, but only just). The correct response is **placement**: a Marked PC or Don Eusebio anchoring the **eastern line physically** (the C3 pure-decision mechanic reused — see C8), or a **Mandinga Warding** placed there. Discovery here buys _informed placement_, not repair. If the contaminated recopy was quarantined or destroyed in C6, this scene finds no asymmetric line.
 
 **If confronted about the asymmetry**: he admits it immediately. _"Crea una ventana de observación. Un momento de máxima presión antes de que el sello cierre. Nadie iba a salir lastimado — es un diferencial de dos segundos."_ He does not understand why anyone is angry. The geometry and the people standing in it are different categories of concern to him. _"El cierre igual funciona. Solo quería medir el pico."_ This is his central moral failure — not malice, a profound mismatch in what counts as harm.
 
@@ -193,7 +195,7 @@ On entry:
 
 > _"Estoy buscando a la mujer que cierra. Me dijeron que estaba acá. No vengo a cerrar — vengo a ver cómo cierra, para aprender."_
 
-> ⚠️ **[THIS TABLE]** He means the curandera. He does not know she is dead. Someone has to tell him. He receives it without expression, looks at the fire a long moment, then: _"Entonces llegué tarde dos veces."_ He stays anyway. Mercedes and the manuscript are now the only living line into the closing tradition, and the **Marked PCs are the only people left who _perceive_ the way she did.** He attaches his apprenticeship to **them** — quietly, without announcement. This upgrades the Marked PCs from afflicted to **lineage** (a thread for Arc 4).
+He means the curandera — and she is dead. Someone has to tell him. He receives it without expression, looks at the fire a long moment, then: _"Entonces llegué tarde dos veces."_ He stays anyway. Mercedes and the manuscript are now the only living line into the closing tradition, and the **Marked PCs are the only people left who _perceive_ the way she did.** He attaches his apprenticeship to **them** — quietly, without announcement. This upgrades the Marked PCs from afflicted to **lineage** (a thread for Arc 4).
 
 He has been hunting both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition for _his_ closing, eventually, on a different scar in the cordillera.
 
@@ -255,14 +257,12 @@ After the entity has spoken, after the Cursed Gaucho's story, after the cultist 
 
 > _Una galera tirada por dos caballos cansados llega al perímetro poco antes del amanecer. Baja una mujer mayor, sola, vestida de viaje, con el cansancio particular de los que pasaron la vida entre libros y ahora cruzaron setecientos kilómetros sin dormir. Se queda un momento al borde de la luz del fuego y mira el campamento — los paneles de cuero tendidos en el suelo, los Marcados, el pozo que brilla en la oscuridad. Lo entiende todo en una sola mirada. La cara no le hace nada. Después camina hacia el fuego, despacio, como quien llega a un velorio al que ya sabía que iba a llegar tarde._
 
-> ⚠️ **[THIS TABLE]** There is no one who knew her for thirty years to greet her. She looks at the camp. She looks at the players. She understands in an instant. Her face does nothing. She walks to the fire. The embrace is absent, and the players carry the weight of why.
+There is no one here who knew her for thirty years to greet her — the curandera who would have met her is dead. She looks at the camp. She looks at the players. She understands in an instant. Her face does nothing. She walks to the fire. The embrace that should have met her is absent, and the players carry the weight of why.
 
 **Before she speaks**, she walks the length of the fire and shakes each player's hand in turn. Taking the third hand, she pauses — almost imperceptibly — and rubs her thumb across the cuff of the player's jacket. She nods once, to herself, and moves on. She does not name what she felt. **This is the dust runner at its most distant point in the campaign**: Mercedes, seven hundred kilometers from the pit, recognizes the pit-dust on their clothing because she has read the manuscript that says what it is — fine grey particulate from the original carving's limestone, ground over centuries by the geometry, which does not wash out because it is not, strictly, dust. She will not say this aloud. She filed it; that is enough.
 
 **Her first words**, reaching the fire:
 
-> ⚠️ **[THIS TABLE — opening line]** The canon line names the curandera as the closer. Use this instead:
-> 
 > _"Vine a ver. Y a ayudar si puedo. No vine a cerrar — y la mujer que cerraba está muerta, ya lo sé, lo supe en el camino. Así que ahora cerramos como cierran los que quedan: con el manuscrito, con los que volvieron, y con ustedes. Mañana de noche, mientras ustedes cierran este pozo, va a estar pasando algo en Coypac. Si los dos no cierran al mismo tiempo, perdemos los dos. Voy a tratar de tener noticias del Coypac antes del amanecer. No prometo nada."_
 > 
 
@@ -309,7 +309,7 @@ Put someone you trust on the east.
 ## SESSION CHECKLIST — C7
 
 - [ ] **San Ruiz second pass**: run tiers in order; log which tier delivered the symbol (Tier 1 = Rosa hands it over; Tier 2 = Marked PC reconstructs; Tier 3 = partial eastern segment).
-- [ ] [Mercedes' arrival line](#doña-mercedes-arrives-late): use the *[THIS TABLE]* rewrite (Kuyen's name → acknowledgment she is dead; the Coypac coordination line).
+- [ ] [Mercedes' arrival line](#doña-mercedes-arrives-late): she acknowledges the curandera is dead; deliver the Coypac coordination line.
 - [ ] [The Cursed Gaucho](#the-cursed-gaucho): flag that he's looking for a dead woman; run *"Entonces llegué tarde dos veces"* beat; he attaches to the Marked PCs.
 - [ ] **H5 marginalia failsafe** ([older-hand notes](#doña-mercedes-arrives-late)): if Quirce's notebook went unexamined in C6, Mercedes finds and translates the three notes within her first hour — the Great Wizard above Quirce, the Necronomicón named. Do not let the thread drop.
 - [ ] Panel-drawing beat with Marta + contaminated recopied sheets; asymmetry **discoverable, not redrawable** (Marta: *"Puedo borrar la línea. No puedo poner la que va."*).
@@ -318,7 +318,7 @@ Put someone you trust on the east.
 - [ ] [The Eastern Probe](#the-eastern-probe) ~3 AM (scheduled — no 2d6; the C8 east mechanic rehearsed in their bodies).
 - [ ] F7 sharpened: Mercedes delivers *"Put someone you trust on the east"* either after the probe or before dawn.
 - [ ] Cultist statted if E3-alt (cultist break) runs; [H6](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names) ready.
-- [ ] **Goat location — decide now, before C9 dawn.** Did she travel with the party from C5? If yes → six-pupil reveal at the pit rim at C9 dawn (not the well). If she stayed at San Ruiz → well reveal as written. Write the answer in your C8/C9 notes.
+- [ ] **Goat: with the party.** She was pulled from the San Ruiz well in C2 and has traveled with the party since — so the six-pupil reveal runs at the **pit rim at C9 dawn** (she looks down once and walks west), and the well is empty when they pass San Ruiz. (The "stayed in the well" variant does not apply at this table.)
 - [ ] **Antiquarian** (if added): already traveling with the party since C5 (La Salamanca) — **no dusk arrival**; confirm their C8 ring position (eastern line / co-reader).
 - [ ] **Exit state into C8**: who anchors center, who holds east, where Quirce's instruments are, Saúl stays behind the circle (rides out at dawn, does not survive) — write all four down.
 

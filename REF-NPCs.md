@@ -16,13 +16,9 @@ Each NPC entry includes:
 - **Key Hook**: the most useful roleplaying lever
 - **Key Lines**: 2–3 dialogue fragments for the table
 
-This document is the *long* NPC reference. For the *short* version — one or two lines per NPC, embedded in the per-chapter scene flow — see the per-arc cheatsheets:
-- `01-la-tierra-mala/cheatsheet.md`
-- `02-la-salamanca/cheatsheet.md`
-- `03-the-great-sleeper/cheatsheet.md`
-- `04-buenos-aires-and-the-heist/cheatsheet.md`
+This document is the *long* NPC reference. For the campaign-scale overview — chapter grid, state ledger, who-is-alive-when, decision points, and the recurring threads — see `flowmap.md`. Scene-by-scene prep lives in the per-chapter files `chapter-01.md` … `chapter-12.md`.
 
-Use this dossier when an NPC enters a scene and you need their voice. Use the per-arc cheatsheet when you need to remember *what they do this chapter*. The two are designed to sit open side-by-side at the table.
+Use this dossier when an NPC enters a scene and you need their voice. Use `flowmap.md` when you need to remember *what they do this chapter* and the shape of the whole campaign.
 
 ---
 
@@ -35,7 +31,7 @@ Use this dossier when an NPC enters a scene and you need their voice. Use the pe
 **Location**: Estancia La Esperanza (C1–C6); The Pit camp (C7–C9); ruined or aftermath at the estancia (C10–C12, off-stage)
 **Role**: The client. The culprit. The necessary presence in the closing.
 
-> **[THIS TABLE — 2026-05-29] PRIMARY CO-ANCHOR CANDIDATE.** With Kuyen and Nahuel dead (C3), Don Eusebio is the **only remaining candidate for the C8/C9 center anchor** — the man who opened the wound, closing it from inside. Dramatically correct, mechanically the weakest anchor (lower POW than Nahuel's; the entity presses him hardest, and the Round 2 offer hits as *"the land will be ordinary again and you will have to live in it knowing what you cost it."*). He also becomes the **primary pre-ritual interlocutor in C7** (the Nahuel/Kuyen evening scenes do not run) and the one who **sets the closing's timeline** in C6 ("Tomorrow night") since Kuyen is not there to drive it. His Scene 4 in C8 (the outer-ring "No") runs unchanged regardless. See `TABLE-STATE.md` and `assets/arc-review-plan.md`.
+> **Primary co-anchor candidate.** With Kuyen and Nahuel dead (C3), Don Eusebio is the **only remaining candidate for the C8/C9 center anchor** — the man who opened the wound, closing it from inside. Dramatically correct, mechanically the weakest anchor (lower POW than Nahuel's; the entity presses him hardest, and the Round 2 offer hits as *"the land will be ordinary again and you will have to live in it knowing what you cost it."*). He agreed to it in C6, with a Marked PC beside him at the center. He also becomes the **primary pre-ritual interlocutor in C7** (the Nahuel/Kuyen evening scenes do not run) and the one who **sets the closing's timeline** in C6 ("Tomorrow night") since Kuyen is not there to drive it. His Scene 4 in C8 (his "No," at the center) runs unchanged regardless.
 
 **Quick Description**: 62 years old. Silver hair, old-leather tan, yellow-white mustache. White linen shirt, bombachas de campo, polished boots. Ink stains spreading across his right hand — index finger (C1), full palm (C4 onward). Smells faintly of tobacco and struck flint. Receives visitors standing. Taps his right index finger twice on the table when changing the subject.
 
@@ -105,7 +101,7 @@ Use this dossier when an NPC enters a scene and you need their voice. Use the pe
 **Location**: Estancia La Esperanza → Town of Azul (sent away C2)
 **Role**: The servant girl Don Eusebio protected. Evidence that he is not wholly lost.
 
-> **[THIS TABLE — 2026-05-24] DEAD.** Concepción did not survive C1. Don Eusebio's C7 confession shifts: he sent her away injured, she died anyway. He volunteered her. He knows it. He stands in the outer ring in C8 without being asked — settlement, not redemption. The quiet victory callback in C9 is gone. See `TABLE-STATE.md`.
+> **Dead (C1).** Concepción did not survive C1. Don Eusebio's C7 confession shifts: he volunteered her, and she died. He knows it. He stands in the ring in C8 without being asked — settlement, not redemption. The quiet victory callback in C9 is gone.
 
 **Quick Description**: 13 years old, quiet, large eyes. Brings water without being asked. Leaves without meeting anyone's gaze.
 
@@ -119,13 +115,13 @@ This line is not spoken to investigators directly — Don Eusebio quotes it in h
 ---
 
 ### KUYEN
-**Appears in**: ~~Chapters 3–9; if alive, Chapters 10–12~~ — **[THIS TABLE] DEAD. Died C3 holding the eastern line.**
+**Appears in**: Chapter 3 — dies holding the eastern line at the failed ritual.
 **Location**: ~~Dry creek bed encampment (C3–C5); On the move (C5–C6); The Pit camp (C7–C9); Inocencia's boarding house and the Riachuelo cordon (C10–C12)~~ — Creek bed. Body at the eastern ochre line.
 **Role**: The true defender. The ritual leader. The voice of consequence. **At this table: the only person who understood the full closing sequence. Her death is the campaign's central complication from C4 onward — the investigators must find another path to the pit closing without her.**
 
-> **[THIS TABLE — C3 — 2026-05-24] KUYEN IS DEAD.** Died on the eastern line in the final moments of R4. Moved to hold the position herself when no one else did in time. Completed a partial symbol. Took the full distortion load from the Hound's passage. Something closed — not enough, but something. She did what she said she would do. The creek bed is where she is.
+> **Kuyen is dead (C3).** Died on the eastern line in the final moments of R4. Moved to hold the position herself when no one else did in time. Completed a partial symbol. Took the full distortion load from the Hound's passage. Something closed — not enough, but something. She did what she said she would do. The creek bed is where she is.
 >
-> **[THIS TABLE — C3 — 2026-05-29] THE TRIBE IS DEAD.** Kuyen's people did not survive C3 — the whole line is gone, not only its leader. **The only survivors who carry any of the tradition's geometry are the Wrong Returned (Héctor and Marta), and that by exposure, not teaching.** Consequences: no tribal allies travel to Buenos Aires in C10–C12 (only Wrong Returned, if alive); the "Kuyen's people / surviving tribal allies" beats throughout Arcs 3–4 do not trigger; the closing's tradition-knowledge now lives only in Saens's manuscript (written), Mercedes (reader), Marta's body (alignment), and the Marked PCs (perception). In the C12 Destroyed ending the tradition has no elder left to mourn its own inheritance — Mercedes delivers the line in Spanish, from memory. That loss is itself a campaign cost.
+> **The tribe is dead (C3).** Kuyen's people did not survive C3 — the whole line is gone, not only its leader. **The only survivors who carry any of the tradition's geometry are the Wrong Returned (Héctor and Marta), and that by exposure, not teaching.** Consequences: no tribal allies travel to Buenos Aires in C10–C12 (only Wrong Returned, if alive); the "Kuyen's people / surviving tribal allies" beats throughout Arcs 3–4 do not trigger; the closing's tradition-knowledge now lives only in Saens's manuscript (written), Mercedes (reader), Marta's body (alignment), and the Marked PCs (perception). In the C12 Destroyed ending the tradition has no elder left to mourn its own inheritance — Mercedes delivers the line in Spanish, from memory. That loss is itself a campaign cost.
 
 **Quick Description**: 52, Mapuche. Silver-grey hair in two braids. Face that is not hard but *still* — the stillness of someone doing something difficult for a long time without stopping. Heavy wool, riding pants, worn boots. Small pouch of ground pigments at her belt. Hands always available for symbol work — she does not gesticulate.
 
@@ -155,11 +151,11 @@ The most powerful moment: if an investigator says *"We were working for the man 
 ---
 
 ### NAHUEL
-**Appears in**: ~~Chapters 3–9; if alive, Chapters 10–12~~ — **[THIS TABLE] DEAD. Died C3 at the ritual center.**
+**Appears in**: Chapter 3 — dies at the ritual center when the working collapses.
 **Location**: ~~Dry creek bed encampment → Pit camp → Ritual center~~ — Creek bed. Center of the ochre diagram.
 **Role**: The ritual focus. The most vulnerable person. The entity's intended pressure point. **At this table: died when the working collapsed. Had been holding the focus for 23 days. The entity was using him as a classification point — it found him interesting. His last line: *"I thought it would feel like being erased. It just felt like being categorized."***
 
-> **[THIS TABLE — C3 — 2026-05-24] NAHUEL IS DEAD.** Died at center when the working collapsed at end of R4. The entity did not kill him the way weapons kill — the geometry simply stopped being organized around him. 23 days as ritual focus. He did not crack; the working cracked around him. The C8 co-anchor slot is now vacant. Don Eusebio is the only remaining candidate.
+> **Nahuel is dead (C3).** Died at center when the working collapsed at end of R4. The entity did not kill him the way weapons kill — the geometry simply stopped being organized around him. 23 days as ritual focus. He did not crack; the working cracked around him. The C8 co-anchor slot is now vacant. Don Eusebio is the only remaining candidate.
 
 **Quick Description**: 24 years old. Lean, angular features. Dark circles so deep they look bruised. Kneeling at the symbol center, arms at sides, eyes fixed on something not present. Breathing shallow, dangerously controlled. Ochre geometric patterns traced on his palms — smudged from constant redrawing. Shadow falls in the wrong direction from the firelight.
 
@@ -244,7 +240,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: San Ruiz (origin); Tres Lagunas (post-evacuation); Estancia fence line (C4); Road east (C5); Jesuit ruins (C5); Pit camp (C6–C9); Inocencia's boarding house and the cordon (C10–C12)
 **Role**: The Wrong Returned. Anchor. Farmer who was shown a map of what he'd been trying to describe. In Arc 4: a partial-geometry anchor along the transport route — his alignment is *exactly* what reads city geometry.
 
-> **[THIS TABLE — 2026-05-29] LOAD-BEARING SURVIVOR.** Kuyen and Nahuel are dead (C3) and the tribe is gone — so the **Wrong Returned (Héctor and Marta) are the only non-PC personnel who carry the geometry in their bodies.** If Héctor lives through C9, he is a de facto cordon lead in C11/C12 alongside Marta, holding the eastern/partial-alignment positions the closing now depends on. His survival is structurally significant in a way the default run did not require.
+> **Load-bearing survivor.** Kuyen and Nahuel are dead (C3) and the tribe is gone — so the **Wrong Returned (Héctor and Marta) are the only non-PC personnel who carry the geometry in their bodies.** If Héctor lives through C9, he is a de facto cordon lead in C11/C12 alongside Marta, holding the eastern/partial-alignment positions the closing now depends on. His survival is structurally significant in a way the default run did not require.
 
 **Quick Description**: 54, wide-shouldered, graying. Former farmer from San Ruiz, considered steady. Now precise and stripped of social texture — no small talk, no roundabout approaches. Just answers. Eyes track geometry before people. Shadow falls at wrong angles.
 
@@ -266,7 +262,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: Same as Héctor; Jesuit ruins (C5, special scene); Ritual center (C9, possible); Inocencia's boarding house and the cordon (C10–C12)
 **Role**: The Wrong Returned. Anchor. Village teacher and midwife who was shown something vast noticing something small. In Arc 4: the most articulate Wrong Returned at the cordon, the one most able to talk Mercedes through what is happening when the geometry shifts.
 
-> **[THIS TABLE — 2026-05-29] DE FACTO CORDON LEAD (C11/C12).** With Kuyen dead, Marta is the **only person who can draw the complete dual diagram from direct experience** (she traced it from memory in the dark, C5/C9). If she survives C9 she **leads the Buenos Aires cordon's panel placement** — "I don't know the words Kuyen used. But I know where the corners need to be. My body knows the right angles." Improvised, less stable than Kuyen's, but real; a Mandinga-Warding PC can substitute their ward for one panel leg at a weak point. In C8/C9 she also fills the **western anchor** and, if rapport was built, co-anchors the center (see corrected note below). Her survival is load-bearing for Arc 4.
+> **De facto cordon lead (C11/C12).** With Kuyen dead, Marta is the **only person who can draw the complete dual diagram from direct experience** (she traced it from memory in the dark, C5/C9). If she survives C9 she **leads the Buenos Aires cordon's panel placement** — "I don't know the words Kuyen used. But I know where the corners need to be. My body knows the right angles." Improvised, less stable than Kuyen's, but real; a Mandinga-Warding PC can substitute their ward for one panel leg at a weak point. In C8/C9 she also fills the **western anchor** and, if rapport was built, co-anchors the center (see corrected note below). Her survival is load-bearing for Arc 4.
 
 **Quick Description**: 43, Héctor's wife (no blood relation — the surname coincidence was a village joke). Former teacher and midwife. Calm by profession, calmer now in a different way. Occasionally a moment of the old Marta surfaces in her expression and is gone. Touches her own face sometimes, as if checking it's still there.
 
@@ -277,7 +273,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **The Optional Scene** (Chapter 5, 2 AM at the ruins): She traces the complete dual diagram in the air from memory, in three dimensions, eyes open. Afterward:
 > *"Fourteen people went to the field at night. Seven came back changed. Five of those didn't survive the change. Two did. I'm one of the two."*
 
-**The Closing** (Chapter 9, if rapport was built): She offers to co-anchor the center ring ~~with Nahuel~~, using her partial geometric alignment to hold it steady from outside. This is her choice. Investigators cannot make it for her. ⚠️ **[THIS TABLE]** Nahuel is dead — there is no trained center anchor for her to support. At this table she co-anchors with **Don Eusebio** (or the Marked PC who volunteered for center), and her alignment is needed more, not less.
+**The Closing** (Chapter 9, if rapport was built): She offers to co-anchor the center ring, using her partial geometric alignment to hold it steady from outside. This is her choice. Investigators cannot make it for her. Nahuel is dead, so there is no trained center anchor for her to support: she co-anchors with **Don Eusebio and the Marked PC who volunteered for the center**, and her alignment is needed more, not less.
 
 **The Aftermath**: If she co-anchors, her partial geometric alignment burns off at once — she spends the night unable to speak or move, then wakes hungry for the first time in fourteen months.
 
@@ -323,7 +319,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 **Location**: Buenos Aires (her home base, off-stage C4–C6); the pit camp (C7–C9); Buenos Aires — the Manzana de las Luces, the Keeper meeting house, Inocencia's boarding house, the dock (C10–C12)
 **Role**: The teacher. The moral and intellectual center of Arcs 3–4. The Keeper who advocates for moving the book and pays for it.
 
-> **[THIS TABLE — 2026-05-29] ASSUMES THE RITUAL-DIRECTOR ROLE.** With Kuyen dead (C3), Mercedes inherits the **director / panel-caller function for the C8/C9 closing** and the **Phase 5 lead chant** (the "*Antu kishu, lan amukey*" line — she leads it; the untrained join and the geometry teaches them). This is grounded, not improvised: her dossier already makes her the only NPC who can both *read* the geometry and *explain* it. She translates **Saens's written procedure** into spoken direction — the campaign's resolution to "who knows the rite now that Kuyen is dead." Say it once through her in C7: *"Saens wrote down how. He could not do it alone. That was his only mistake we are not about to repeat."* In C11/C12 she also reads the destroy-page and delivers the tradition's closing line herself, in Spanish, since no elder survives. See `assets/arc-review-plan.md` (Blocker 1).
+> **Assumes the ritual-director role.** With Kuyen dead (C3), Mercedes inherits the **director / panel-caller function for the C8/C9 closing** and the **Phase 5 lead chant** (the "*Antu kishu, lan amukey*" line — she leads it; the untrained join and the geometry teaches them). This is grounded, not improvised: her dossier already makes her the only NPC who can both *read* the geometry and *explain* it. She translates **Saens's written procedure** into spoken direction — the campaign's resolution to "who knows the rite now that Kuyen is dead." Say it once through her in C7: *"Saens wrote down how. He could not do it alone. That was his only mistake we are not about to repeat."* In C11/C12 she also reads the destroy-page and delivers the tradition's closing line herself, in Spanish, since no elder survives.
 
 **Quick Description**: Mid-60s (born 1757; copied the Necronomicón at 24 in 1781), slight, white hair pulled back. Plain dark dress, silver crucifix she does not wear ostentatiously, ink stains on her right index and middle fingers. Gold-rimmed reading glasses she pushes up onto her forehead when listening. Walks with a cane she does not lean on. The face of a woman whose job has been to read carefully for fifty years.
 
@@ -339,7 +335,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Arc Through the Campaign**:
 - **C4–C6**: A correspondent. A voice in letters. Her judgment of Quirce is the players' first reliable Keeper-frame.
-- **C7**: Arrives at the pit camp, ~~embraces Kuyen (thirty years of friendship visible for one breath)~~, names the Necronomicón as the book Saens copied from. ⚠️ **[THIS TABLE]** Kuyen is dead — there is no one for the thirty-year embrace. Mercedes arrives, reads the camp in an instant, and walks to the fire; the absence is the players' weight to carry. She still recognizes the pit-dust on a player's cuff (the dust runner).
+- **C7**: Arrives at the pit camp and names the Necronomicón as the book Saens copied from. Kuyen is dead, so there is no one for the thirty-year embrace: Mercedes reads the camp in an instant and walks to the fire; the absence is the players' weight to carry. She still recognizes the pit-dust on a player's cuff (the dust runner).
 - **C8–C9**: Present at the closing; carries the Coypac dispatch east; rides for Buenos Aires.
 - **C10**: Sponsors the players to the Keepers; brings them into the meeting house.
 - **C11**: Confesses what she copied. Hands over the folded parchment. *"No te pido que perdones."*
@@ -606,10 +602,10 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Arc**:
 - **C10**: The second empty chair. Mercedes won't name him.
-- **C11**: His town house is found empty; the maid says he left for the country *yesterday*. The boot prints contradict her. The strongbox holds Quirce's letter and the *E. Dadálah* deed at Areco.
+- **C11**: His town house is found empty; the maid says he left for the country *yesterday*. The boot prints contradict her. The strongbox holds Quirce's letter and the *E. Dadálah* deed at Areco. His cellar holds a private tunnel entrance — see [The House Cleaners / Where they run](chapter-11.md#tracing-saráchagas-last-hours) — inherited from his uncle Tiburcio and kept clear for two generations.
 - **C11–C12**: Has fled north. Will not return.
 
-**Key Hook**: He is the only Keeper who matters in Arc 4 and the only one the players will never meet. His absence is the chapter's accusation.
+**Key Hook**: He is the only Keeper who matters in Arc 4 and the only one the players will never meet. His absence is the chapter's accusation. The tunnel under his house — quietly maintained, never reported to the Keepers — is the same instinct as the empty chair: keep an exit the others don't know about.
 
 ---
 
@@ -741,30 +737,30 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Quick reference**: Not hostile. Not monstrous. The echo of Dolores Quiroga. Moves between her scratched symbols in sequence, checking them, weeping. Becomes briefly conscious at certain symbols. Leads to the child's bones and the complete binding symbol in the clay floor. SAN 0/1D4 sustained; 1/1D6 if physically provoked.
 
-> **[THIS TABLE — 2026-05-24] DISPLACED / ENRAGED. MOVING EAST.** The chapel walls were entirely destroyed. Her symbols are rubble. Her circuit is gone. She is no longer an echo on repeat — she is a grief with nowhere to put itself. Eyes open. Moving east toward the burial pit. She knows who broke the walls.
+> **Displaced / enraged, moving east.** The chapel walls were entirely destroyed. Her symbols are rubble. Her circuit is gone. She is no longer an echo on repeat — she is a grief with nowhere to put itself. Eyes open. Moving east toward the burial pit. She knows who broke the walls.
 >
-> **San Ruiz departure scene** (see chapter-02, THIS TABLE closer): She exited the ruined chapel as the investigators were leaving — eyes open, moving freely. She passed through Rosa gently (smiling — recognition, gratitude, grief). She turned on the investigators in rage and passed through the first one she reached: SAN 1/1D6 flash of Dolores's last moment — fire, the chapel burning, *the child is in the corner*, eastern wall incomplete. The goat headbutted her mid-turn and sent her lurching east. She is now between San Ruiz and the burial pit, moving.
+> **San Ruiz departure scene** (see chapter-02, the departure from San Ruiz): She exited the ruined chapel as the investigators were leaving — eyes open, moving freely. She passed through Rosa gently (smiling — recognition, gratitude, grief). She turned on the investigators in rage and passed through the first one she reached: SAN 1/1D6 flash of Dolores's last moment — fire, the chapel burning, *the child is in the corner*, eastern wall incomplete. The goat headbutted her mid-turn and sent her lurching east. She is now between San Ruiz and the burial pit, moving.
 >
-> When encountered going forward: no closed-eyed woman checking her work. The weeping is no longer private. A Marked PC near her path perceives a geometry unraveling outward. SAN 1/1D6. See `TABLE-STATE.md`.
+> When encountered going forward: no closed-eyed woman checking her work. The weeping is no longer private. A Marked PC near her path perceives a geometry unraveling outward. SAN 1/1D6.
 
 ---
 
 ### LA CABRA (The Goat)
 **Type**: Anomalous animal / Pombero marker
 **Appears in**: Chapter 2 (the well); canonically present throughout (still in the well on later returns); see table-specific state below
-**Full notes**: Chapter 2, Setting description; `TABLE-STATE.md` (The Goat Thread)
+**Full notes**: Chapter 2, Setting description; `flowmap.md` (the goat, under Recurring Threads); `assets/mandinga-sequence.md`
 
 **Quick reference (canonical)**: A brown-and-white goat living on a ledge inside San Ruiz's communal well. Does not eat, does not fear, does not return to the surface if lifted out — walks back and jumps in. Not a clue. A campaign-spanning witness. Still in the well whenever players return. Horses do not shy from her.
 
-> **[THIS TABLE — 2026-05-24] EXTRACTED. NO LONGER IN THE WELL.** She is a Mandinga marker (see Mandinga entry; see `TABLE-STATE.md` — The Goat Thread). She was in the well since the gate first opened — hidden from the entity's geometry in the one ungeometric space in San Ruiz. The investigators removed her. She is exposed now and in play.
+> **Extracted — no longer in the well.** She is a Mandinga marker (see the Mandinga entry). She was in the well since the gate first opened — hidden from the entity's geometry in the one ungeometric space in San Ruiz. The investigators removed her. She is exposed now and in play, following the party until she walks west from the sealed pit at dawn in C9.
 >
 > She does not follow the party — she *precedes* them. She is always already where they are going. No one sees her arrive. She makes no sound. She does not eat, does not bleed if cut, does not react to fire or gunshot. Her pupils do not dilate. She cannot be lost, tied off, or left behind.
 >
 > **She can harm the immaterial.** Mandinga's creature, she exists at the threshold between physical and non-physical. She can strike psychic remnants, displaced entities, and the Hound's edge-geometry — not destroy them, but disrupt their form and create distance. First demonstrated at San Ruiz when she headbutted La Llorona mid-turn and sent her lurching east. She acts on her own judgment; she cannot be directed or commanded. One disruption available to the party at all times, timed entirely by her.
 >
-> **The deal**: When a PC is effectively dying, she approaches, gets very close, and the dying PC receives an understanding — not words — of an offer. *You live. You close the pit with your hands. That is all.* If accepted, the wound closes and the goat attends that PC specifically from then on. The contract sits in them like a splinter: present, not painful, keeping count. If refused, she steps back and the dying proceeds. *(At this table: first deal opportunity at San Ruiz departure, if gravely injured PC is at threshold. See chapter-02, THIS TABLE closer.)*
+> **The deal**: When a PC is effectively dying, she approaches, gets very close, and the dying PC receives an understanding — not words — of an offer. *You live. You close the pit with your hands. That is all.* If accepted, the wound closes and the goat attends that PC specifically from then on. The contract sits in them like a splinter: present, not painful, keeping count. If refused, she steps back and the dying proceeds. *(First deal opportunity at San Ruiz departure, if a gravely injured PC is at threshold — see chapter-02, the departure from San Ruiz.)*
 >
-> **Enforcement**: The life was a loan. If the PC moves away from the closing, the wound begins to return — gradual, visible, a clock. Mandinga will not let them die of anything *else* before the debt is paid; the body closes around injury against the PC's wishes. If they default entirely and die without closing the pit, the debt survives death. They come back wrong. See `TABLE-STATE.md` — The Deal and Enforcement.
+> **Enforcement**: The life was a loan. If the PC moves away from the closing, the wound begins to return — gradual, visible, a clock. Mandinga will not let them die of anything *else* before the debt is paid; the body closes around injury against the PC's wishes. If they default entirely and die without closing the pit, the debt survives death. They come back wrong. See `assets/mandinga-sequence.md` — the deal and enforcement.
 >
 > **Do not explain until Arc 2.**
 
@@ -773,7 +769,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 ### MANDINGA
 **Type**: Folk supernatural / displaced territorial power
 **Appears in**: Ambient from C2 (via the goat); implied presence in Arc 2 (La Salamanca is his domain); possible direct manifestation C5-6
-**Full notes**: `TABLE-STATE.md` — The Goat Thread
+**Full notes**: `flowmap.md` (the goat, under Recurring Threads); `assets/mandinga-sequence.md`
 
 **What he is**: The gaucho devil — the folk name for the Devil in the Río de la Plata tradition. He runs La Salamanca, the underground school where forbidden arts are taught. He rides at midnight. He takes the form of black animals. He makes deals but can be outwitted. He is the master of the morally compromised: gamblers, midnight riders, the man who sold his shadow at a crossroads. He is not an abstraction — he is a specific local power with territory, history, and grievances.
 
@@ -783,7 +779,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **How he operates**: He does not fight. He does not appear directly unless the conditions are exactly right. He works through markers, through deals, through the people already in play. He will not offer a clean alliance — he will offer a transaction, bounded and specific. He wants acknowledgment that his territory was violated, and the entity's removal from it. He and the investigators want the same outcome for entirely different reasons.
 
-**The deal mechanism**: When a PC is dying and the goat is present, Mandinga acts through her. The terms are simple: *you live, you close the pit with your hands.* Not the soul — *"el alma no me sirve de nada si no hay pampas donde gastarla."* Just a placement at the closing. The deal is not generous; it is efficient. He needs the pit closed and he needs someone bound to close it. The dying PC is a resource, not a guest. See `TABLE-STATE.md` — The Deal.
+**The deal mechanism**: When a PC is dying and the goat is present, Mandinga acts through her. The terms are simple: *you live, you close the pit with your hands.* Not the soul — *"el alma no me sirve de nada si no hay pampas donde gastarla."* Just a placement at the closing. The deal is not generous; it is efficient. He needs the pit closed and he needs someone bound to close it. The dying PC is a resource, not a guest. See `assets/mandinga-sequence.md` — the deal.
 
 **Quick description if he manifests**: A dark figure on the edge of firelight — could be a man in black, could be a black horse standing where a man should be. He is the last thing in the room that moves. His voice arrives slightly before he does. He smells of sulfur the way the land smells of grass: as a fact, not a warning.
 
@@ -791,7 +787,7 @@ The most powerful moment: if an investigator says *"We were working for the man 
 > *"Eso que está abajo no es mío. Nunca fue mío. Y tampoco es de ustedes."*
 > *"Mi trato es sencillo. Lo sacan. Me devuelven lo que me deben. No les cobro el alma — el alma no me sirve de nada si no hay pampas donde gastarla."*
 
-> **[THIS TABLE — 2026-05-24]** The goat is his marker, placed in the one ungeometric space in San Ruiz. The investigators removed it. He is now watching them directly. The La Salamanca encounter in Arc 2 is when this thread pays off.
+> The goat is his marker, placed in the one ungeometric space in San Ruiz. The investigators removed it, so he is now watching them directly. The La Salamanca encounter in Arc 2 is when this thread pays off.
 
 ---
 

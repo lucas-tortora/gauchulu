@@ -15,19 +15,17 @@
 
 ## OPENING SITUATION
 
-The investigators return to Estancia La Esperanza knowing what they didn't know when they left it. Don Eusebio hired them to do his dirty work. He watched from a ridge while four people died. He has the manuscript that started all of this locked in his study.
+The investigators come back to Estancia La Esperanza knowing what they didn't know when they left it — but not clean and not in one piece. They fled the creek bed scattered and found their own way home; the chapter opens not at the gate but in the grey hour after the Hound (run **THE RETURN** and **SAN RUIZ — ROSA, FIRST PASS**, below, before they ever reach the estancia). Don Eusebio hired them to do his dirty work. He watched from a ridge while the tribe died. He has the manuscript that started all of this locked in his study.
 
 The estancia has changed in one visible way: the gates are closed and bolted. Two ranch hands stand watch at the entrance. Don Eusebio has not been seen outside the main house in three days — not since the investigators saw his palomino on the ridge.
 
 **What Don Eusebio knows about the investigators now**: They helped the tribe. They witnessed the partial binding. They are no longer useful to him — they are a threat to the only cover story he has. He intends to deny everything and, if pressed, to discredit them (outsiders, drifters, possibly in league with the savages).
 
-**What he doesn't know**: That they have the complete binding symbol. That they've read Dolores's message. That Rosa told them everything. He is still operating on the assumption that he controls the information.
-
-> ⚠️ **[THIS TABLE]** Correction to the canonical framing above. At this table the party does **not** simply "return to the estancia knowing what they didn't know." They flee C3 in pieces and find their own way back — run **THE RETURN** and **SAN RUIZ — ROSA, FIRST PASS** (below) before they ever reach the gate. And they do **not yet** have the complete binding symbol: Rosa withholds it on this pass. They carry only the 75% chapel stone-fragment and Rosa's conditional promise; the complete symbol is earned on the second San Ruiz pass before C7. Read "What he doesn't know" with that correction.
+**What he doesn't know**: That they've read Dolores's message. That Rosa told them everything. He is still operating on the assumption that he controls the information. But he is wrong to fear the complete binding symbol in their hands, because they do **not** have it — Rosa withheld it on the first pass. They carry only the 75% chapel stone-fragment and her conditional promise; the complete symbol is not earned until the second San Ruiz pass, before C7.
 
 ---
 
-## THE RETURN — FROM THE CREEK BED  *(THIS TABLE — opening scene)*
+## THE RETURN — FROM THE CREEK BED
 
 The chapter does not open at the estancia. It opens in the grey hour after the Hound, with the investigators scattered across the pampa, each surfacing from their own version of the night.
 
@@ -49,7 +47,7 @@ That trail is the path home. West off the ridge, the only water and shelter on t
 
 ---
 
-## SAN RUIZ — ROSA, FIRST PASS  *(THIS TABLE — Rosa-repair, beat 1)*
+## SAN RUIZ — ROSA, FIRST PASS
 
 The trail west runs through San Ruiz before it reaches the estancia, and no tired horse will take the long way around. This is the **first of two passes** through the village. The second — pre-C7, on the ride to the pit — is where Rosa hands over the complete binding symbol (see chapter 7's opening note). **This one is cold. Do not let her thaw.**
 
@@ -66,9 +64,7 @@ She does **not** give them the symbol. She names her condition instead — the h
 
 > *"Les voy a dar lo que necesitan cuando me puedan decir que van al pozo a cerrarlo. No a hablar con el que lo abrió. No a negociar. A cerrarlo. Cuando sea verdad, vuelvan. Hasta entonces no tengo nada para ustedes."* — *"I'll give you what you need when you can tell me you're going to the pit to close it. Not to talk to the man who opened it. Not to bargain. To close it. When it's true, come back. Until then I have nothing for you."*
 
-**Marked PC, leaving**: at the chapel rubble they feel Rosa's silent prayer still running over the buried clay — a felt geometry, thin but unbroken. The complete clay symbol is still down there, under the stones they knocked loose. *(Rosa is the lock, not the only key: if the party never circles back, the symbol can still be reconstructed from the 75% stone-fragment + Marked perception — see chapter 7's binding-symbol note.)*
-
-> **[THIS TABLE — C4 SAN RUIZ — 2026-05-29]** First of two San Ruiz passes. Rosa cold; stone-fragment returned; La Llorona news delivered; **symbol withheld** pending genuine closing intent. The second pass (pre-C7) is the handover. If the party never circles back, fall to the stone-fragment (75%) + Marked-perception reconstruction. The buried clay and Rosa's under-stone scratch both still exist — Rosa is the gate, not the only path.
+**Marked PC, leaving**: at the chapel rubble they feel Rosa's silent prayer still running over the buried clay — a felt geometry, thin but unbroken. The complete clay symbol is still down there, under the stones they knocked loose. Rosa is the gate, not the only path: if the party never circles back, the symbol can still be reconstructed from the 75% stone-fragment + Marked perception (see chapter 7's binding-symbol note), and Rosa's under-stone scratch still exists.
 
 ---
 
@@ -80,7 +76,7 @@ She does **not** give them the symbol. She names her condition instead — the h
 
 **Keeper Notes — What Has Changed Since Chapter 1**:
 - The skull above the zagúan doorframe is gone. A faint bleached outline on the whitewash shows where it hung. Nobody moved it deliberately — it was found in pieces in the courtyard one morning.
-- Concepción (the servant girl) is not visible at all. Tomás can reveal, if pressed very gently, that Don Eusebio sent her to a cousin's house in the town of Azul two weeks ago. He says it was for her education. His eyes say something else.
+- Concepción (the servant girl) is gone — and there is no "sent to Azul for her education" cover here, because she died at the pit in C1, the night the investigators broke Don Eusebio's opening. Tomás, if he mentions her at all, says only that she hasn't been seen since the night of the trouble; he was there and did not go in after her, and he does not know — or cannot say — what became of her. Don Eusebio knows, and cannot say it. The PCs who were at the pit know. If they speak it aloud, Don Eusebio goes still in a way that confirms rather than refutes. (This is why his C7 confession is that she died, not that she was spirited away safely, and why the C9 humming callback does not land as written.)
 - The locked study has a new feature: the window facing the courtyard now has a blanket nailed over it from the inside. Light leaks from the edges at night.
 - Three horses in the corral, where there were eleven before. The others were sold or sent north, officially.
 - One ranch hand — **Silvio** (see NPC below) — does not stand watch or respond to the new security arrangements. He works. He works all day, every day. He doesn't stop. He doesn't eat with the others.
@@ -323,15 +319,6 @@ They are not dangerous. They are, like Silvio, pulled — and like Silvio, they 
 | Wall cavity (study) | Possibly opened from the other side — El Patrón's hand in the manuscript's transmission |
 
 > **Carried forward in C5** (not C4): Mercedes' first letter (morning after); El Pombero on *El Pelón*; Larrea's tarnished copper (5b) on the road to the ruins.
-
-> **[THIS TABLE — C4 ENTRY — 2026-05-29]**
-> PCs arrive after the C3 failure — ritual failed, Hound escaped, Nahuel and Kuyen dead, tribe dead. Two PCs fled under temporary insanity; one fled by rational choice. All three are marked by what they witnessed (two literally, with permanent geometry perception).
->
-> **Concepción is dead at this table.** She died at the pit in C1. The line "Don Eusebio sent her to a cousin's house in Azul" does not run. When Tomás mentions her, he says only that she hasn't been seen since the night of the trouble — he doesn't know what happened. Don Eusebio knows. He cannot say it. The PCs who were at the pit know. Whether they speak it aloud to Tomás or Don Eusebio is their choice. If they do, Don Eusebio goes still in a way that confirms rather than refutes.
->
-> Downstream: Don Eusebio's C7 confession changes (he confesses she died, not that she was spirited away safely). The C9 humming callback does not land as written.
-
----
 
 ## EXPANSION NOTES — BRIDGING TO THE OVERVIEW FRAMING
 

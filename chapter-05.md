@@ -10,7 +10,7 @@
 
 ## ROLL FOR HOUND — C5
 
-> ⚠️ **[THIS TABLE]** **Two Marked PCs** — each rolls **their own 2d6** at the triggers below; either can fire independently. Rule: [overview — Mark](overview.md#mark-of-tindalos) · [geometric-perception-cues](assets/geometric-perception-cues.md). **Double 1** → Hound aftershock **1D3 rounds** (peripheral, at an angle). **Double 1 or 2** if a Marked PC **looked hard** at geometry this scene. Marked PCs feel geometry **tilt** _before_ you call for dice; unmarked PCs see environmental wrongness only.
+**Two Marked PCs — each rolls their own 2d6** at the triggers below; either can fire independently (the Mark rule is in [overview](overview.md#mark-of-tindalos) and [geometric-perception-cues](assets/geometric-perception-cues.md)). **Double 1** → Hound aftershock **1D3 rounds** (peripheral, at an angle). **Double 1 or 2** if a Marked PC **looked hard** at geometry this scene. Marked PCs feel geometry **tilt** _before_ you call for dice; unmarked PCs see environmental wrongness only.
 
 |Site|Roll when|
 |---|---|
@@ -40,7 +40,7 @@ It is from **[Doña Mercedes Solís](REF-NPCs.md#do%C3%B1a-mercedes-sol%C3%ADs)*
 
 _(The "word" Mercedes alludes to but does not write is **Necronomicón**. She writes around it on principle; she will name it only in person or in a sealed reply. Players who found the [marginal note in C4](chapter-04.md#the-locked-study) recognize what she means; others will be drawn back to page 47.)_
 
-Don Eusebio has not replied. He hands the letter to the players: _"Si pasa algo y yo no estoy, escríbanle ustedes. Ella es de fiar. Quirce no."_ Mercedes is the campaign's eventual moral and intellectual center; this introduces her as a name early. Players who write to her receive her **reply** later this chapter ([Mercedes' reply](#doña-mercedes-reply)).
+Don Eusebio has not replied. He hands the letter to the players: _"Si pasa algo y yo no estoy, escríbanle ustedes. Ella es de fiar. Quirce no."_ Mercedes is the campaign's eventual moral and intellectual center; this introduces her as a name early. Players who write to her receive her **reply** when they return to the estancia ([C6 — Doña Mercedes' first reply](chapter-06.md#doña-mercedes-first-reply)).
 
 > † _Canon note: in the published version, a parallel thread has Kuyen preparing ritual components and warning that the entity is "pushing — every night harder." That information (the entity is escalating; the pit is needed now) reaches this table instead through [the warning without Kuyen](#the-warning-without-kuyen) at chapter's end._
 
@@ -316,7 +316,7 @@ Marta, quieter:
 
 This is the campaign's **role map** for C8–9 in one conversation: Eusebio outer ring (minimum); center = Eusebio or volunteer PC; Héctor/Marta = outer anchors (necessary, not sacrificial).
 
-> ⚠️ **[THIS TABLE — 2026-06-23]** The party took the **full diagram lesson** here — they now carry, first-hand: the **positions**, the **ritual order**, that **the east breaks first**, and the **main chant** (_Antu kishu, lan amukey_). They did **NOT** get the **underlying base tone** — the mobile working chant (_Newen mapu kelluiñ_) that runs beneath the reading. That gap persists into [C8–C9](chapter-08.md#chapter-8--la-traición): they can run the structure themselves, but the base tone is still missing unless the [Antiquarian supplies it on an Extreme Occult roll](chapter-08.md#prior-knowledge--occult-roll-at-character-creation). **Hand them [Saens's closing instructions](02-la-salamanca/saens-closing-instructions.md)** — the figure as he knew it (east incomplete), the chant's melody without the base note, the leader (with the translation caveat) and anchor roles, *east fails first*, and the five stages.
+**What the party carries out of this lesson**: the **positions**, the **ritual order**, that **the east breaks first**, and the **main chant** (_Antu kishu, lan amukey_) — all first-hand. What they did **not** get is the **underlying base tone** — the mobile working chant (_Newen mapu kelluiñ_) that runs beneath the reading. That gap persists into [C8–C9](chapter-08.md#chapter-8--la-traición): they can run the structure themselves, but the base tone stays missing unless the [Antiquarian supplies it on an Extreme Occult roll](chapter-08.md#prior-knowledge--occult-roll-at-character-creation). **Hand them [Saens's closing instructions](02-la-salamanca/saens-closing-instructions.md)** — the figure as he knew it (east incomplete), the chant's melody without the base note, the leader (with the translation caveat) and anchor roles, *east fails first*, and the five stages.
 
 > **Keeper — what the handout leaves out, and what it gets wrong.** [Saens's instructions](02-la-salamanca/saens-closing-instructions.md) are a real leg-up, but they are a 1760s priest's partial record. **Run the gaps; do not correct them for the players.**
 >
@@ -421,7 +421,7 @@ After the diagram lesson settles and the party has looked at Saens's skull a whi
 
 She means **page 79** ([handout H2](assets/handouts-c5-c7.md#h2--manuscript-page-79-the-readers-page)), read aloud, over the skull, in the chamber's silence. If a PC reads it — slowly, with weight — the **Reader-path seed is planted** exactly as the ruins version would have. Note the PC's name; log it. If multiple read, the seed lands on the slowest, heaviest reading. If the table declines both invitations (ruins + skull), the path is closed honestly — they were asked twice. **Do not retrofit.**
 
-> ⚠️ **[THIS TABLE — 2026-06-24]** No PC read page 79 aloud — at the ruins or here. **The seed was never planted: there is no Reader at this table, and the [C12 Use ending](chapter-12.md#option-2--used) is closed** (Hide and Destroyed remain). Run nothing downstream — the C8 Mercedes recognition, the C11 cloister bridge — that assumes a Reader.
+**At this table no one read page 79 aloud** — not at the ruins, not here. The table was asked twice and declined both times, so the seed was never planted: **there is no Reader, and the [C12 Use ending](chapter-12.md#option-2--used) is closed** (Hide and Destroyed remain). Nothing downstream that assumes a Reader — the C8 Mercedes recognition, the C11 cloister bridge — runs.
 
 > **Roll for Hound**: reading page 79 aloud _inside the bone chamber_ — both Marked PCs roll 2d6. The geometry is already awake; the skull is a resonator. **Double 1** → cataloguing pass (1 round) on the last syllable. It is not angry. It heard.
 
@@ -437,7 +437,7 @@ Beyond the bone chamber the way **does not fork** — it is a single descending 
 
 **1 · Offering chamber.** Stone table with a cup, bone needle, clay tablet in unreadable script. **Hard Library Use** identifies **proto-Tehuelche**, but the script is older than known proto-Tehuelche by perhaps a thousand years. Permanent campaign object — Mercedes will want to see it. *(Keeper: the cup + bone needle are the **toll-prep kit** for the guardian two rooms on. A party that lingers here is rewarded later. **Clay tablet carry-forward**: if the party brings it to Mercedes (C7 or later), she goes quiet, then says: _"No debería leer esto — hay partes del registro que estaban selladas por razones."_ She does not say what she read; she tucks it away and changes the subject. She will reference it once in C8 if pressed, but she won't explain.)*
 
-> ⚠️ **[THIS TABLE — 2026-06-23]** Looted the altar — took the **clay tablet, cup, and bone needle**. The cup + needle were the **toll-prep kit** for the [Invunche guardian](#the-guardian--el-invunche) two rooms on; taking them before paying the toll means the party reached the guardian with **nothing to offer** (resolve how they got past it). The tablet is the permanent object Mercedes reacts to (above).
+**At this table the party looted the altar** — clay tablet, cup, and bone needle all taken. The cup + needle were the **toll-prep kit** for the [Invunche guardian](#the-guardian--el-invunche) two rooms on, so the party reached the guardian with **nothing to offer** (resolve how they got past it). The tablet is the permanent object Mercedes reacts to (above).
 
 **2 · Whisper tunnel — vizcachas & a voice.** The acoustic tuning has teeth here: the warren in the walls comes for noise.
 
@@ -452,9 +452,7 @@ In this tunnel the party meets the **[antiquarian PC](pc-antiquarian-occult-note
 
 > **Keeper — second cave mouth**: it is a fault crack ~200 m east of the main shaft, not marked on any surface feature. It bypasses the bone chamber entirely and opens into this tunnel. The antiquarian has never seen the bone chamber. Run his reaction to it on the **way out** — the encounter hits harder when he has context for the geometry, and it gives the session a second emotional beat after the Wizard or guardian. Do not explain the fault crack to the players; if they look for it later, a Geology (Hard) or Navigate (Hard) check finds the entrance, overgrown and narrow.
 
-> **Keeper — the added PC enters here.** This is the Antiquarian's introduction and the campaign's entry point for that player. Their back path collapsed, so the party's route is their only way out: they come up out of La Salamanca **with the group** and travel west to the pit. At the closing they take a ritual position — [The Antiquarian at the Ring](chapter-08.md#the-antiquarian-at-the-ring-added-pc). **There is no separate arrival in C8.**
-
-> ⚠️ **[THIS TABLE — 2026-06-23]** Met. The Antiquarian is now a **companion** travelling west with the party — see [The Antiquarian at the Ring](chapter-08.md#the-antiquarian-at-the-ring-added-pc).
+> **Keeper — the added PC enters here.** This is the Antiquarian's introduction and the campaign's entry point for that player. The party met him at this table; he is now a **companion**. His back path collapsed, so the party's route is his only way out: he comes up out of La Salamanca **with the group** and travels west to the pit. At the closing he takes a ritual position — [The Antiquarian at the Ring](chapter-08.md#the-antiquarian-at-the-ring-added-pc). **There is no separate arrival in C8.**
 
 > *"Hablen bajo — los túneles están llenos de vizcachas y vienen por el ruido. Y hay algo encadenado en la oscuridad pasando el próximo hueco. No se me vino encima. Sólo esperó. Tráiganle algo, o no creo que los deje pasar."*
 
@@ -499,7 +497,7 @@ In this tunnel the party meets the **[antiquarian PC](pc-antiquarian-occult-note
 2. **Fight it** — slow, no Dodge, weak-ghoul HP; the curse + grip make a loud brawl costly. **Killing it ends the toll permanently — and the Wizard will know his guardian is dead** (if still underground in C5, he is already at the slab when they reach his chamber; if they meet him first in C7, he will know the guardian is gone before they say a word).
 3. **Slip past silent** — Stealth vs its **Listen 75%**. Hard: the whisper tunnel broadcasts every sound. Same silence law as the vizcachas.
 
-> **[THIS TABLE]** The Invunche **confirms the brujería layer before the door** without spending the Wizard reveal — it cannot speak. Do **not** let it carry Coypac / eastern-asymmetry intel; that stays behind the slab. No Hound roll in this room.
+> **Keeper**: the Invunche **confirms the brujería layer before the door** without spending the Wizard reveal — it cannot speak. Do **not** let it carry Coypac / eastern-asymmetry intel; that stays behind the slab. No Hound roll in this room.
 
 ---
 
@@ -509,7 +507,7 @@ _(optional — run only if investigators force the sealed door after [Pombero's 
 
 > **Warn at the table**: this is the deepest human layer of La Salamanca; what they learn here cannot be unlearned; [C6](chapter-06.md#quirce-arrives) will feel different if they have already met the Wizard or read his desk.
 
-> ⚠️ **[THIS TABLE — 2026-06-23]** The party **looted the chamber entirely** — the pampa **maps** (La Esperanza, San Ruiz, and the Coypac mark), the ochre-edged **robes**, and his **geometry notes**: forty years of the Great Wizard's work, taken. **He retaliates with a [malón for the maps](#the-malón-for-the-maps)** — Ranquel raiders and two Coypac ochre priests who shadow the party home from the ruins and strike when [the closing begins](chapter-08.md#the-malón-strikes). Whether they faced him or stripped an empty room, he now knows them by their hand.
+**At this table the party looted the chamber entirely** — the pampa **maps** (La Esperanza, San Ruiz, and the Coypac mark), the ochre-edged **robes**, and his **geometry notes**: forty years of the Great Wizard's work, taken. **He retaliates with a [malón for the maps](#the-malón-for-the-maps)** — Ranquel raiders and two Coypac ochre priests who shadow the party home from the ruins and strike when [the closing begins](chapter-08.md#the-malón-strikes). Whether they faced him or stripped an empty room, he now knows them by their hand.
 
 ### Keeper brief — who he is
 
@@ -642,7 +640,7 @@ If investigators argue for staying (more exploration, the wizard chamber, "we ne
 
 ### The Malón for the Maps
 
-> ⚠️ **[THIS TABLE — 2026-06-23]** Retaliation for stripping the [Great Wizard's chamber](#the-chamber-of-the-great-wizard). The Wizard is old and slow (DEX 35) and rides after no one — he sends word up the cult chain. What comes is a **malón**: a mounted raiding party of **pampa natives — Ranquel, not Tehuelche** — sent to take the maps and geometry notes back. Two **ochre priests of the Coypac cult** ride with them, directing; the warriors are the muscle (paid in trade goods and protection), the priests the purpose. **They do not strike on the road — they stalk, count, and wait for the closing.** ([The strike lands at the ritual, C8](chapter-08.md#the-malón-strikes).)
+This is the Wizard's retaliation for stripping [his chamber](#the-chamber-of-the-great-wizard). He is old and slow (DEX 35) and rides after no one — he sends word up the cult chain. What comes is a **malón**: a mounted raiding party of **pampa natives — Ranquel, not Tehuelche** — sent to take the maps and geometry notes back. Two **ochre priests of the Coypac cult** ride with them, directing; the warriors are the muscle (paid in trade goods and protection), the priests the purpose. **They do not strike on the road — they stalk, count, and wait for the closing.** ([The strike lands at the ritual, C8](chapter-08.md#the-malón-strikes).)
 
 > **Keeper — name the distinction out loud.** These are **not** Antu-Rayo's people. The Tehuelche counter-tradition (Kuyen, the dead tribe) tried to *close* the wound; this malón serves the ochre men who want it *open*. Héctor or Marta says so if the table starts to conflate them: _"No son de los nuestros. Esos sirven a los de ocre."_ Do not let the campaign's grief about the tribe smear onto these raiders.
 

@@ -6,19 +6,28 @@
 
 > **Keeper note.** Two halves: a slow first half (city-as-character; the Keepers as _people you know_) and a fast last hour (Saráchaga's death). Don't hurry the first half, or the death is just plot. Keep **El Patrón off-stage** — he is a carriage, a window, a death here; he becomes a presence in C11 and a person in C12. Use the Marks as _awareness_, not drama: the Marked notice the city geometry, feel the warm stone first, sense the death-room before they enter it.
 
-> ⚠️ **[THIS TABLE]** No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. Two Marked PCs at this table; their reading of the city geometry on entry is more vivid for having just lived the closing.
+> **Setting reference.** For 1821 Buenos Aires — the Rivadavia reforms, the Manzana de las Luces, the portless river and the *saladero* coast, daily life and the senses, and how the real city grounds the geometry — see [`REF-BuenosAires-1821.md`](REF-BuenosAires-1821.md).
+
+> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. The two Marked PCs read the city geometry on entry more vividly for having just lived the closing.
+
+> **The shape of the chapter — a slow build to a fast dawn.** Run the beats in order, unhurried until the death; **Mercedes leads them from place to place — when a scene ends, she names the next one.**
+> 1. [Entry](#entry-into-the-city) + [the streets](#the-streets) — build the city; the micro-encounters; the third *"Dadálah"* on the street.
+> 2. [The university](#the-university-public-face) + [the vault glimpse](#first-glimpse-of-the-vault) — the public face, then the warm witness-stone three floors up.
+> 3. [The Keeper meeting](#the-keeper-meeting-house) — meet the roster, the two empty chairs, the debate; the players state their case (this sets C11 receptivity).
+> 4. [The streets at night](#the-streets-at-night) — Galíndez walks them home; four wrong things.
+> 5. [Dawn](#dawn--a-keeper-is-dead) — Saráchaga dead; the vote decides itself. → [C11](chapter-11.md#chapter-11--la-decisión).
 
 ---
 
 ## ENTRY INTO THE CITY
 
-> _The pampa stops, and then the city begins, and then there is nothing in between. The road narrows into Calle de la Recoleta. The first thing you smell is leather curing — the saladeros by the river — and beneath it the river itself, brackish and slow. Buenos Aires in 1821 is a colonial port half-becoming a republican capital: the original 1580 Spanish grid, eleven blocks by nine, but on every third corner a new sign — a bookshop, a French pharmacist, a notary where there used to be a confessor. The Cabildo's tower clock keeps city time; church bells argue with it._
+> _La pampa se termina, y entonces empieza la ciudad, y no hay nada en el medio. El camino se angosta y se hace la calle de la Recoleta. Lo primero que huelen es cuero curándose — los saladeros junto al río — y por debajo el río mismo, salobre y lento. Buenos Aires en 1821 es un puerto colonial a medio volverse capital republicana: la cuadrícula española original de 1580, once manzanas por nueve, pero en cada tercera esquina un cartel nuevo — una librería, un boticario francés, una escribanía donde antes había un confesonario. El reloj de la torre del Cabildo marca la hora de la ciudad; las campanas de las iglesias le discuten._
 > 
-> _And under all of it, in the rhythm of the streets, you feel something you've felt before. The grid is too clean. The angles repeat. Your Marks — quiet since the Andes — wake the moment you cross into the eleven-by-nine._
+> _Y por debajo de todo eso, en el ritmo de las calles, sienten algo que ya sintieron antes. La cuadrícula está demasiado limpia. Los ángulos se repiten. Sus Marcas — calladas desde los Andes — se despiertan en el momento en que cruzan al once por nueve._
 
 **Entry mechanic**: any Marked investigator rolls 2d6 on entering the grid. A double 1 does **not** manifest a Hound (too many people, too much noise) — it communicates clearly: _the city is itself the geometry._ Pass this silently to the player.
 
-> ⚠️ **[THIS TABLE] — Roll for Hound (C10).** City variant: doubles communicate **information, not manifestation** — a clarity-flash of the grid's purpose, no Hound — _except_ at the witness-stone, where [the Flicker](#first-glimpse-of-the-vault) is scheduled regardless. Triggers: crossing into the grid (entry); the rector's-office stone (each Marked touch); the locked stairwell (lingering on Quirce's pencil marks); the San Ignacio chapel floor (counting the inlays); Saráchaga's death-room (entering the second patio at dawn); the third-patio well (looking at the hot disc).
+> **Roll for Hound (C10).** City variant: doubles communicate **information, not manifestation** — a clarity-flash of the grid's purpose, no Hound — _except_ at the witness-stone, where [the Flicker](#first-glimpse-of-the-vault) is scheduled regardless. Triggers: crossing into the grid (entry); the rector's-office stone (each Marked touch); the locked stairwell (lingering on Quirce's pencil marks); the San Ignacio chapel floor (counting the inlays); Saráchaga's death-room (entering the second patio at dawn); the third-patio well (looking at the hot disc).
 
 ---
 
@@ -44,6 +53,8 @@ The Universidad de Buenos Aires — one year old, founded August 1821 by the Riv
 What the players see: the public library (the librarian **Mateo Quiroga** — no relation to Rosa; Mercedes greets him by name); **the locked stairwell** behind _Archivo Privado — No Pasar_, two modern locks, where a **Spot Hidden** while crossing catches small pencil marks on the doorframe — measurements at irregular intervals (Quirce's, from a visit last week; Mercedes doesn't know about them yet — the players catch it before she does); and **the chapel of San Ignacio**, where Mercedes prays alone fifteen minutes, also counting the geometric marble inlays under her breath — _"Eso fue para confirmar algo. Vamos."_
 
 > **Insight** (POW/INT, if a player engages): _the architecture is doing work._ The eleven-by-nine grid, San Ignacio's orientation, the Cabildo's placement, the two rivers — they form a containment geometry at city scale. Whoever laid out Buenos Aires in 1580 was not a layman.
+
+> **The tunnels — legend, for now.** Ask Mateo about the block and he lights up; every _porteño_ child grows up on this one. The Jesuits, expelled in 1767, are said to have dug — or found and widened — passages under the Manzana connecting to the Cabildo, the old Fuerte, and the convents of La Merced and San Francisco: used, depending on who's telling it, for defense, for confession without being overheard, for moving men and supplies during the English invasions of 1806–07, or plain smuggling. _"Nadie sabe hasta dónde llegan de verdad. Cada tanto alguien cava un pozo nuevo y encuentra ladrillo donde no debería haber nada."_ He doesn't know the half of it — but he's said something true. A **Spot Hidden**, crossing toward the locked stairwell, finds an old **bricked-up archway** low in the corridor wall — plastered over decades ago, older and wider stonework than the passage around it, running off in a direction the stairwell does not. **Keeper**: this is the real network, still there, sealed off from the Keepers' own spur generations ago. Don't explain it yet — the hook pays off in [C11](chapter-11.md#the-vault-finally).
 
 ---
 
@@ -86,7 +97,7 @@ Four small things as Galíndez walks them home:
 2. **A flicker in a third-floor window.** A pale yellow-white pulse, window open, no candle — **La Luz Mala inside a private home** in the Barrio del Alto. Not a coincidence; the city is no longer protected.
 3. **The Cabildo strikes midnight — eleven times.** Galíndez looks up: _"Ese reloj toca doce. Siempre toca doce."_ The containment grid (eleven by nine) briefly dropped to eleven by _eight_. Then the twelfth strike comes late, with the next breath — the grid recovers.
 
-> ⚠️ **[THIS TABLE]** **4. A Wrong Returned is gone** — _only if Héctor or Marta is in the party._ Their bedroll is rolled neatly, gear gone. Inocencia, frightened: _"Salieron temprano, dijeron que iban al sur."_ South means the Riachuelo — the Cursed Gaucho's tannery. They went to him, or were gone to him; the distinction matters in C11. (If neither Wrong Returned survived C9, this beat is absent.)
+4. **A Wrong Returned is gone** — _only if Héctor or Marta is in the party._ Their bedroll is rolled neatly, gear gone. Inocencia, frightened: _"Salieron temprano, dijeron que iban al sur."_ South means the Riachuelo — the Cursed Gaucho's tannery. They went to him, or were gone to him; the distinction matters in C11. (If neither Wrong Returned survived C9, this beat is absent.)
 
 > **⚔️ The Counter (human encounter).** The watching figure is catchable. If the players double back, split, or set a trap (Galíndez: _"Háganlo. Yo cubro."_), they take him — a hired man, Banda Oriental accent, no cult marks ([escort block](assets/npc-stats.md#quirces-escort-3-generic)), one round of knife-work then flight or surrender. On him: no name, a few coins, and a folded paper with tally marks in two columns:
 
@@ -110,7 +121,7 @@ Four small things as Galíndez walks them home:
 
 Non-negotiable. The players are woken at first light; Galíndez at the door: _"Saráchaga está muerto. Vengan."_
 
-> _The casa chorizo at dawn: the first patio full of_ vigilantes urbanos _— the city's year-old municipal police, unsure of its own authority — and two San Ignacio priests pretending not to be Keepers. The long pine table is as it was. Saráchaga's notebook lies closed in the same position he left it. His chair is overturned; his body is on the floor between the chair and the iron-bound chest, on his back. No blood, no bruise, no wound. His eyes are open. His right hand is clenched around the iron ring — he tore it off his finger before he died._
+> _La casa chorizo al amanecer: el primer patio lleno de_ vigilantes urbanos _— la policía municipal de la ciudad, de apenas un año, insegura de su propia autoridad — y dos curas de San Ignacio que fingen no ser Custodios. La mesa larga de pino está como estaba. El cuaderno de Saráchaga sigue cerrado, en la misma posición en que lo dejó. La silla está volcada; el cuerpo está en el piso, entre la silla y el cofre herrado, boca arriba. Sin sangre, sin golpe, sin herida. Los ojos abiertos. La mano derecha apretada alrededor del anillo de hierro — se lo arrancó del dedo antes de morir._
 
 **What killed him**:
 
@@ -137,14 +148,11 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 
 > **Observable, describe in transit (no rolls)**: a Marked PC's footfalls in the Manzana de las Luces corridor echo with a faint _second click_ a half-beat late — the floor tiles are laid on the 1610 pattern, doubling their steps in the twelve-syllable rhythm from the [Salamanca tunnels](chapter-05.md#the-whispering-tunnels). Oil lamps citywide burn a taller flame on the side facing the Manzana (Inocencia: _"Las lámparas miran a la Manzana. Siempre fue así."_). Pigeons never land within four meters of the Cabildo clock tower. After his death, Saráchaga's well-water runs _clear_, with faint concentric rings around the disc that do not move. At certain corners the wind is a beat behind the neighboring corner — the corners the cordon panels will fix in C12.
 
-> _Mercedes kneels beside the body and closes his eyes — the only one who can. From the third patio, the well makes a single low, almost subsonic note; Galíndez looks up sharply; it stops. The Cabildo bell begins to strike six. You count without thinking. It strikes seven._
+> _Mercedes se arrodilla junto al cuerpo y le cierra los ojos — la única que puede. Desde el tercer patio, el aljibe hace una sola nota baja, casi por debajo del oído; Galíndez levanta la cabeza de golpe; se corta. La campana del Cabildo empieza a dar las seis. Cuentan sin pensarlo. Da siete._
 
 **Mercedes, after a long silence**: _"Ya está. Mañana votamos."_ The decision the Keepers meant to delay until the stone was hot has been made for them. The stone _is_ hot. Saráchaga knew. He was killed for knowing it.
 
 **→ [Chapter 11 — La Decisión](chapter-11.md#chapter-11--la-decisión)**
-
----
-
 
 ---
 
@@ -156,6 +164,6 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 - [ ] [The Counter](#the-streets-at-night) catchable at night (falsified-count edge available to players — El Patrón's dock geometry expects the wrong number of Marks, first dock Mark-roll one threshold safer).
 - [ ] Keeper meeting: full roster visible to players; **two empty chairs unnamed** (let them notice); Ana's planted question lands or doesn't.
 - [ ] Eleven strikes at midnight; Saráchaga **discovered**, never narrated; [H11](assets/handouts-c8-c12.md#h11--saráchagas-last-entry-c10-dawn) (his last notebook entry).
-- [ ] `[THIS TABLE]`: tribal-ally disappeared beat runs only if Héctor or Marta is still alive.
+- [ ] The Wrong-Returned-disappeared beat (item 4) runs only if Héctor or Marta is still alive.
 
 ---

@@ -37,7 +37,7 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 >
 > *— A.Q."* **Including Quirce** buys a second theodolite-spotter at [Weak Point 3](#weak-point-3--the-dock) (he calls El Patrón's approach one round early); **refusing** costs and gains nothing (he observes from a rooftop anyway).
 
-> ⚠️ **[THIS TABLE] — cordon worksheet (fill in before Act 1, not during).** A full cordon is reachable **only if** the players recruit during the day phase **and** at least one Wrong Returned lived. Every unfilled corner = one of the three weak points runs one step harder.
+> **Cordon worksheet (fill in before Act 1, not during).** A full cordon is reachable **only if** the players recruit during the day phase **and** at least one Wrong Returned lived. Every unfilled corner = one of the three weak points runs one step harder.
 > 
 > |Slot|Source|
 > |---|---|
@@ -57,7 +57,7 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 
 At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galíndez rides ahead; two men flank; Mercedes is in the carriage with the chest and the Cursed Gaucho; eight men walk in pairs; the cordon walkers are fanned along the route, panels rolled and ready. **Players choose positions**: in the carriage (highest risk, closest to the truth); ahead with Galíndez (first to engage); in the cordon walk with Marta / surviving Wrong Returned (best for catching anomalies, supporting the binding); or free and mobile (the Marked have the edge — the city's geometry tells them where to go).
 
-> _Buenos Aires at midnight is not a city you have seen before. The streets are empty in a way that is unnatural — not because nobody is out, but because nobody is in the wrong place. The drunks are home, the dogs silent, the night-watchmen inside their booths. The Cabildo clock has not struck. The city is holding its breath. The carriage rolls — iron wheels on cobblestone, the only sound for two blocks at a time. The cordon walkers, when you look back, are dark figures stepping into a corner and out, the leather panels making a brief amber glow as Marta's body-positioning activates them — less steady than a chant would be, still visible._
+> _Buenos Aires a medianoche no es una ciudad que hayan visto antes. Las calles están vacías de una manera que no es natural — no porque no haya nadie afuera, sino porque nadie está en el lugar equivocado. Los borrachos en su casa, los perros callados, los serenos metidos en sus garitas. El reloj del Cabildo no ha dado la hora. La ciudad contiene el aliento. La galera avanza — ruedas de hierro sobre el empedrado, el único sonido por dos cuadras enteras. Los que caminan el cordón, cuando miran para atrás, son figuras oscuras que entran a una esquina y salen, los paneles de cuero soltando un breve resplandor ámbar cuando el cuerpo de Marta los activa al ubicarse — menos firme que un canto, pero todavía visible._
 
 **Mechanic — the Mark**: every Marked player rolls 2d6 **every two blocks**; snake eyes triggers a short Hound aftershock (1D3 rounds, the city limits its duration). A real threat tonight — the most geometrically charged place in the campaign. Reroll if a player has the binding active in hand (cordon walker) or is in the carriage (proximity to the chest). Plus one roll on arrival at **each weak point**. The [dock-lock](#the-dock-geometry) roll (Act 2) delivers **clarity, not threat**. **During the Choice (Act 3): no rolls.** And **El Patrón near = [the silence tell](chapter-11.md#midnight--the-parlor)** — on Calle Belgrano the Marks go silent _before_ he rounds the corner; the Marked PC can give the Cursed Gaucho his three seconds of warning.
 
@@ -65,9 +65,13 @@ At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galínde
 
 ## THE THREE WEAK POINTS
 
+> **They hit in route order as the carriage moves** — [WP1 at the university exit](#weak-point-1--university-exit) (the false *vigilante* / ambush), [WP2 at Belgrano y Defensa](#weak-point-2--belgrano-and-defensa--the-stand) (the Stand — the **silence tell fires before El Patrón rounds the corner**), [WP3 at the dock](#weak-point-3--the-dock) (he arrives with the chest — the trap closes). Between each, keep the block-cadence Mark rolls going; each covered cordon corner or C11 prep lowers that point one step.
+
 ### Weak Point 1 — University exit
 
 > **⚔️ Stats**: the false _vigilante_ and six ambushers use the [escort block](assets/npc-stats.md#quirces-escort-3-generic) (the vigilante swaps Intimidate for Disguise 50%). Two carry pistols, fired once then knives. **Morale**: three down → the rest scatter. **Name Esteban before the night** so his death lands. **Falsified-count edge**: if the players delivered a false tally in C10, the first dock Mark-roll is one threshold safer.
+
+> **The tunnel mouth — payoff from C11.** If the players found and reported the [Lacasa cellar tunnel](chapter-11.md#tracing-saráchagas-last-hours), Galíndez has already posted a man at the disused well-house it surfaces near. No ambusher can stage from underground here, and he says so once, before the carriage rolls: _"El pozo viejo está cubierto. No van a salir por ahí."_ **If the players never found it**: the well-house is an unwatched hole in the plan. If the ambush goes past round 2, or on a failed Spot Hidden as it opens, one **extra ambusher climbs up out of the old well-house** behind the carriage — a flanking attacker nobody was watching for. Same stats, same morale; the legwork skipped in C11 is the cost, not a new threat.
 
 A _vigilante urbano_ walks out and asks Galíndez for papers, then reads them _slowly_ — **Spot Hidden / Psychology**: he is stalling, too clean, Banda Oriental accent, not a real _vigilante_. **If caught in time**: Galíndez disarms him quietly and the carriage moves on — **Ana's false intel worked**, throwing the ambush's timing off by ten minutes, long enough to clear the corner. **If not caught**: the ambush hits in three minutes — six men from two side streets, knives and one pistol, swarming the carriage. 3 rounds; Galíndez's men handle most; players reduce casualties; **one soldier — Esteban, the youngest — dies** if combat engages. Galíndez kneels one second beside the body, then stands and continues.
 
@@ -77,7 +81,7 @@ The carriage slows to a walk to make the turn — the corner Galíndez feared mo
 
 **Run the fight cinematically, not mechanically** — a master of the _facón_ against an unkillable man, the scene about the gesture.
 
-> _They meet in the middle of Calle Belgrano, ten meters from Marta's glowing panel. The Cursed Gaucho's facón is in his right hand, the cuchillo de campo in his left. El Patrón is unarmed and smiling. He says one more sentence — in Mapudungun, the language of the Gaucho's murdered mother. Whatever he says, the Gaucho's face does not change. He moves._
+> _Se encuentran en el medio de la calle Belgrano, a diez metros del panel que brilla de Marta. El facón del Gaucho Maldito está en su mano derecha, el cuchillo de campo en la izquierda. El Patrón está desarmado y sonríe. Dice una frase más — en mapudungun, la lengua de la madre asesinada del Gaucho. Sea lo que sea que diga, la cara del Gaucho no cambia. Se mueve._
 
 **The Cursed Gaucho wounds El Patrón before he dies** — a cut on the jaw, a cut along the ribs. **El Patrón is bleeding**, which should not be possible, and he smiles wider for it. The Gaucho is dying on the cobblestone; he has bought roughly seven minutes. **If the players agreed to his terms in C11**, he lands his last word, looking up at the player who took them: _"No me lo lleves al barco. Lo dejo a vos."_ — and hands them the _cuchillo de campo_ (already theirs; the gesture matters; it primes the destroy-by-blade option). **If they did not agree**, he still fights, still wounds, still dies, but the knife never carries the same weight and the [destroy-by-blade option](#option-3--destroyed) is mechanically harder. **SAN Check**: 1/1D6.
 
@@ -99,7 +103,7 @@ And **the geometry activates** — the Riachuelo's bend, the _saladero_ roofline
 
 The Marked make a roll — but it threatens **clarity**, not a Hound. They see all at once what the geometry is doing:
 
-> _The diagram has closed around you, but it is not a containment. It is a **doorframe**. The Necronomicón, in its chest five meters from El Patrón, is the key. The door's other side opens onto the part of him that is not in this body — the rest of the avatar, the part that does not need to wear a face. If he gets the chest open inside this geometry, the geometry calls the rest of him through._
+> _El diagrama se cerró alrededor de ustedes, pero no es un cerco. Es un **marco de puerta**. El Necronomicón, en su cofre a cinco metros de El Patrón, es la llave. El otro lado de la puerta da a la parte de él que no está en este cuerpo — el resto del avatar, la parte que no necesita ponerse una cara. Si logra abrir el cofre dentro de esta geometría, la geometría llama al resto de él para que pase._
 
 The trap is not stealing the book to use elsewhere — it is opening it _here, on this dock, inside this diagram_.
 
@@ -137,7 +141,7 @@ The geometry **dissolves** — El Patrón is no longer at the center of a door, 
 
 **The cost**: whoever spoke the Latin **dies within twenty-four hours**. If Albarrán, in his cell at San Ignacio, peacefully, looking at a candle: _"Dios me contestó. Era esto."_ If Mercedes, in her chair at the Manzana de las Luces, an open notebook in her lap: _"He estado esperando esto cuarenta años. Llegó tarde, pero llegó."_ And **Mercedes is permanently weakened** — she loses an eye over the next month (the cornea clouds white; painless) — _"Esto era lo justo. He estado evitándolo cuarenta años."_ **El Patrón is not destroyed** — he withdraws north, to Areco, to his other names; he will be back, not in the players' lifetimes. The Marks remain, quiet; the witness-stones cool; the Cabildo clock strikes twelve on the hour again.
 
-> _Closing image_: The book goes back. The vault is sealed. Mercedes places her hand on the new lock and closes the eye that will cloud over. Albarrán walks toward San Ignacio in the first grey of dawn, smiling. The Riachuelo is empty. The Cursed Gaucho's body is gone, taken by his own people. Buenos Aires wakes up and does not know.
+> _Imagen final:_ El libro vuelve abajo. La bóveda se sella. Mercedes apoya la mano sobre la cerradura nueva y cierra el ojo que se le va a nublar. Albarrán camina hacia San Ignacio en el primer gris del amanecer, sonriendo. El Riachuelo está vacío. El cuerpo del Gaucho Maldito no está — se lo llevó su propia gente. Buenos Aires se despierta y no sabe.
 
 ## Option 2 — Used
 
@@ -145,7 +149,7 @@ The geometry **dissolves** — El Patrón is no longer at the center of a door, 
 
 > **Availability**: Use is available _only_ if the Reader-path was earned — [C5](chapter-05.md#reader-path-seed-use-ending-c12) (page 79 read aloud), [C8](chapter-08.md#mercedes-between-phases) (Mercedes' _"yo lo escuché en mi cabeza"_), and [C11](chapter-11.md#doña-mercedes-alone) (her cloister offer). If any was missed, **Use is not on the table** — Mercedes won't propose it, the parchment's inner page is unreadable to anyone present, and the players choose between Hide and Destroyed. **Do not retrofit Use at the dock.**
 
-> ⚠️ **[THIS TABLE — 2026-06-24]** **No Reader at this table** — the C5 page-79 seed was never planted and no PC carries it. **Use is closed.** The Choice at the dock is **Hide or Destroyed** only; the parchment's inner page is unreadable to anyone present. Do not offer Use; do not retrofit it.
+> **At this table there is no Reader** — the C5 page-79 seed was never planted and no PC carries it. **Use is closed.** The Choice at the dock is **Hide or Destroyed** only; the parchment's inner page is unreadable to anyone present. Do not offer Use; do not retrofit it.
 
 **The Reader names themselves** — one specific PC, the one who read Saens aloud, whom Mercedes recognized and spoke to in the cloister. _No other character can read it._ The Reader must say _"Yo leo"_ out loud, at the table, in the moment El Patrón is bleeding on the dock. **The campaign's most one-sided choice**: not a group vote, not Mercedes asking, not another PC volunteering. If the Reader hesitates, after a real fifteen-second silence Mercedes says the only thing she will say to compel: _"No te puedo pedir esto. Te puedo decir: si no lo hacés, mañana lo hago yo, mal, y no funciona, y todos pagamos. Eso no es un pedido. Es un hecho."_ (She _cannot_ read it — copying it forty years ago made her a one-way receiver. If the Reader refuses, she attempts it at dawn and fails: the geometry holds sixty seconds then breaks, El Patrón escapes north with the book, and the Marked all die within a year. A real consequence — be willing to run it.)
 
@@ -157,7 +161,7 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 **The cost**: the Reader loses **one full Sanity Track, permanent**, and gains **Cthulhu Mythos** to a base they did not have, in one round, by reading. **The teacher/receiver inversion**: Mercedes copied the page and became unable to _read_ it; the Reader read it and becomes unable to _transmit_ it — they will know the binding section verbatim for life and be physically incapable of writing it (quills break, ink dries; speaking it aloud only ever worked the once). Permanent passive effects (run in the epilogue): a low syllable at the edges of right-angled rooms; calm looping geometry-dreams; no ritual text will stay in their saddlebag a week; within twenty meters of any opening anywhere in the world they feel its compass-direction as warmth on the cheek (the Network will, in time, find this out and approach them). **The book stays** — not destroyed, now a _spent_ tool (the next Reader must use a different page; the Network knows within a month). **El Patrón's body** is buried at Recoleta in an unmarked grave Galíndez arranges; the man was a Salta cattle merchant who vanished in 1798, and dies under his birth name, **Eligio Méndez**; his sister in Salta will be told. The **other players' Marks** burn briefly hot, then go permanently quiet — gone for everyone except the Reader, who has _new_ Marks of a different shape the campaign does not name.
 
-> _Closing image_: The Reader on the dock at dawn, the book closed on their lap, the Necronomicón-page now blank — the ink migrated into them. They fold the parchment and hand it to Mercedes: _"Yo te enseñé esto y vos te lo llevaste. Está bien. Yo guardo lo que queda."_ The Reader carries the chest themselves. They are different, and still the Reader, and now partly something else. **What the player does with the physical Latin card — keep it or hand it back — is the campaign's last act.** Keep it: the Reader carries it forever. Hand it back: the Reader has set it down, but the words stay anyway.
+> _Imagen final:_ El Lector en el muelle al amanecer, el libro cerrado sobre el regazo, la página del Necronomicón ahora en blanco — la tinta se le pasó adentro. Dobla el pergamino y se lo entrega a Mercedes: _"Yo te enseñé esto y vos te lo llevaste. Está bien. Yo guardo lo que queda."_ El Lector carga el cofre él mismo. Es distinto, y sigue siendo el Lector, y ahora es en parte otra cosa. **Lo que el jugador haga con la tarjeta latina — quedársela o devolverla — es el último acto de la campaña.** Si se la queda: el Lector la carga para siempre. Si la devuelve: la dejó, pero las palabras quedan igual.
 
 ## Option 3 — Destroyed
 
@@ -181,21 +185,21 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 Fewer than five Marked PCs drops the lighter tiers from the bottom.
 
-> ⚠️ **[THIS TABLE]** Only **2 Marked PCs** — the cost-table is **Anchor + Pillar** only: one PC dies, one survives with permanent sense-loss and a physical mark. A heavy table. Give the players real time with the assignment.
+> **Only 2 Marked PCs at this table** — the cost-table is **Anchor + Pillar** only: one PC dies, one survives with permanent sense-loss and a physical mark. A heavy table. Give the players real time with the assignment.
 
-> ⚠️ **[THIS TABLE] — the Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: both Marked PCs shift **down one tier (Pillar + Wall)**, Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
+> **The Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: both Marked PCs shift **down one tier (Pillar + Wall)**, Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
 
 **The reading and the burning** — Mercedes opens the parchment and reads the older chain.
 
-> ⚠️ **[THIS TABLE]** The chain has a **missing voice** — the curandera would have joined on the third line; she is dead, so **the third line is unspoken.** Run it as a felt silence, not a blocking absence. Marta's alignment provides structural substitution; the tradition is not there. The Cursed Gaucho's _cuchillo de campo_ (the blade that wounded El Patrón) is laid across the closed chest — **his cuts were the ritual's first stroke** (the older tradition lets the destroying tool be primed in advance with willing bloodshed). _(If the knife is unavailable, a Marked PC may draw their own blood at the chest instead — that PC takes **one tier higher** than they otherwise would.)_
+> The chain has a **missing voice** — the curandera would have joined on the third line; she is dead, so **the third line is unspoken.** Run it as a felt silence, not a blocking absence. Marta's alignment provides structural substitution; the tradition is not there. The Cursed Gaucho's _cuchillo de campo_ (the blade that wounded El Patrón) is laid across the closed chest — **his cuts were the ritual's first stroke** (the older tradition lets the destroying tool be primed in advance with willing bloodshed). _(If the knife is unavailable, a Marked PC may draw their own blood at the chest instead — that PC takes **one tier higher** than they otherwise would.)_
 
 **The book burns** — not by fire, by _withdrawal_: the pages collapse inward, the ink leaves as smoke rising through the dawn, the cover chars and falls in. The chest, iron, and locks remain; inside is fine grey ash. The book, as an object, no longer exists. **El Patrón fades at the same moment** — not collapsing, becoming visibly _less_ over thirty seconds; the body that was Eligio Méndez collapses, restored to its 1798 weight and age. The avatar leaves the world entirely. **He is _gone_ — not banished, not bound, gone.** The Network will not find him because he no longer exists to be found.
 
 **The cost** (beyond the tiers): the **Anchor's body** is buried by Albarrán in the Franciscan cloister, the name entered in the real archive beneath the Manzana de las Luces, in Mercedes' hand. Surviving **Wrong Returned** undergo a final accelerated burn-off — a week unable to speak, then _fully_ themselves; they live ordinary lives and never dream of geometry again. **Mercedes survives** (the ritual was hers; she carried it forty years) — her hair goes white and falls out by morning, regrowing over a year; she continues as a Keeper _of no book_, finally free of the thing she copied, and outlives everyone at the table.
 
-> ⚠️ **[THIS TABLE]** The tradition that made the closing possible is not present to mourn its own inheritance — no Tehuelche or Mapuche elder lives to speak the longest-rooted line (_"Lo dejamos. Lo van a recordar mal, dentro de cien años. Pero ya no hay libro que cerrar."_). **Mercedes delivers it herself, from memory, in Spanish.** The tribe died in C3; the chain was already thinned, and now what remained is spent. That doubled loss is the campaign's longest-running cost finally settling.
+> The tradition that made the closing possible is not present to mourn its own inheritance — no Tehuelche or Mapuche elder lives to speak the longest-rooted line (_"Lo dejamos. Lo van a recordar mal, dentro de cien años. Pero ya no hay libro que cerrar."_). **Mercedes delivers it herself, from memory, in Spanish.** The tribe died in C3; the chain was already thinned, and now what remained is spent. That doubled loss is the campaign's longest-running cost finally settling.
 
-> _Closing image_: The chest a black square on the dock, a layer of grey ash inside. Mercedes on her knees. The Marked who paid the worst cost at the center. Dawn from the east. There is no body where El Patrón stood; the Cursed Gaucho's body is gone; the brig _Carmen del Pilar_ sails at first light without its cargo, paid in full, and Borghi never tells anyone. The Cabildo clock strikes seven, on the hour, exactly seven times.
+> _Imagen final:_ El cofre, un cuadrado negro sobre el muelle, con una capa de ceniza gris adentro. Mercedes de rodillas. El Marcado que pagó el peor costo, en el centro. El amanecer desde el este. No hay cuerpo donde estaba El Patrón; el cuerpo del Gaucho Maldito no está; el bergantín _Carmen del Pilar_ zarpa con la primera luz sin su carga, pagado por completo, y Borghi no se lo cuenta a nadie nunca. El reloj del Cabildo da las siete, en punto, exactamente siete veces.
 
 ## Combinations
 
@@ -211,9 +215,9 @@ Fewer than five Marked PCs drops the lighter tiers from the bottom.
 
 > **The campaign-spanning dust runner resolves here, at the binding** (any ending). For ten months the players have carried a fine pale grit on cuffs, seams, hatbands, saddle-leather — the dust from the pit, noticed by Rosa (C2), the curandera (C3), Silvio (C4), the ranch hands (C6), Mercedes (C7, C10), Inocencia (C11).
 > 
-> _In the second after the binding lands — Albarrán's Latin, the Reader's last syllable, or Mercedes' closing word — the dust **lifts**. It does not fall; it rises in a single coherent layer two centimeters above every surface that holds it, hangs for a heartbeat, and is gone — not blown, not dispersed, gone, as if the geometry it was attached to has finally let go._
+> _En el segundo posterior a que prende el sello — el latín de Albarrán, la última sílaba del Lector, o la palabra final de Mercedes — el polvo **se levanta**. No cae; sube en una sola capa entera, dos centímetros por encima de cada superficie que lo sostiene, queda suspendido un latido, y desaparece — no soplado, no disperso, desaparecido, como si la geometría a la que estaba pegado por fin lo hubiera soltado._
 > 
-> The Marked feel it in their cuffs first: _"Se fue."_ Inocencia's saved tin is empty by morning; Rosa's chapel, two hundred kilometers south, is dust-free for the first time in seventy years; the goat in the San Ruiz well is gone or merely ordinary, per the ending. **Show it to the Marked PCs and let them name what they see.**
+> The Marked feel it in their cuffs first: _"Se fue."_ Inocencia's saved tin is empty by morning; Rosa's chapel, two hundred kilometers south, is dust-free for the first time in seventy years; the San Ruiz well has stood empty since the goat walked west from the sealed pit at dawn (C9). **Show it to the Marked PCs and let them name what they see.**
 
 ## The survivors
 
@@ -229,21 +233,22 @@ Each surviving NPC and PC gets one line, around dawn light:
 
 ## The land
 
-> _Estancia La Esperanza is quiet — the south-pasture cattle die again, but normally; the grass rings have faded. San Ruiz is slowly resettling: the chapel re-roofed in new tin, Rosa growing corn in what was the burial pit, the goat still in the well, the new families leaving her there. The Jesuit ruins are ruined still — the fig tree, inexplicably, bears fruit this year for the first time, and two boys from a paraje pick it. The cordillera is silent; the Zonda came late and unremarkable; the locusts did not return. Buenos Aires woke the morning after and did not know. The University opened at eight; students argued about Latin grammar._
+> _La estancia La Esperanza está tranquila — el ganado del pastizal sur vuelve a morirse, pero normalmente; los anillos de pasto se borraron. San Ruiz se repuebla despacio: la capilla con techo nuevo de chapa, Rosa cultivando maíz en lo que fue el pozo, el aljibe vacío donde antes estaba la cabra. Las ruinas jesuíticas siguen en ruinas — la higuera, inexplicablemente, da fruto este año por primera vez, y dos chicos de un paraje lo juntan. La cordillera está en silencio; el Zonda llegó tarde y sin nada de particular; las langostas no volvieron. Buenos Aires se despertó a la mañana siguiente y no supo. La Universidad abrió a las ocho; los estudiantes discutían gramática latina._
 
 ## The final image
 
-> _La Luz Mala flickers, once, at the edge of frame — over the burial pit, the Jesuit ruins, or the dock, depending on the ending. It hangs two seconds. Then —_
+> _La Luz Mala parpadea, una vez, al borde del cuadro — sobre el pozo, las ruinas jesuíticas, o el muelle, según el final. Queda colgada dos segundos. Después —_
 > 
-> - _**[Hidden]** it descends into the earth without disturbing the soil._
-> - _**[Used]** it goes out, and a new light of a different color opens in its place — small, elsewhere, far away. The Reader will see it in dreams, for years._
-> - _**[Destroyed]** it does not descend or relocate. It simply ends. The space where it was holds for a heartbeat and then is just air._
+> - _**[Hidden]** desciende a la tierra sin mover el suelo._
+> - _**[Used]** se apaga, y una luz nueva de otro color se abre en su lugar — chica, en otra parte, muy lejos. El Lector la va a ver en sueños, durante años._
+> - _**[Destroyed]** no desciende ni se traslada. Simplemente termina. El espacio donde estaba aguanta un latido y después es solamente aire._
 
 > **The annual dream** _(between-chapter hook 5d — run once per in-fiction year, if the epilogue is kept alive)_: On the calendar night of the closing, one surviving investigator dreams of the pit — only the pit, at La Esperanza, the night the closing happened. They stand at its rim; the bowl is full of short green ordinary grass; **Concepción is at the center**, fourteen then fifteen then sixteen, humming a different tune every year. She does not look up. They wake calmly, will not remember the dream by afternoon, but write the date in their journal every year without remembering why. Rotate which PC dreams; none dream it twice in the same year. _(Long-form: run it ten years — year three wildflowers, year five children playing in the bowl, year seven a small chapel built by Rosa's nephews for Dolores, year ten just **land**, no longer remembering itself. The dream stops; the campaign is finally, fully over.)_
 
 ---
 
-_End of the combined prep, C5–C12. The campaign closes where the players decide it closes: with the book Hidden, Used, or Destroyed; with the dust lifted; with the land just land again — or with a new light somewhere far away._
+_The campaign closes where the players decide it closes: with the book Hidden, Used, or Destroyed; with the dust lifted; with the land just land again — or with a new light somewhere far away._
+
 ---
 
 ## SESSION CHECKLIST — C12
@@ -254,8 +259,8 @@ _End of the combined prep, C5–C12. The campaign closes where the players decid
 - [ ] Act 1: block-cadence Mark rolls live; escort stats for Weak Point 1 ambushers; **name Esteban before the night starts** so his death lands.
 - [ ] The Stand: **silence tell fires before he rounds Calle Belgrano**; give the Cursed Gaucho his three seconds; cinematic, not mechanical.
 - [ ] Act 2: dock lock; SAN 1/1D8; the three options on paper in front of the players — their words, not yours.
-- [ ] Act 3: **no Keeper steering, no Mark rolls.** Availability checks: *Use* = C5 + C8 + C11 all logged; *Destroyed* always available; *Hide* default. **Marta valve decided in advance** (offer only if Wrong Returned were treated as people; PC-death version equally valid). **[THIS TABLE: no Reader → Use is closed; the Choice is Hide or Destroyed.]**
-- [ ] Act 4: dust lifts (show it — don't narrate it, show it); epilogue lines around the table; goat per C7 location decision (write your choice before this session); annual dream noted for any future epilogue play.
+- [ ] Act 3: **no Keeper steering, no Mark rolls.** Availability checks: *Use* = C5 + C8 + C11 all logged; *Destroyed* always available; *Hide* default. **Marta valve decided in advance** (offer only if Wrong Returned were treated as people; PC-death version equally valid). At this table there is no Reader, so **Use is closed — the Choice is Hide or Destroyed.**
+- [ ] Act 4: dust lifts (show it — don't narrate it, show it); epilogue lines around the table; the goat walked west from the pit at dawn in C9 and does not reappear; annual dream noted for any future epilogue play.
 - [ ] **Hide ending — know this before the session**: Mercedes survives but **loses an eye over the following month** (cornea clouds white; painless; her line: _"Esto era lo justo. He estado evitándolo cuarenta años."_). Prime it in the closing image so the table isn't surprised mid-narration.
 
 ---

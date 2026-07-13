@@ -191,7 +191,7 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 **Weapons**: None. If she frees herself she runs. If physically restrained after freeing herself she fights — scratching, biting, headbutting — at Fighting (Brawl) 30%, but she is small and in poor condition. She is not trying to win. She is trying to make it too costly to hold her.
 
-**Notes**: She is not a coward. She has been quiet for hours because screaming accomplished nothing. She is waiting. See TABLE-STATE.md — Cata's escape attempts for full R1/R2/R3 mechanics.
+**Notes**: She is not a coward. She has been quiet for hours because screaming accomplished nothing. She is waiting. See `assets/ritual-diagram-c3.md` for Cata's escape-attempt mechanics by round.
 
 ---
 
@@ -558,4 +558,4 @@ This means the Keeper rolls for her, not in response to player instructions. Pla
 
 ---
 
-*Cross-reference: `assets/entity-hound.md` for El Sabueso stats. `TABLE-STATE.md` for Cata's escape mechanics, goat deal terms, and La Llorona's current trajectory.*
+*Cross-reference: `assets/entity-hound.md` for El Sabueso stats. `assets/ritual-diagram-c3.md` for Cata's escape mechanics, `assets/mandinga-sequence.md` for the goat deal terms, and `flowmap.md` for La Llorona's trajectory.*

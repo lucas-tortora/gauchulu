@@ -523,9 +523,9 @@ This is a mistake. His absence is exactly what gives the investigators the room 
 
 **The false lead**: If players follow his directions toward "tribal lands," they find nothing threatening — old campsites, normal traces of movement. This should create doubt. Absence of evidence where there should be evidence is its own clue.
 
-**Concepción** (the servant girl): She is now a major through-line NPC. Her intervention at the pit is the pivot of the chapter. Keepers should make her quiet presence felt earlier so her later walk doesn't come out of nowhere — she should be seen at the edge of rooms, watched observing the investigators, humming under her breath (a tuneless pattern that matches the Luz Mala's rhythm, but no one will notice this until C2 or later). If approached gently before the pit, she will say only: *"Don Eusebio no duerme. Camina de noche, para el sur."* — *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again. Her words after the pit, if asked, stay consistent: *"Está muy grande ahí abajo."*
+**Concepción** (the servant girl): She is now a major through-line NPC. Her intervention at the pit is the pivot of the chapter. Keepers should make her quiet presence felt earlier so her later walk doesn't come out of nowhere — she should be seen at the edge of rooms, watched observing the investigators, humming under her breath (a tuneless pattern that matches the Luz Mala's rhythm, but no one will notice this until C2 or later). If approached gently before the pit, she will say only: *"Don Eusebio no duerme. Camina de noche, para el sur."* — *"Don Eusebio doesn't sleep. He walks at night, to the south."* Then she will not speak of it again. *"Está muy grande ahí abajo"* are her last words — she says them as she walks down into the pit, and she does not come back out. **Concepción does not survive Chapter 1.**
 
-**If the players try to protect Concepción going forward**: They should. This is the correct moral instinct and the campaign rewards it. In C4, Don Eusebio will have sent her to Azul "for her safety" — an action the players may, in hindsight, recognize as protective (even if his motives were mixed). Her reappearance in C7 will carry more weight the more the players invested in her here.
+**Concepción's death is the chapter's wound.** The players should try to protect her — it is the correct moral instinct — but at this table they could not reach her in time, and she died at the pit. There is no sending-her-to-Azul in C4 and no reappearance in C7. What her death leaves is heavier: Don Eusebio watched her walk in from the ridge, and in C7 his confession is a settlement, not a plea for forgiveness — he volunteered her, he knows it, and he knows which investigators were there and which tried to reach her. He will stand in the ring in C8 without being asked; he has nothing left to lose. The quiet C9 callback at her cousin's house in Azul is gone. Whoever failed to save her carries that weight.
 
 **Don Eusebio's disappearance**: This is the primary bridge to Chapter 2. Do not let players get stuck waiting for him to return at the estancia. If they try to stay and wait, have Tomás — who is shaken, angry, and has no patrón to defer to — offer to lend them horses and a guide to follow the trail east. If players are still passive, a rural police runner arrives the next morning with a report of "strange lights seen over the old bell tower of San Ruiz, three nights running." The east pull should become irresistible.
 
@@ -539,26 +539,12 @@ This is a mistake. His absence is exactly what gives the investigators the room 
 | The branded hide                    | Fragment of the opening ritual diagram                                                                                                         |
 | Tomás's stone *(if given)*          | Second fragment — different section                                                                                                            |
 | The body placement pattern          | Diagram's outer ring confirmed                                                                                                                 |
-| The blood arcs in the pit           | Diagram's inner ring — now partially scraped away (pit will be reactivated by the time of C4)                                                  |
+| The blood arcs in the pit           | Diagram's inner ring — the players tore apart part of the opening here. Don Eusebio watched from the ridge and knows they did; he redraws the arcs before C4, but the pit's geometry is left degraded, not closed. The entity felt the disruption and has been working from below ever since. |
 | La Luz Mala's path                  | Diagram's full geometry — if anyone was tracking it                                                                                            |
 | Don Eusebio's behavioral tells      | He is hiding something specific; he fears the south pasture at night                                                                           |
 | **Don Eusebio's unfinished letter** | Addressed to Don A. Quirce, Calle Florida, Buenos Aires: *"Urgent. Come quickly. It did not hold. —E."* (Unsealed. On his desk. Seed for C6.)  |
 | **Don Eusebio's eastward trail**    | Fresh hoofprints leading east from the estancia. Tomás names the destination: San Ruiz, an abandoned town.                                     |
 | **Tomás's shame**                   | He did not enter the pit to save Concepción. This will shape his availability and behavior in C2–C4.                                           |
-| **Concepción's alignment**          | She walked into the pit and broke the geometry herself. She is not a normal child. She hums the pit's rhythm under her breath. (Payoff in C7.) |
+| **Concepción's alignment**          | She was not a normal child — she hummed the pit's rhythm under her breath, and she walked into the pit and broke the geometry herself. At this table she died doing it. (Payoff in C7: Don Eusebio's confession.) |
 | **The lesson**                      | Breaking the geometry ends the manifestation. This is now learned knowledge — it will come up again in C3 and C8.                              |
 
----
-
-> **[THIS TABLE — C1 OUTCOME — 2026-05-24]**
->
-> **Geometry broken at the ranch.** The opening diagram at the estancia was disrupted by the players. Cattle and swarm fell. The Luz Mala descended. Don Eusebio watched from the ridge and knows — the investigators tore apart part of his opening. He attempted to redraw the blood arcs before C4. The pit's geometry is degraded, not closed. The entity noticed the disruption; it is why it has been working from below ever since.
->
-> **Concepción — DEAD.** The campaign assumes she survives C1. At this table, she did not.
->
-> Downstream consequences:
-> - Don Eusebio's C7 confession is grimmer. He sent her away injured, and she didn't make it. He volunteered her. He knows it. He will stand in the ring in C8 without being asked — he has nothing left to lose. His motivation is not redemption. It's settlement.
-> - The quiet victory callback in C9 (*"se quedó callada de golpe"* at her cousin's house in Azul) is gone.
-> - Any investigator who failed to save her carries that weight. Don Eusebio knows who was there.
-
----

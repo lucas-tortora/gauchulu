@@ -150,6 +150,8 @@ The players begin by chasing the wrong enemy and end by deciding who should poss
 * Buenos Aires streets during transport
 * Dockyards / final ritual site
 
+*Setting reference for the city — history, geography, daily life, and how it grounds the geometry: [`REF-BuenosAires-1821.md`](REF-BuenosAires-1821.md).*
+
 ---
 
 # MAJOR FACTIONS
