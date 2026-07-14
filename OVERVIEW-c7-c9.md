@@ -65,6 +65,8 @@ The five stages **are** the five phases. Each is a sustained action; the entity 
 
 **The Sanity-10 Marked PC at the center** is the night's thinnest thread — track COR openly; see the note at [Phase Five](chapter-09.md#phase-five--the-final-seal). Death is a player's choice, never the default.
 
+**If a PC dies or breaks**, hand the player a replacement who's already at the pit — the ready list (backstory + what they bring + arc caveat) is in [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
+
 ---
 
 ## AFTER THE SEAL (don't rush this — the payload lands here)

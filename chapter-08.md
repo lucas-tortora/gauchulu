@@ -24,6 +24,8 @@
 - [ ] **Quirce**: ¿adentro o afuera del anillo?
 - [ ] **Cobre**: ¿quedó puesto? Saúl detrás del círculo, la cabra en el borde.
 
+> **Si un PJ muere o enloquece esta noche** → lista de reemplazos listos para entregar (ya están en el pozo): [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
+
 ### Apertura narrada _(leer en voz alta)_
 
 > _Cae la última luz y el campo sur queda en la oscuridad que el pozo mismo alumbra: los arcos de sangre brillan tenues, la geometría visible como un mapa de sí misma. Cada uno está en su lugar. Don Eusebio, en el centro, con las palmas marcadas de ocre. Mercedes levanta las hojas de Saens y respira. El pozo late, más fuerte que nunca, y la vibración les sube por las plantas de los pies. Nadie duerme esta noche; nadie se va. Y afuera, más allá del círculo de fuego — aunque todavía no lo saben — el pastizal se mueve sin viento. El malón esperó exactamente esto: todos clavados en su sitio, las manos llenas del trabajo. Mercedes abre la boca para empezar el canto._
@@ -50,6 +52,7 @@ Nobody trained leads this ritual. It is built from what the party recovered — 
 |**Western position**|the **Cursed Gaucho** (he asked, Mercedes agreed, with terms), with **Marta** floating as the aligned substitute who can step into any broken position|
 |**Northern watch**|**Silvio** — back to the ritual, facing out, calling the entity's approach|
 |**Southern ring**|a standard outer position at this table — Don Eusebio is at the center, so [Scene 4](#scene-4--don-eusebio-in-the-ring) lands there, not here|
+|**Base note**|whichever **Marked PC caught the [anchoring note](chapter-07.md#the-anchoring-note-marked-pcs)** on the ride holds the low tone under Mercedes from Stage I (they keep their ring position too — it is a voice, not a station). If none caught it, the reading floats — let the silence be felt|
 
 The entity presses whoever opened the wound, wherever Don Eusebio stands — and at this table he stands at the **center**, so **Scene 4 lands at the center.** His lower POW means the entity presses him harder there, and the Round-2 offer is not "you'll lose a geometric sense" but _"the land will be ordinary again and you will have to live in it knowing what you cost it."_ The Marked PC beside him is in the most exposed position in the working.
 
@@ -406,7 +409,12 @@ As Phase 2 deploys, Quirce moves. He has kept his theodolite on the eastern rise
 
 ### The Cursed Gaucho breaks formation
 
-In the same moment — the 5-second geometric distortion the Quirce-gap opens — the Cursed Gaucho (western position) turns his head slowly, _not_ toward Quirce, looking past him into the dark. For five seconds, **El Patrón is briefly visible** at the western edge of the camp, ~30 m out, standing alone, watching. Not glowing. The same unremarkable face the players will meet fully in C11. **Only the Cursed Gaucho, the Marked PCs, and Mercedes see him** (Mercedes does not move — she has seen him before).
+In the same moment — the 5-second geometric distortion the Quirce-gap opens — the Cursed Gaucho (western position) turns his head slowly, _not_ toward Quirce, looking past him into the dark. For five seconds, **El Patrón is briefly visible** at the western edge of the camp, ~30 m out, standing alone, watching. **Only the Cursed Gaucho, the Marked PCs, and Mercedes see him** (Mercedes does not move — she has seen him before).
+
+> **El Patrón — first sighting** _(read to the three who see him)_
+> _Un hombre común, parado en el pasto a treinta metros, del lado oeste. Ni alto ni bajo, ni joven ni viejo — la clase de cara que uno no recuerda diez minutos después de verla. No brilla, no hace nada. Está de pie, las manos a los costados, mirando el cierre con la atención tranquila de un patrón que mira trabajar a su gente. Cuando el Gaucho lo mira, él le devuelve la mirada — solo a él — y la quietud dice que sabe exactamente quién es el Gaucho, y que no le importa._
+
+> **Quién es / qué saben _(keeper)_.** Es **El Patrón — Eligio Dadálah** (nombre de nacimiento Eligio Méndez): el avatar de Nyarlathotep que viene moviendo todo hace cuarenta años para forzar que se **mueva el Necronomicón**. **Lo que la mesa sabe hasta acá**: que hay un "Patrón"/"Dadálah" detrás de todo (nombrado en la mediumnidad de [C6](chapter-06.md#the-mediumship) y por el Gaucho en [C7](chapter-07.md#the-cursed-gaucho-rides-in)) — pero **es la primera vez que le ven la cara**, y quizá todavía no aten que *ese hombre común* es Dadálah. **Lo que no saben**: qué es, y su plan (Arco 4). No actúa: se muestra. Aparece para confirmarle al Gaucho que lo conoce y para dejarse ver por los Marcados y Mercedes; se va cuando el hueco se cierra. Próxima vez, en persona: [C11](chapter-11.md#chapter-11--la-decisión). **Si un Marcado o Mercedes lo nombra en voz alta, la conexión Dadálah = este hombre puede saltar acá** — dejala saltar; el Gaucho aún no la tiene.
 
 The Gaucho breaks formation and runs at El Patrón through the gap. **This breaks the western position more thoroughly than Quirce's crossing.** El Patrón is gone the instant the gap closes; the Gaucho stands in the dark, _facón_ in hand, alone, breathing hard. He has confirmed tonight that El Patrón knows him by sight and will come within knife range to remind him of it.
 

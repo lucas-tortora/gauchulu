@@ -24,6 +24,8 @@
 - [ ] **Sangre del pacto**: ¿ya ofrecida en el este, o pendiente para el sello?
 - [ ] **Tiempo hasta el amanecer.**
 
+> **Si un PJ muere o enloquece** (la Fase 5 es la más peligrosa, sobre todo para el PJ de COR 10) → reemplazos listos: [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
+
 ### Apertura narrada _(leer en voz alta)_
 
 > _La misma noche, sin corte. El pozo está casi lleno de su propia luz — un mapa de sí mismo brillando desde las paredes talladas. La entidad ya no mira desde afuera: empuja, desde todas las direcciones a la vez. Faltan dos etapas. La luz empieza a virar al ámbar, la de la entidad y la del ritual mezclándose. Están todos en su lugar, agotados, las voces roncas de un canto que no se detiene desde la primera hora. Hacia el este el cielo sigue negro — pero no falta tanto. Lo que hagan en las próximas dos etapas cierra el pozo, o lo pierde. Marta se arrodilla junto al anillo interior y estira la mano hacia el cuarto segmento._

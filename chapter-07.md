@@ -184,9 +184,9 @@ He means the curandera by "la mujer que cierra" — and she is dead. Someone mus
 > - Que pasó **una galera** (la de Marta) en el camino, a una legua.
 > - Que lee la geometría del culto — peor que la curandera, pero suficiente para rastrear.
 > - Que buscaba a **la mujer que cierra** (la curandera) — se entera acá de que está muerta.
-> - Contesta si se sientan con él; no performa el dolor. **No sabe** el desenlace de Coypac (eso lo trae Saúl). **Mercedes and Saens's manuscript are the only living line into the tradition, and the Marked PCs are the only people left who _perceive_ the way the curandera did** — so he attaches his apprenticeship, quietly, to **them**. This upgrades the Marked PCs from afflicted to **lineage** (an Arc 4 thread).
+> - Contesta si se sientan con él; no performa el dolor. **No sabe** el desenlace de Coypac (eso lo trae Saúl).
 
-He has hunted both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition for _his_ closing, eventually, on a different scar in the cordillera.
+> **Keeper — the lineage thread.** Mercedes and Saens's manuscript are the only living line into the closing tradition, and **the Marked PCs are the only people left who _perceive_ the way the curandera did** — so the Gaucho attaches his apprenticeship, quietly, to **them**. This upgrades the Marked PCs from afflicted to **lineage** (an Arc 4 thread). He has hunted both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years, and needs the Tehuelche-Tobá-Salamanca tradition for _his_ own closing, eventually, on a different scar in the cordillera.
 
 ### The Gaucho's blade — and the looted list
 
@@ -405,6 +405,8 @@ Marta gathers everyone at the rim before anyone takes a place:
 > | **Rim** | **the goat** | Watches the east and the deal-PCs; leaves west at dawn. |
 >
 > _Say each name and position out loud and have the players physically place tokens — the whole of C8–C9 reads off this map._
+>
+> **The Antiquarian chooses here.** The added PC's *ring-or-rim* decision (a seeker not invested in whether the pit closes) is made **now, as positions are assigned** — the full scene and its consequences are written in [C8 — The Antiquarian at the Ring](chapter-08.md#the-antiquarian-at-the-ring-added-pc); run it during this assembly, not after the first chant. If they choose the ring, they slot **east / co-reader**; if the rim, the ring is one body lighter all night.
 
 ### Drawing the closing (the panels)
 
@@ -467,6 +469,44 @@ By full dark (~8:15 PM) the camp holds everything the closing will stand on: the
 **Put someone you trust on the east.**
 
 **→ [Chapter 8 — La Traición](chapter-08.md#chapter-8--la-traición)**
+
+---
+
+## REEMPLAZOS — PJs para entregar si un PJ muere o enloquece
+
+_The ritual can kill or break a PC (the Sanity-10 anchor above all). Keep these ready to hand a player whose character is lost — every one is **already at the pit**, so the swap stays diegetic: the player simply picks up someone who was in the ring beside them. **Rule:** a freshly-handed PC never drops straight into the **center** or the **east** — they cover a lighter position and Marta/Héctor shuffle up. Full stats in [`assets/npc-stats.md`](assets/npc-stats.md) and [`REF-NPCs.md`](REF-NPCs.md)._
+
+> **El Gaucho Maldito** _(en el oeste — el reemplazo más fuerte)_
+> _Tres años cazando al Culto del Gran Durmiente que le mató a la mujer, al hijo y al padre en Coypac. Lee la geometría del culto — mal, pero suficiente para rastrear. Ya está pegado a los Marcados como aprendiz._
+> **Trae:** pelea de verdad (facón 85%, esquivar 75%, POD 60), rastreo, un arco propio de venganza que apunta al Arco 4. **Ojo:** su prioridad —*si El Patrón está al alcance, va por él sin importar el costo*— pasa a ser del jugador. Ideal si el PJ perdido era el combatiente.
+
+> **Saúl Carrasco** _(detrás del círculo — el reemplazo con puerta al Arco 4)_
+> _Aprendiz Custodio, veintipico, hombre de Mercedes. Acaba de cruzar el país desde Coypac. Idealista, valiente hasta lo imprudente. Sabe leer, escribir, y conoce la red de los Custodios, el Necronomicón y Buenos Aires._
+> **Trae:** alfabetización, conocimiento Custodio, juventud y coraje — una puerta directa al Arco 4. **Ojo:** en el guion Saúl **muere tras el sello**; si un jugador lo toma, **ese destino se cancela** (es su PJ ahora) y el relevo de Coypac de [C9](chapter-09.md#the-coypac-relay) llega por otro jinete anónimo, igual firmado Saráchaga.
+
+> **Silvio** _(en el norte — el sensitivo)_
+> _Peón de la estancia que entró al pozo por Concepción y volvió cambiado. Se mueve un segundo tarde, como si oyera algo abajo del silencio. Percibe la aproximación de la entidad antes que nadie._
+> **Trae:** percepción de la entidad (medio-Marcado, sin las tiradas de Sabueso), conocimiento del campo, un arco de culpa y regreso. **Ojo:** su alineación se destiñe tras el sello — con el tiempo vuelve a ser un peón común. Ideal si el PJ perdido era el "sensitivo" no Marcado.
+
+> **Héctor** _(en el anillo — el que siente la forma)_
+> _Otro de Los Que Volvieron. Callado, alineado con la geometría de un modo que no sabe nombrar. Pendiente de Marta._
+> **Trae:** sentir si una línea de la figura está bien o mal (útil en cualquier posición del anillo), un cuerpo dispuesto y firme. **Ojo:** su vínculo con Marta es su motor — jugalo.
+
+> **Marta** _(la que arma la figura — mejor entregarla DESPUÉS del sello)_
+> _La que dibuja la contra-figura de memoria corporal; la última alineación viva del cierre anterior. Manos que ya cerraron esta forma._
+> **Trae:** el oficio del cierre (dibujar y leer la figura), la capacidad de flotar a cualquier posición rota — y, post-sello, un PJ enorme para el Arco 4. **Ojo:** mientras dura el ritual es **estructural**; si un jugador la toma en pleno cierre, alguien tiene que seguir armando (Héctor cubre). Preferí entregarla en el costo/después.
+
+> **Tomás** _(en la estancia — hay que traerlo)_
+> _El capataz. Carga la vergüenza de no haber bajado al pozo por Concepción. Reza «Por la tierra que fue buena» por lo bajo._
+> **Trae:** campo, caballos, lealtad, un arco de redención listo para usar. **Ojo:** por defecto **no está en el pozo** — si lo querés disponible, sembrá en [la cabalgata](#the-ride-to-the-pit) que insiste en venir.
+
+> **Reemplazos que pueden _llegar_ esa noche** _(si ninguno de arriba encaja con el jugador)_
+> - **Un guerrero del malón** que rompe con los sacerdotes al ver la cosecha y busca otro bando.
+> - **Un segundo corredor Custodio** que llega minutos después de Saúl, del este.
+> - **Un peón de la estancia** que vino con la partida y estuvo en el borde toda la noche.
+> _El recién llegado nunca entra directo al centro ni al este — cubre una posición liviana y las duras se reacomodan con Marta/Héctor._
+
+> **No entregar (demasiado centrales):** **Mercedes** (la voz no puede parar) y **Don Eusebio** (es el ancla del centro; su muerte o quiebre _es_ una escena, no un reemplazo). **Quirce** técnicamente está, pero es no-combatiente y su arco es irse con el cobre — mal reemplazo salvo que el jugador lo pida.
 
 ---
 
