@@ -150,7 +150,7 @@ Midway through the chapter — while investigators deal with Don Eusebio or Quir
 
 **If they don't follow**: he returns on his own after dark, unchanged — or rather, what he was, but quieter. He says nothing and goes back to work.
 
-**SAN Check**: 0/1 (the purposeful descent, the casualness of it). This should be alarming, and _more_ alarming in its calmness when he returns. What he saw is for [C7](chapter-07.md#last-conversations).
+**SAN Check**: 0/1 (the purposeful descent, the casualness of it). This should be alarming, and _more_ alarming in its calmness when he returns. What he saw surfaces obliquely when he [finishes folding the copper into the diagram in C7](chapter-07.md#quirce-finishes-the-copper).
 
 ---
 
@@ -172,7 +172,7 @@ Quirce establishes himself as an ally and makes preparations. He does not yet ac
 
 **With Don Eusebio's diagrams**: he has "corrected" three of Don Eusebio's variant attempts. The corrections are accurate — they would work better — but a **Hard Occult** check reveals one introduces a slight asymmetry in the **eastern outer ring** that, at maximum closure pressure, makes the geometry "ring" before sealing. It won't prevent the closing; it exposes anyone in the outer ring to a concentrated moment of the entity's field. This is his observation window.
 
-> **Where the asymmetry lives.** With the curandera dead, there are **no leather panels at the estancia**. Quirce's eastern correction lives in **Don Eusebio's recopied diagrams** (the sheaf from the [C4 locked study](chapter-04.md#the-locked-study)). In C7, when Marta and the party draw the leather panels from the [San Ruiz symbol](chapter-07.md#san-ruiz--second-pass), Don Eusebio's recopies are the only large-format reference at the camp — used to fill gaps and check proportions, and _that_ is the moment the Wizard's line crosses onto the panels. **Destroy or quarantine the contaminated recopy now** and the asymmetry never reaches the panels (C8's east becomes marginally more defensible). Leave it and it transfers intact: **the eastern panel asymmetry is never corrected — the entity's primary attack vector in C8.**
+> **Where the asymmetry lives.** With the curandera dead, the party has **no leather panels of its own** — [Marta brings blank hides](chapter-07.md#marta-arrives-with-the-panels) and draws the figure at the pit. Quirce's eastern correction lives in **Don Eusebio's recopied diagrams** (the sheaf from the [C4 locked study](chapter-04.md#the-locked-study)), and now also in anything Quirce redraws around the [tarnished copper](chapter-07.md#quirce-finishes-the-copper). In the [C7 assembly](chapter-07.md#drawing-the-closing-the-panels), when Marta draws the panels from Saens's instructions, Don Eusebio's recopies are the large-format reference used to fill gaps and check proportions — and _that_ is the moment the Wizard's line crosses onto the eastern panel. **Destroy or quarantine the contaminated recopy now** and the eastern panel draws clean (C8's east becomes marginally more defensible). Leave it and it transfers intact — the goat points it out at the pit, but by then it can only be **placed, not redrawn**: **the entity's primary attack vector in C8.**
 
 **The notebook — a word in another hand.** When investigators pursue his annotated manuscript, a **Hard Cthulhu Mythos** roll on the cipher annotations reveals: most are in Quirce's hand, but **three are not.** Older, neater, a different pen — positioned exactly where Saens wrote about the _Necronomicón_ (the [C4 marginal note](chapter-04.md#the-locked-study) plus two others). Translated from the older Castilian:
 
@@ -268,7 +268,7 @@ _(in open air — and the final image)_
 
 As the players set up camp at the pit for the night, **Mercedes' second letter** arrives by fast, costly express rider:
 
-> **Keeper — timing.** Mercedes dispatched this from the road by fast Keeper relay (fresh mounts at each *posta*) before she fully committed to coming in person; the rider outruns her hired coach by a few hours, so the letter lands tonight and **she herself reaches the pit before dawn** ([C7, ~4 AM](chapter-07.md#doña-mercedes-arrives-late)). The *"escríbanme"* was true when she wrote it and overtaken by her decision to follow it west. If you'd rather not have letter and author arrive the same night, deliver this one back at the estancia alongside [her first reply](#doña-mercedes-first-reply) instead.
+> **Keeper — timing.** Mercedes dispatched this from the road by fast Keeper relay (fresh mounts at each *posta*) before she fully committed to coming in person; the rider outruns her hired coach. The *"escríbanme"* was true when she wrote it and overtaken by her decision to follow it west — she reaches the estancia a day or two ahead of the closing and is **already present through the [C7 wait](chapter-07.md#the-wait)**, reading the manuscript at the long table, when the party rides out to the pit.
 
 > _"Si todo lo que ustedes describen es cierto, mañana se cierra esta abertura. Hay otras. La que más me preocupa es la única que no está en tierra: el libro. El Necronomicón está en una bóveda en Buenos Aires desde 1610. Si la cerradura abajo se está debilitando, está porque alguien ha empezado a tocar la bóveda desde acá. No vengan al norte. Cierren primero. Después escríbanme. — M.S."_
 

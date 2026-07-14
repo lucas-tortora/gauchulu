@@ -134,7 +134,7 @@ Larrea is bewildered — twenty years a merchant, never seen this: _"Dormí al l
 > 
 > **What investigators can do**: buy the ruined copper at scrap price (Larrea is grateful). Brought to the [bone chamber](#the-bone-chamber) later, it _re-tarnishes_ on contact with the walls — confirming the link. [Mercedes](REF-NPCs.md#do%C3%B1a-mercedes-sol%C3%ADs) will later recognize the signature.
 > 
-> **Larrea's onward role**: he limps east toward Buenos Aires once trade is done, arriving in the city before the players do, two months later. He tells the tarnished-copper story to the _vigilantes urbanos_ at the gate; it reaches [Saráchaga](REF-NPCs.md#don-eladio-sar%C3%A1chaga), who writes Mercedes that _"the pressure is now visible at the perimeter, not just at the centre."_ This is one of the threads that brings Mercedes to the camp in [C7](chapter-07.md#doña-mercedes-arrives-late). Larrea is the campaign's first non-Keeper, non-curandera, non-tribal civilian witness to the entity's reach. He never knows what he saw. He dies of natural causes in 1843.
+> **Larrea's onward role**: he limps east toward Buenos Aires once trade is done, arriving in the city before the players do, two months later. He tells the tarnished-copper story to the _vigilantes urbanos_ at the gate; it reaches [Saráchaga](REF-NPCs.md#don-eladio-sar%C3%A1chaga), who writes Mercedes that _"the pressure is now visible at the perimeter, not just at the centre."_ This is one of the threads that brings Mercedes west to the estancia for the closing ([C7](chapter-07.md#the-wait)). Larrea is the campaign's first non-Keeper, non-curandera, non-tribal civilian witness to the entity's reach. He never knows what he saw. He dies of natural causes in 1843.
 
 **Placement**: run on the **approach** (end of road) or as the **first beat at the ruins** — whichever fits pacing.
 
@@ -579,7 +579,7 @@ He answers direct questions with unsettling honesty. He does **not** name El Pat
 
 - **Quirce (C6)** arrives knowing someone breached Salamanca — his notebook annotations may be stripped or defensive.
 - **Mercedes**, if written to, replies with urgency: _"You were not meant to find that room yet. Destroy nothing. Copy what you can. Do not trust what he told you about the closing."_
-- **Eastern asymmetry**: a rubbing of the ochre floor is proof, and earns [Rosa](REF-NPCs.md#rosa)'s trust faster on the [second San Ruiz pass](chapter-07.md#san-ruiz--second-pass).
+- **Eastern asymmetry**: a rubbing of the ochre floor is proof — a large-format reference Marta can check the eastern panel against during the [C7 assembly](chapter-07.md#drawing-the-closing-the-panels), and a way to recognize the contaminated line the goat points out before it is drawn.
 - **El Patrón** may take interest (optional: a Luz Mala follows them out; a Marked PC dreams of a man in a Salta merchant's coat watching from the ridge).
 
 > **C6 overlap**: if this scene ran in full, **shorten** the C6 [notebook](chapter-06.md#quirces-move) and [eastern-asymmetry](chapter-06.md#the-eastern-asymmetry-recognized) beats — the information is already in play. Keep the [mediumship](chapter-06.md#the-mediumship); the players now have context for the second voice on Quirce's strings.

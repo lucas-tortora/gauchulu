@@ -1,232 +1,121 @@
-# CHAPTER 7 — LA VÍSPERA
+# CHAPTER 7 — LA ESPERA
 
-### _The Eve_
+### _The Wait_
 
-**Arc 3 goal**: Close what was opened. Pay what the closing costs. Live with what remains. **Arc 3 theme**: Some scars don't heal — they become part of the land. What matters is what you do before the wound closes. **Chapter goal**: The night before the final ritual. Preparations, revelations, last conversations. The entity at its most active. Everyone's last chance to be honest. **Emotional arc**: Anticipation → Dread → Bone-deep resolve.
+**Arc 3 goal**: Close what was opened. Pay what the closing costs. Live with what remains. **Arc 3 theme**: Some scars don't heal — they become part of the land. What matters is what you do before the wound closes. **Chapter goal**: The afternoon and dusk before the closing — the same night, no night in between. The party waits outside the estancia for the last piece to be ready, the people who must be here converge, and then they ride to the pit and begin to assemble the ritual. **Emotional arc**: Waiting dread → Convergence → Committed motion.
 
-> **Keeper note.** This chapter is **weight, not action** — the ritual and the combat both wait. The horror is in preparation: knowing what's coming and having to sit with it. The one scheduled spike ([the eastern probe](#the-eastern-probe)) exists to _teach_ C8, not to break the mood.
+> **Keeper note.** This is a **compression** chapter. There is no eve, no confessions spread across a long night, no scheduled manifestation before the working. Everything from "we are ready" to "the first panel is laid" happens between mid-afternoon and full dark of a **single day**. The horror is not an encounter — it is the clock. The ritual must run tonight, and every arrival that fills the circle also spends the light. Run it lean and forward-moving; the weight is in knowing what waits at the pit, not in delaying the ride to it.
 
-> **Opening situation.** The camp's roster: the investigators, Don Eusebio, Quirce, Silvio, Héctor, Marta — and Mercedes, once she arrives. The leather panels are being laid out, but nobody trained draws them, and no one yet holds the center. Three small fires burn — not for warmth (it is summer) but for the geometry they make in the dark, the way fire defines angles and pushes the shapeless back.
+> **Opening situation.** It is **late afternoon** at Estancia La Esperanza. The roster on the ground: the investigators, Don Eusebio, Silvio, Héctor, Tomás, and **Doña Mercedes** — who reached the estancia two days ago by post-coach and has been reading and re-reading the manuscript at the long table since. **Aldao Quirce** is bent over that same table, redrawing the master diagram, because the party talked him into folding [the tarnished copper](chapter-06.md#quirces-move) into the geometry and he is not finished. **The panels are not here.** There is no leather laid out, because the party has none — **Marta is bringing them**, by carriage, and has not yet arrived. They are waiting on three things: Quirce's hand, Marta's wheels, and the light, because the closing uses dusk. When all three land, they ride.
 
-> **Who draws the panels.** Marta draws them by body memory, working from: the [San Ruiz symbol](#san-ruiz--second-pass) (Tier 1/2/3), the chapel stone-fragment (75%), Saens's manuscript diagrams, and — for scale and proportion — **Don Eusebio's recopied sheets**, which carry [Quirce's/the Wizard's eastern correction](chapter-06.md#the-eastern-asymmetry-recognized). If the players destroyed or quarantined the contaminated sheet in C6, the asymmetry does **not** transfer. Otherwise it transfers, and the eastern panel asymmetry is never corrected.
+> **What they carry instead of San Ruiz.** They do **not** ride to San Ruiz and they do **not** need Rosa's stone. They already hold the closing — **Padre Saens's own instructions**, recovered in the [bone chamber under La Salamanca](chapter-05.md#the-bone-vigil-de-vigilia-ossium--hidden-rite) (C5): the counter-figure, the five stages, the anchor, the chant, and the warning that _the east fails first_. Everything the working needs to be _run_ is in that waxed roll — **[Saens's closing instructions, H-Sa](02-la-salamanca/saens-closing-instructions.md)**. Mercedes reads the voice; Marta builds the figure; the Marked feel it. Saens failed for lack of a second person, not lack of knowledge — the party is the second person he never had. His words make the closing possible; the missing tribe makes it slower and harder, not impossible.
 
-> **Where the procedure comes from.** With the curandera dead, the complete symbol no longer lives in her memory and must be recovered (below). The procedure that _uses_ the symbol comes from **Saens's manuscript, read aloud by Mercedes**. Saens failed for lack of a second person, not lack of knowledge — the party is the second person he never had. Her loss makes the closing slower and harder, not impossible.
+---
 
-> **The shape of the night.** Day runs into dark in order: the [San Ruiz second pass](#san-ruiz--second-pass) on the ride in (symbol recovered), then [the pit at night](#the-pit-at-night--changed), then the [last conversations](#last-conversations) before midnight. **After midnight it stops being linear** — Quirce, the entity, the Zonda, the Cursed Gaucho, Mercedes' arrival, and the eastern probe all land between ~11 PM and dawn; the **clock spine at the head of [Last Conversations](#last-conversations)** gives the times. Interleave to taste. It closes on the probe and Mercedes' one instruction — *put someone you trust on the east* — then [rolls into C8](#into-chapter-8).
+> **The shape of the day (clock spine).** Hold the table to the light dying. The times are anchors, not rails.
+>
+> | Time | Beat |
+> |---|---|
+> | **~4:30 PM** | The wait outside the estancia; Quirce still drawing; [Don Eusebio's confession](#don-eusebio-while-they-wait) if a PC seeks him |
+> | **~5:00 PM** | [The Cursed Gaucho rides in](#the-cursed-gaucho-rides-in) from the west — _"pasé una galera en el camino"_ |
+> | **~5:40 PM** | [Marta arrives with the panels](#marta-arrives-with-the-panels) — the carriage the Gaucho saw |
+> | **~6:00 PM** | [Saúl rides in from Coypac](#saúl-from-coypac), separately, from the west, spent |
+> | **~6:20 PM** | [Quirce finishes](#quirce-finishes-the-copper); the copper is in the diagram; decide if he rides out |
+> | **~6:30 PM** | [The ride to the pit](#the-ride-to-the-pit) — 45 minutes south; the scar beats louder; the [anchoring-note roll](#the-anchoring-note-marked-pcs) |
+> | **~7:15 PM** | [The pit at dusk](#the-pit-at-dusk); [assembly begins — Marta directs](#assembly--marta-directs) |
+> | **~8:15 PM, full dark** | Positions set, palms marked, panels laid. → [**Chapter 8**](chapter-08.md#chapter-8--la-traición), the ritual begins |
 
 ---
 
 ## ROLL FOR HOUND — C7
 
-**Two Marked PCs, each rolls their own 2d6.** **Double 1** → aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). **Double 1 or 2** after a hard look. The night is **saturated** — the pit glows, the entity speaks, the Zonda broadcasts. Resist rolling at everything; the triggers below are enough. **Cap: 3 fired aftershocks across the chapter.** After the seal in C9, the Marks go quiet at this site permanently.
+**Two Marked PCs, each rolls their own 2d6.** **Double 1** → aftershock 1D3 rounds (peripheral, at an angle — [entity](assets/entity-hound.md)). The night is not yet saturated the way C8 will be — hold the triggers to the short list below. **Cap: 2 fired aftershocks across the chapter.** After the seal in C9, the Marks go quiet at this site permanently.
 
 |Trigger|When|
 |---|---|
-|**San Ruiz second pass**|Tier-2 reconstruction performed by a Marked PC (raised threshold if they "looked hard")|
-|**First long look into the glowing pit**|/ any descent into the 3-metre pit|
-|**Marta completes the eastern panel**|Marked PC looks hard at the contaminated line|
-|**Entity communication ends**|Both Marked PCs roll immediately after|
-|**Listening inside the Zonda for the chant**|Deliberate, after midnight|
-|**Sighting through Quirce's theodolite**|Do not let them do it lightly|
+|**First long look into the glowing pit**|On arrival / any descent into the 3-metre pit|
+|**The anchoring-note roll**|A Marked PC reaching for the low note under the scar's beat — the reach itself brushes the entity (raised threshold if they "looked hard")|
+|**Marta draws the eastern panel**|A Marked PC looks hard at the contaminated eastern line the goat points out|
+|**Sighting through Quirce's theodolite**|If he rode out and a Marked PC uses it — do not let them do it lightly|
 
 ---
 
-## SAN RUIZ — SECOND PASS
+## THE WAIT
 
-_(recovering the symbol)_
+The afternoon heat is breaking. Nobody is at ease. The estancia is a place where a great deal is about to happen and, for one more hour, nothing is. Use the waiting to let the table _look_ at what they've assembled — and to feel the light going.
 
-Riding _to the pit to close it_, the party passes San Ruiz a second time — and this is where the complete binding symbol is recovered. Run the three tiers in order; each is a genuine fallback, so the closing is never hard-blocked by one cold NPC or one failed roll.
+**Quirce at the long table.** He works with a fine pen, a straight-edge, and the tarnished copper disc set beside the master sheet like a paperweight. He is folding it into the diagram — a new node on the eastern-northeastern arc, and the lines that must be redrawn to accommodate it. He is unhurried in a way that reads, depending on the investigator, as either professional calm or maddening indifference to the fact that the sun is moving. If pressed on time:
 
-**Tier 1 — Rosa hands it over (the earned path).** The party's intent is now true and present-tense: _we are going to the pit to finish what Dolores started._ That is the condition Rosa set on the first pass. She lifts her grinding stone and gives them the complete symbol scratched beneath it — **as a transaction, not forgiveness**:
+> _(Sin levantar la pluma.)_ _"Si lo hago rápido, lo hago mal, y entonces esta noche se muere gente por dos milímetros. Falta poco. El cobre cambia la forma más de lo que ustedes creen — no mucho, pero donde importa."_
 
-> _"No lo hago por ustedes. Lo hago por la que dejaron suelta."_
+> **Dialogue branches — what the wait is _for_.**
+> - **A PC offers to help draw** (Occult or Art/Craft, or a Marked PC): Quirce accepts flatly — _"Sostené la regla acá y no respires encima de la tinta."_ A success shaves the wait (they leave ~15 min earlier, more daylight for [assembly](#assembly--marta-directs)); it also lets that PC **see the copper node go in** — a Marked PC feels it _"zumbar hacia el pozo, no hacia afuera"_ (foreshadows the two-way window).
+> - **A PC tries to hurry him / threatens**: he does not speed up. _"Ustedes me pidieron el cobre. El cobre pide tiempo. Elijan."_ Pushing him only costs goodwill for the [ride-out decision](#quirce-finishes-the-copper).
+> - **A PC asks what the copper changes**: _"Amplía lo que se ve del cierre. Más lejos, más nítido. Para mí, eso es todo. Para el pozo —"_ _(pausa)_ _"— para el pozo es una ventana, y las ventanas se abren de los dos lados. Pero ustedes ya lo decidieron."_
 
-If the party committed early and only passed San Ruiz once, fold this handover into that single pass.
+**Mercedes at the same table**, the manuscript and [Saens's closing sheets](02-la-salamanca/saens-closing-instructions.md) open in front of her, marking the order of the five stages with grass stems. She is the one person here who is not nervous, because she has already decided the worst thing — that she will not be enough, and that they will do it anyway. If an investigator sits with her, she gives them the frame for the whole night in three sentences:
 
-**Tier 2 — reconstruct without Rosa (fallback).** If Rosa stays cold, or they never circled back: the **chapel stone-fragment supplies ~75%** of the diagram. A **Marked PC who stood at the dual-diagram stone in the [C5 ruins](chapter-05.md#the-jesuit-mission-ruins)** completes the remaining ~25% by perception — a **Hard INT or Cthulhu Mythos** roll, one step easier for the Marked, or automatic if they "look hard" (raising the 2d6 Hound threshold for that scene). Saens's manuscript diagrams cover gaps. Result: a **complete but slightly imprecise** symbol. _(Make sure at least one Marked PC stood at the C5 stone so this path exists — if in doubt, Héctor paused them there on the ascent.)_
+> _"Saens nos dejó cómo. Yo llevo la voz. Marta arma la figura. Ustedes — los que sienten — son los que él nunca tuvo. Falta una sola cosa que no está en el papel, y la vamos a extrañar toda la noche: la nota de abajo. La que sostenía la que cantaba, y esa mujer está muerta."_ _(Mira a los Marcados.)_ _"A menos que ustedes la oigan. El pozo la sigue teniendo. La cicatriz late, y abajo del latido está la nota. Si alguno la alcanza, cerramos entero."_
 
-**Tier 3 — proceed on a partial symbol (degraded, not a dead end).** If both fail, the closing runs on an **incomplete eastern segment** — which is _already the established C8 threat_ (the uncorrected eastern asymmetry). They unify: the improvised symbol's imperfection **is** the eastern gap the Hound attacks. The closing can still complete via a **human anchor holding the east physically** (a PC or Don Eusebio at the eastern line — the C3 pure-decision mechanic reused) or a Mandinga Warding placed there. Higher cost, uglier closing — but nobody dies _only_ because a clue was missed.
+_(This plants the [anchoring-note roll](#the-anchoring-note-marked-pcs) they will attempt on the ride and at the pit — the Marked recovering, by ear, the base tone that died with the tribe.)_
 
----
+### Don Eusebio, while they wait
 
-## THE PIT AT NIGHT — CHANGED
+There is no long night for his confession anymore — so it lands now, in the waiting, compressed to its core. If an investigator who has treated him honestly seeks him out (or if none has, he seeks out Silvio, worse for him — play it that way), he is at the south-pasture fence, in the position Silvio used to occupy, gripping the top wire, looking at the horizon over which the pit lies.
 
-> _De día es una depresión en la tierra — diez metros de ancho, un metro de profundidad en el centro, los cadáveres derrumbados secos en algo plano y oscuro, los arcos de sangre desvanecidos pero presentes. De noche, la geometría es visible para cualquiera. Los arcos de sangre brillan tenuemente — no fosforescentes, no biológicos, no fuego. Brillan como brilla algo cuando es el origen de la luz y no su reflejo. Desde el borde se puede ver el círculo exterior completo y los arcos interiores y dónde se cruzan. Es hermoso exactamente de la manera en que puede serlo algo muy preciso y muy equivocado._
->
-> _El pozo también es más profundo que antes. Estuvieron en él en el capítulo 1 — entonces tenía un metro de profundidad. Ahora tiene tres. Las paredes no se derrumbaron; no es erosión. Los costados son verticales, y muestran la misma geometría tallada que la piedra de la capilla de Saens, extendiéndose hacia abajo. Algo ha estado tallando desde abajo._
+> _"Cuando empezaron a morir los primeros animales, la tierra producía como nunca. Me dije que había algo que ajustar. No que había hecho algo mal. Nueve semanas de ese razonamiento."_ _(Silencio.)_ _"La primera persona que vi caminando al sur de noche fue Concepción. Trece años. La traía de vuelta y se me volvía a ir. Me dije que tenía tiempo."_
 
-**SAN Check**: 1/1D4 — the glowing geometry, the new depth, the carved walls.
+If the investigator listens without judgment, he says the thing he has waited six months to say:
 
-**The Sound**: from 2 AM, a sound audible at the edge — not heard with the ears but felt in the chest. The vibration from Chapter 3, here at its source and much stronger. A **Hard CON check** to sleep through it after 2 AM; on failure, the investigator is awake the rest of the night — not from fear, from the sound's effect on sleep architecture.
+> _"Ustedes bajaron detrás de ella al pozo y no alcanzó — el ganado la alcanzó antes. Murió ahí haciendo lo que yo debería haber hecho ocho meses antes. Y todavía la escucho. El ritmo del pozo. Ella lo tarareaba la última mañana, cuando les trajo agua, y ninguno sabíamos qué era. El pozo le tomó la lengua antes que el resto. Eso se llevó una niña de trece años de mi tierra, porque yo necesitaba ocho cabezas más de ganado."_
 
----
+This is the **payoff for the hum first audible in C1**. If any player noticed Concepción humming when she brought the _mate_, tell them now: _that tune is the rhythm the pit beats against the soles of feet._ Land the line on whichever player remembers it. If no one noticed, the fact that they _missed_ it is its own quiet horror.
 
-## LAST CONVERSATIONS
-
-> ⊕ **The Antiquarian, the night before** _(optional)_. The Antiquarian has been with the party since [La Salamanca](chapter-05.md#the-whispering-tunnels) (C5) and is in the camp now — no one rides in at the closing. The eve of the working is a natural beat for them: a seeker too rapt to sleep, walking the rim of the laid panels, on the edge of the thing they crossed an ocean to witness. Use it to let the table take their measure before [they take a position in the ring](chapter-08.md#the-antiquarian-at-the-ring-added-pc).
-
-The night before the ritual is when characters say the things they haven't said. Manage these individually; give each NPC time.
-
-### Don Eusebio — the confession
-
-Before midnight, Don Eusebio seeks out an investigator who has treated him with consistent honesty (if none exists, he seeks out Silvio — worse for him; play it that way). He does not confess dramatically. He sits by the fire:
-
-> _"Cuando empezaron a morir los primeros animales — los primeros — la tierra producía como nunca había visto. Animales gordos, pasto profundo, agua buena. Me dije que el ritual funcionaba pero que había algo que ajustar. No que había hecho algo mal. Que tenía que calibrar."_ _(Silencio.)_ _"Hubo otras nueve semanas de ese razonamiento."_
-
-If the investigator listens without judgment:
-
-> _"La primera persona que vi caminando hacia el sur de noche fue Concepción. La niña. Trece años, huérfana que mi mujer recogió antes de morir. Descalza, en camisón, yendo al sur como si la llamaran. Salí corriendo y la traje de vuelta. Después la encontré la semana siguiente, y la otra. Se le daba mejor zafarse de mí. Me dije que lo iba a resolver. Que tenía tiempo."_
-
-> _"Después llegaron ustedes. Y vieron lo que yo veía — la vieron entrar al pozo como si volviera a casa. Y la vieron empezar a deshacer lo que yo había hecho, con las manos, con una piedra, porque ella sabía cómo. Una niña de trece años sabía cómo cerrarlo y yo no."_
-
-_(Un silencio largo. Esto es lo que no ha podido decir.)_
-
-> _"Ustedes estuvieron ahí. Bajaron detrás de ella. Y no fue suficiente — el ganado la alcanzó antes de que pudiera terminar, antes de que cualquiera de nosotros pudiera llegar al centro. Murió en ese pozo haciendo lo que yo debería haber hecho ocho meses antes. Ese tarde me fui al este, antes de que pasara — no a ayudar. Para no ver. Porque no podía soportar ver si ustedes la salvaban a ella o si ella nos salvaba a nosotros. Volví dos días después a una tumba."_
-
-He looks at his hands. The next sentence is the one he has waited six months to say to someone:
-
-> _"La tararea. Todavía. En mi cabeza — no puedo dejar de escucharla. El ritmo del pozo. La última mañana, cuando les trajo agua, la tarareaba por lo bajo y ninguno de nosotros sabía qué era. Ella no sabía que lo hacía. El pozo le tomó la lengua antes que el resto. Eso es lo que una niña de trece años se llevó de mi tierra porque yo necesitaba ocho cabezas más de ganado."_
-
-This is the **payoff for the hum first audible in C1** (a player or the foreman catching her humming under her breath when she brought the _mate_; see Chapter 1). If anyone noticed it then, tell them now: _that tune was the rhythm the pit beats against the soles of feet at night._ If no one noticed, this is still where it lands — and the fact they _missed_ it is its own quiet horror. Have Don Eusebio's line land on whichever player remembers the hum.
-
-This is the last significant reveal about his character. He did not protect her; the investigators tried and could not. The honesty is its own kind of reckoning — not redemption, evidence that there is still a person inside the wreckage of his choices.
-
-> **Roleplaying hook**: if asked _"What do you think will happen to you in the outer ring?"_ He means it as terror. It is. The entity let him complete enough of the opening that he couldn't undo it alone. He was used. And Concepción — untrained, thirteen — was closer to being its equal than he ever was.
-> 
-> **Keeper note — ritual consequence**: because he has nothing left that could be taken from him, Don Eusebio may **volunteer to anchor the center without being asked** in C8/C9. Let him. It is the only thing he has to offer that costs him something.
-
-### Silvio — the last thing he saw
-
-Silvio is the only one awake at 3 AM, sitting at the pit's edge, looking down. If an investigator sits beside him:
-
-> _"Cuando entré — ayer — me mostró el interior. No en imágenes. En ángulos. Como si pudiera sentir la forma de lo que es desde adentro hacia afuera."_ _(Mira los arcos brillantes.)_ _"Lleva mucho tiempo acá. Más que el tallado. El tallado es reciente — quizás unos pocos miles de años. La cicatriz es — no tengo palabras para lo vieja que es la cicatriz. Es como intentar decir cuántos años tiene la tierra."_
-
-If asked what the entity wants:
-
-> _"No quiere cosas. Se mueve. La apertura es un lugar donde puede moverse más fácilmente. Viene usando este lugar desde que pasó la cicatriz. Lo abrimos más. Ahora tiene demasiado de sí mismo acá y no puede volver por donde vino."_ _(Pausa.)_ _"Eso es lo que creo que hace el cierre. No lo expulsa. Angosta la puerta de vuelta. Para que pueda seguir estando acá, pero solo como siempre estuvo — en las esquinas, en los ángulos. No… pasando."_
-
-The most accurate description of the entity anyone offers: it doesn't want, it moves; the opening made it more present than it has been in centuries; the closing returns it to background noise rather than active intrusion. **SAN Check**: 0/1 — not horror, the dawning comprehension of its scale and indifference.
-
-> **Keeper — what the entity is doing.** It has been **moderating its pressure on the binding** so the closing is attempted and fails at peak pressure — it _wants_ the ritual run. The party reaches this through [the entity's own communication](#the-entity-speaks) (_"el resultado es conocido"_), a Hard Cthulhu Mythos inference, or [Mercedes after the probe](#the-eastern-probe). And the practical assessment that decides the night — **speed is the advantage; every outer-ring role filled or the closing loses tempo; the center needs a co-anchor** — comes from Mercedes' guidance and from Don Eusebio asking the PCs himself: _"Si me paro en el centro, necesito a alguien atrás mío. Alguien que lo sienta."_ The co-anchor (a PC holding the center-keeper's hands, or at an inner-ring position) distributes SAN/CON strain across volunteers — see [C9, Phase Five](chapter-09.md#phase-five--the-final-seal).
+> **Keeper note — ritual consequence.** He has nothing left that could be taken from him. He committed to the **center** in [C6](chapter-06.md#confronting-don-eusebio); holding it tonight is the only thing he has left to offer that costs him something. If the investigator acknowledges the confession without false comfort — _"Ya lo sé,"_ or _"Entonces estás esta noche"_ — he stands in the ring without flinching. If dismissed or met with contempt, he still stands, but fights himself as well as the entity, and the geometry feels it.
 
 ---
 
-> **Orienting the night.** What follows is not strictly linear — several beats land at 3 AM. The clock spine: the **Zonda** begins at dusk; the **Cursed Gaucho** rides in ~11 PM; **Don Eusebio's confession** is before midnight; **Quirce** is at the pit ~1 AM; the **entity speaks** between 2–4 AM; **Silvio** is awake at 3 AM; the **eastern probe** hits ~3 AM; **Mercedes** arrives ~4 AM. Interleave to taste — the time labels below are the anchors.
+## THE CURSED GAUCHO RIDES IN
 
-## QUIRCE AT NIGHT
+_(~5:00 PM — from the west, alone)_
 
-_(~1 AM)_
+A man rides into the estancia yard from the west, unannounced. The horses at the corral shy from him before anyone sees him; whoever is nearby does not raise an alarm — they stare.
 
-Quirce does not sleep. If any investigator is awake and watching, he is at the pit's edge with his theodolite, measuring the glowing geometry. Meticulous, and clearly **awed** — not afraid. At some point he kneels, measures the exact distance between the nearest panel and the pit rim, and makes a careful note — as if calculating whether he could step inside the ring without touching anything. He closes the notebook without crossing. **This is the decision he will make again tomorrow night, and make differently.**
+**Appearance** — mid-thirties; sun-blasted, lean; a scar from earlobe to chin, a clean diagonal that never closed right. Black _bombachas_, a _vicuña poncho_, a wide hat. Two knives in plain sight (a _facón_ on his back, a _cuchillo de campo_ on his belt); an old flintlock on the saddle, unloaded. His _zaino_ has been pushed hard for days. His eyes do not move when others enter his field; he looks at one person at a time, completely, then moves to the next.
 
-If confronted:
+> _Un jinete entra al patio desde el oeste, solo, sin anunciarse. Los caballos del corral se apartan antes de que la gente lo vea. Desmonta sin que nadie se lo pida y camina con la calma de quien ya midió a cada uno desde lejos. La cicatriz le baja del lóbulo al mentón. No saluda. Mira a cada uno, de a uno, completo, y recién cuando terminó, habla._
 
-> _(Levanta la vista sin culpa.)_ _"Sabía que venían tarde o temprano. Sí, estoy documentando. Es lo que hago."_ _(Una pausa.)_ _"No vine a detener el ritual. Quiero verlo funcionar. Quiero medir cómo se ve un cierre exitoso desde afuera. Hay gente que necesita saber que es posible."_
+On entry — and this is the line the brief turns on:
 
-He means it. The real question — whether his presence and instruments compromise the geometry — is what investigators should focus on. His eastern correction is still present in the panels Marta is preparing, **unless investigators caught and quarantined it in C6**.
+> _"Vengo del oeste. Busco a la mujer que cierra; me dijeron que estaba acá. No vengo a cerrar — vengo a ver cómo cierra, para aprender."_ _(Beat.)_ _"Y algo más: a una legua, en el camino del sur, pasé una galera. Dos caballos, una mujer manejando sola, cargada de cueros. Viene para acá. Si esperan a alguien con cueros, ya casi llega."_
 
-**If investigators haven't caught the asymmetry yet**: a **Spot Hidden** or **Occult** check while looking at the assembled panels reveals it. It is subtle enough to have passed even a trained eye.
+He means the curandera by "la mujer que cierra" — and she is dead. Someone must tell him. He receives it without expression, looks at the ground a long moment, then: _"Entonces llegué tarde dos veces."_ He stays anyway.
 
-> **Asymmetry policy.** With the curandera dead, this is the **final "chance to place" window — the line is discoverable but not redrawable.** Marta, tracing it: _"Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro."_ **Erasing is worse than leaving it** (a gap beats a lie, but only just). The correct response is **placement**: a Marked PC or Don Eusebio anchoring the **eastern line physically** (the C3 pure-decision mechanic reused — see C8), or a **Mandinga Warding** placed there. Discovery here buys _informed placement_, not repair. If the contaminated recopy was quarantined or destroyed in C6, this scene finds no asymmetric line.
+> **What the party can do with him (pick the ones that fit your table):**
+> - **Ask about the carriage** → he confirms Marta is ~40 min out, a woman driving alone, loaded with hides. This is the party's cue that _the panels are coming_ — the wait has an end.
+> - **Ask who he is / why he's here** → the family beat below, compressed; he's hunting the Great Sleeper cult and the man behind it (*Dadálah*).
+> - **Vouch for the Marked** → if a PC treats him as kin-in-affliction rather than a stranger, he attaches his apprenticeship to the Marked PCs openly, and will take the **west** position tonight without being asked.
+> - **Distrust him** → he doesn't argue. He stands at the edge of the firelight and watches. He still takes the west when Marta assigns it; a suspicious table just doesn't get the lineage thread yet. **Mercedes and Saens's manuscript are the only living line into the tradition, and the Marked PCs are the only people left who _perceive_ the way the curandera did** — so he attaches his apprenticeship, quietly, to **them**. This upgrades the Marked PCs from afflicted to **lineage** (an Arc 4 thread).
 
-**If confronted about the asymmetry**: he admits it immediately. _"Crea una ventana de observación. Un momento de máxima presión antes de que el sello cierre. Nadie iba a salir lastimado — es un diferencial de dos segundos."_ He does not understand why anyone is angry. The geometry and the people standing in it are different categories of concern to him. _"El cierre igual funciona. Solo quería medir el pico."_ This is his central moral failure — not malice, a profound mismatch in what counts as harm.
+He has hunted both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition for _his_ closing, eventually, on a different scar in the cordillera.
 
-**Decision**: can Quirce stay? Instruments away from the geometry: harmless. Inside effective range: a problem. A judgment call for the investigators.
+### The Gaucho's blade — and the looted list
 
-> **Roll for Hound**: a Marked PC who sights _through_ the theodolite at the pit — roll 2d6. Do not let them do this lightly.
+If the players sit with him for two minutes (there is no long night for the full telling now — give them the compressed version), he tells it without performing it:
 
----
+> _"Tres años atrás, al pie de la cordillera, en un valle que llaman **Coypac**, un grupo del Culto del Gran Durmiente mató a mi mujer, a mi hijo y a mi padre. Decían que el campo estaba sobre una de las llaves. Mi madre los encontró y esa semana se ahorció. Desde entonces busco. Mato cuando encuentro. Al que los mandó no lo tuve todavía — lleva un nombre falso: **Dadálah**."_
 
-## THE ENTITY SPEAKS
+The name **Dadálah** now lands for the second time (first through [Quirce's mediumship](chapter-06.md#the-mediumship)). The Gaucho does not yet know what the players know — that Dadálah is El Patrón.
 
-_(2–4 AM — to the Marked)_
+Then he drops a folded, sweat-stiff paper on the table — **taken off a Great Sleeper priest he killed two days west**, no live prisoner brought (there is no time tonight for an interrogation):
 
-At some point between 2 and 4 AM, any investigator who received the Mark in Chapter 3 experiences the following — not a dream; they may be awake:
-
-> _Los ángulos del espacio están mal. No dramáticamente — dos grados, tres. Los ángulos de las carpas, los ángulos del cielo nocturno encontrándose con el horizonte plano, las esquinas donde la manta toca el suelo — todos levemente desviados. La equivocación es consistente y completa: todo el espacio se desplazó, como visto a través de un vidrio que no es del todo plano._
->
-> _En esa equivocación, algo está presente. No visible. Presente como está presente el frío — una condición del espacio más que un objeto en él._
->
-> _No se comunica en lenguaje. Se comunica en geometría. Lo que expresa no son palabras sino relaciones espaciales:_
->
-> _**Están en el lugar correcto. La forma es conocida. El intento es esperado. El resultado es conocido.**_
-
-**SAN Check**: 1/1D4 — it spoke to you, and what it said was that it has anticipated this.
-
-> **Keeper note**: the entity did not communicate _threat_. It communicated _certainty_. That is worse. Whether its certainty is correct — whether the attempt will fail as it expects — is what the next two chapters decide. Don't play this for a jump-scare; play it for the quiet horror of being told, by something vast and indifferent, that it has accounted for you.
-
-The Marked investigator can tell others. Mechanically, they have been _informed_ of what the entity expects — which means they know where the entity believes the attempt will fail. With a **Hard Cthulhu Mythos** check, a Marked investigator can **identify the specific geometry point the entity most closely monitors** — the eastern segment — and use it to anticipate the entity's moves in C8.
-
-> **Roll for Hound**: immediately after the communication ends, both Marked PCs roll 2d6 — it touched them to speak.
-
----
-
-## THE ZONDA AT THE PIT
-
-_(begins at dusk — run before the late-night confessions; the chant payoff lands after midnight)_
-
-The Zonda — the hot, dry föhn wind off the Andes — should not reach this far east in this season. It does. It begins around dusk, carrying no dust but carrying **sound**. The fires bend. The leather panels flutter.
-
-**SAN Check**: 0/1 — the wrongness of a Zonda at this latitude.
-
-**Effect on the panels**: the Zonda is degrading the panels' edges; they must be weighted with stones from the pit's rim. A **Survival or Natural World** roll: the wind is _coming from the wrong direction_ — not the Andes proper, but the cordillera spur that holds the locust fields and the cult shrines. Something **west of the pit is broadcasting the Zonda**.
-
-**Listen** roll on the wind, after midnight: faint, far, a chant — in no language the player knows, and in _time_ with the entity's chest-vibration (the 2 AM sound from the pit). **Two rituals, simultaneous, on the same beat. They are coordinated.**
-
-The line that frames the threat is delivered by **Mercedes** once she arrives (or held for her if she is not yet at camp):
-
-> _"Hay otro sitio. Están haciendo lo mismo en otro pozo. Si los dos sitios cierran la noche del cierre, estamos cerrando con ellos. Si uno se abre y el otro se cierra, el que se abre gana."_
-
-The structural threat of the new framing: **the awakening attempt and the closing run in parallel.** The Cult of the Great Sleeper uses any _opening_ the closing fails to seal. The players are in a race with a second, distant ritual.
-
----
-
-## THE CURSED GAUCHO
-
-_(~11 PM — and the captured cultist)_
-
-A man rides into camp from the west, alone, unannounced. The horses at the perimeter shy from him; whoever has perimeter watch (Tomás, or a PC) does not raise an alarm — they stare.
-
-**Appearance** — mid-thirties; sun-blasted, lean; a scar from earlobe to chin, a clean diagonal that never closed right. Black _bombachas_, a _vicuña poncho_, a wide hat. Two knives in plain sight (a _facón_ on his back, a _cuchillo de campo_ on his belt); an old flintlock on the saddle, unloaded. His horse is a _zaino_ of unusual quality, pushed hard two or three days. His eyes do not move when others enter the firelight; he looks at one person at a time, completely, then moves to the next.
-
-> _Un jinete entra al campamento desde el oeste, solo, sin anunciarse. Los caballos del perímetro se apartan de él antes de que la gente lo vea — se tiran de las riendas, ponen los ojos en blanco. El que tiene la guardia no da la alarma; se queda mirando. El hombre desmonta sin que nadie se lo pida y camina hasta el fuego con la calma de quien ya midió a cada uno desde la oscuridad. La cicatriz le baja del lóbulo de la oreja al mentón, una diagonal limpia que nunca cerró bien. No saluda. Mira a cada uno, de a uno, completo, y recién cuando terminó de mirarlos a todos, habla._
-
-On entry:
-
-> _"Estoy buscando a la mujer que cierra. Me dijeron que estaba acá. No vengo a cerrar — vengo a ver cómo cierra, para aprender."_
-
-He means the curandera — and she is dead. Someone has to tell him. He receives it without expression, looks at the fire a long moment, then: _"Entonces llegué tarde dos veces."_ He stays anyway. Mercedes and the manuscript are now the only living line into the closing tradition, and the **Marked PCs are the only people left who _perceive_ the way she did.** He attaches his apprenticeship to **them** — quietly, without announcement. This upgrades the Marked PCs from afflicted to **lineage** (a thread for Arc 4).
-
-He has been hunting both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition for _his_ closing, eventually, on a different scar in the cordillera.
-
-### The Cursed Gaucho's family
-
-If the players sit with him, late, after the confession — he tells it. He does not perform it.
-
-> _"Tres años atrás, en un valle al pie de la cordillera, en lo que la gente de allá llama **Coypac**. Mi familia tenía un campo chico. Cabras. Maíz. Mi madre era de mapuche, mi padre era de gauchos del norte. Nací en ese campo. Mi mujer también. Mi hijo nació en una de esas casas con techo de paja, hace cuatro años."_
-> 
-> _(Pause.)_
-> 
-> _"Una noche llegó un grupo. Eran del Culto del Gran Durmiente — yo no sabía esa palabra entonces, la aprendí después. Decían que iban a despertar algo. Que el campo de mi padre estaba sobre una de las llaves. Mataron a mi mujer y a mi hijo. Mi padre se defendió y lo mataron también. Mi madre… ella no estaba en la casa. Estaba en el monte recogiendo hierbas. Volvió y los encontró. Me mandó a buscar. Yo estaba en otro valle, vendiendo cabras. Cuando llegué, el grupo se había ido. Mi madre estaba sentada con los muertos. No me habló. Esa misma semana se ahorcó."_
-> 
-> _"Tres años. Voy buscando. Mato cuando encuentro. Aprendí a leer la geometría que ellos usan — no como la curandera, peor que ella, pero suficiente para encontrarlos antes de que me encuentren. Sé que el que mandó al grupo no estuvo ahí. Yo también lo busco. Me dijeron que él lleva un nombre falso — Dadálah."_
-> 
-
-The name **Dadálah** is now in the campaign for the second time (first through [Quirce's mediumship](chapter-06.md#the-mediumship)). The Cursed Gaucho does not yet know what the players know — that Dadálah is El Patrón. That recognition can happen here, or in C8.
-
-**SAN Check**: 0/1 — not for horror, for the way grief sounds when a man has carried it three years and learned to speak it without inflection.
-
-### The captured cultist
-
-The Cursed Gaucho did not arrive alone. Tied across a second horse, left at the perimeter half a kilometer off, still alive, is a **captured cult priest of the Great Sleeper** — taken two days ago in the cordillera and brought east as proof the cult is operational _now_. Brought to the firelight under guard: a thin man in his fifties, beard ash-blond, accent of the Banda Oriental — not from the Pampas. Bound and gagged. ([Stat block](assets/npc-stats.md#cult-priest-of-the-great-sleeper-captured); carries a coded eight-name list sewn into his coat lining.)
-
-> **HANDOUT H6 — The cultist's coded list** *(sewn inside the coat lining — show coded face first)* — [📄 player handout](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names)
+> **HANDOUT H6 — The cultist's coded list** *(looted from a dead priest — show the coded face first)* — [📄 player handout](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names)
 >
 > **Coded face**:
 >
 > > *SA-CA-LA · DEZ-MÚ-BER A. · RRES-TO P., RIO-SA-CO-MI · GUI-LAR-A T., SOR-PRE-IM · NES-LLA-OR D., MA-DUA-A-NA · TE-RA-DU F., CIE-RO-ES-TAN · QUEZ-VÁZ M., TO-LO-PI · DA-NE-PI-ES J., VIS-TA-CHI-AR*
 >
-> **Decoded** *(syllable-reversed — Hard Library Use, or work it out loud, or Mercedes decodes in minutes)*:
+> **Decoded** *(syllable-reversed — Mercedes decodes it in minutes at the table)*:
 >
 > | # | Name | Noted as |
 > |---|---|---|
@@ -241,85 +130,212 @@ The Cursed Gaucho did not arrive alone. Tied across a second horse, left at the 
 >
 > > **Keeper**: Mercedes, reading it — *"Dos de estos nombres los conozco. Uno me preocupa."* She means Bermúdez. Carry the list forward to Arc 4.
 
-**Interrogation**:
-
-- **Persuade / Intimidate**: he confirms a parallel ritual is underway tonight, two days' ride west, at _El Pozo de Coypac_ — the same valley where the Cursed Gaucho's family was killed. He is a mid-rank priest, in transit between sites when intercepted. No Necronomicón page, but a coded letter listing **eight names** — Keepers, scholars, rural-police informants — the cult is cultivating. Two matter in Arc 4 (Lacasa, Ana Bermúdez).
-- **Hard Cthulhu Mythos**: his teeth show the wear pattern of Saens's skull. He has been chewing — or being made to chew — a paste of _first people_ origin during rituals. The cult's communion. Mercedes will want to study it.
-- **Sanity Check** when he speaks of the Great Sleeper: 0/1D4. He is calm. He believes what he says. His belief is the unsettling part.
+**SAN Check** — the Gaucho's story: 0/1 — not for horror, for the way grief sounds when a man has carried it three years and learned to speak it without inflection.
 
 ---
 
-## DOÑA MERCEDES ARRIVES, LATE
+## MARTA ARRIVES WITH THE PANELS
 
-_(~4 AM)_
+_(~5:40 PM — the carriage the Gaucho saw)_
 
-After the entity has spoken, after the Cursed Gaucho's story, after the cultist is questioned, a small carriage reaches the perimeter. Mercedes. She has come from Buenos Aires by post-coach and the last leg by hired _galera_, dressed for travel and tired the way only old scholars tire.
+A _galera_ pulled by two tired horses comes up the south track, a woman driving alone. This is the carriage the Cursed Gaucho passed. In the bed, lashed under a tarp: **the leather panels** — a dozen cured cow-hide sheets, some blank, some already scored with the outer ring, and a satchel of ochre, charcoal sticks, an awl, and a length of knotted cord for measuring. The party has no panels of its own; these are Marta's, and without them there is no figure to lay.
 
-> _Una galera tirada por dos caballos cansados llega al perímetro poco antes del amanecer. Baja una mujer mayor, sola, vestida de viaje, con el cansancio particular de los que pasaron la vida entre libros y ahora cruzaron setecientos kilómetros sin dormir. Se queda un momento al borde de la luz del fuego y mira el campamento — los paneles de cuero tendidos en el suelo, los Marcados, el pozo que brilla en la oscuridad. Lo entiende todo en una sola mirada. La cara no le hace nada. Después camina hacia el fuego, despacio, como quien llega a un velorio al que ya sabía que iba a llegar tarde._
+> _Una galera cansada sube por el camino del sur. Baja Marta — una de Los Que Volvieron, la que camina el borde de las cosas como si midiera un ángulo que nadie más ve. No saluda mucho. Va derecho a la parte de atrás del carro, aparta la lona, y ahí están: los cueros. Doce planchas curtidas, algunas en blanco, otras ya con el anillo de afuera marcado a mano. "Los traje," dice, como si eso resolviera todo. Y en cierto modo, lo resuelve._
 
-There is no one here who knew her for thirty years to greet her — the curandera who would have met her is dead. She looks at the camp. She looks at the players. She understands in an instant. Her face does nothing. She walks to the fire. The embrace that should have met her is absent, and the players carry the weight of why.
+Marta is spare with words and exact with everything else. Asked where she got them:
 
-**Before she speaks**, she walks the length of the fire and shakes each player's hand in turn. Taking the third hand, she pauses — almost imperceptibly — and rubs her thumb across the cuff of the player's jacket. She nods once, to herself, and moves on. She does not name what she felt. **This is the dust runner at its most distant point in the campaign**: Mercedes, seven hundred kilometers from the pit, recognizes the pit-dust on their clothing because she has read the manuscript that says what it is — fine grey particulate from the original carving's limestone, ground over centuries by the geometry, which does not wash out because it is not, strictly, dust. She will not say this aloud. She filed it; that is enough.
+> _"Los fui preparando desde la Salamanca. Uno sabe cuándo va a hacer falta cuero. Están sin terminar a propósito — el dibujo se hace en el sitio de la herida, no antes. La vieja piedra enseña la forma; la herida nueva pide la obra."_
 
-**Her first words**, reaching the fire:
+_(That last sentence is Saens's, almost verbatim — [the atado se hace en el sitio de la herida](02-la-salamanca/saens-closing-instructions.md). Marta and the manuscript agree without having met.)_
 
-> _"Vine a ver. Y a ayudar si puedo. No vine a cerrar — y la mujer que cerraba está muerta, ya lo sé, lo supe en el camino. Así que ahora cerramos como cierran los que quedan: con el manuscrito, con los que volvieron, y con ustedes. Mañana de noche, mientras ustedes cierran este pozo, va a estar pasando algo en Coypac. Si los dos no cierran al mismo tiempo, perdemos los dos. Voy a tratar de tener noticias del Coypac antes del amanecer. No prometo nada."_
-> 
-
-> **Failsafe — the marginalia, if missed in C6.** If no one examined Quirce's annotated manuscript in [C6](chapter-06.md#quirces-move), Mercedes finds the three older-hand notes within her first hour at the fire. She asks for _"la copia de Quirce, no la de ustedes"_ (she has suspected a second source since his letters), reads ten minutes by firelight, and marks three places with grass stems: _"Tres notas. No son de Quirce. Mano más vieja, pluma más vieja, y las tres están donde Saens escribe del libro. Quirce está cargando las cartas de otro adentro de las suyas — y no creo que lo sepa."_ Then she translates them ([H5](assets/handouts-c5-c7.md#h5--the-three-marginalia-in-the-older-hand)). **Do not let this drop**: it is the players' confirmation that a *second hand* — the [Great Wizard](chapter-05.md#the-chamber-of-the-great-wizard) — sits above Quirce and names the Necronomicón. If it didn't land in C6, it lands here.
-
-She has brought a Keeper-runner, **Saúl Carrasco**, a Keeper apprentice in his mid-twenties, who rides west at first light to make contact with whatever closing party exists at Coypac — the campaign's first running messenger between the two rituals. He returns **alive** during the ritual with what he finds ([C8 — Saúl's return](chapter-08.md#saúl-carrascos-return)) and stays behind the circle through the closing. **His fate is sealed after the seal holds — not on this run**: he insists on riding the post road at dawn and does not survive it; the party learns it in [C9](chapter-09.md#the-coypac-relay). Do not kill him on-screen tonight.
-
-**SAN Check** on her arrival: 0/1 — relief that is also dread, because she would not have come if it could be avoided.
-
-> **Mercedes carries the cut mechanics.** She is now the source for: the practical closing assessment (**speed is the advantage; every outer-ring role filled or the closing loses tempo**); the Necronomicón's role; and — after the probe below — the one actionable sentence the whole campaign has been building toward.
+She is the one who will **direct the assembly** at the pit ([below](#assembly--marta-directs)). She does not lead the voice — that is Mercedes — but she builds the figure, and she is the only person present who has drawn this shape with her hands and lived.
 
 ---
 
-## THE EASTERN PROBE
+## SAÚL FROM COYPAC
 
-_(~3 AM — scheduled — then into C8)_
+_(~6:00 PM — separately, from the west, spent)_
 
-Run this as the one short, survivable spike in a chapter that is otherwise weight, not action. It exists to _teach_ C8.
+A second rider comes in from the west — **not** with Marta, from a different direction and at a harder pace: **Saúl Carrasco**, a Keeper apprentice in his mid-twenties, Mercedes's man, who rode east **from Coypac itself** the moment he understood what he was looking at. He is two days in the saddle and at the limit of horse and rider.
 
-> _La vibración bajo el campamento cambia de compás — una vez, como un latido saltado — y el **arco este de la geometría brillante llamea**. Durante **1D3 rondas**, el aftershock presiona la línea del este desde abajo: los paneles de cuero más cercanos al este **se deslizan hacia el pozo** sobre suelo plano (FUE 40 opuesto para sostener uno); un fuego en el lado este se aplana contra la tierra; quien esté de guardia en el este siente que el suelo se vuelve **direccional**, como pararse en un techo. Si el cultista capturado está en el campamento, empieza — amordazado — a tararear en sincronía. La exploración es la entidad **probando la delgadez que espera usar mañana.** Se retira sola; se retira **una ronda antes** si un jugador se para físicamente en la línea del este y aguanta (tirada de CON, 0/1 COR) — prueba, en sus cuerpos, de que el mecanismo de ancla humana funciona._
+He **saw the cult on the march** — the column staging for the crossing, the pits waiting. His report, before he is fully off the horse:
 
-**SAN**: 0/1D3 camp-wide; 1/1D4 for the PC who holds the line. **No 2d6 — scheduled manifestation.**
+> _"Vengo de Coypac. Doce sacerdotes. Dos pozos los esperan — uno seco, uno con agua. Los van a abrir juntos, esta noche, al mismo tiempo que ustedes cierran acá. El que los guía es un hombre alto, viejo, vestido de ocre. Sabe el nombre de Dadálah — lo gritó cuando sus hombres me vieron en la loma."_
 
-> **⚔️ Alt — the cultist's break** (swap in if you want human violence): during the probe's confusion the captured priest slips a wrist, reaches the eastern panel, and tries to drag a thumbnail through the eastern line — completing the Wizard's correction in miniature. Two rounds to stop him (grapple vs STR 55 — [stat block](assets/npc-stats.md#cult-priest-of-the-great-sleeper-captured)). If he succeeds, treat as Tier-2-equivalent east friction in C8.
+(The ochre man is the **[Great Wizard](chapter-05.md#the-chamber-of-the-great-wizard)** — the players may now connect him to the marginalia and the chamber.) Then Saúl realizes what his being seen means: _"Pero me vieron. Ahora saben que vine, y van a estar buscando a Doña Mercedes desde esta noche. Lo siento, doña."_ Mercedes, hand on his shoulder: _"Bien hecho, Saúl. Quedate atrás del círculo esta noche. No te quiero perder."_
 
-**Mercedes, immediately after the probe** — the line that converts three campaign-long whispers into one instruction:
+**Mercedes frames the stakes** for the whole table:
 
-> _"Va a usar el este. Todo en este sitio falla al este primero. Saens lo escribió; a la pared de la capilla le faltan los arcos del este; la línea en sus dibujos que nadie dibujó está en el panel del este. Pongan a alguien en quien confíen en el este."_
-> 
+> _"Dos sitios, la misma noche, el mismo compás. Si los dos cierran, cerramos con ellos. Si uno se abre y el otro se cierra, el que se abre gana. Tenemos que cerrar bien, y tenemos que cerrar a tiempo."_
+
+**Mechanical payoff**: knowing Coypac has twelve priests, two pits, and a simultaneous opening **lowers Phase 3's contest difficulty by one step** in the working ahead — the reward for the intelligence arriving in time. *(player card: [H8](assets/handouts-c8-c12.md#h8--saúl-carrascos-spoken-report-c8-between-phases-1-2))*
+
+> **Saúl's sequence (changed).** He arrives here **from Coypac**, not sent there and back. He stays behind the circle through the full ritual. **After the seal holds at dawn**, he insists on riding the post road east to warn any inbound Keeper couriers before the cult can intercept them; Mercedes objects; he rides anyway (_"Alguien tiene que decirles."_). He does not make the first relay station. His body is left at a _paraje_ as a warning; the news reaches the party in [C9](chapter-09.md#the-coypac-relay) by anonymous relay rider, letter signed Saráchaga. **Do not kill him on-screen tonight; do not have him survive past the post road.**
+
+---
+
+## QUIRCE FINISHES THE COPPER
+
+_(~6:20 PM)_
+
+Quirce sets down the pen. The master diagram now carries the tarnished copper as a node on the eastern-northeastern arc, and the lines around it are redrawn. He holds it up to the failing light with something close to reverence.
+
+> _"Listo. El cobre está adentro de la forma, no al costado. Amplía el campo de observación — se ve más, desde más lejos, del cierre completo. Es la primera vez que alguien mide un cierre bueno desde afuera. Hay gente que necesita saber que es posible."_
+
+He means it, and this is exactly his central failure — the geometry and the people standing in it are different categories of concern to him.
+
+> **The copper is a two-way window.** Folding the copper into the figure widens what can be observed of the closing — which is the *entity's* observation too. A **Marked PC feels it humming toward the pit** (no roll). The party can still refuse to carry it out — leaving it at the estancia denies Quirce his pre-set reference and runs the eastern contest **one step easier the first phase**, at the cost of his cooperation. Carried out and placed, the window is two-way: the entity's outward cataloguing (the [malón cull](chapter-08.md#the-malón-strikes)) reaches **one ring wider**, and at [Phase 5, Round 1](chapter-09.md#phase-five--the-final-seal) the final press comes **through the copper node first** unless someone dislodges it. After the seal it is found **fused mirror-bright** at the rim; Quirce pockets it — the only piece of the working that leaves the site (an Arc 4 thread).
+
+**Decision — does Quirce ride out to the pit?** His instruments away from the geometry are harmless; inside effective range they are a problem. This is a judgment call for the investigators, and it seeds his [C8 crossing](chapter-08.md#scene-3--the-quirce-crisis). If they forbid him, he agrees too easily and rides out anyway with the wagons, keeping to the eastern rise; if they allow him, same. He _wants_ to watch, and he will find a way to watch.
+
+> **If confronted about an eastern asymmetry.** With no San Ruiz pass and no live curandera, the eastern line rides in through **Don Eusebio's recopied sheets** (the [Wizard's correction](chapter-06.md#the-eastern-asymmetry-recognized)) **unless quarantined in C6**, and now also through anything Quirce re-drew around the copper. He admits it immediately if pressed: _"Crea una ventana de observación. Un pico de presión antes del sello. Nadie sale lastimado — es un diferencial de dos segundos."_ He does not understand why anyone is angry. **Do not let the party "fix" it** — that is the trap; see the assembly note on [the east](#the-order-and-the-east). The goat will point it out at the pit regardless.
+
+---
+
+## THE RIDE TO THE PIT
+
+_(~6:30 PM — 45 minutes south, into the last light)_
+
+They ride out as a column into dusk: the investigators, Don Eusebio, Silvio, Héctor, Marta driving the panel-carriage, Mercedes, the Cursed Gaucho, Saúl (behind), Quirce and his instruments trailing on the eastern side, and — as always, already ahead of them on the track — **the goat**.
+
+> _El sol toca el pastizal y lo pone del color del cobre viejo. La columna avanza hacia el sur, hacia el campo donde está el pozo. El viento viene mal — no del este ni del norte como debería en esta estación, sino del oeste, seco y caliente, un Zonda que no tendría que llegar tan lejos. No trae polvo. Trae, muy de fondo, un sonido: un canto en ninguna lengua conocida, lejos, del lado de la cordillera. Y debajo del pastizal, cada vez más fuerte a medida que se acercan, **la cicatriz late** — no con los oídos, con el esternón. Los caballos lo sienten antes que la gente y no quieren seguir. La cabra no se detiene._
+
+The wrong-direction wind is the Zonda carrying the Coypac working's chant — the two rituals on the same beat, confirmed now in the body, not just in Saúl's report. Let a **Survival or Natural World** roll place the wind's source: the cordillera spur that holds the cult shrines. _Two rituals, coordinated, on one beat._
+
+### The anchoring note (Marked PCs)
+
+As the scar's beat grows under the ride, give the Marked PCs the roll Mercedes promised — **the campaign's recovery of the base tone that died with the tribe**:
+
+> _La cicatriz late, y el latido es lo bastante fuerte ahora como para sentirlo en los dientes. Y los Marcados oyen que el latido no está solo: debajo hay algo sostenido, una nota grave que no sube ni baja, que estuvo ahí todo el tiempo, del tamaño del pozo. La curandera la llevaba en la garganta. El pozo la lleva en la piedra._
+
+**Easy Listen or Cthulhu Mythos** roll for each Marked PC (one step easier because they are Marked, and easier still if they deliberately reach for it — which raises their 2d6 Hound threshold for the ride). On a success, the PC catches the **anchoring note** — the sustained low tone the reading needs under it, [the nota grave that Saens said died with its carriers](02-la-salamanca/saens-closing-instructions.md#el-canto). They cannot yet _hold_ it steadily, but they know it now, and at the pit they can sustain it under Mercedes's voice.
+
+> **Why this matters — the missing second voice, recovered.** Saens's instructions are explicit: without the low sustained note, the reading _floats_ — anchors halfway, then slides. The tribe carried that note and the tribe is dead. **If a Marked PC holds the anchoring note from Stage I onward, the reading no longer floats and the closing runs at full efficacy.** This is the Mark paying out for once — the scar itself teaching the note through the only people who can hear it. Track which PC caught it; it feeds directly into [C9, Phase Five](chapter-09.md#phase-five--the-final-seal). If **no** Marked PC catches it on the ride, they get one more attempt at the pit as the assembly begins; if they still miss, the reading floats all night (the silence where the note should be is correct — let the table feel the hole).
+>
+> _(This supersedes the old "Antiquarian rolls Extreme Occult to supply Newen mapu kelluiñ" path as the primary route to the base tone. If the Antiquarian also holds the phonetic transcription, treat it as a **second** singer reinforcing the Marked PC's note — redundancy, not a separate mechanic.)_
+
+**Roll for Hound**: a Marked PC who reaches hard for the note rolls 2d6 — the reach brushes the thing that owns the note.
+
+---
+
+## THE PIT AT DUSK
+
+_(~7:15 PM — arrival, last light)_
+
+> _De día es una depresión en la tierra — diez metros de ancho, un metro de profundidad en el centro, los cadáveres derrumbados secos en algo plano y oscuro, los arcos de sangre desvanecidos pero presentes. Ahora, con la luz yéndose, la geometría se hace visible: los arcos de sangre brillan tenuemente — no fosforescentes, no biológicos, no fuego. Brillan como brilla algo cuando es el origen de la luz y no su reflejo. Desde el borde se ve el círculo exterior entero, los arcos interiores, y dónde se cruzan. Es hermoso exactamente de la manera en que puede serlo algo muy preciso y muy equivocado._
+>
+> _Y el pozo es más profundo que antes. Estuvieron en él en el capítulo 1 — entonces tenía un metro. Ahora tiene tres. Las paredes no se derrumbaron; son verticales, y muestran la misma geometría tallada que la piedra de la capilla de Saens, extendiéndose hacia abajo. Algo ha estado tallando desde abajo._
+
+**SAN Check**: 1/1D4 — the glowing geometry, the new depth, the carved walls.
+
+Three small fires are lit at the rim as the last light goes — not for warmth (it is summer) but for the geometry they make in the dark, the way fire defines angles and pushes the shapeless back. The scar's beat is now constant and physical. There is no more waiting. Marta unrolls the first hides. The assembly begins.
+
+---
+
+## ASSEMBLY — MARTA DIRECTS
+
+_(~7:15–8:15 PM — the detailed set-up; Marta speaks it, the party executes)_
+
+This is the heart of the restructured chapter: **the ritual is built on-screen, step by step, and Marta narrates the build** from Saens's five stages. Run it as a real procedure with real rolls — the players are constructing the thing that will either hold or fail. Everything here is drawn from **[Saens's closing instructions](02-la-salamanca/saens-closing-instructions.md)**; Marta knows it by body memory, Mercedes confirms it from the page.
+
+Marta gathers everyone at the rim before anyone takes a place:
+
+> _"Escúchenme una vez, porque después no hay tiempo de explicar. Esto es la contra-figura: la forma que sella, no la que abre. Tiene un anillo de afuera, un anillo de adentro, y un centro. Doce puestos en el anillo de afuera: ocho son cuerpos — anclas, gente que tocó la forma y sobrevivió, plantada, mirando para adentro. Cuatro son direcciones que se nombran en voz alta. El centro es uno solo: el que se arrodilla y no se mueve. Yo dibujo. Mercedes lleva la voz. Los que sienten, sostienen la nota. Y el este —"_ _(se detiene, mira al este)_ _"— el este cede primero. Siempre. Ahí va quien aguante mirar para adentro sin correrse."_
+
+> **POSITIONS AT A GLANCE — assign these aloud before the first chant** (carry the sheet into C8/C9):
+>
+> | Position | Who | Job |
+> |---|---|---|
+> | **Center** | **Don Eusebio + a Marked PC** (co-anchor, palms ochre-marked) | Receives the entity. Does not move. Most exposed. |
+> | **East** (the thin side) | **the Antiquarian**, a Marked PC, or Héctor | Becomes the line — still, inward, does **not** act outward. Fails first. |
+> | **West** | **the Cursed Gaucho** (Marta floats as substitute) | Holds — until he breaks toward El Patrón in C8. |
+> | **North** | **Silvio** | Back to the ring, faces out, calls the entity's approach. |
+> | **South** | **a PC** | Standard outer position. |
+> | **Voice** | **Mercedes** reads; **Marta** places panels and floats to any broken spot | Mercedes must **not stop reading** — the voice is the pin. |
+> | **Base note** | the **Marked PC** who caught the [anchoring note](#the-anchoring-note-marked-pcs) | Holds the low tone under Mercedes from Stage I. |
+> | **Outside** | **Quirce** (instruments, eastern rise) | Observes; crosses uninvited in C8. |
+> | **Behind the line** | **Saúl** | Non-combatant; rides east only after the seal. |
+> | **Rim** | **the goat** | Watches the east and the deal-PCs; leaves west at dawn. |
+>
+> _Say each name and position out loud and have the players physically place tokens — the whole of C8–C9 reads off this map._
+
+### Drawing the closing (the panels)
+
+The blank hides must be drawn **now**, at the wound, before they are laid. This is a two-part skill: **know the form** and **render it true**.
+
+- **Occult (or a Marked PC's perception) — to know the form.** Someone must supply the shape from memory and instruction: the [Saens sheets](02-la-salamanca/saens-closing-instructions.md), the chapel stone-fragment, Don Eusebio's recopied sheets, and — decisively — a **Marked PC feeling whether a drawn line is right**. A Marked PC reading over Marta's shoulder can flag a wrong stroke before the ink sets. _Occult Regular_, one step easier for a Marked PC.
+- **Art/Craft (drawing, or leatherwork) — to render it true.** Knowing the shape is not drawing it. Each panel is scored into the hide with charcoal and awl, measured against the knotted cord. Errors of proportion are as dangerous as errors of shape. _Art/Craft Regular_; Marta has the base skill, a PC with Art/Craft can genuinely help (assist die), a PC without it who tries alone can _hurt_ the panel.
+
+> **Run it as a short montage of ~3 rolls**, not a grind: (1) the outer ring and the four named directions; (2) the inner ring; (3) the eastern panel — the dangerous one. On the eastern panel, **the goat intervenes** (below). Bank successes: each success is a panel that will not be the weak point tonight; a failure is a panel Marta must patch, costing time off the pre-dawn clock and possibly seeding a phase difficulty.
+
+### The goat points to the east
+
+As Marta reaches the **eastern panel** — the one that carries the [contaminated line](chapter-06.md#the-eastern-asymmetry-recognized) if it was not quarantined in C6 — the goat does the thing the brief calls for:
+
+> _La cabra, que estuvo quieta todo este tiempo al borde de la luz del fuego, se mueve. Camina hasta uno de los dos que hicieron el trato con el Mandinga — el de la salud, o el del poder — y se le planta enfrente. Lo mira. Fija, sin parpadear, más tiempo del que un animal mira a nadie. Y después, despacio, gira la cabeza y **mira un punto**: la línea del este, la que Marta está por trazar. Vuelve a mirar al jugador. Y otra vez al punto. Y espera._
+
+The goat — [Mandinga's marker](REF-NPCs.md#the-goat) — is **directing the deal-PC to the eastern asymmetry.** She does not act; she points. The PC who follows her look sees, in the half-drawn eastern panel, the line that is subtly, deliberately **wrong** — the correction someone made who knew the drawing from the inside. (Mechanically: this replaces the old Spot Hidden/Occult discovery roll — the goat _gives_ the discovery to a deal-PC. If no PC took a deal, she picks a Marked PC instead.)
+
+> **The east cannot be "fixed" — only placed.** With the curandera dead, this is the **final chance to place, not to redraw.** Marta, tracing it: _"Puedo borrar la línea. No puedo poner la que va. No la conozco desde adentro."_ **Erasing is worse than leaving it** (a gap beats a lie, but only just). Saens is explicit and Marta repeats him: the person at the east **does not act outward — they become the line.** The correct answer is **placement**: a body on the eastern line who can hold still and inward (a Marked PC, Don Eusebio, or [the Antiquarian](chapter-08.md#the-antiquarian-at-the-ring-added-pc)), or a **Mandinga Warding** laid there. The goat's stare at the deal-PC is not idle — the [blood the deal-PCs owe](chapter-08.md#opening-situation) is usable **on this line**. If the contaminated recopy was quarantined or destroyed in C6, the eastern panel draws clean and the goat simply watches.
+
+**Roll for Hound**: a Marked PC who looks _hard_ at the contaminated eastern line the goat indicates — roll 2d6.
+
+### Marked palms (the anchor's, and the deal-PCs')
+
+Two sets of palms are marked before the first stage, and they are not the same thing:
+
+- **The anchor's palms — ochre, a read-point.** Marta marks the focal geometry on **both palms of the center anchor** (Don Eusebio, and the Marked PC beside him) in ochre, and will re-mark them between stages if they smudge. This is from the Leipzig fieldnote and from Saens's practice both — the marks give the anchor a physical read-point for the geometry's shape under pressure. _"Sin esto, el centro aguanta a pura voluntad. Con esto, el cuerpo ayuda."_ **Mechanically: the anchor's holding-checks shift one step easier if their palms are marked** — the CON check in [Phase 4](chapter-09.md#phase-four--the-deep-close) and the POW check in [Phase 5](chapter-09.md#phase-five--the-final-seal).
+- **The deal-PCs' palms — for the blood.** The two [Mandinga-deal PCs](chapter-08.md#opening-situation) traded, respectively, **health** and **power**, and the price both accepted was _"su sangre, para asegurar que la cicatriz se cierre."_ Tonight the debt is literal: an **opened palm pressed to the panel line at their position** — a pure decision, no roll. The goat already looked at one of them; that is the reminder. It is usable early at the [Phase-2 eastern tear](chapter-08.md#the-eastern-incursion) (blood on the seam counts as the bracing second hand) and **owed at the [Phase-5 seal](chapter-09.md#phase-five--the-final-seal) at the latest.** Withheld, the debt collects itself: the health-PC's closed wound reopens, the power-PC's gift inverts. Mandinga does not renegotiate.
+
+### The chant and the anchoring note
+
+Mercedes will **lead the voice** — reading Saens's figure, naming the order, holding the melody: **_Antu kishu inchiñ ñi pewenmu / Antu kishu, lan amukey._** The words are in the tribe's tongue and must be said **as they sound**, not translated — [saying what they _mean_ instead of what they _are_ loosens the binding](02-la-salamanca/saens-closing-instructions.md#el-que-guía).
+
+Under the melody runs the **anchoring note** — the sustained low tone. If a Marked PC caught it on the ride (or catches it now, one last attempt as the fires steady), **they hold it from Stage I** and the reading does not float. Every NPC in the ring will join the melody as the working deepens — the geometry teaches it to them under pressure, in C8–C9 — but the base note is the Marked PC's alone to carry, because they are the only ones who can hear it. _(Marked PCs who hold it tonight will dream the chant for the rest of the campaign.)_
+
+### The order, and the east
+
+Marta names the five stages so the table knows the shape of the night ahead — **run them in C8–C9 in this order, each settling before the next** ([Saens, las etapas](02-la-salamanca/saens-closing-instructions.md#las-etapas)):
+
+| | Stage | What happens | Where it runs |
+|---|---|---|---|
+| **I** | **El saludo** — the greeting | The wound is named as a door, not a punishment. The east is faced. The voice begins. | [C8, Scene 1](chapter-08.md#scene-1--the-ritual-begins) |
+| **II** | **El anillo y la voz** — the ring and the voice | The full figure is laid at the site; the eight anchors take their stations, facing inward; the chant holds the shape as it is built. | [C8, Scene 2](chapter-08.md#scene-2--the-entity-responds) — the malón strikes on the first chant |
+| **III** | **El centro toma el peso** — the center takes the weight | The one who does not move goes to the center; the wound finds him, and the opener; **the east thins first** — whoever holds it becomes the line. | [C8, Scene 4](chapter-08.md#scene-4--don-eusebio-in-the-ring) |
+| **IV** | **El cierre hondo** — the deep close | The inner ring; the figure compresses inward; the pressure rises; the light turns amber. | [C9, Phase Four](chapter-09.md#phase-four--the-deep-close) |
+| **V** | **El sello** — the seal | The last line; **every voice says the line at once**; the door closes. Here the offer comes — and the center refuses it. | [C9, Phase Five](chapter-09.md#phase-five--the-final-seal) |
+
+And, last, the thing Saens set above all others, which Marta repeats looking east into the dark:
+
+> _"Miren el este antes que ninguna otra cosa. Es el lado fino. Es por donde primero se rompe. Pongan ahí a alguien en quien confíen — a alguien que aguante quedarse quieto mientras algo entra."_
+
+_(This is the campaign-long "put someone you trust on the east," delivered now from Saens's own instructions rather than from a scheduled probe.)_
 
 ---
 
 ### Into Chapter 8
 
-By dawn the camp holds everything the closing will stand on: a recovered symbol (Tier 1, 2, or 3); the eastern asymmetry **discovered but not redrawn** — to be answered by a human anchor or a Mandinga Warding, not a correction; Don Eusebio ready to take the center; the Wrong Returned holding the ring; Mercedes guiding from the manuscript; the Marked perceiving where the entity will press; the Cursed Gaucho and his captured priest at the fire; and Saúl Carrasco riding west into the dark toward Coypac. The Zonda is still broadcasting. The closing tonight is one of two paired rituals — and the entity has already told the Marked it expects them.
+By full dark (~8:15 PM) the camp holds everything the closing will stand on: the panels drawn and laid (Saens-precise, one eastern panel discovered-but-not-redrawn); the anchoring note in a Marked PC's throat (or its absence felt all night); Don Eusebio ready to take the center, palms marked, a Marked PC beside him; the Wrong Returned holding the ring; Mercedes at the voice; the Cursed Gaucho on the west; Saúl behind the circle; Quirce on the eastern rise with his instruments; the goat at the rim; and, on the wind, the Coypac working keeping the same beat. There is no eve to wait through. The east is chosen. The voice is about to begin.
 
-Put someone you trust on the east.
+**Put someone you trust on the east.**
 
 **→ [Chapter 8 — La Traición](chapter-08.md#chapter-8--la-traición)**
-
 
 ---
 
 ## SESSION CHECKLIST — C7
 
-- [ ] **San Ruiz second pass**: run tiers in order; log which tier delivered the symbol (Tier 1 = Rosa hands it over; Tier 2 = Marked PC reconstructs; Tier 3 = partial eastern segment).
-- [ ] [Mercedes' arrival line](#doña-mercedes-arrives-late): she acknowledges the curandera is dead; deliver the Coypac coordination line.
-- [ ] [The Cursed Gaucho](#the-cursed-gaucho): flag that he's looking for a dead woman; run *"Entonces llegué tarde dos veces"* beat; he attaches to the Marked PCs.
-- [ ] **H5 marginalia failsafe** ([older-hand notes](#doña-mercedes-arrives-late)): if Quirce's notebook went unexamined in C6, Mercedes finds and translates the three notes within her first hour — the Great Wizard above Quirce, the Necronomicón named. Do not let the thread drop.
-- [ ] Panel-drawing beat with Marta + contaminated recopied sheets; asymmetry **discoverable, not redrawable** (Marta: *"Puedo borrar la línea. No puedo poner la que va."*).
-- [ ] Asymmetry policy decided (recommend B — human anchor or Warding, not redraw): note for C8.
-- [ ] Roll for Hound C7 table live.
-- [ ] [The Eastern Probe](#the-eastern-probe) ~3 AM (scheduled — no 2d6; the C8 east mechanic rehearsed in their bodies).
-- [ ] F7 sharpened: Mercedes delivers *"Put someone you trust on the east"* either after the probe or before dawn.
-- [ ] Cultist statted if E3-alt (cultist break) runs; [H6](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names) ready.
-- [ ] **Goat: with the party.** She was pulled from the San Ruiz well in C2 and has traveled with the party since — so the six-pupil reveal runs at the **pit rim at C9 dawn** (she looks down once and walks west), and the well is empty when they pass San Ruiz. (The "stayed in the well" variant does not apply at this table.)
-- [ ] **Antiquarian** (if added): already traveling with the party since C5 (La Salamanca) — **no dusk arrival**; confirm their C8 ring position (eastern line / co-reader).
-- [ ] **Exit state into C8**: who anchors center, who holds east, where Quirce's instruments are, Saúl stays behind the circle (rides out at dawn, does not survive) — write all four down.
+- [ ] **No San Ruiz, no eve.** The party carries [Saens's closing instructions](02-la-salamanca/saens-closing-instructions.md) from the C5 bone chamber; everything runs the same day into the same night.
+- [ ] **The wait**: Quirce folding the copper into the diagram; Mercedes already present with the manuscript; Don Eusebio's compressed confession if a PC seeks him (the hum payoff).
+- [ ] [The Cursed Gaucho](#the-cursed-gaucho-rides-in) rides in ~5 PM; **announces the carriage he passed** (Marta's); *"Entonces llegué tarde dos veces"* beat; attaches to the Marked; drops the [H6 looted list](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names) (no live prisoner).
+- [ ] [Marta arrives with the panels](#marta-arrives-with-the-panels) ~5:40 — the party has none of its own.
+- [ ] [Saúl arrives from Coypac](#saúl-from-coypac) ~6 PM, separately from Marta — twelve priests, two pits, the ochre man; **Phase 3 −1 step**; he stays behind the circle and dies only after the seal.
+- [ ] [Quirce finishes](#quirce-finishes-the-copper) ~6:20; copper is in the figure (two-way window); decide whether he rides out.
+- [ ] [The ride](#the-ride-to-the-pit): the Zonda from the wrong direction (Coypac's chant); the **[anchoring-note roll](#the-anchoring-note-marked-pcs)** — easy Listen/Mythos for Marked PCs to recover the base tone; log who caught it (feeds Phase 5).
+- [ ] [The pit at dusk](#the-pit-at-dusk): the changed pit (glowing, 3 m deep, carved walls), SAN 1/1D4.
+- [ ] [Assembly — Marta directs](#assembly--marta-directs): drawing the closing (**Occult + Art/Craft**, ~3 rolls); **marked palms** (anchor's ochre read-point + deal-PCs' blood palms); the chant + anchoring note; the five-stage order; **the east**.
+- [ ] **The goat points**: at the eastern panel, she stares a deal-PC, then looks to the eastern line — giving the asymmetry discovery to a deal-PC. East is **placed, not redrawn**.
+- [ ] Roll for Hound C7 table live (cap 2).
+- [ ] **Exit state into C8**: who anchors center, who holds east, whether the anchoring note is held, where Quirce's instruments are, that Saúl stays behind the circle — write all five down.
 
 ---

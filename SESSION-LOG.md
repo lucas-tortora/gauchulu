@@ -8,6 +8,22 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-07-14 — C7–C9 timeline compressed (design restructure, not a play session)
+
+Reworked the Arc-3 closing so it all happens on **one day into one night — no eve, no night in between.** This is a prep restructure ahead of running it, not a report of table events.
+
+- **C7 rebuilt** (retitled *La Víspera → La Espera / The Wait*). Gone: the San Ruiz second pass, the night-of confessions spread across a long night, the Zonda late-night chant beat, the 2–4 AM "entity speaks," the eastern probe, the captured-cultist interrogation, and Mercedes's 4 AM arrival. New shape: the party **waits outside the estancia in the late afternoon** for Quirce to finish folding the **tarnished copper into the diagram**; arrivals converge — the **Cursed Gaucho** (who announces he passed a carriage on the road), **Marta with the leather panels** (the party has none of its own), and **Saúl riding in from Coypac** (separately from Marta, with the Coypac intel); then they **ride to the south-field pit and assemble the ritual on-site**, with **Marta directing the build** in detail.
+- **The closing procedure now comes from Padre Saens**, not San Ruiz — the **[bone-chamber "De Vigilia Ossium" instructions](02-la-salamanca/saens-closing-instructions.md)** recovered in C5 (five stages, anchor, chant, "the east fails first"). Mercedes (already at the estancia) leads the voice; Marta builds the figure.
+- **Assembly is now on-screen and mechanical**: drawing the closing onto the blank hides needs **Occult** (know the form) + **Art/Craft** (render it true), ~3 rolls; **marked palms** (ochre read-points for the anchor, blood-palms for the deal-PCs); the chant and its missing base note; the five-stage order; and the east.
+- **New: the anchoring note.** On the ride in, as the scar beats louder, Marked PCs get an **easy Listen/Cthulhu Mythos roll** to catch the sustained low **anchoring note** the reading needs — recovering, by ear, the base tone that died with the tribe. Held from Stage I → the reading no longer floats (whole-working −1 step). This is now the primary route to the base tone; the Antiquarian's *Newen mapu kelluiñ* transcription reinforces rather than replaces it.
+- **New: the goat points to the east.** The goat travels to the pit and stays through the working; during assembly she **stares a Mandinga-deal PC, then turns to look at the eastern line**, handing that PC the eastern-asymmetry discovery. East is **placed, not redrawn** (Saens's rule).
+- **Saúl's arc adjusted**: arrives from Coypac in C7 (Phase-3 −1 step banked there), stays behind the circle, dies only after the seal on the post road (news via the Saráchaga relay in C9). His old "returns between Phases 1–2" scene in C8 is now a pointer.
+- **The at-table runsheet (`assets/ritual-runsheet-c8-c9.md`) was scrapped** — it encoded the old structure; the chapter files are the single source again.
+
+*Integrated into:* `chapter-07.md` (rewritten), `chapter-08.md` (opening/timeline, Saúl, contest ledger, goat, base-tone), `chapter-09.md` (base-tone, "call the direction," checklist), `chapter-05.md`/`chapter-06.md` (forward-references), `assets/handouts-c5-c7.md` (H6 now looted, not sewn on a prisoner), `flowmap.md` (grid + ledger). Runsheet deleted.
+
+---
+
 ## 2026-07-13 — Pre-ritual state locked (going into C8)
 
 Clarifications recorded as the table prepares to start the closing ritual:
@@ -16,7 +32,7 @@ Clarifications recorded as the table prepares to start the closing ritual:
 - **The tarnished copper is confirmed in the geometry** — the players agreed to let Quirce use it to amplify the ritual's observation window. Consequences are now concrete: the window is **two-way** (an extra pressure vector through the copper at Phase 5, Round 1, unless dislodged), the entity's outward reach at the malón cull runs one ring wider, and the fused copper leaves the site in Quirce's pocket afterward (Arc 4 hook).
 - **The Mandinga deals' terms are settled.** The two deal-PCs (both outside the center) traded, respectively, **health** and **power** — and the price both accepted is *"offering their blood to ensure the scar is closed."* The blood is **owed at this ritual**: an opened palm pressed to the panel line, usable early at the Phase-2 eastern tear (counts as a bracing hand), owed at the Phase-5 seal at the latest. Withheld: the health-PC's old wound reopens at the seal; the power-PC's gift inverts (penalty die) until amends. The goat is already looking at them when it comes due.
 
-*Integrated into:* `chapter-08.md`, `chapter-09.md`, `flowmap.md` (state ledger), `assets/ritual-runsheet-c8-c9.md` (rewritten in Spanish as the at-table running sheet).
+*Integrated into:* `chapter-08.md`, `chapter-09.md`, `flowmap.md` (state ledger). *(A Spanish at-table runsheet was written this session and later scrapped in the 2026-07-14 restructure — see below.)*
 
 ---
 

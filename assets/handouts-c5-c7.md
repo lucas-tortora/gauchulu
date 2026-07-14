@@ -124,7 +124,7 @@
 
 ## H6 — THE CULTIST'S CODED LIST (EIGHT NAMES)
 
-> **Keeper**: sewn into the lining of the captured priest's coat ([C7 — the captured cultist](../chapter-07.md#the-cursed-gaucho)). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
+> **Keeper**: looted from a Great Sleeper priest the Cursed Gaucho killed two days west, and dropped on the table during the [C7 wait](../chapter-07.md#the-gauchos-blade--and-the-looted-list) (no live prisoner is brought). A strip of oilcloth, eight lines, each name written **syllable-reversed** in a tight clerical hand — a courier's cipher, not a strong one. **Decode**: Hard Library Use, or Regular for anyone who works the reversal out loud, or **Mercedes decodes it in minutes** in C7 (failsafe). Show the coded face first; reveal decoded lines as earned. Two names pay off in Arc 4 (**Lacasa**, **Ana Bermúdez** — see [REF-NPCs](../REF-NPCs.md)); the other six are Keeper-flexible — rename freely to fit your Arc 4.
 
 ---
 

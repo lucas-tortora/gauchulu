@@ -6,8 +6,6 @@
 
 > **Keeper note.** Don't rush the aftermath — the ritual's completion is not the chapter's end; the aftermath is where the campaign's emotional payload lands. Give each NPC a moment. And **Don Eusebio's "What do I owe?" is the campaign's final moral question** — it belongs entirely to the investigators; do not guide them to an answer. One thread stays open on purpose: **the dust on the players does not lift.** That is the inline hook into Arc 4.
 
-> 📋 **Running the ritual live?** Phases 4–5 continue the same running order started in C8 — see [`assets/ritual-runsheet-c8-c9.md`](assets/ritual-runsheet-c8-c9.md) for the full night in one sequence.
-
 ---
 
 ## OPENING SITUATION
@@ -177,7 +175,7 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 
 > **The anchor survives by default.** The center anchor — Don Eusebio, with the Marked PC beside him — **survives the seal**, paying in recovery time, nightmares, and the corners going quiet. The Marked PC at the center takes **SAN 1/1D6 + a CON check** at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
 >
-> **⚠️ That PC is at Sanity 10.** The seal's 1/1D6 cannot zero them on its own, but the night's accumulated losses can — track their COR openly with the player and use the [runsheet's Keeper-care section](assets/ritual-runsheet-c8-c9.md): if they bottom out **during the seal**, run it as the geometry closing over the last thing they were holding — **indefinite insanity with a recovery arc into Arc 4**, not removal from play. The entity's Round-2 revelation, aimed at a mind that empty, is not a threat — it is an offer of *quiet*. That is the horror; play it gently.
+> **⚠️ That PC is at Sanity 10.** The seal's 1/1D6 cannot zero them on its own, but the night's accumulated losses can — track their COR openly with the player: if they bottom out **during the seal**, run it as the geometry closing over the last thing they were holding — **indefinite insanity with a recovery arc into Arc 4**, not removal from play. The entity's Round-2 revelation, aimed at a mind that empty, is not a threat — it is an offer of *quiet*. That is the horror; play it gently.
 
 ### Phase Five — the working
 
@@ -187,11 +185,11 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 
 > **The chant — run it slowly.** _Antu kishu, lan amukey_ is **the geometry's own line**, taught to everyone in the ring at this moment — including the players, who may say it aloud at the table (no roll; the fiction recognizes the speaking as participation). Marked PCs who say it tonight will dream the chant for the rest of the campaign.
 > 
-> **The second voice — the chant that is missing.** There was a second chant — a **mobile working tone**, _Newen mapu kelluiñ_, held low and unbroken beneath the primary reading. The curandera carried it; **it died with her.** Nobody in this ring knows it, and the felt **silence** where that voice should be is correct — let the table feel the hole, do not fill it. One chant the land teaches tonight (_Antu kishu, lan amukey_); one chant lost with the dead. **Exception — the Antiquarian:** if that PC rolled **Extreme Occult** at creation ([C8 prior knowledge](chapter-08.md#prior-knowledge--occult-roll-at-character-creation)) and chooses to sustain _Newen mapu kelluiñ_ from Phase 1, the base tone **is** supplied and the closing runs at full efficacy — but imperfectly, a European scholar reading the dead woman's words off a page. The silence is filled, not healed. Whether that is enough is the player's to weigh, not yours to resolve.
+> **The second voice — the chant that was missing.** Beneath the melody runs a **sustained low tone** — the anchoring note the curandera's lineage held unbroken across every phase. She carried it; it should have **died with her.** Whether the ring has it tonight was decided on the [C7 ride](chapter-07.md#the-anchoring-note-marked-pcs): **if a Marked PC caught the anchoring note off the scar's beat**, they have held it since Stage I, the reading has not floated all night, and the closing runs at full efficacy — the scar itself teaching its own note through the only ear that could hear it. _(If the Antiquarian also carries the Leipzig transcription of _Newen mapu kelluiñ_, they reinforce that note as a second voice — [C8 prior knowledge](chapter-08.md#prior-knowledge--occult-roll-at-character-creation).)_ **If no one caught the note**, the felt **silence** where that voice should be is correct — let the table feel the hole, do not fill it: the land teaches _Antu kishu, lan amukey_ tonight, but the tone beneath it stays lost with the dead. Either way, what fills the silence is imperfect — a Marked stranger, or a scholar off a page, standing where the curandera should. Whether that is enough is the player's to weigh, not yours to resolve.
 
 **The 3-round climax**:
 
-**Round 1 — the press.** The entity applies full pressure to the center. The anchor's breathing goes ragged; the amber light flares once in the geometry and fades. Holding, barely. Player options: **co-anchor** (step into the center ring, take the cost, stabilize — skip Round 2's crisis); **maintain outer positions** (prevents the breach expanding while the anchor fights alone — anchor's POW check this round is **Hard**); **call the direction** (a Marked PC who identified the entity's approach vector — via the [C7 communication](chapter-07.md#the-entity-speaks) **or** Mercedes' _"put someone you trust on the east"_ — gives a moment's warning, shifting the anchor's check from **Hard** to **Normal** this round).
+**Round 1 — the press.** The entity applies full pressure to the center. The anchor's breathing goes ragged; the amber light flares once in the geometry and fades. Holding, barely. Player options: **co-anchor** (step into the center ring, take the cost, stabilize — skip Round 2's crisis); **maintain outer positions** (prevents the breach expanding while the anchor fights alone — anchor's POW check this round is **Hard**); **call the direction** (a Marked PC who knows the entity's approach vector — because [Saens's instructions named the east as the thin side](chapter-07.md#the-order-and-the-east) and the Marked have felt the eastern line all night — gives a moment's warning, shifting the anchor's check from **Hard** to **Normal** this round).
 
 > **The copper vector.** If [Quirce's tarnished copper](chapter-08.md#opening-situation) is still in the geometry, the press arrives **through the copper node first** — the observation window the players approved is a door, and the entity uses it: the anchor's Round 1 check is **Hard regardless of the called warning**, unless someone **dislodges the copper** now (**DES or Throw** from an outer position — it doesn't break the ring to throw a stone). Dislodging it ends Quirce's recording mid-phase; his protest, over the chant: _"¡Eso era de la Red!"_ Nobody answers him.
 
@@ -305,9 +303,9 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 
 ## SESSION CHECKLIST — C9
 
-- [ ] San Ruiz symbol tier from C7 honored in the ritual's precision during Phases.
+- [ ] Panel-draw quality from the [C7 assembly](chapter-07.md#drawing-the-closing-the-panels) (Saens instructions + Occult/Art-Craft) honored in the ritual's precision during Phases.
 - [ ] Phase 4 position tests; the **center** test with the Eusebio mechanic; **anchor survives by default** (Don Eusebio's *"What do I owe?"* lands better alive).
-- [ ] Phase 5 three rounds; *Antu kishu, lan amukey* spoken at the table; **missing chant acknowledged** (Kuyen's *Newen mapu kelluiñ* died with her — let the silence be felt) **unless the Antiquarian rolled Extreme Occult and chooses to supply it** (full efficacy, imperfectly — a scholar reading from a page).
+- [ ] Phase 5 three rounds; *Antu kishu, lan amukey* spoken at the table; **anchoring note** resolved per [C7](chapter-07.md#the-anchoring-note-marked-pcs) — if a Marked PC caught it, full efficacy; if not, let the silence be felt (the tone died with the tribe). Antiquarian's *Newen mapu kelluiñ* transcription reinforces, does not replace.
 - [ ] **No Mark rolls during Phases 4–5.** After the seal: Marks go quiet forever at this site — tell the players their dice can stay in the bag.
 - [ ] Dust does **not** lift — Mercedes: *"Lo de acá se cerró. Lo de allá no."*
 - [ ] Rosa: hostile unless **Dolores** was named (Rosa's sister, the chapel woman); if named, the *"Ninguna la ayudó"* beat and the planting-over-the-pit beat land.
