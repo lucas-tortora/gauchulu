@@ -343,17 +343,25 @@ The wrong-direction wind is the Zonda carrying the Coypac working's chant — th
 
 ### The anchoring note (Marked PCs)
 
-As the scar's beat grows under the ride, give the Marked PCs the roll Mercedes promised — **the campaign's recovery of the base tone that died with the tribe**:
+As they close on the pit and the scar's beat grows, give the Marked PCs the roll Mercedes promised. **The gift and the dread arrive together**: reaching for the note is reaching toward the thing that owns it, so what they recover — the base tone that died with the tribe — comes wrapped in the entity's own certainty that they would come.
 
-> _La cicatriz late, y el latido es lo bastante fuerte ahora como para sentirlo en los dientes. Y los Marcados oyen que el latido no está solo: debajo hay algo sostenido, una nota grave que no sube ni baja, que estuvo ahí todo el tiempo, del tamaño del pozo. La curandera la llevaba en la garganta. El pozo la lleva en la piedra._
+**Easy Listen or Cthulhu Mythos** roll for each Marked PC (one step easier because they are Marked, easier still if they deliberately reach for it — which raises their 2d6 Hound threshold for the ride). **On a success, all of this lands at once:**
 
-**Easy Listen or Cthulhu Mythos** roll for each Marked PC (one step easier because they are Marked, and easier still if they deliberately reach for it — which raises their 2d6 Hound threshold for the ride). On a success, the PC catches the **anchoring note** — the sustained low tone the reading needs under it, [the nota grave that Saens said died with its carriers](02-la-salamanca/saens-closing-instructions.md#el-canto). They cannot yet _hold_ it steadily, but they know it now, and at the pit they can sustain it under Mercedes's voice.
-
-> **Why this matters — the missing second voice, recovered.** Saens's instructions are explicit: without the low sustained note, the reading _floats_ — anchors halfway, then slides. The tribe carried that note and the tribe is dead. **If a Marked PC holds the anchoring note from Stage I onward, the reading no longer floats and the closing runs at full efficacy.** This is the Mark paying out for once — the scar itself teaching the note through the only people who can hear it. Track which PC caught it; it feeds directly into [C9, Phase Five](chapter-09.md#phase-five--the-final-seal). If **no** Marked PC catches it on the ride, they get one more attempt at the pit as the assembly begins; if they still miss, the reading floats all night (the silence where the note should be is correct — let the table feel the hole).
+> _La cicatriz late, y el latido es lo bastante fuerte ahora como para sentirlo en los dientes. Y los Marcados oyen que el latido no está solo: debajo corre algo sostenido — una nota grave que no sube ni baja, del tamaño del pozo, que estuvo ahí todo el tiempo. Es el canto. La curandera lo llevaba en la garganta; el pozo lo lleva en la piedra, y ahora ustedes lo oyen._
 >
-> _(This supersedes the old "Antiquarian rolls Extreme Occult to supply Newen mapu kelluiñ" path as the primary route to the base tone. If the Antiquarian also holds the phonetic transcription, treat it as a **second** singer reinforcing the Marked PC's note — redundancy, not a separate mechanic.)_
+> _Y en el momento en que lo oyen, el mundo se tuerce. Los ángulos están mal — no dramáticamente, dos grados, tres: el horizonte plano encontrándose con el cielo, la línea de los caballos, las esquinas que hace el fuego lejano con la tierra, todo levemente desviado, todo consistente, como visto a través de un vidrio que no es del todo plano. Por un instante caen adentro de un dibujo imposible — una escalera que sube y vuelve al principio, una tierra que se pliega sobre sí misma. Y en esa equivocación, algo está presente. No visible. Presente como está presente el frío. No habla en palabras; habla en geometría, y lo que dice no es una amenaza — es una certeza:_
+>
+> _**Están en el lugar correcto. La forma es conocida. El intento es esperado. El resultado es conocido.**_
 
-**Roll for Hound**: a Marked PC who reaches hard for the note rolls 2d6 — the reach brushes the thing that owns the note.
+The success is double-edged and that is the point: the PC **catches the anchoring note** — the sustained low tone the reading needs, [the nota grave that Saens said died with its carriers](02-la-salamanca/saens-closing-instructions.md#el-canto) — and, in the same breath, understands that **the entity has anticipated the closing.** They cannot yet _hold_ the note steadily, but they know it now, and at the pit they can sustain it under Mercedes's voice.
+
+**SAN Check**: 1/1D4 — not for the note, for the realization: something vast and indifferent has already accounted for them.
+
+> **Why the note matters — the missing second voice, recovered.** Saens is explicit: without the low sustained note the reading _floats_ — anchors halfway, then slides. The tribe carried it and the tribe is dead. **If a Marked PC holds the anchoring note from Stage I onward, the reading no longer floats and the closing runs at full efficacy.** The Mark paying out for once — the scar teaching the note through the only people who can hear it. Track which PC caught it; it feeds [C9, Phase Five](chapter-09.md#phase-five--the-final-seal). If **no** Marked PC catches it here, they get one more attempt as [assembly begins](#assembly--marta-directs); if they still miss, the reading floats all night (the silence is correct — let the table feel the hole). _(This is also the primary route to the base tone; the Antiquarian's Extreme-Occult transcription of Newen mapu kelluiñ only **reinforces** it.)_
+
+> **What the certainty is — don't play it as a jump-scare.** The entity did not communicate _threat_; it communicated that it has **accounted for them**. That is worse. Whether its certainty is correct — whether the attempt fails as it expects — is what C8–C9 decide. It also confirms in the body what Saens wrote: the thing watches **the east** most closely (a Marked PC can name the eastern segment as the point it monitors, feeding [Phase 5's "call the direction"](chapter-09.md#phase-five--the-final-seal)).
+
+**Roll for Hound**: a Marked PC who reaches for the note rolls 2d6 — hearing the chant is being touched by what sings it. (Raised threshold if they "looked/listened hard.")
 
 ---
 
