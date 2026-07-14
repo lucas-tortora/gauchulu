@@ -4,9 +4,93 @@
 
 **Arc 3 goal**: Close what was opened. Pay what the closing costs. Live with what remains. **Arc 3 theme**: Some scars don't heal — they become part of the land. What matters is what you do before the wound closes. **Chapter goal**: The afternoon and dusk before the closing — the same night, no night in between. The party waits outside the estancia for the last piece to be ready, the people who must be here converge, and then they ride to the pit and begin to assemble the ritual. **Emotional arc**: Waiting dread → Convergence → Committed motion.
 
+---
+
+## ABRIR LA SESIÓN — resumen, apertura, elenco
+
+### Lo que les pasó y lo que saben _(resumen para el Guardián — leer o parafrasear para reubicar a la mesa)_
+
+**Lo que les pasó:**
+- **C1** — Contratados como cazadores en la Estancia La Esperanza para matar lo que mataba al ganado. **Rompieron la geometría de la apertura** en el pozo del campo sur, y vieron a **Concepción — trece años — caminar al pozo y no volver.**
+- **C2** — En San Ruiz **destruyeron el sello de la capilla**; **La Llorona quedó suelta** y se movió al este; **sacaron a la cabra del aljibe** — desde entonces los sigue.
+- **C3** — El contra-ritual en el lecho del arroyo **falló**: el Sabueso pasó. **Kuyen (la curandera), Nahuel y toda la tribu murieron.** **Dos de ustedes quedaron Marcados** (ven la geometría); **dos hicieron el trato del Mandinga** — uno por **salud**, uno por **poder**, con el precio de *"su sangre, para asegurar que la cicatriz se cierre."* Huyeron todos.
+- **C4** — Volvieron; **confrontaron a Don Eusebio** (él abrió la herida); conocieron a Los Que Volvieron.
+- **C5** — Bajaron a **La Salamanca**: la cámara de huesos (el cráneo de Saens, el cierre anterior), de donde sacaron **las instrucciones de cierre de Saens**; el estudio del Gran Brujo; **saquearon la cámara → el malón los persigue por los mapas**; el Anticuario se sumó al grupo.
+- **C6** — Desenmascararon a **Quirce** (agente de la Red); el nombre de El Patrón por la mediumnidad — **Eligio Dadálah**; **negociaron con un guerrero del malón** (no frenó la incursión); le **dieron el cobre deslustrado a Quirce**; **Don Eusebio aceptó anclar el centro**, con un PJ Marcado al lado.
+
+**Lo que saben al entrar:**
+- La corrupción de la tierra fue **obra del propio Don Eusebio** — hizo el ritual de apertura buscando abundancia, y no pudo pararlo.
+- El que mueve todo es **El Patrón / Eligio Dadálah** — un nombre falso; nombrado en la mediumnidad.
+- **La curandera está muerta**: el cierre hay que improvisarlo con **el manuscrito de Saens**, con Los Que Volvieron, con Mercedes y con ustedes.
+- **El este cede primero** (Saens). La asimetría del este vive en las recopias de Don Eusebio / la "corrección" de Quirce.
+- El **Necronomicón** está nombrado — en una bóveda en Buenos Aires; Mercedes lo insinuó.
+- Hay un **culto paralelo (el Gran Durmiente)** en **Coypac**, y el **malón** viene por los mapas.
+- Las **Marcas** = percepción de la geometría; la **cabra** es la marca del Mandinga; el **polvo** del pozo no se lava.
+
+### Apertura narrada _(leer en voz alta para abrir)_
+
+> _El sol de febrero baja sobre la pampa y no trae alivio. Hace ocho meses que llegaron a esta tierra a matar lo que estuviera matando el ganado — y ahora saben lo que era, y saben que no se mata: se cierra. Es la tarde del cierre. No hay noche de por medio, no hay un mañana para prepararse mejor: lo que se haga, se hace **esta noche**, antes de que el pozo del campo sur termine de abrirse del todo._
+>
+> _Están afuera del casco de la estancia, esperando. Esperan a que Quirce termine de meter el cobre en el dibujo; a que lleguen los cueros; a que llegue la mujer que sabe leer la voz; a que caiga la luz justa. Y mientras esperan, hacia el sur, debajo del pastizal, **algo late** — despacio, hondo, en el esternón más que en los oídos. La tierra que vinieron a salvar los está esperando a ustedes._
+
+### El elenco en la estancia — intros _(leer o parafrasear al presentarlos)_
+
+*Los que ya están cuando abre la escena. Los que llegan después — [el Gaucho Maldito](#the-cursed-gaucho-rides-in), [Doña Mercedes](#doña-mercedes-arrives), [Marta](#marta-arrives-with-the-panels) y [Saúl](#saúl-from-coypac) — tienen su intro en su entrada.*
+
+> **Don Eusebio Alderete** _(el patrón — el que abrió)_
+> _Un hombre grande, de sesenta y pico, que alguna vez llenó la ropa que ahora le queda floja. La cara de alguien que hace ocho meses que no duerme bien y ya dejó de fingir que sí. Es el dueño de todo esto — de la tierra, del ganado, del pozo — y es el que hizo el ritual que abrió la herida. Esta noche va al centro. Lo sabe. No corre._
+>
+> **Sabe / contesta:**
+> - Que hizo el ritual de apertura buscando abundancia, y que cuando la tierra empezó a producir siguió, y no lo paró a tiempo.
+> - Que vio a Concepción caminar al pozo y no llegó; carga eso más que nada, y todavía la escucha tararear el ritmo del pozo.
+> - Que esta noche va al centro, y que la geometría **lo conoce a él**.
+> - **No ve del todo** el alcance de El Patrón: cree que la culpa es solo suya.
+> - Contesta con honestidad si lo tratan como persona; se cierra si lo tratan como herramienta.
+
+> **Silvio** _(uno de Los Que Volvieron)_
+> _Un peón que entró al pozo y salió — pero no salió entero. Se mueve un segundo tarde, como si escuchara algo abajo del silencio. Habla poco. Esta noche mira al norte, de espaldas al anillo, y avisa cuando la cosa se acerca._
+>
+> **Sabe / contesta:**
+> - Cómo se siente el pozo desde adentro; percibe la aproximación de la entidad antes que nadie.
+> - Que ya no es del todo el mismo, y lo acepta.
+> - Poco de teoría, mucho de sensación: contesta con lo que siente, no con datos.
+
+> **Héctor** _(uno de Los Que Volvieron)_
+> _Callado, alineado con la geometría de una manera que no sabe nombrar. Está pendiente de Marta antes de que Marta llegue. Su presencia en el anillo vale más que cualquier cosa que diga._
+>
+> **Sabe / contesta:**
+> - Siente cuándo una línea de la figura está bien o mal, sin poder explicar por qué.
+> - Confirma sensaciones de Marta y de los Marcados más que aportar información propia.
+> - Habla poco; si contesta, es en una frase.
+
+> **Tomás** _(el capataz)_
+> _El hombre de confianza de la estancia. Carga una vergüenza que no se saca: la mañana que Concepción entró al pozo, él se quedó en el borde y no bajó. Reza la plegaria de la tierra — «Por la tierra que fue buena…» — por lo bajo cuando cree que nadie lo escucha._
+>
+> **Sabe / contesta:**
+> - La historia de la estancia, de Concepción, y de la mañana del pozo.
+> - La plegaria «Por la tierra que fue buena» (la reza — y no le sale la tercera línea, igual que a Don Eusebio).
+> - Cosas prácticas: caballos, campo, quién es quién.
+> - Su propia vergüenza, si le preguntan de frente.
+
+> **Aldao Quirce** _(el visitante de Buenos Aires)_
+> _Inclinado sobre la mesa larga, pluma fina, regla, el disco de cobre al lado como un pisapapeles. Correcto, tranquilo, curioso de una manera que inquieta — mira la geometría como otros miran a una mujer hermosa. No vino a detener el cierre ni a empezarlo: vino a **medirlo**. Trabaja para una Red que ustedes recién empiezan a entender._
+>
+> **Sabe / contesta:**
+> - Mucho de la geometría como fenómeno — la mide, no la cierra.
+> - Qué hace el cobre: amplía la ventana de observación (y que la ventana es **de ida y vuelta**, si lo aprietan).
+> - La asimetría del este — la admite de inmediato si lo confrontan: _"un pico de presión de dos segundos, nadie sale lastimado."_ No entiende por qué molesta.
+> - Que trabaja para una Red — pero **no cuenta** todo esta noche, y quizá no vea del todo que hay una mano más vieja por encima suyo.
+
+> **La cabra** _(la marca del Mandinga)_
+> _Está donde no la dejaron. Blanca, quieta, mirando. No come, no sangra, no reacciona. Siempre ya está adonde el grupo va a ir. Los dos que hicieron el trato saben, sin decirlo, que la cabra es del que se los cobró._
+>
+> **No contesta.** Comunica con la mirada: fija a los del pacto, después al este. Es testigo, no informante — pero lo que señala, señala en serio.
+
+---
+
 > **Keeper note.** This is a **compression** chapter. There is no eve, no confessions spread across a long night, no scheduled manifestation before the working. Everything from "we are ready" to "the first panel is laid" happens between mid-afternoon and full dark of a **single day**. The horror is not an encounter — it is the clock. The ritual must run tonight, and every arrival that fills the circle also spends the light. Run it lean and forward-moving; the weight is in knowing what waits at the pit, not in delaying the ride to it.
 
-> **Opening situation.** It is **late afternoon** at Estancia La Esperanza. The roster on the ground: the investigators, Don Eusebio, Silvio, Héctor, Tomás, and **Doña Mercedes** — who reached the estancia two days ago by post-coach and has been reading and re-reading the manuscript at the long table since. **Aldao Quirce** is bent over that same table, redrawing the master diagram, because the party talked him into folding [the tarnished copper](chapter-06.md#quirces-move) into the geometry and he is not finished. **The panels are not here.** There is no leather laid out, because the party has none — **Marta is bringing them**, by carriage, and has not yet arrived. They are waiting on three things: Quirce's hand, Marta's wheels, and the light, because the closing uses dusk. When all three land, they ride.
+> **Opening situation.** It is **late afternoon** at Estancia La Esperanza. The roster on the ground: the investigators, Don Eusebio, Silvio, Héctor, Tomás. **Aldao Quirce** is bent over the long table, redrawing the master diagram, because the party talked him into folding [the tarnished copper](chapter-06.md#quirces-move) into the geometry and he is not finished. **The panels are not here** — the party has none, and **Marta is bringing them** by carriage, not yet arrived. **Doña Mercedes is not here either** — she is on the last leg of the road from Buenos Aires and reaches the estancia within the hour; until she does, the party holds Saens's closing sheets but has no one to lead the voice. They are waiting on four things: Quirce's hand, Marta's wheels, Mercedes's coach, and the light, because the closing uses dusk. When they land, they ride.
 
 > **What they carry instead of San Ruiz.** They do **not** ride to San Ruiz and they do **not** need Rosa's stone. They already hold the closing — **Padre Saens's own instructions**, recovered in the [bone chamber under La Salamanca](chapter-05.md#the-bone-vigil-de-vigilia-ossium--hidden-rite) (C5): the counter-figure, the five stages, the anchor, the chant, and the warning that _the east fails first_. Everything the working needs to be _run_ is in that waxed roll — **[Saens's closing instructions, H-Sa](02-la-salamanca/saens-closing-instructions.md)**. Mercedes reads the voice; Marta builds the figure; the Marked feel it. Saens failed for lack of a second person, not lack of knowledge — the party is the second person he never had. His words make the closing possible; the missing tribe makes it slower and harder, not impossible.
 
@@ -18,6 +102,7 @@
 > |---|---|
 > | **~4:30 PM** | The wait outside the estancia; Quirce still drawing; [Don Eusebio's confession](#don-eusebio-while-they-wait) if a PC seeks him |
 > | **~5:00 PM** | [The Cursed Gaucho rides in](#the-cursed-gaucho-rides-in) from the west — _"pasé una galera en el camino"_ |
+> | **~5:20 PM** | [Doña Mercedes arrives](#doña-mercedes-arrives) from the east, by post-coach — she takes up the voice |
 > | **~5:40 PM** | [Marta arrives with the panels](#marta-arrives-with-the-panels) — the carriage the Gaucho saw |
 > | **~6:00 PM** | [Saúl rides in from Coypac](#saúl-from-coypac), separately, from the west, spent |
 > | **~6:20 PM** | [Quirce finishes](#quirce-finishes-the-copper); the copper is in the diagram; decide if he rides out |
@@ -53,11 +138,7 @@ The afternoon heat is breaking. Nobody is at ease. The estancia is a place where
 > - **A PC tries to hurry him / threatens**: he does not speed up. _"Ustedes me pidieron el cobre. El cobre pide tiempo. Elijan."_ Pushing him only costs goodwill for the [ride-out decision](#quirce-finishes-the-copper).
 > - **A PC asks what the copper changes**: _"Amplía lo que se ve del cierre. Más lejos, más nítido. Para mí, eso es todo. Para el pozo —"_ _(pausa)_ _"— para el pozo es una ventana, y las ventanas se abren de los dos lados. Pero ustedes ya lo decidieron."_
 
-**Mercedes at the same table**, the manuscript and [Saens's closing sheets](02-la-salamanca/saens-closing-instructions.md) open in front of her, marking the order of the five stages with grass stems. She is the one person here who is not nervous, because she has already decided the worst thing — that she will not be enough, and that they will do it anyway. If an investigator sits with her, she gives them the frame for the whole night in three sentences:
-
-> _"Saens nos dejó cómo. Yo llevo la voz. Marta arma la figura. Ustedes — los que sienten — son los que él nunca tuvo. Falta una sola cosa que no está en el papel, y la vamos a extrañar toda la noche: la nota de abajo. La que sostenía la que cantaba, y esa mujer está muerta."_ _(Mira a los Marcados.)_ _"A menos que ustedes la oigan. El pozo la sigue teniendo. La cicatriz late, y abajo del latido está la nota. Si alguno la alcanza, cerramos entero."_
-
-_(This plants the [anchoring-note roll](#the-anchoring-note-marked-pcs) they will attempt on the ride and at the pit — the Marked recovering, by ear, the base tone that died with the tribe.)_
+**The closing sheets, no voice yet.** [Saens's sheets](02-la-salamanca/saens-closing-instructions.md) are spread on the long table — the party recovered them in the bone chamber — but the one person who can _lead_ the voice is still on the road. Let the table feel it: they have the how, and no one to say it. A PC who reads the sheets can make out the five stages and the chant line, but the boxed note is plain — _the voice must not waver or "correct," or the figure slides off its anchors_ — and none of them has led a working. This is the hole [Mercedes fills when she arrives](#doña-mercedes-arrives).
 
 ### Don Eusebio, while they wait
 
@@ -95,7 +176,15 @@ He means the curandera by "la mujer que cierra" — and she is dead. Someone mus
 > - **Ask about the carriage** → he confirms Marta is ~40 min out, a woman driving alone, loaded with hides. This is the party's cue that _the panels are coming_ — the wait has an end.
 > - **Ask who he is / why he's here** → the family beat below, compressed; he's hunting the Great Sleeper cult and the man behind it (*Dadálah*).
 > - **Vouch for the Marked** → if a PC treats him as kin-in-affliction rather than a stranger, he attaches his apprenticeship to the Marked PCs openly, and will take the **west** position tonight without being asked.
-> - **Distrust him** → he doesn't argue. He stands at the edge of the firelight and watches. He still takes the west when Marta assigns it; a suspicious table just doesn't get the lineage thread yet. **Mercedes and Saens's manuscript are the only living line into the tradition, and the Marked PCs are the only people left who _perceive_ the way the curandera did** — so he attaches his apprenticeship, quietly, to **them**. This upgrades the Marked PCs from afflicted to **lineage** (an Arc 4 thread).
+> - **Distrust him** → he doesn't argue. He stands at the edge of the firelight and watches. He still takes the west when Marta assigns it; a suspicious table just doesn't get the lineage thread yet.
+
+> **Sabe / contesta:**
+> - Que el Culto del Gran Durmiente mató a su familia en Coypac hace tres años, y que desde entonces caza a los dos cultos.
+> - Que el que mandó a matar a los suyos usa el nombre **Dadálah** — pero **no sabe todavía** que Dadálah es El Patrón (el grupo puede atarlo).
+> - Que pasó **una galera** (la de Marta) en el camino, a una legua.
+> - Que lee la geometría del culto — peor que la curandera, pero suficiente para rastrear.
+> - Que buscaba a **la mujer que cierra** (la curandera) — se entera acá de que está muerta.
+> - Contesta si se sientan con él; no performa el dolor. **No sabe** el desenlace de Coypac (eso lo trae Saúl). **Mercedes and Saens's manuscript are the only living line into the tradition, and the Marked PCs are the only people left who _perceive_ the way the curandera did** — so he attaches his apprenticeship, quietly, to **them**. This upgrades the Marked PCs from afflicted to **lineage** (an Arc 4 thread).
 
 He has hunted both cults — the Great Sleeper _and_ anyone tied to El Patrón — for years. He needs the Tehuelche-Tobá-Salamanca tradition for _his_ closing, eventually, on a different scar in the cordillera.
 
@@ -134,6 +223,43 @@ Then he drops a folded, sweat-stiff paper on the table — **taken off a Great S
 
 ---
 
+## DOÑA MERCEDES ARRIVES
+
+_(~5:20 PM — from the east, by post-coach, not long after the Gaucho)_
+
+A hired coach comes up the northeast road — the Buenos Aires road, the opposite direction from the Gaucho and from Marta. Down steps an old woman, alone, dressed for travel, tired the particular way scholars tire after crossing seven hundred kilometers without sleep. This is **Doña Mercedes Solís**, and she is the one the party has been waiting for without quite saying so: the only living person who can lead the voice.
+
+> _Un coche de posta sube por el camino del noreste, del lado de Buenos Aires. Baja una mujer mayor, sola, vestida de viaje, con el cansancio particular de quien pasó la vida entre libros y ahora cruzó el país sin dormir. Se queda un momento al borde de las cosas y mira: la estancia, los peones, el hombre de la cicatriz que ya está ahí, y — más lejos, hacia el sur — el campo donde late el pozo. Lo entiende todo en una sola mirada. La cara no le hace nada. No hay nadie acá que la conozca de treinta años para salir a recibirla; la mujer que la habría abrazado está muerta, y lo supo en el camino. Camina hacia el grupo, despacio, como quien llega a un velorio al que ya sabía que iba a llegar tarde._
+
+There is no embrace to meet her — the curandera who would have greeted her is dead, and the players carry the weight of why. She shakes each investigator's hand in turn. Taking one hand, she pauses — almost imperceptibly — and rubs her thumb across the cuff of the sleeve. She nods once, to herself, and moves on. **This is the dust.** She recognizes the pale grit on their clothing because she has read the manuscript that says what it is: fine limestone the geometry has been grinding for centuries, which does not wash out because it is not, strictly, dust. She does not say it aloud. She filed it; that is enough.
+
+**She takes up the voice.** Her first words, once she reaches the fire and sees Saens's sheets already spread:
+
+> _"Vine a ver, y a ayudar si puedo. No vine a cerrar — y la mujer que cerraba está muerta, ya lo sé. Así que cerramos como cierran los que quedan: con lo que dejó Saens, con los que volvieron, y con ustedes. Yo llevo la voz. Marta arma la figura. Ustedes — los que sienten — son los que él nunca tuvo."_
+
+Then the thing that is not on the page — **the anchoring-note plant** (moved here, delivered by the one who knows what's missing):
+
+> _(Baja la voz, mira a los Marcados.)_ _"Falta una sola cosa, y la vamos a extrañar toda la noche: la nota de abajo. La que sostenía a la que cantaba, y esa mujer está muerta. A menos que ustedes la oigan. El pozo la sigue teniendo. La cicatriz late, y abajo del latido está la nota. Si alguno de ustedes la alcanza en el camino, cerramos entero."_
+
+_(This sets up the [anchoring-note roll](#the-anchoring-note-marked-pcs) on the ride — the Marked recovering, by ear, the base tone that died with the tribe.)_
+
+She also asks after her runner: _"Mandé a Saúl al oeste hace días. Si vive, llega hoy."_ — which he does, [from Coypac](#saúl-from-coypac), within the hour.
+
+> **Sabe / contesta:**
+> - El **Necronomicón**: qué es, dónde está (una bóveda en Buenos Aires) y que es la clave del cierre completo — pero **guarda el detalle** (qué hace, qué cuesta) para el Arco 4.
+> - Cómo se lee la voz del cierre (Saens), y **qué nota falta** (la de abajo, la que murió con la que cantaba).
+> - Que hay un sitio paralelo — **Coypac** — y que los dos pozos deben cerrar a la vez o pierde el que se abre.
+> - **El polvo** del pozo y qué es (lo reconoce de la lectura, no de estar cerca).
+> - Que la curandera está muerta (lo supo en el camino); reconoce a El Patrón si lo ve, sin sorprenderse.
+> - Si leyó la marginalia: que hay **una mano más vieja** por encima de Quirce, y que nombra el libro.
+> - **No sabe** el desenlace de Coypac hasta que llega Saúl.
+
+> **Failsafe — the marginalia, if missed in C6.** If no one examined Quirce's annotated manuscript in [C6](chapter-06.md#quirces-move), Mercedes asks for _"la copia de Quirce, no la de ustedes,"_ reads ten minutes, and marks three places: _"Tres notas. No son de Quirce. Mano más vieja, y las tres están donde Saens escribe del libro. Quirce está cargando las cartas de otro adentro de las suyas — y no creo que lo sepa."_ Then she translates them ([H5](assets/handouts-c5-c7.md#h5--the-three-marginalia-in-the-older-hand)) — the confirmation that a **second hand** (the [Great Wizard](chapter-05.md#the-chamber-of-the-great-wizard)) sits above Quirce and names the Necronomicón. Do not let this thread drop.
+
+**SAN Check** on her arrival: 0/1 — relief that is also dread, because she would not have come if it could be avoided.
+
+---
+
 ## MARTA ARRIVES WITH THE PANELS
 
 _(~5:40 PM — the carriage the Gaucho saw)_
@@ -149,6 +275,13 @@ Marta is spare with words and exact with everything else. Asked where she got th
 _(That last sentence is Saens's, almost verbatim — [the atado se hace en el sitio de la herida](02-la-salamanca/saens-closing-instructions.md). Marta and the manuscript agree without having met.)_
 
 She is the one who will **direct the assembly** at the pit ([below](#assembly--marta-directs)). She does not lead the voice — that is Mercedes — but she builds the figure, and she is the only person present who has drawn this shape with her hands and lived.
+
+> **Sabe / contesta:**
+> - Cómo se dibuja la figura y cómo se arma el anillo — de memoria corporal.
+> - Que **el este cede primero**, y que la línea que falta **no se puede redibujar** — solo se pone un cuerpo (o una Protección) encima.
+> - Que ella puede **flotar** a cualquier posición que se rompa.
+> - De dónde sacó los cueros, y por qué los trajo sin terminar.
+> - Poco de la política o la Red; mucho del oficio. Contesta con la mano antes que con la boca.
 
 ---
 
@@ -169,6 +302,12 @@ He **saw the cult on the march** — the column staging for the crossing, the pi
 > _"Dos sitios, la misma noche, el mismo compás. Si los dos cierran, cerramos con ellos. Si uno se abre y el otro se cierra, el que se abre gana. Tenemos que cerrar bien, y tenemos que cerrar a tiempo."_
 
 **Mechanical payoff**: knowing Coypac has twelve priests, two pits, and a simultaneous opening **lowers Phase 3's contest difficulty by one step** in the working ahead — the reward for the intelligence arriving in time. *(player card: [H8](assets/handouts-c8-c12.md#h8--saúl-carrascos-spoken-report-c8-between-phases-1-2))*
+
+> **Sabe / contesta:**
+> - Lo que vio en Coypac desde la loma: **doce sacerdotes, dos pozos** (uno seco, uno con agua), y el **hombre de ocre** que gritó **"Dadálah"** (es el Gran Brujo).
+> - Que **lo vieron** — que a partir de esta noche el culto busca a Doña Mercedes.
+> - Que es aprendiz Custodio y hombre de Mercedes; leal, obediente.
+> - **No sabe** cómo termina Coypac: se fue antes de que abrieran. (El desenlace llega días después, en C9.)
 
 > **Saúl's sequence (changed).** He arrives here **from Coypac**, not sent there and back. He stays behind the circle through the full ritual. **After the seal holds at dawn**, he insists on riding the post road east to warn any inbound Keeper couriers before the cult can intercept them; Mercedes objects; he rides anyway (_"Alguien tiene que decirles."_). He does not make the first relay station. His body is left at a _paraje_ as a warning; the news reaches the party in [C9](chapter-09.md#the-coypac-relay) by anonymous relay rider, letter signed Saráchaga. **Do not kill him on-screen tonight; do not have him survive past the post road.**
 
@@ -326,7 +465,8 @@ By full dark (~8:15 PM) the camp holds everything the closing will stand on: the
 ## SESSION CHECKLIST — C7
 
 - [ ] **No San Ruiz, no eve.** The party carries [Saens's closing instructions](02-la-salamanca/saens-closing-instructions.md) from the C5 bone chamber; everything runs the same day into the same night.
-- [ ] **The wait**: Quirce folding the copper into the diagram; Mercedes already present with the manuscript; Don Eusebio's compressed confession if a PC seeks him (the hum payoff).
+- [ ] **The wait**: Quirce folding the copper into the diagram; the party holds Saens's sheets but **no voice yet**; Don Eusebio's compressed confession if a PC seeks him (the hum payoff).
+- [ ] [Mercedes arrives](#doña-mercedes-arrives) ~5:20, **after the Gaucho**, from the east — takes up the voice; the dust-recognition beat; delivers the anchoring-note plant; H5 marginalia failsafe if missed in C6.
 - [ ] [The Cursed Gaucho](#the-cursed-gaucho-rides-in) rides in ~5 PM; **announces the carriage he passed** (Marta's); *"Entonces llegué tarde dos veces"* beat; attaches to the Marked; drops the [H6 looted list](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names) (no live prisoner).
 - [ ] [Marta arrives with the panels](#marta-arrives-with-the-panels) ~5:40 — the party has none of its own.
 - [ ] [Saúl arrives from Coypac](#saúl-from-coypac) ~6 PM, separately from Marta — twelve priests, two pits, the ochre man; **Phase 3 −1 step**; he stays behind the circle and dies only after the seal.

@@ -4,6 +4,32 @@
 
 **Goal**: Complete the ritual. Pay the cost. Live with what remains. **Emotional arc**: Desperate resolve → Sacrifice → Grief and release. **Key seed**: Not all wounds heal. The land will carry this. So will the people.
 
+---
+
+## ABRIR LA SESIÓN 3 — hacia el amanecer
+
+> **Continuidad.** Sigue **la misma noche**, sin corte. Son cerca de las **3 de la mañana**; faltan **dos etapas** (Fase Cuatro y Fase Cinco) para el sello, y el amanecer es el límite: después, la resistencia de la geometría afloja y Coypac gana tempo. Entre sesiones pasó otra semana; en el juego, minutos. Es una sola noche contada en dos o tres sesiones — que la mesa lo sienta continuo.
+
+### Resumen de la sesión anterior _(C8 — leer o parafrasear)_
+- Empezó el ritual; con el primer canto **golpeó el malón** — los sacerdotes gastaron a los guerreros y la geometría los cosechó; el grupo **aguantó** sin romper el círculo.
+- La triple crisis: **se rasgó el este**, llegó la **visión de Coypac** (el libro envuelto en encerado), **Quirce cruzó el anillo**, y el **Gaucho rompió el oeste** al ver a **El Patrón** al borde del campo.
+- La entidad encontró a **Don Eusebio** y le hizo la **oferta muda** (la tierra fértil de nuevo). Aguantó en silencio — la respuesta hablada, _"No,"_ llega en la Fase Cuatro.
+- C8 terminó en **posición sostenida**: el ritual corre, incompleto. Mercedes: _"Dos fases más. No se muevan."_
+
+### Estado al empezar _(del cierre de C8 — anotar)_
+- [ ] **Fases completadas** (de cinco); ¿queda alguna anterior por correr antes de la Cuatro?
+- [ ] **Centro**: Don Eusebio + el PJ Marcado — **¿COR del PJ?** (el hilo más fino de la noche).
+- [ ] **Este**: rondas aguantadas en la Incursión (fija el paso de la Fase 5).
+- [ ] **Cobre**: ¿sigue puesto? (vector de la Fase 5, Ronda 1).
+- [ ] **Sangre del pacto**: ¿ya ofrecida en el este, o pendiente para el sello?
+- [ ] **Tiempo hasta el amanecer.**
+
+### Apertura narrada _(leer en voz alta)_
+
+> _La misma noche, sin corte. El pozo está casi lleno de su propia luz — un mapa de sí mismo brillando desde las paredes talladas. La entidad ya no mira desde afuera: empuja, desde todas las direcciones a la vez. Faltan dos etapas. La luz empieza a virar al ámbar, la de la entidad y la del ritual mezclándose. Están todos en su lugar, agotados, las voces roncas de un canto que no se detiene desde la primera hora. Hacia el este el cielo sigue negro — pero no falta tanto. Lo que hagan en las próximas dos etapas cierra el pozo, o lo pierde. Marta se arrodilla junto al anillo interior y estira la mano hacia el cuarto segmento._
+
+---
+
 > **Keeper note.** Don't rush the aftermath — the ritual's completion is not the chapter's end; the aftermath is where the campaign's emotional payload lands. Give each NPC a moment. And **Don Eusebio's "What do I owe?" is the campaign's final moral question** — it belongs entirely to the investigators; do not guide them to an answer. One thread stays open on purpose: **the dust on the players does not lift.** That is the inline hook into Arc 4.
 
 ---

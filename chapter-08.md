@@ -4,6 +4,32 @@
 
 **Goal**: The ritual begins. Quirce makes his final move. Don Eusebio faces the moment. The entity presses for breach. Establish what Chapter 9 must overcome. **Emotional arc**: Commitment → Crisis → Desperate holding. **Key seed**: The betrayal isn't only Quirce's. Don Eusebio has one more lie in him. Whether he tells it determines everything.
 
+---
+
+## ABRIR LA SESIÓN 2 — la misma noche, plena oscuridad
+
+> **Continuidad.** Es **la misma noche**, sin corte. En el juego no pasó ni una hora desde que terminó la sesión anterior; entre sesiones pasó una semana. Recordáselo a la mesa: **no hay descanso, no hay amanecer todavía, no se puede posponer.** La sesión pasada terminó con la figura armada y la gente en su lugar; ésta empieza con el primer canto.
+
+### Resumen de la sesión anterior _(C7 — leer o parafrasear)_
+- Esperaron afuera de la estancia; llegaron **el Gaucho Maldito**, **Doña Mercedes** (que lleva la voz), **Marta con los cueros** y **Saúl desde Coypac** (doce sacerdotes, dos pozos, el hombre de ocre que sabe *"Dadálah"*).
+- **Quirce terminó de meter el cobre** en el dibujo.
+- Cabalgaron al **pozo del campo sur** al caer la luz y **armaron la figura ahí** con las instrucciones de Saens: dibujaron los paneles (Ocultismo + Arte/Oficio), marcaron las palmas, tomaron posiciones.
+- **La cabra le señaló el este** a uno de los del pacto; el este quedó **puesto, no redibujado**.
+- Si un Marcado la cazó en el camino, alguno lleva **la nota de anclaje** en la garganta.
+
+### Estado al empezar _(confirmar del cierre de C7 — anotar)_
+- [ ] **Centro**: Don Eusebio + el PJ Marcado (palmas con ocre).
+- [ ] **Este**: quién lo sostiene.
+- [ ] **Nota de anclaje**: ¿la cazó alguien? (sí → la lectura no flota, −1 paso a toda la noche).
+- [ ] **Quirce**: ¿adentro o afuera del anillo?
+- [ ] **Cobre**: ¿quedó puesto? Saúl detrás del círculo, la cabra en el borde.
+
+### Apertura narrada _(leer en voz alta)_
+
+> _Cae la última luz y el campo sur queda en la oscuridad que el pozo mismo alumbra: los arcos de sangre brillan tenues, la geometría visible como un mapa de sí misma. Cada uno está en su lugar. Don Eusebio, en el centro, con las palmas marcadas de ocre. Mercedes levanta las hojas de Saens y respira. El pozo late, más fuerte que nunca, y la vibración les sube por las plantas de los pies. Nadie duerme esta noche; nadie se va. Y afuera, más allá del círculo de fuego — aunque todavía no lo saben — el pastizal se mueve sin viento. El malón esperó exactamente esto: todos clavados en su sitio, las manos llenas del trabajo. Mercedes abre la boca para empezar el canto._
+
+---
+
 > **Keeper note.** Two things make this chapter: Quirce's breach is the final stress-test of the players' preparation (caught the asymmetry / kept Quirce out → survivable; missed things / trusted him → harder), and **Don Eusebio's choice in the ring is the moral hinge of the whole campaign**. Make the offer to him vivid and _wordless_ — a sensation of abundance, the ground fertile again — and make the choice genuinely uncertain.
 
 ---

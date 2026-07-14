@@ -6,7 +6,9 @@
 
 ## THE SHAPE OF IT (read this first)
 
-**One afternoon into one night — no eve, no night in between.** The party waits outside the estancia for Quirce to finish folding the tarnished copper into the diagram; the people who must be here arrive; then they ride to the south-field pit and **build the ritual on-site**, and it runs to a **seal before dawn**. The closing procedure is **Padre Saens's own** — the five-stage instructions recovered in the C5 bone chamber ([H-Sa](02-la-salamanca/saens-closing-instructions.md)) — not San Ruiz. Mercedes leads the voice; Marta builds the figure; the Marked feel it and, if they catch it, **carry the base note the dead tribe left behind.**
+**One afternoon into one night — no eve, no night in between.** The party waits outside the estancia for Quirce to finish folding the tarnished copper into the diagram; the people who must be here arrive; then they ride to the south-field pit and **build the ritual on-site**, and it runs to a **seal before dawn**.
+
+> **Session structure:** it's **one continuous in-game night told across ~2–3 real sessions** — C7 (the wait + ride + assembly), C8 (the ritual opens, Stages I–III), C9 (Stages IV–V + aftermath). Each chapter opens with a Spanish **ABRIR LA SESIÓN** block (continuity note, prior-session recap, state checklist, narrated read-aloud): [C7](chapter-07.md#abrir-la-sesión--resumen-apertura-elenco) · [C8](chapter-08.md#abrir-la-sesión-2--la-misma-noche-plena-oscuridad) · [C9](chapter-09.md#abrir-la-sesión-3--hacia-el-amanecer). Remind the table each time: no rest, no dawn yet, can't postpone. The closing procedure is **Padre Saens's own** — the five-stage instructions recovered in the C5 bone chamber ([H-Sa](02-la-salamanca/saens-closing-instructions.md)) — not San Ruiz. Mercedes leads the voice; Marta builds the figure; the Marked feel it and, if they catch it, **carry the base note the dead tribe left behind.**
 
 **Your job all night:** keep the voice going, keep bodies in position, and get the east right (place a body, don't redraw it).
 
@@ -19,6 +21,7 @@
 | ~4:30 | [The wait](chapter-07.md#the-wait) | They're waiting on **Quirce + Marta's panels + the light**. A PC can help Quirce draw to buy daylight. |
 | ~4:30 | [Don Eusebio, while they wait](chapter-07.md#don-eusebio-while-they-wait) | The confession + the hum payoff. Honest listening → he holds the ring later. |
 | ~5:00 | [The Cursed Gaucho rides in](chapter-07.md#the-cursed-gaucho-rides-in) | *"Pasé una galera en el camino."* → **Marta is 40 min out.** Drops the [looted list H6](assets/handouts-c5-c7.md#h6--the-cultists-coded-list-eight-names). Attaches to the Marked; takes **west**. |
+| ~5:20 | [Doña Mercedes arrives](chapter-07.md#doña-mercedes-arrives) | From the **east**, after the Gaucho. Takes up **the voice**; the dust-recognition beat; **plants the anchoring note**. Until now the party had the sheets but no voice. |
 | ~5:40 | [Marta arrives with the panels](chapter-07.md#marta-arrives-with-the-panels) | The party has **no panels of its own** — hers make the ritual possible. She directs the build. |
 | ~6:00 | [Saúl from Coypac](chapter-07.md#saúl-from-coypac) | Twelve priests, two pits, the ochre man (**the Great Wizard**) who knows *Dadálah*. → **banks Phase 3 −1 step.** He was seen; the cult now hunts Mercedes. |
 | ~6:20 | [Quirce finishes the copper](chapter-07.md#quirce-finishes-the-copper) | Copper is **in the figure** — a two-way window. Decide if he rides out. |

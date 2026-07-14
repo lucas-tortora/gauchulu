@@ -268,7 +268,7 @@ _(in open air — and the final image)_
 
 As the players set up camp at the pit for the night, **Mercedes' second letter** arrives by fast, costly express rider:
 
-> **Keeper — timing.** Mercedes dispatched this from the road by fast Keeper relay (fresh mounts at each *posta*) before she fully committed to coming in person; the rider outruns her hired coach. The *"escríbanme"* was true when she wrote it and overtaken by her decision to follow it west — she reaches the estancia a day or two ahead of the closing and is **already present through the [C7 wait](chapter-07.md#the-wait)**, reading the manuscript at the long table, when the party rides out to the pit.
+> **Keeper — timing.** Mercedes dispatched this from the road by fast Keeper relay (fresh mounts at each *posta*) before she fully committed to coming in person; the rider outruns her hired coach. The *"escríbanme"* was true when she wrote it and overtaken by her decision to follow it west — she reaches the estancia **during the [C7 wait](chapter-07.md#doña-mercedes-arrives), arriving from the east just after the Cursed Gaucho**, in time to take up the voice before the party rides out to the pit.
 
 > _"Si todo lo que ustedes describen es cierto, mañana se cierra esta abertura. Hay otras. La que más me preocupa es la única que no está en tierra: el libro. El Necronomicón está en una bóveda en Buenos Aires desde 1610. Si la cerradura abajo se está debilitando, está porque alguien ha empezado a tocar la bóveda desde acá. No vengan al norte. Cierren primero. Después escríbanme. — M.S."_
 
