@@ -176,6 +176,8 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 3. **Marta steps into the center** (only if the players built genuine rapport with the Wrong Returned): she co-anchors from the outer ring by extending her partial geometric alignment to hold the center steady from outside. **Her choice; the investigators cannot make it for her.** If she does, Phase Five has near-certain success. Cost: see below.
 
 > **The anchor survives by default.** The center anchor — Don Eusebio, with the Marked PC beside him — **survives the seal**, paying in recovery time, nightmares, and the corners going quiet. The Marked PC at the center takes **SAN 1/1D6 + a CON check** at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
+>
+> **⚠️ That PC is at Sanity 10.** The seal's 1/1D6 cannot zero them on its own, but the night's accumulated losses can — track their COR openly with the player and use the [runsheet's Keeper-care section](assets/ritual-runsheet-c8-c9.md): if they bottom out **during the seal**, run it as the geometry closing over the last thing they were holding — **indefinite insanity with a recovery arc into Arc 4**, not removal from play. The entity's Round-2 revelation, aimed at a mind that empty, is not a threat — it is an offer of *quiet*. That is the horror; play it gently.
 
 ### Phase Five — the working
 
@@ -191,6 +193,8 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 
 **Round 1 — the press.** The entity applies full pressure to the center. The anchor's breathing goes ragged; the amber light flares once in the geometry and fades. Holding, barely. Player options: **co-anchor** (step into the center ring, take the cost, stabilize — skip Round 2's crisis); **maintain outer positions** (prevents the breach expanding while the anchor fights alone — anchor's POW check this round is **Hard**); **call the direction** (a Marked PC who identified the entity's approach vector — via the [C7 communication](chapter-07.md#the-entity-speaks) **or** Mercedes' _"put someone you trust on the east"_ — gives a moment's warning, shifting the anchor's check from **Hard** to **Normal** this round).
 
+> **The copper vector.** If [Quirce's tarnished copper](chapter-08.md#opening-situation) is still in the geometry, the press arrives **through the copper node first** — the observation window the players approved is a door, and the entity uses it: the anchor's Round 1 check is **Hard regardless of the called warning**, unless someone **dislodges the copper** now (**DES or Throw** from an outer position — it doesn't break the ring to throw a stone). Dislodging it ends Quirce's recording mid-phase; his protest, over the chant: _"¡Eso era de la Red!"_ Nobody answers him.
+
 **Round 2 — the offer to the center.** The entity repeats what it did to Don Eusebio, now directed at the anchor:
 
 > _No es una oferta — es una revelación. Les muestra, desde adentro, lo que el cierre les hará **a ellos**: la conexión geométrica que han cargado se cerrará con la cicatriz. Van a ser ordinarios de nuevo, o algo cercano a eso, o algo que actualmente no pueden imaginar. Está ofreciendo una elección entre dos tipos de pérdida — conservar la conexión (que los ha estado destruyendo) o completar el cierre y perderla (lo que puede sentirse como perderse a uno mismo)._
@@ -198,6 +202,8 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 One round to decide. If a co-anchor is holding their hands, that person feels the offer being made and can answer it without words — a human hand in the center of the choice is itself a vote for the closing. **End of Round 2**: the decision is made. They hold. The geometry tightens.
 
 **Round 3 — the seal.**
+
+> **The blood comes due.** As Marta kneels to draw the last line, the two **Mandinga-deal PCs** feel the old contract sit up — the wound that closed, the strength that came from nowhere, both leaning toward the pit like the candle flames once leaned toward Quirce's mouth. The price was always *"su sangre, para asegurar que la cicatriz se cierre."* **Now or never**: an opened palm pressed to the panel line at their position — a pure decision, no roll. The goat is already looking at them. Each offering made (now, or earlier at the [eastern tear](chapter-08.md#the-eastern-incursion)) runs the **seal contest one step easier**. **Withheld**: the health-PC's old wound begins reopening at the seal (1 HP/day, visible, until the debt is settled another way); the power-PC's gift inverts — penalty die on its uses — until amends. Mandinga does not renegotiate; he collects.
 
 > _La contracción final. El anillo exterior aguanta, el anillo interior aguanta, el centro aguanta. El contra-movimiento de la entidad se detiene — no por retirada, sino porque ya no hay espacio. Marta dibuja la última línea, conectando el último hueco. La conexión se completa._
 
@@ -307,7 +313,7 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 - [ ] Rosa: hostile unless **Dolores** was named (Rosa's sister, the chapel woman); if named, the *"Ninguna la ayudó"* beat and the planting-over-the-pit beat land.
 - [ ] Goat: traveled with the party → six-pupil reveal at the pit rim at dawn; she walks west; the San Ruiz well is empty when they pass.
 - [ ] Coypac relay (a few days after the closing, before riding out — **not** dawn): anonymous relay rider, [Saráchaga letter H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn), Saúl confirmed dead; Don Eusebio's east-ride choice; Cursed Gaucho's tannery rendezvous set.
-- [ ] Mandinga-deal PCs: private moment — the wound closes cleanly when the seal holds. The debt is paid. The spell remains.
+- [ ] Mandinga-deal PCs: the blood was owed **at** the closing (opened palm to the panel line — Phase 2 east or Phase 5 seal). **If offered**: private moment — the wound seals clean, the strength settles, the debt is paid; the spell remains. **If withheld**: the health-PC's wound is reopening (1 HP/day) and the power-PC's gift carries a penalty die — Mandinga collects until amends.
 - [ ] **Decision**: end at C9, continue to C10, or run hybrid closing note.
 
 ---

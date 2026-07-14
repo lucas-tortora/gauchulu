@@ -55,12 +55,13 @@ This is the spine of the table's divergence. Every downstream beat assumes it.
 - **La Llorona is loose** (C2) — displaced, enraged, eyes open, moving east toward the pit; she knows who broke the walls.
 - **The goat travels with the party** (C2 → C9) — Mandinga's marker, pulled from the well; precedes the party everywhere; can disrupt the immaterial; **walks west from the pit at dawn in C9** and does not return.
 - **The C3 ritual failed** — **Kuyen, Nahuel, and the whole tribe are dead.** No living counter-tradition remains; the closing must be improvised from Saens's manuscript + Mercedes + Marta + the Marked.
-- **2 PCs are Marked** — permanent geometry perception; the campaign's interpretive engine. **2 PCs carry the Mandinga deal** — bound to be present at the closing.
+- **2 PCs are Marked** — permanent geometry perception; the campaign's interpretive engine. **2 PCs (outside the center) carry the Mandinga deal** — one traded for **health**, one for **power**; the price both accepted is *"their blood, offered to ensure the scar is closed"* — **due at the C8–C9 ritual** (palm to the panel line; withheld → the wound reopens / the gift inverts).
 - **No Reader** (C5) — page 79 was never read aloud; **the C12 Use ending is closed** for the whole campaign. Do not run the C8 Mercedes-recognition or C11 cloister-bridge beats that assume a Reader.
 - **La Salamanca chamber was looted** (C5) → **the malón for the maps** shadows the party home and **strikes at the C8 closing** (the C6 deal with one warrior did not call it off).
 - **The Antiquarian** (added PC) joined at La Salamanca and stands the eastern line at the closing.
 - **The eastern asymmetry** (Quirce's / the Wizard's correction) rides in Don Eusebio's recopied sheets; unless quarantined, it transfers to the C7 panels and is the entity's primary C8 attack vector.
-- **Don Eusebio anchors the center** (C6 decision) with a **Marked PC beside him**; both survive the seal (C9).
+- **Don Eusebio anchors the center** (C6 decision) with a **Marked PC beside him — currently at Sanity 10**; both survive the seal by default (C9), but the PC's COR is the night's thinnest thread.
+- **The tarnished copper is in the geometry** (players' C6 decision) — Quirce's observation window is **two-way**: wider entity reach at the malón cull, an extra pressure vector at the Phase-5 press, and the fused copper leaves with Quirce afterward (Arc 4 thread).
 
 ---
 

@@ -8,6 +8,18 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-07-13 — Pre-ritual state locked (going into C8)
+
+Clarifications recorded as the table prepares to start the closing ritual:
+
+- **The Marked PC at the center has Sanity 10** — critically low. The center pairing stands (Don Eusebio + this PC), but every COR loss tonight is potentially the one that breaks them. Keeper-care guidance added to the runsheet: worst-case ledger, insanity handling, mitigations, and the entity's Phase-5 offer re-aimed at an almost-empty mind.
+- **The tarnished copper is confirmed in the geometry** — the players agreed to let Quirce use it to amplify the ritual's observation window. Consequences are now concrete: the window is **two-way** (an extra pressure vector through the copper at Phase 5, Round 1, unless dislodged), the entity's outward reach at the malón cull runs one ring wider, and the fused copper leaves the site in Quirce's pocket afterward (Arc 4 hook).
+- **The Mandinga deals' terms are settled.** The two deal-PCs (both outside the center) traded, respectively, **health** and **power** — and the price both accepted is *"offering their blood to ensure the scar is closed."* The blood is **owed at this ritual**: an opened palm pressed to the panel line, usable early at the Phase-2 eastern tear (counts as a bracing hand), owed at the Phase-5 seal at the latest. Withheld: the health-PC's old wound reopens at the seal; the power-PC's gift inverts (penalty die) until amends. The goat is already looking at them when it comes due.
+
+*Integrated into:* `chapter-08.md`, `chapter-09.md`, `flowmap.md` (state ledger), `assets/ritual-runsheet-c8-c9.md` (rewritten in Spanish as the at-table running sheet).
+
+---
+
 ## 2026-07-01 — Chapter 6, *El Visitante* (session paused mid-chapter)
 
 The party is at the estancia, part-way through C6. Resolved this session:
