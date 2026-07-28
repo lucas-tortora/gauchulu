@@ -1,13 +1,13 @@
 # LO QUE SE AGARRA DEL SUBTERRÁNEO — GM CHEAT SHEET
 
-> Condensed snapshot of `scenario.md` — built to run cold, off a phone, at the table. If it disagrees with `scenario.md`, that file is the source of truth. Map: `fort-diagram.svg` (fort layout + basement/El Umbral panel).
+> Condensed snapshot of `scenario.md` — built to run cold, off a phone, at the table. If it disagrees with `scenario.md`, that file is the source of truth. Map: `fort-diagram.svg` (fort layout). Action sidequest, no basement — success is physical: collapse the tunnels, kill La Vieja.
 
 **Pulp house rules**: PC HP ×2 tonight. Once/scene, a PC may auto-succeed a failed roll if they narrate a good-enough reason.
 
 ---
 
 ## THE TRUTH (yours only)
-Soldiers blasted a defensive ditch 2 days ago, breached an old tunnel network. Something's lived down there since before anyone's memory — not evil, just hungry, blind, and strong. **Tonight = 3rd dusk since the breach** — the old remedy (fire + stone, reseal before dusk ends) works tonight, not after. An hour before the PCs arrive, **Calfú** (a trader's son) got dragged under. He's alive — hours, not minutes, to save him.
+Soldiers blasted a defensive ditch 2 days ago, breached an old tunnel network. Something's lived down there since before anyone's memory — not evil, just hungry, blind, and strong. **Tonight = 3rd dusk since the breach** — no ritual fix, just urgency: wait longer and there's more tunnel to close, not less. An hour before the PCs arrive, **Calfú** (a trader's son) got dragged under. He's alive — hours, not minutes, to save him.
 
 ---
 
@@ -15,12 +15,12 @@ Soldiers blasted a defensive ditch 2 days ago, breached an old tunnel network. S
 | Time | Beat |
 |---|---|
 | 0:00–0:20 | Cold open. Gunfire, 3 traders frozen in the field, gate hanging open. **1st emergencia** (Cría) near the end. |
-| 0:20–1:30 | Fort + clues. Traders, Ledesma, ditch, basement. **2nd emergencia** when they commit to the tunnels. |
+| 0:20–1:30 | Fort + clues. Traders, Ledesma, ditch + mojones. **2nd emergencia** when they commit to the tunnels. |
 | 1:30–2:10 | **3rd emergencia — the rescue.** La Vieja, Calfú, tunnels or gate. Let it run long. |
-| 2:10–2:40 | El Umbral — open / seal / ignore. Pick an ending. |
+| 2:10–2:40 | Collapse the tunnels, deal with La Vieja, or both — El Desenlace. |
 | 2:40–3:00 | Coda. Land the last line, stop. |
 
-**Running long?** Cut Ledesma/the ditch clue first (Millaray + basement stones cover the same ground). **Never cut the finale.**
+**Running long?** Cut Ledesma/the mojones first (Millaray covers the same ground alone). **Never cut the finale.**
 
 ---
 
@@ -37,12 +37,14 @@ Full stat blocks (skills, weapons) in `scenario.md`.
 
 **Comms rule**: nobody sits out for lacking a language skill. Millaray = ask plainly. Painén = calm him first (Persuade/Psych Reg). Relmu = patience + a task, no roll needed. Full topic trees in `scenario.md`.
 
-**If a trader goes down before talking**: Lore clue isn't lost — recoverable via the basement stones (Clue 3). Consequence, not a curtain.
+**If a trader goes down before talking**: Lore clue isn't lost — recoverable via the mojones (Clue 3). Consequence, not a curtain.
 
 ---
 
 ## THE CREATURES
 **Body plan (both)**: 4 arms, 2 legs. Legs move it, arms grab. **Blind — hunts by vibration/noise.** Still + silent = very hard to find. Moved/spoke/fired a gun = normal detection.
+
+**Before each scripted emergence**: Spot Hidden/Listen (Reg) = 1 round of warning. Miss = it just breaks the surface.
 
 | | STR/CON/SIZ/DEX/INT/POW | HP | Armor | Move | Notes |
 |---|---|---|---|---|---|
@@ -55,51 +57,57 @@ Full stat blocks (skills, weapons) in `scenario.md`.
 
 ---
 
-## RELOJ DE TEMBLORES — SCRIPTED, NOT A TIMER
-Guarantee 3 encounters + finale regardless of investigation pace:
-1. Near the ditch, early — 1 Cría, brief, nobody dies.
+## RELOJ DE TEMBLORES — PLAY IT LIKE *TREMORS*
+**3 Crías active tonight, roaming independently — not one monster, three animals.** Frequent attacks, not 3 checkpoints.
+
+**Hazard die**: any round a PC is on unsafe ground (everywhere but cuartel/polvorín) and moving/noisy → **1D6, Cría attacks on 1–2** (1–3 once "hot," i.e. after any gunfire/blasting/prior attack this scene). Skip it in slow scenes, roll it openly when the table gets complacent about "we're inside the walls now." Up to 2 Crías can pile onto the same scene at once.
+
+**Scripted anchors** (guaranteed regardless of the die):
+1. Near the ditch, early — 1 Cría, brief, nobody dies. Hazard die switches on here.
 2. The moment they commit to the tunnels — 1-2 Crías, tougher.
 3. Reaching Calfú = reaching **La Vieja**. Full finale.
-- Table dragging (real-world)? Painén bolts, a shot goes off — throw a Cría, you always have an excuse.
-- Deliberate stillness/quiet → visibly *doesn't* trigger a beat. Let them feel it working for them sometimes.
+- Table dragging + die's been quiet? Painén bolts, a shot goes off — throw a Cría, you always have an excuse.
+- Deliberate stillness/quiet → visibly *doesn't* trigger the die or a beat. Let them feel it working for them sometimes.
 
 ---
 
 ## FOUR CLUES — WHERE / WHAT
 | # | Skill | Where | Gives |
 |---|---|---|---|
-| 1. Físical | Track/Climb/Spot Hidden (Reg) | Any blast hole | Tunnels predate the blast (old, worn smooth); drag marks → Calfú's direction (Hard = fresh trail) |
-| 2. Histórica | Persuade → Ledesma | Polvorín | Captain ignored the traders' warning; **"malón" raids were this creature all along** |
-| 3. Ocultista | Occult/Mythos (Reg) | Basement, near the slab | Inward-spiral stones + bone arc — corroborates Millaray even if unreached |
-| 4. Saber local | via Millaray (or Clue 3 if she's unreachable) | Anywhere she'll talk | *Pewma mapu*, 3-dusk logic, fire-and-stone remedy — the hinge the endings turn on |
+| 1. Físical | Track/Climb/Spot Hidden (Reg) | Any blast hole, or the horse carcass | Tunnels predate the blast; drag marks → Calfú's direction (Hard = fresh trail). Closer look at the horse or the ditch mud = SAN checks, see below. |
+| 2. Histórica | Persuade → Ledesma (or force: STR Hard, costs trust + a Reloj tick) | Polvorín | Captain ignored the traders' warning; **"malón" raids were this creature all along** |
+| 3. Ocultista | Occult/Mythos (Reg) | Los mojones — cairns west of Pozo 1, above ground, no roll to notice | Inward-spiral warning stones — corroborates Millaray even if unreached |
+| 4. Saber local | via Millaray (or Clue 3 if she's unreachable) | Anywhere she'll talk | *Pewma mapu*, 3-dusk urgency — no ritual fix, just "collapse it, fast" |
 
 Every clue reachable ≥2 ways. No single bad roll should lock anyone out.
+
+**SAN beats at the ditch** (no roll to find, just to notice — automatic once looking): closer look at the horse = claw-mangled, missing a leg, **SAN 0/1**. Soldier remains in the mud near a hole (boot+foot, uniform scraps, a rib) = **SAN 0/1D4**, confirms the garrison didn't all leave.
 
 ---
 
 ## ARSENAL (fort, abandoned by fleeing garrison)
 - **Muskets** (2D6, slow reload) / **sables** (1D8+1+DB) — wound, don't drop the creatures clean (Armor 2-3).
-- **El pedrero** (swivel gun, gate, fixed position) — 2 rounds to load (1 with 2 people), **4D10, ignores armor**. Save for La Vieja.
+- **El pedrero** (swivel gun, gate, fixed position) — 2 rounds to load (1 with 2 people). Fire = Artillery roll (Ledesma 35%; untrained PC = half DEX). Hit = **4D10, ignores armor**. Save for La Vieja.
 - **Kegs of pólvora de mina + mecha** (polvorín) — *not* dynamite (that's 1867, forty years too late). Primed keg in a tunnel: 1D6+1 rounds to clear, then auto-kills any Cría in range, forces La Vieja to Hard CON or −3D6 HP + buried/delayed. **This is the intended answer to her.**
 
 ---
 
-## EL UMBRAL (basement)
-Sealed slab, inward-spiral carving, matches Clue 3's stones. **Opens on**: Hard Occult, or Regular History/Knowledge if ≥2 clues gathered. Force always works, skips to consequence. Behind it: a short passage, a fist-sized carved idol — **the cork, not the monster.**
-
----
-
-## THREE ENDINGS
+## EL DESENLACE — TWO AXES, NOT THREE ENDINGS
 No right answer. Calfú's fate (saved/lost/never reached) tracks separately — call it out in the closing narration.
 
-1. **Venganza** — reseal before 3rd dusk ends (stones back in place + fire + force the slab shut). Holes stop. Nobody outside the party ever understands what really happened; official story blames wild animals or another "malón."
-2. **Conocimiento** — take the idol or force the slab instead of sealing properly. Cost: **Bound** (a PC permanently senses tunnels for leagues around) *or* **Forbidden knowledge** (Hard Mythos/Occult: this fort is one seal among many across the pampas — 1D10 SAN, +1D4 Mythos).
-3. **Curiosidad** — bring it into the light instead of sealing it. Branch: **defeated but dangerous** (a body, but no one in authority wants the proof) or **escaped and spreading** (breach never closes, fort abandoned within the month).
+**¿Túneles colapsados y tapados?** Primed keg in a tunnel mouth (Arsenal) does the collapsing; covering after is just time/narration, no roll. Doesn't need all 3 pozos — partial counts.
+
+**¿La Vieja muerta (o enterrada)?** 0 HP in a fight, or caught in a collapse (Hard CON or she's buried — see her stat block).
+
+- **Both** — clean win. Holes stop, threat's dead. Nobody outside the party understands what really happened; official story blames wild animals or another "malón."
+- **Tunnels closed, she escapes** — safe here, not solved; she's alive in the wider network.
+- **She's dead, tunnels open** — biggest danger gone, ground's still open. Something else could move in.
+- **Neither** — worst case. Fort abandoned within the month, "indefensible terrain."
 
 ---
 
 ## RECOMPENSAS
-1. **Cordura**: +1D10 SAN for any ending except "escaped and spreading"; +1D4 more if Calfú's alive.
+1. **Cordura**: +1D10 SAN if either axis of El Desenlace closed (tunnels, La Vieja, or both); +1D4 more if Calfú's alive. No bonus on "neither."
 2. **Chequeos de Experiencia**: standard 7e skill-improvement roll, don't skip it.
 3. **Contacto**: Millaray's family — standing relationship, not an item.
 4. **Rasgo**: bonus die to stay unnoticed when deliberately still, for anyone who used the freeze trick this session.

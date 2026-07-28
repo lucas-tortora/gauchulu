@@ -21,13 +21,13 @@
 
 *(Not for players. Read this once before the table opens; you won't need to re-check it during play.)*
 
-Two days ago, the small garrison at **Fortín Santa Bárbara** finished blasting a defensive ditch (*zanja*) around the fort's perimeter — standard frontier engineering against mounted malón raids. **Capitán Olegario Fresco** ordered the charges laid deeper than the engineer's plan called for, over the objections of a Ranquel trading party who had warned the fort, weeks earlier, never to break ground east of the old stone cairns. He didn't ask why. He had heard "supersticiones" and he had a ditch to finish before the rains.
+Two days ago, the small garrison at **Fortín Santa Bárbara** finished blasting a stretch of defensive ditch (*zanja*) across the open ground a short distance south of the fort — the same kind of straight frontier line dug during the desert campaigns (think the Zanja de Alsina), not a moat around the fort itself. It's a border cut into the land, running for leagues in both directions; the fort sits just behind it, its back to the settled country, facing the line. **Capitán Olegario Fresco** ordered the charges laid deeper than the engineer's plan called for, over the objections of a Ranquel trading party who had warned the fort, weeks earlier, never to break ground east of the old stone cairns. He didn't ask why. He had heard "supersticiones" and he had a ditch to finish before the rains.
 
 The charges broke through into a much older network of tunnels — not natural, not recent, worn smooth in places by something that has been moving through them for longer than any living memory, Ranquel or Spanish. What lives down there is not evil and does not hate anyone. It digs, it grabs, it drags what it grabs down to feed something below that has been fed this way for centuries. It has no name anyone at this table needs. Call it what the fort's survivor calls it: **lo de abajo** — "the thing below."
 
 Since the breach: at least four soldiers dragged under and gone. The captain himself, three nights ago, went out at dusk to inspect the ditch alone and did not come back. The garrison scattered — some fled toward the nearest town, most are simply unaccounted for. **One soldier remains, barricaded in the fort's stone magazine: Cabo Wenceslao Ledesma.**
 
-**Tonight is the third dusk since the breach.** In Ranquel memory this matters: ground broken open over "tierra que no se cava" stays open-and-worsening until it's closed again — more tunnels, more holes, wider each night — and the old remedy (fire and stone, closing the original breach before the third dusk ends) stops working after tonight. This isn't a hard game-mechanical deadline so much as a **narrative pressure valve**: use it to justify escalation (see [Reloj de Temblores](#el-reloj-de-temblores)) and to make Ending 1 (Vengeance/sealing) time-sensitive rather than always-available.
+**Tonight is the third dusk since the breach.** In Ranquel memory this matters: ground broken open over "tierra que no se cava" stays open-and-worsening until it's closed again — more tunnels, more holes, wider each night. Nobody alive still knows a ritual fix for that; Millaray doesn't claim one. What she knows is practical: the longer it's left, the more there is to close. Wait past tonight and there won't be three *pozos* anymore — there'll be more, and whatever's making them will be harder to corner. This isn't a hard game-mechanical deadline so much as a **narrative pressure valve**: use it to justify escalation (see [Reloj de Temblores](#el-reloj-de-temblores)) and to make collapsing the tunnels tonight feel urgent rather than something that can wait.
 
 An hour before the investigators arrive, four Ranquel traders — regulars at the fort, here on the usual seasonal trade run — were approaching along the cart road when gunfire broke out (Ledesma, alone, firing at something in the dark). In the panic, the ground opened under **Calfú**, the youngest of the four, and something pulled him under. The other three — **Millaray** (his mother), **Painén** (his cousin), and **Relmu** (family friend, walking point when it happened) — bolted for the open ground between the fort's wall and the ditch and have been frozen there since, too far from the fort to trust it, too close to the holes to run.
 
@@ -37,29 +37,32 @@ An hour before the investigators arrive, four Ranquel traders — regulars at th
 
 ## FORTÍN SANTA BÁRBARA — EL LUGAR
 
-A small stockaded outpost, maybe forty years old, garrison of a dozen men on a good month. Adobe and quarried stone construction over a poured lime-and-rubble floor — solid enough that *lo de abajo* cannot come up through it. **Inside the fort's walls is safe ground.** Everything outside — the yard between the wall and the ditch, the ditch itself, the cart road — is not.
+A small stockaded outpost, maybe forty years old, garrison of a dozen men on a good month. Adobe construction throughout, but only two buildings were built with a proper poured lime-and-rubble floor: **the cuartel and the polvorín.** Those floors are solid enough that *lo de abajo* cannot come up through them — **they're the only safe ground in the whole fort.** Everything else is bare earth: the patio, the yard between the wall and the ditch, the ditch itself, the cart road. The stockade wall stops a malón. It was never built to stop anything that comes from below, and the ground inside it is no different from the ground outside it.
 
-> *Lo ven antes de llegar: el portón norte abierto de par en par, colgando de un solo gozne. Más allá, silencio — no el silencio de un lugar dormido, el otro. El que queda después de un grito. Hay un caballo muerto cerca de la zanja, hinchado ya, con las patas apuntando al cielo en un ángulo que no es el de un animal que se cayó. Es el ángulo de un animal al que algo tiró.*
+**Play this straight when it matters**: an investigator who assumes "we made it through the gate" means safety is wrong, and should find that out the hard way once, ideally not fatally. The patio is exactly as vulnerable as the open field — it's just further from the known blast holes, which buys time, not immunity.
 
-![Mapa de Fortín Santa Bárbara: el fuerte, la zanja con los tres pozos, y el sótano con El Umbral](fort-diagram.svg)
+> *Lo ven antes de llegar: el portón sur abierto de par en par, colgando de un solo gozne. Más allá, silencio — no el silencio de un lugar dormido, el otro. El que queda después de un grito. Hay un caballo muerto cerca de la zanja, hinchado ya, con las patas apuntando al cielo en un ángulo que no es el de un animal que se cayó. Es el ángulo de un animal al que algo tiró.*
+
+![Mapa de Fortín Santa Bárbara: el fuerte y la zanja con los tres pozos](fort-diagram.svg)
 
 **Layout** (sketch it on a napkin at the table — it doesn't need to be prettier than that):
 
-- **El portón norte** — the gate, hanging open. Cart road approaches from the north.
-- **El patio** — open ground inside the walls: a well, a hitching rail, a smithy with a cold forge, three or four soldiers' huts (*ranchos*) around the perimeter, all empty, doors open or broken.
-- **El polvorín** — the stone powder magazine, small, thick-walled, the only building with its door barred *from the inside*. **Cabo Ledesma is in here.**
-- **El galpón principal / cuartel** — the main barracks building, where the captain's desk and the garrison's paperwork are. Ransacked-looking, but by panic, not by anything with hands.
-- **El sótano** — accessible from a trapdoor under the captain's desk in the cuartel, or from a half-collapsed exterior stair near the south wall. Old — older than the fort, which was built over an existing foundation nobody asked too many questions about. This is where the **sealed slab** is (see [El Umbral](#el-umbral--basement-gateway)).
-- **La zanja** — the new defensive ditch, running along the east and south perimeter outside the walls, four to five meters deep. Blasted open in three places along its length; each blast site is now a ragged hole descending past the ditch floor into old tunnel, not fresh dirt.
-- **El campo abierto entre la zanja y el monte** — open pampa beyond the ditch, where Millaray, Painén, and Relmu are frozen in place, roughly seventy meters from the gate.
+- **El portón sur** — the gate, hanging open, facing the frontier line. Cart road approaches from the south, crossing the zanja on a causeway before reaching it.
+- **El patio** — open ground inside the walls: a well, a hitching rail, a smithy with a cold forge, three or four soldiers' huts (*ranchos*) around the perimeter, all empty, doors open or broken. **Bare earth — not safe ground**, despite being inside the walls.
+- **El polvorín** — the stone powder magazine, small, thick-walled, the only building with its door barred *from the inside*. **Cabo Ledesma is in here. Safe ground (poured floor).**
+- **El galpón principal / cuartel** — the main barracks building, where the captain's desk and the garrison's paperwork are. Ransacked-looking, but by panic, not by anything with hands. **Safe ground (poured floor).**
+- **La zanja** — a straight defensive ditch cut across the open ground a short stretch south of the fort, four to five meters deep, part of a frontier line that runs for leagues in both directions — **not a moat around the fort**, just the nearest stretch of it. The fort sits with its back to the settled country, facing the line. The cart road crosses it on a narrow causeway. Blasted open in three places along its length; each blast site is now a ragged hole descending past the ditch floor into old tunnel, not fresh dirt.
+- **El campo abierto entre la zanja y el monte** — open pampa south of the ditch, where Millaray, Painén, and Relmu are frozen in place, roughly seventy meters from the gate, on the far side of the crossing from the fort.
 
 **Al entrar al patio** (read once, whenever they first pass the gate):
 
 > *Adentro, todo quedó a mitad de algo. Una herradura en el yunque, ya fría. Baldes junto al pozo, uno volcado. El palenque donde atan los caballos está cortado, no desatado — alguien no tuvo tiempo de aflojar el nudo y usó el cuchillo. Las puertas de los ranchos, abiertas. Ninguna, cerrada.*
 
-**El cuartel** (read once, when they go looking for the captain's desk, the logbook, or the trapdoor):
+**El cuartel** (read once, when they go looking for the captain's desk):
 
-> *El escritorio del capitán está como lo dejó: la pluma seca sobre un papel a medio escribir, la silla tirada para atrás, no para adelante — se paró rápido, no se cayó. Debajo, asomando por un costado de la alfombra corrida, el borde de una trampa de madera en el piso.*
+> *El escritorio del capitán está como lo dejó: la pluma seca sobre un papel a medio escribir, la silla tirada para atrás, no para adelante — se paró rápido, no se cayó.*
+
+The logbook itself isn't here — Ledesma took it with him into the polvorín the first night (see Clue 2, below). The desk is just atmosphere: proof he left in a hurry, not a source in itself.
 
 ---
 
@@ -156,7 +159,7 @@ No language skill should hard-gate this scene — nobody at a CoC table should s
 
 **If a PC actually has Language (Ranquel) or similar** — great, let it matter: they get everything above without needing rolls, and Relmu will talk *around* his silence more, gesturing while speaking fragments, because he's being met halfway.
 
-**On the "if a trader is grabbed / hurt, this ends badly" stake**: keep this real, but don't let it hard-stop the table. If a trader goes down before the investigators have learned the Lore clue from them, that knowledge doesn't vanish — it becomes recoverable later, harder, through the [Occult/History clue](#las-cuatro-pistas) in the basement (the symbols corroborate what Millaray would have said), or simply lost, pushing the table toward a grimmer ending. Treat it as a consequence that reshapes the last act, not a curtain.
+**On the "if a trader is grabbed / hurt, this ends badly" stake**: keep this real, but don't let it hard-stop the table. If a trader goes down before the investigators have learned the Lore clue from them, that knowledge doesn't vanish — it becomes recoverable later, harder, through the [mojones (Clue 3)](#las-cuatro-pistas) along the ditch (the carved stones corroborate what Millaray would have said), or simply lost, pushing the table toward a grimmer ending. Treat it as a consequence that reshapes the last act, not a curtain.
 
 ---
 
@@ -183,13 +186,17 @@ No language skill should hard-gate this scene — nobody at a CoC table should s
 **Si preguntan por la tierra / *pewma mapu* (Pista de saber local — ver más abajo):**
 > *"No es la primera vez que rompen la tierra acá y algo contesta. Mi abuela me lo dijo, se lo dijeron a ella. Hay tierra que no se cava — pewma mapu, la tierra que sueña — y esta es de esa. Esta noche es la tercera desde que abrieron el pozo. Después de esta noche, no sé qué queda por cerrar."*
 
-**Si preguntan qué significan las piedras / los mojones (conecta con Pista 3, el sótano):**
+**Si preguntan qué significan las piedras / los mojones (conecta con Pista 3):**
 > *"Piedras chicas, en fila, espiral para adentro — ¿las vieron? Están puestas así en todos los campos que hay que dejar quietos. No las pusimos nosotros. Estaban ya cuando llegaron los primeros de mi gente que se acuerdan. Alguien las puso para que nadie se olvidara."*
 >
-> **GM**: if they haven't found the basement stones yet, this is a breadcrumb pointing them there. If they already found the stones, this confirms/corroborates without repeating information — she recognizes the *pattern*, not the specific site.
+> **GM**: if they haven't found the mojones yet (Clue 3, along the ditch line), this is a breadcrumb pointing them there. If they've already found them, this confirms/corroborates without repeating information — she recognizes the *pattern*, not the specific stones.
 
-**Si preguntan cómo se cierra (la Pista de saber local, el remedio):**
-> *"Fuego en la boca del pozo, la noche que se cumplen tres. Las piedras vueltas a su lugar, como estaban. Y alguien que sepa lo que está cerrando — no alcanza con tapar, hay que cerrar sabiendo. Eso es lo que se dice. Yo nunca lo hice. Nadie de mi tiempo tuvo que hacerlo."*
+**Si preguntan cómo se cierra esto:**
+> *"No hay ceremonia que lo cierre — eso es cuento para consolarse. Lo que se abrió, se tapa: con pólvora si hace falta, para que se caiga solo, y después con tierra, con piedra, con lo que haya, rápido, antes de que se haga más ancho cada noche. Eso sí lo sé. Lo demás son ganas de que sea más fácil de lo que es."*
+>
+> *— "There's no ceremony that closes it — that's a story people tell themselves for comfort. What's opened gets covered: with powder if it takes powder, to make it fall in on itself, and then with earth, with stone, with whatever's at hand, fast, before it gets wider every night. That much I know. The rest is just wanting it to be easier than it is."*
+>
+> **GM**: this is the whole point of cutting the basement/ritual thread — even the table's best source for old knowledge tells them, in-fiction, that the answer is physical, not mystical. Collapse it, bury it, don't wait. See [El Desenlace](#el-desenlace).
 
 **Si la presionan mal (Hard Persuade fallido / Fast Talk):**
 She doesn't get angry. She gets quiet and practical — the trust cost is real but it isn't melodrama.
@@ -204,7 +211,7 @@ She doesn't get angry. She gets quiet and practical — the trust cost is real b
 She doesn't collapse. She goes still, the way people who've buried people before go still.
 > *"Entonces cerramos por él. Que no le pase esto a otra madre en este camino."*
 >
-> **GM**: grief redirected into the sealing — she becomes the table's clearest voice for Ending 1 if this happens. Don't play her as broken; play her as focused.
+> **GM**: grief redirected into finishing the job — she becomes the table's clearest voice for collapsing the tunnels if this happens. Don't play her as broken; play her as focused.
 
 ---
 
@@ -251,14 +258,28 @@ No spoken dialogue. Everything is drawn, mimed, or pointed at. Use this as a **k
 ### 1 — Pista física (Track / Climb / Spot Hidden) — el sistema de túneles
 **Where**: any of the three blast holes in the zanja, or the horse carcass.
 
-A PC willing to get close and look — or climb partway down with a rope and a second PC holding it, very pulp-cinema — finds:
+A PC willing to get close and look finds the general wrongness of the walls automatically. Actually climbing down partway (rope, a second PC bracing) to look closer — very pulp-cinema — takes a **Climb (Regular)** roll; a fumble is a scrape and a dropped rope, not a fall into anything worse, and either way they find:
 
 > *La zanja debía tener el fondo parejo, obra de pala y pólvora. No lo tiene. Donde volaron la carga, el pozo sigue para abajo, y las paredes no son de tierra recién movida: están lisas, pulidas en franjas, como piedra que un río gastó durante cien años. No lo hizo la pólvora de los soldados. La pólvora sólo encontró la puerta.*
 
 **Track (Regular)** in the churned mud around the hole finds directional drag marks — deep, evenly spaced gouges (arm-count matches Relmu's drawing) leading down and slightly east, toward the second and third blast sites, suggesting the tunnels connect. **A Hard success** further identifies the freshest drag trail as recent — within the hour — and heading toward the third hole, not the first: **this is the way to Calfú**, if they're going after him.
 
+**El caballo, de cerca**: from a distance it just reads as dead. Anyone who actually walks up to it finds more.
+
+> *De cerca no es solo un caballo muerto. Tiene tres tajos profundos en el costado, parejos entre sí, como garras — y le falta un tercio de la pata trasera. No cortado. Arrancado.*
+
+**SAN 0/1.** Mechanically the same evidence as the drag marks above — a PC examining the horse instead of a hole gets the physical clue this way instead, no roll needed to notice the wounds once they're looking, Track (Regular) still applies if they want the directional read.
+
+**Restos en la zanja**: while climbing down (or just working carefully through the churned mud at the hole's edge), a PC can find this without a roll if they're already looking — it's not hidden, just not something you see from a standing height.
+
+> *Una bota de soldado, todavía atada, con el pie adentro. Más allá, contra la pared del pozo, jirones de uniforme y algo que podría ser una costilla, medio hundido en la tierra removida.*
+
+**SAN 0/1D4.** This is the physical confirmation of what Ledesma will say if they haven't reached him yet, or the grim underline if they have: the garrison didn't all ride off to Tandil. Some of them are still here.
+
 ### 2 — Pista histórica (Persuade, via Cabo Ledesma) — el diario y el plano
 **Where**: the barred powder magazine. Ledesma won't open for force or noise — knocking gently, saying you're not soldiers, or leaving him an obvious way to see you first (a window slat) works. **Persuade (Regular)** gets the door open; **Fast Talk or Intimidate** gets it to stay shut longer.
+
+**If they'd rather force it than talk**: a barred door, kicked or levered open, is a **STR roll (Hard)**. It works. It's also loud enough to cost a Reloj de Temblores tick, and Ledesma — unhurt but badly rattled — doesn't hand over the powder kegs willingly or come along for the finale afterward. He'll still answer questions if pressed, just from a corner, with the musket up.
 
 **Cuando abre la puerta** (read once, the moment the bar comes off):
 
@@ -301,15 +322,15 @@ He says no, twice, if asked flatly — then comes around if given a *task* rathe
 >
 > **GM**: if he comes along, he's a second pair of hands for the pedrero (halves its load time, see Arsenal) — a nice, earned bit of pulp redemption without turning him into a combatant he isn't.
 
-### 3 — Pista ocultista/histórica (Occult / History, physical) — símbolos y objetos precolombinos
-**Where**: the basement, near (but not requiring opening) the sealed slab. See [El Umbral](#el-umbral--basement-gateway).
+### 3 — Pista ocultista/histórica (Occult / History, physical) — los mojones
+**Where**: a row of half-buried stones running roughly parallel to the zanja, a short distance east of Pozo 1 — visible, no roll needed to notice once a PC is walking the ditch line and looking at the ground rather than the holes. Easy to mistake for a property line or old clutter unless someone looks closely.
 
-> *Contra la pared del sótano, ordenadas — no tiradas, ordenadas — hay piedras talladas, del tamaño de un puño, cada una con una espiral tallada que gira hacia adentro. Entre ellas, huesos, dispuestos en un arco, demasiado viejos para ser de nadie que estos soldados hayan conocido. No es obra de esta guarnición. Esto estaba acá antes de que pusieran el primer ladrillo.*
+> *Piedras del tamaño de un puño, en fila, medio hundidas en el pasto — parejas, a propósito, no como caen las piedras solas. Cada una tiene tallada una espiral que gira hacia adentro. No es obra de esta guarnición. Estaban ya, antes de que pusieran el primer ladrillo del fuerte.*
 
-**Occult or Cthulhu Mythos (Regular)** identifies the inward spiral as a closing mark — the same visual logic (opening-spiral vs. closing-spiral) that shows up in scattered pre-Columbian and colonial-occult contexts across the pampas; a PC who's encountered this kind of geometry before (Keeper's call on campaign carryover) recognizes the *grammar* immediately, though not this specific site. **This clue corroborates Millaray's account** even if she was never reached — the stones and bones say in object-form what she'd have said in words: *this was sealed on purpose, a long time ago, by people who knew what they were doing.*
+**Occult or Cthulhu Mythos (Regular)** identifies the inward spiral as a closing/warning mark — the same visual logic that shows up in scattered pre-Columbian and colonial-occult contexts across the pampas; a PC who's encountered this kind of geometry before (Keeper's call on campaign carryover) recognizes the *grammar* immediately, though not this specific site. **This clue corroborates Millaray's account** even if she was never reached — the stones say in object-form what she'd have said in words: *this line was marked on purpose, a long time ago, by people who knew what not to dig past.* **These are the cairns the traders pointed the captain to. He built the ditch east of them anyway.**
 
-### 4 — Pista de saber local (via Millaray, or the stones above if she's unreachable) — lo que sabe la tierra
-Covered in [Los Tres Mercaderes](#los-tres-mercaderes) / [Comunicación](#comunicación--cómo-funciona) above: the *pewma mapu* warning, the three-dusk logic, the fire-and-stone remedy. This is the clue that turns the other three from "there's a monster" into **"here's how people who came before dealt with this, and here's our closing window."** It's the hinge the endings turn on — make sure it's reachable through at least two paths (Millaray *or* the basement stones) so no single failed roll locks the table out of Ending 1.
+### 4 — Pista de saber local (via Millaray, or the mojones above if she's unreachable) — lo que sabe la tierra
+Covered in [Los Tres Mercaderes](#los-tres-mercaderes) / [Comunicación](#comunicación--cómo-funciona) above: the *pewma mapu* warning and the three-dusk urgency. This is the clue that turns the other three from "there's a monster" into **"here's who tried to warn them, and here's why tonight matters."** Make sure it's reachable through at least two paths (Millaray *or* the mojones) so no single failed roll locks the table out of understanding what's going on.
 
 ---
 
@@ -323,7 +344,7 @@ Covered in [Los Tres Mercaderes](#los-tres-mercaderes) / [Comunicación](#comuni
 |---|---|---|
 | **Mosquetes** (muskets), 4-5, some still loaded | Cuartel racks, dropped in the yard | 2D6 damage. Slow reload (full round). Against hide/carapace: treat the creatures as **Armor 2-3** (see stat blocks) — a musket ball hurts, doesn't drop one clean. Good for driving off, not for killing. |
 | **Sables y bayonetas** | Cuartel, on the dead/fled | 1D8+1+DB / 1D6+1+DB. Same armor problem — melee against a Cría is survivable, against La Vieja is not recommended without an opening. |
-| **El pedrero** (small swivel cannon at the gate, still mounted) | North gate | Needs 2 full rounds to load/prime (2 PCs speeds this to 1). One shot: **4D10 damage**, ignores armor. This is your "everyone cheer" moment — save it for La Vieja or a truly desperate beat, not the first Cría. Only usable at the gate; it doesn't move. |
+| **El pedrero** (small swivel cannon at the gate, still mounted) | South gate | Needs 2 full rounds to load/prime (2 PCs speeds this to 1). Firing it is an **Artillery roll** (Ledesma has 35%; an untrained PC fires at **half their DEX**, no Artillery needed) — on a hit: **4D10 damage**, ignores armor. This is your "everyone cheer" moment — save it for La Vieja or a truly desperate beat, not the first Cría. Only usable at the gate; it doesn't move. |
 | **Barriles de pólvora de mina + mecha** (blasting powder kegs + slow-match fuse cord) | El polvorín — where Ledesma is holed up | The real toy. A primed keg dropped in a tunnel mouth or blast hole, fuse lit, gives the party **1D6+1 rounds to clear the area** before it collapses that stretch of tunnel — **auto-kills any Cría caught in the blast radius, and forces La Vieja to make a CON roll (Hard) or lose 3D6 HP and be buried/delayed for several rounds.** This is the intended answer to La Vieja, not muskets. Ledesma has three kegs prepped and coiled fuse already cut to length — he was going to use them on the gate if things got worse. |
 | **Sogas, faroles, un par de caballos aptos para tiro** (rope, lanterns, a couple of cart horses) | Yard/stable | Standard adventuring kit. Rope matters a lot if anyone climbs into a hole after Calfú.|
 
@@ -337,8 +358,12 @@ Covered in [Los Tres Mercaderes](#los-tres-mercaderes) / [Comunicación](#comuni
 
 **Mechanically**: a creature's chance to detect/target a given investigator that round is normal if the investigator moved, spoke above a whisper, or made noise (weapon fire, blasting, a horse); **halved (round down) if they were still and silent**; treat a fully still, braced, forewarned investigator as effectively unnoticed unless something else gives them away (blood, someone else grabbing them, etc.). Don't make this a formal roll unless it's dramatically live — most of the time it's a Keeper judgment call that rewards a player who says "I don't move, I don't breathe."
 
+**Warning sign, before it breaks the surface**: give the party a chance to see it coming. **Spot Hidden or Listen (Regular)**, one round before any emergence — scripted or from the [Reloj de Temblores](#el-reloj-de-temblores) hazard die — dust jumping off the ground in a line, a tremor underfoot, birds or horses going still and then bolting. A success buys one full round of warning: time to draw a weapon, get to solid footing, or simply plant themselves and go still before anything surfaces. A miss just means they find out the normal way — when the ground breaks. **Don't roll this for every single hazard-die attack** if the table's already moving fast — reserve it for moments where a beat of dread actually helps the scene, not as a mandatory step that slows down a chase.
+
 ### CRÍA (juvenile)
 *Dog-to-pony sized. Fast, low, built wrong — four arms, two legs, all six limbs doing something a body that shape shouldn't be able to do. The thing Relmu drew in the dirt.*
+
+**There are three of them active tonight**, roaming the tunnel network independently — not one creature making three appearances, three actual animals. That's the whole point: this plays like *Tremors*, not like a boss fight with an intermission. See [Reloj de Temblores](#el-reloj-de-temblores) for how often that should actually show up in play — more than you'd default to.
 
 **Read this the first time one breaks the surface:**
 
@@ -400,56 +425,48 @@ When a PC is successfully grabbed:
 
 ## EL RELOJ DE TEMBLORES
 
-Don't run this as a strict timer — run it as a promise to yourself that the table gets **at least three creature encounters plus a finale**, no matter how the investigation goes. Investigation feeds *how prepared* they are for each beat, not *whether* it happens.
+**Tonal target: play this like *Tremors*, not like three boss fights with breaks in between.** Once the threat is established (right after the first emergencia), being outside and careless should feel dangerous *constantly* — not just at three checkpoints you can see coming. Three separate Crías are roaming tonight (see [above](#cría-juvenile)), so there is never a good reason for the ground to stay quiet for long once people are moving and making noise on unsafe earth.
 
-**Scripted beats** (hit these regardless of clue-gathering pace):
+### La regla base — ataques frecuentes, no programados
 
-1. **Primera emergencia** — within the first 10-15 minutes, whenever the party is near the ditch/holes (almost immediately, given the opening). One Cría, brief, 2-3 rounds, ideally resolved by someone discovering the freeze trick by instinct or luck rather than being told. Nobody should die here. This is the "oh, that's real" beat.
+On top of the scripted anchors below: **any round an investigator is on unsafe ground (anywhere but the cuartel or polvorín — see [safe ground](#fortín-santa-bárbara--el-lugar)) and is moving or making noise, roll 1D6. On a 1–2, a Cría attacks that round.** Once the Reloj is "hot" — after any gunfire, blasting, a horse bolting, or a previous attack this scene — bump it to **1–3**. This is a loose hazard die, not a formal timer: skip it in scenes that don't call for it, roll it openly when the table's gotten complacent about "we're inside the walls now, we're fine." The goal is that investigators start flinching at their own footsteps by the second act — that's the movie working.
+
+**Don't limit yourself to one Cría per incident.** Two attacking the same scene — one on a grabbed PC, a second going for whoever runs to help — is exactly the chaos this tone wants, and their low HP (12 each) is calibrated so a 2x-HP pulp table can handle it without a TPK. If a roll would put a fourth simultaneous attacker on the table, don't — three Crías total means three is the real ceiling for how many can be active across the whole fort at once.
+
+### Scripted anchors (still guaranteed, your pacing spine regardless of the die above)
+
+1. **Primera emergencia** — within the first 10-15 minutes, whenever the party is near the ditch/holes (almost immediately, given the opening). One Cría, brief, 2-3 rounds, ideally resolved by someone discovering the freeze trick by instinct or luck rather than being told. Nobody should die here. This is the "oh, that's real" beat — and the moment the hazard die above switches on.
 2. **Segunda emergencia** — triggered the moment the party commits to the tunnels (going after Calfú, or blasting/exploring a second hole) — 1-2 Crías, tougher fight, this is where the Arsenal should already be in hand.
 3. **Tercera emergencia — el rescate** — reaching Calfú means reaching **La Vieja**, who's using him as much for warmth/den-guarding as anything more sinister (pulp logic: he's alive, he's close to her, getting him out means getting past her, not negotiating with her). Full finale fight/chase, ideally resolved with the keg or the pedrero rather than attrition.
-4. **Between beats**, if the table is dawdling (real-world pacing, not fictional time): have Painén panic and bolt, a shot go off, a horse scream — anything that's noise-in-fiction and an excuse-to-cut-to-action for you. You always have a legitimate reason to throw a Cría at a slow scene.
+4. **Between anchors**, if the table is dawdling (real-world pacing, not fictional time) and the hazard die hasn't fired in a while: have Painén panic and bolt, a shot go off, a horse scream — anything that's noise-in-fiction and an excuse-to-cut-to-action for you.
+5. **The patio option**: only the cuartel and polvorín have poured floors — the patio itself is bare earth, and the hazard die applies there exactly as it does outside the walls. If the table has settled into treating "inside the gate" as safe, this is where that assumption should get punished. Telegraph it first (dust jumping off the ground near the well, the smithy's cold ashes stirring) so it reads as a real threat, not a gotcha.
 
-**Silence rewards**: any stretch where the party is deliberately quiet/still (retreating from a hole, waiting Ledesma out, approaching La Vieja's den) should visibly *not* trigger a beat — let them feel the mechanic working for them sometimes, not just against them.
-
----
-
-## EL UMBRAL — BASEMENT GATEWAY
-
-*See the basement panel of the fort map (`fort-diagram.svg`, embedded earlier under [Fortín Santa Bárbara — El Lugar](#fortín-santa-bárbara--el-lugar)) for the chamber layout.*
-
-Under the trapdoor in the cuartel, or down the collapsed exterior stair: a stone chamber, older construction than the fort above it, floor sloping down to a **sealed slab** — flat worked stone, too regular to be natural, set into the chamber's far wall like a door laid on its side. The carved stones and bone-arc (Clue 3) sit in front of it, undisturbed in generations.
-
-> *La laja no tiene picaporte ni bisagra. Tiene un borde tallado, una espiral que entra desde afuera hacia un punto ciego en el centro — la misma espiral de las piedritas, más grande, más vieja, hecha para no abrirse por accidente.*
-
-**Opening it**: **Hard Occult**, or **Regular History/Knowledge (Local)** *if* the party has already gathered at least two of the four clues (their accumulated understanding of the pattern earns the easier roll — don't require a specific two, any two). Failure doesn't harm anyone; it just doesn't move. Force (crowbar, powder) works too and always succeeds, but skips straight to consequence — the slab doesn't negotiate with being blown open, see Ending 2.
-
-**Behind it**: not a monster. A short passage, three or four meters, ending in a second, smaller stone — this one plainly an object, not a door: a fist-sized dark stone idol/plug, warm to the touch, carved with the same inward spiral, clearly the thing the whole sealed chamber exists to hold in place. **This is the pre-Columbian artifact from the brief.** It isn't *lo de abajo* itself — it's the cork. Pulling it doesn't summon anything new; it's what, generations ago, someone drove into the ground here specifically to make the tunnels stop where they stop. The fort was built on top of a repair job.
+**Silence rewards**: any stretch where the party is deliberately quiet/still (retreating from a hole, waiting Ledesma out, approaching La Vieja's den) should visibly *not* trigger the hazard die or a scripted beat — let them feel the mechanic working for them sometimes, not just against them. This is what makes the frequency land as tension instead of attrition: the danger is real and constant, but it's also genuinely avoidable by the one behavior the whole scenario has been teaching them.
 
 ---
 
-## LOS FINALES
+## EL DESENLACE
 
-*No clean right answer, per house style — see how any resolution reads for the table, don't editorialize which one is "correct." Calfú's fate (rescued, lost, or never reached) is a separate axis layered onto whichever ending below plays out — track it and call it out explicitly in the closing narration.*
+*No clean right answer, per house style. Two things determine how the night actually ends — track both, plus Calfú's fate (a separate axis, covered under [Los Tres Mercaderes](#los-tres-mercaderes)), and combine them for the closing narration. This is an action sidequest: success is physical, not ritual — collapse the tunnels, kill the thing that's using them.*
 
-### 1 — VENGANZA (el cierre)
-Drive off or bury the immediate threat (a keg in the right tunnel mouth does a lot of this on its own) and **reseal El Umbral** before the third dusk fully ends: replace the disturbed stones in their spiral arrangement (Clue 3's pattern), a fire lit at the chamber's threshold per Millaray's remedy, and the slab pushed/forced shut again (STR roll, or the party's own ingenuity with rope and horses).
+### ¿Colapsaron y taparon los túneles?
 
-**Outcome**: the holes stop spreading. Nothing surfaces again tonight. The traders are safe to leave. **Nobody who wasn't there ever understands what happened here** — the official story, if there is one, will land on wild animals or, worse, another blamed malón, because that's the story this frontier already knows how to tell. The investigators know better and can't prove it to anyone who matters. Clean save, quiet cost.
+The real answer, straight from Millaray: a primed keg of blasting powder (see [Arsenal](#el-arsenal-del-fuerte)) dropped into a tunnel mouth or blast hole collapses that stretch — already confirmed mechanically under the Cría/La Vieja stat blocks. Doing this to **all three pozos** closes off the network's access points here. Covering the resulting rubble with earth afterward is no roll, just time and effort — a line of narration, not a scene.
 
-### 2 — CONOCIMIENTO (el umbral abierto)
-The party goes past sealing and actually takes the idol/plug, or forces the slab with powder rather than the old ritual grammar. **Terrible cost, brief's language, and it should be genuinely a choice with weight**, not a punishment for curiosity:
+**Doesn't require all three.** Two out of three is a real partial win; one is better than none. Track it as a fraction if it matters, or just yes/no if the table only really engaged with the main one (Pozo 3, closest to Calfú and the fort).
 
-- **Bound**: whichever PC carries the stone out feels it settle into them rather than into a pocket — they can now feel, faintly, the direction and distance to any *lo de abajo* tunnel within a few leagues, for the rest of their life. Useful. Also means it never fully lets them go. *(Mechanically: a permanent, minor supernatural sense — Keeper's tool for future one-shots more than a burden tonight.)*
-- **OR Forbidden knowledge**: a PC who studies the idol/chamber directly (Cthulhu Mythos or Occult, Hard) understands, in the moment of insight, that this is **not the only seal on the pampas** — there's a rhythm to the ground itself for a thousand kilometers in every direction, and this fort is one cork in a very large, very old vessel. 1D10 SAN loss, +1D4 Cthulhu Mythos. They know something true and enormous and cannot unknow it.
+### ¿Mataron (o enterraron) a la Vieja?
 
-**Outcome**: the tunnels here go quiet (removing the plug's *pressure*, ironically, relieves the immediate breach — this ending isn't a monster-loose disaster by default), but the cost lands on a person, not the landscape. Good pulp-tragic beat to end a session on.
+Straightforward: reduce her to 0 HP in a fight, or catch her in a tunnel collapse (the keg already forces a Hard CON roll on her per her stat block — a failure while she's badly hurt can be ruled a kill, Keeper's call on how much of a fight it should feel like first). If she's not dealt with directly, she's still out there when the sun comes up — alive, aware, and now short however many Crías died tonight.
 
-### 3 — CURIOSIDAD (la bestia a la luz)
-Instead of sealing anything, the party brings the threat into the open — drags a wounded Cría out for proof, forces a confrontation with La Vieja in daylight/at the gate rather than underground, or simply runs out of night before dealing with the Umbral at all and the breach is still open at dawn.
+### Combinando los dos ejes — no editorialices cuál es "correcto"
 
-**Two branches, Keeper's call based on how the finale actually went**:
-- **Defeated but dangerous**: they win the fight in the open — pedrero, powder, sheer nerve — and there's a body (or several) to show. Proof, but proof nobody in a position of authority wants. Word travels slower than truth usually does out here.
-- **Escaped and spreading**: La Vieja (or a surviving Cría) gets away down an unblocked tunnel, and the breach is never closed. Fortín Santa Bárbara gets abandoned within the month, officially "indefensible terrain." The tunnels keep going. Someone will dig again eventually.
+- **Ambos** (túneles cerrados + Vieja muerta) — the clean win. Local threat's over, hard-earned. Traders safe to leave. Nobody outside the party fully understands what happened here — official story blames wild animals or another "malón," because that's the story this frontier already knows how to tell.
+- **Túneles cerrados, Vieja escapa** — the immediate danger to the fort and the road is over, but she's alive somewhere in the larger network this location was only ever one doorway into. Safe here doesn't mean solved.
+- **Vieja muerta, túneles abiertos** — the biggest, smartest threat is gone, but the ground's still open. Something else could move in. Someone could dig again. A quieter danger, not a resolved one.
+- **Ninguno de los dos** — worst case. The breach stays open, she's still down there, and Fortín Santa Bárbara gets abandoned within the month, officially "indefensible terrain." Someone will dig again eventually.
+
+Calfú's fate layers onto any of the four above — call it out explicitly in the closing narration, don't let it get absorbed into the tunnels/Vieja outcome.
 
 ---
 
@@ -461,9 +478,9 @@ Instead of sealing anything, the party brings the threat into the open — drags
 
 Standard end-of-story SAN recovery, on top of any SAN already regained during play (e.g. Cthulhu Mythos gains that offset SAN loss per usual 7e rules):
 
-- **+1D10 SAN** if the immediate threat is dealt with by any ending *except* the "escaped and spreading" branch of Ending 3 — the story reached a real close, even a costly one.
+- **+1D10 SAN** if either axis of [El Desenlace](#el-desenlace) closed — tunnels collapsed, La Vieja dealt with, or both — the story reached a real close, even a costly one.
 - **+1D4 additional** if Calfú came out alive.
-- **No bonus** on "escaped and spreading" — the night ends with the job unfinished, and everyone knows it.
+- **No bonus** on "neither" — the night ends with the job unfinished, and everyone knows it.
 
 ### 2 — Chequeos de Experiencia
 
@@ -505,12 +522,12 @@ A hollow bone whistle, silent to human ears at the pitch he blows it. **Effect**
 | Time | Beat |
 |---|---|
 | 0:00–0:20 | Apertura. Gunfire, the traders frozen in the field, the open gate. First decision point. First emergency (Cría) likely lands near the end of this block. |
-| 0:20–1:30 | Fuerte + pistas. Traders (communication, Lore clue), Ledesma (Historical clue + Arsenal), the ditch (Track clue), the basement (Occult clue, El Umbral located but not necessarily opened). Segunda emergencia triggers whenever they commit to the tunnels. |
+| 0:20–1:30 | Fuerte + pistas. Traders (communication, Lore clue), Ledesma (Historical clue + Arsenal), the ditch (Track clue + the mojones, Occult clue). Segunda emergencia triggers whenever they commit to the tunnels. |
 | 1:30–2:10 | Tercera emergencia — el rescate. La Vieja, Calfú, the tunnels or the gate. This is the loud, physical center of the night — let it run long if it's landing. |
-| 2:10–2:40 | Resolution — El Umbral (open, seal, or ignore) and whichever ending follows. |
+| 2:10–2:40 | Resolution — collapse the tunnels, deal with La Vieja, or both. See [El Desenlace](#el-desenlace). |
 | 2:40–3:00 | Coda. Quick beats: what the traders do now, what's left of the fort, what the investigators carry out of this (literally and otherwise). Land the last line and stop — don't epilogue past it. |
 
-*Cut the middle block first if you're running long — Ledesma and the ditch clue are both skippable if the table already has enough (Millaray + the basement stones cover the same ground between them). Never cut the finale.*
+*Cut the middle block first if you're running long — Ledesma and the mojones are both skippable if the table already has enough (Millaray covers the same ground on her own). Never cut the finale.*
 
 ---
 
