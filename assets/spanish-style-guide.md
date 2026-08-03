@@ -239,7 +239,7 @@ These are issues found in the current Spanish dialogue across chapters. They are
 - Verify: any *vosotros* forms → convert to *ustedes*.
 
 **Chapter 8, 9, 10, 11, 12:**
-- Most descriptive read-aloud blocks are written in **English**. Each needs a 1820s Spanish read-aloud version added (Spanish primary, English as the GM gloss). See `assets/cold-opens.md` for the chapter-opening Spanish; the in-chapter read-alouds are added inline in each chapter file.
+- Most descriptive read-aloud blocks are written in **English**. Each needs a 1820s Spanish read-aloud version added (Spanish primary, English as the GM gloss). Chapter-opening Spanish lives directly in each chapter's own "ABRIR LA SESIÓN" block; the in-chapter read-alouds are added inline in each chapter file.
 
 ---
 
@@ -266,7 +266,7 @@ Use this when polishing a chapter:
 - [ ] Named prayers (§8) are quoted verbatim or appropriately paraphrased *outside* the prayer block.
 - [ ] Every read-aloud blockquote has a 1820s Spanish version in addition to (or in place of) any English narration. The GM should be able to *read directly from the page in Spanish* without translation.
 - [ ] English glosses (where included) are marked as such (e.g., italics + em-dash separator) so they are not read aloud by mistake.
-- [ ] The chapter's cold-open in `assets/cold-opens.md` matches the chapter's opening tone and references.
+- [ ] The chapter's own opening/cold-open block (in the chapter file) matches the chapter's tone and references.
 
 ---
 

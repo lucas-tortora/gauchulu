@@ -11,18 +11,22 @@
 > **Continuidad.** Sigue **la misma noche**, sin corte. Son cerca de las **3 de la mañana**; faltan **dos etapas** (Fase Cuatro y Fase Cinco) para el sello, y el amanecer es el límite: después, la resistencia de la geometría afloja y Coypac gana tempo. Entre sesiones pasó otra semana; en el juego, minutos. Es una sola noche contada en dos o tres sesiones — que la mesa lo sienta continuo.
 
 ### Resumen de la sesión anterior _(C8 — leer o parafrasear)_
-- Empezó el ritual; con el primer canto **golpeó el malón** — los sacerdotes gastaron a los guerreros y la geometría los cosechó; el grupo **aguantó** sin romper el círculo.
-- La triple crisis: **se rasgó el este**, llegó la **visión de Coypac** (el libro envuelto en encerado), **Quirce cruzó el anillo**, y el **Gaucho rompió el oeste** al ver a **El Patrón** al borde del campo.
+- Empezó el ritual. Con el cobre adentro del anillo, **se abrió la ventana entera** — todos los del círculo vieron el otro lado por un latido. Algunos no lo soportaron.
+- Con el primer canto **golpeó el malón** — los sacerdotes gastaron a los guerreros y la geometría los cosechó; el grupo **aguantó** sin romper el círculo.
+- La crisis del medio: **se rasgó el este** y quien lo sostenía se volvió la línea; llegó la **visión de Coypac** (el libro envuelto en encerado); y **Edelmiro rompió posición** al ver a **El Patrón** al borde del campo.
 - La entidad encontró a **Don Eusebio** y le hizo la **oferta muda** (la tierra fértil de nuevo). Aguantó en silencio — la respuesta hablada, _"No,"_ llega en la Fase Cuatro.
 - C8 terminó en **posición sostenida**: el ritual corre, incompleto. Mercedes: _"Dos fases más. No se muevan."_
 
 ### Estado al empezar _(del cierre de C8 — anotar)_
 - [ ] **Fases completadas** (de cinco); ¿queda alguna anterior por correr antes de la Cuatro?
-- [ ] **Centro**: Don Eusebio + el PJ Marcado — **¿COR del PJ?** (el hilo más fino de la noche).
-- [ ] **Este**: rondas aguantadas en la Incursión (fija el paso de la Fase 5).
+- [ ] **Centro**: Don Eusebio + el PJ Marcado — **¿COR del PJ?** (el hilo más fino de la noche). ¿Palmas de ocre intactas?
+- [ ] **Este**: rondas aguantadas en la Incursión (fija el paso de la Fase 5). ¿Usó la obsidiana?
 - [ ] **Cobre**: ¿sigue puesto? (vector de la Fase 5, Ronda 1).
 - [ ] **Sangre del pacto**: ¿ya ofrecida en el este, o pendiente para el sello?
+- [ ] **Bajas y quiebres**: ¿quién se salió de posición? ¿quién enloqueció? ¿alguien murió?
 - [ ] **Tiempo hasta el amanecer.**
+
+> **Roster recordatorio** — el anillo de esta mesa es más grande que el previsto: centro Don Eusebio + PJ Marcado; norte un PJ; este el PJ de la obsidiana; oeste Héctor; sur Marta con el Anticuario; y en el anillo además Silvio, Quirce, Edelmiro, Luisa, Tomás, Luis, los tres hombres de Quirce y Saúl. Mercedes lleva la voz desde afuera. Un cuarto PJ quedó afuera cuidando del malón. Roster completo y reglas de la casa: [C8](chapter-08.md#opening-situation).
 
 > **Si un PJ muere o enloquece** (la Fase 5 es la más peligrosa, sobre todo para el PJ de COR 10) → reemplazos listos: [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
 
@@ -118,6 +122,25 @@ Each phase is a **sustained action**, not a single roll — positions held, the 
 The entity tests each outer-ring position **in sequence**, as if running down a list — ~30 seconds each. The investigator at the tested position holds (automatic if strong; **CON Normal** if the position was compromised in C8).
 
 **Don Eusebio's position** (the center — the entity follows the opener): it presses him differently — **CON Hard**, or **POW** if he is solo; **Normal** if the Marked PC beside him braces him, hand on shoulder.
+
+### The audit — run the positions in this order
+
+_Go around the ring **widdershins from the north**, one at a time, ~30 seconds each. Name the person, describe the pressure arriving at them specifically, roll, move on. The rhythm is the horror: it is not attacking, it is **checking**, and everyone can see it coming toward them._
+
+| Order | Who | Check | Notes |
+|---|---|---|---|
+| 1 | **North — PC** | **CON Normal** | Hard if the position was compromised in C8 |
+| 2 | **East — obsidian PC** | **CON Normal**, or **Hard** if the east broke 2+ rounds in the [Phase 2 Incursion](chapter-08.md#the-eastern-incursion) | The thin side is tested longest — give it ~45 s of table time |
+| 3 | **Luisa, Luis, Tomás, the 3 guards** | **CON Normal** each — but see the [break rule](chapter-08.md#opening-situation) | Roll these fast, as a batch. **Tomás at CON 35 will likely fail.** This is where you lose a body if you are going to |
+| 4 | **Saúl** | **CON Normal** (55) | Do not kill him here — a failure means he breaks and is exposed, not that he dies |
+| 5 | **Quirce** | **CON Normal** (50) | If he fails, he does *not* bolt — he goes to his knees still writing. Characterful, not fatal |
+| 6 | **Edelmiro** | **CON Normal** (70) | Holds easily. He has been waiting three years to stand still for something |
+| 7 | **West — Héctor** · **South — Marta** · **Silvio** | **automatic — no roll** | ⚑ **Wrong Returned hold by default.** Their partial alignment *is* the qualification; the geometry has no leverage on people it already changed. Say so out loud — the table should notice the three who don't flinch |
+| 8 | **CENTER — Don Eusebio** | **CON Hard** · **POW** if solo · **Normal** if the Marked PC braces him · one step easier again if his **ochre palms** are intact | The longest beat. This is where he says **"No."** |
+
+> **If a fragile NPC fails here**, they break mid-audit — and unlike Phase 1, the ring is 80% closed and there is nowhere for the pressure to go but through the hole they leave. Vacated-node rule applies immediately ([C8](chapter-08.md#opening-situation)): one round to fill it or the phase restarts. **Marta is the designated filler** — she floats to any broken position; that is her standing job all night.
+>
+> **Re-mark smudged palms** between the audit and Phase 5 — Marta does it without being asked. If nobody thinks to, and Eusebio's palms are gone, his Phase 5 POW check loses its one-step discount.
 
 > _La entidad encuentra el reconocimiento que rastreó toda la noche. Don Eusebio. El que abrió. La geometría lo conoce de la manera en que una cicatriz conoce la mano que la hizo. Tiembla una vez — todo el cuerpo, como si lo golpearan — y agarra el marcador con ambas manos. Sus labios se mueven sin sonido. Después deja de temblar y se queda absolutamente quieto. Dice: "No." Una palabra. Sin drama. Final._
 
@@ -216,6 +239,14 @@ The entity tests each outer-ring position **in sequence**, as if running down a 
 > **The second voice — the chant that was missing.** Beneath the melody runs a **sustained low tone** — the anchoring note the curandera's lineage held unbroken across every phase. She carried it; it should have **died with her.** Whether the ring has it tonight was decided on the [C7 ride](chapter-07.md#the-anchoring-note-marked-pcs): **if a Marked PC caught the anchoring note off the scar's beat**, they have held it since Stage I, the reading has not floated all night, and the closing runs at full efficacy — the scar itself teaching its own note through the only ear that could hear it. _(If the Antiquarian also carries the Leipzig transcription of _Newen mapu kelluiñ_, they reinforce that note as a second voice — [C8 prior knowledge](chapter-08.md#prior-knowledge--occult-roll-at-character-creation).)_ **If no one caught the note**, the felt **silence** where that voice should be is correct — let the table feel the hole, do not fill it: the land teaches _Antu kishu, lan amukey_ tonight, but the tone beneath it stays lost with the dead. Either way, what fills the silence is imperfect — a Marked stranger, or a scholar off a page, standing where the curandera should. Whether that is enough is the player's to weigh, not yours to resolve.
 
 **The 3-round climax**:
+
+> **Everyone acts in all three rounds.** The center is where the contest is, but this is the last phase of the campaign's central set-piece and no one should be a spectator. Each round, go around the ring and ask every player what they are doing — the options below are real, and several of them change the center's odds.
+>
+> | Rd | The entity | The center | The outer ring's live options |
+> |---|---|---|---|
+> | **1** | Full pressure inward, **through the copper node first** if it's still in | Anchor: **POW Hard** → Normal if the direction is called | **Call the direction** (Marked PC — shifts Hard→Normal) · **dislodge the copper** (DEX or Throw, doesn't break the ring) · **step in to co-anchor** (skips R2's crisis) · **hold and chant** (prevents the breach widening) |
+> | **2** | The revelation — offers the anchor *quiet* | One round to decide; a co-anchor's hands answer it wordlessly | **Co-anchor now** if not already · **speak to them by name** (a human voice from a known position is worth as much as a roll — let it matter) · **deal-PCs may pay the blood early** |
+> | **3** | Countermovement stops — no room left | Holds. Marta draws the last line | **The blood comes due** (deal-PCs, pure decision) · everyone on the chant — _Antu kishu, lan amukey_ · **obsidian is useless here** and the carrier should feel that |
 
 **Round 1 — the press.** The entity applies full pressure to the center. The anchor's breathing goes ragged; the amber light flares once in the geometry and fades. Holding, barely. Player options: **co-anchor** (step into the center ring, take the cost, stabilize — skip Round 2's crisis); **maintain outer positions** (prevents the breach expanding while the anchor fights alone — anchor's POW check this round is **Hard**); **call the direction** (a Marked PC who knows the entity's approach vector — because [Saens's instructions named the east as the thin side](chapter-07.md#the-order-and-the-east) and the Marked have felt the eastern line all night — gives a moment's warning, shifting the anchor's check from **Hard** to **Normal** this round).
 
@@ -331,8 +362,12 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 
 ## SESSION CHECKLIST — C9
 
+- [ ] **[Master run sheet](chapter-08.md#-master-run-sheet--the-whole-working)** (in C8) open beside the screen — the roll ledger covers Phases 4–5 too.
 - [ ] Panel-draw quality from the [C7 assembly](chapter-07.md#drawing-the-closing-the-panels) (Saens instructions + Occult/Art-Craft) honored in the ritual's precision during Phases.
-- [ ] Phase 4 position tests; the **center** test with the Eusebio mechanic; **anchor survives by default** (Don Eusebio's *"What do I owe?"* lands better alive).
+- [ ] Phase 4: run **[the audit in order](#the-audit--run-the-positions-in-this-order)** (N → E → fragile NPCs → Saúl → Quirce → Edelmiro → Wrong Returned auto → center). **Wrong Returned hold automatically — say it out loud.** Watch Tomás at CON 35.
+- [ ] Re-mark **ochre palms** before Phase 5 or Eusebio loses his one-step discount.
+- [ ] Phase 5: everyone acts each round — use the **[3-round options table](#phase-five--the-final-seal)** so no one is a spectator.
+- [ ] **anchor survives by default** (Don Eusebio's *"What do I owe?"* lands better alive).
 - [ ] Phase 5 three rounds; *Antu kishu, lan amukey* spoken at the table; **anchoring note** resolved per [C7](chapter-07.md#the-anchoring-note-marked-pcs) — if a Marked PC caught it, full efficacy; if not, let the silence be felt (the tone died with the tribe). Antiquarian's *Newen mapu kelluiñ* transcription reinforces, does not replace.
 - [ ] **No Mark rolls during Phases 4–5.** After the seal: Marks go quiet forever at this site — tell the players their dice can stay in the bag.
 - [ ] Dust does **not** lift — Mercedes: *"Lo de acá se cerró. Lo de allá no."*

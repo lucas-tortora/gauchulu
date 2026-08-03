@@ -19,6 +19,15 @@
 | Flintlock musket/rifle | Firearms | 2D6 | 1 shot; reload 4 full rounds; range 50/75 |
 | Saber | Fighting | 1D8+1+DB | — |
 | Improvised | Fighting | 1D4+DB | Blunt objects, tools |
+| **Obsidian knife** | Fighting | 1D4+2+DB | **Bites on the non-corporeal** — see below |
+| **Obsidian machete** | Fighting | 1D6+2+DB | **Bites on the non-corporeal** — see below |
+
+> **⚑ OBSIDIAN — the third exception (C8–C9, this table).** Ordinary steel passes through the Hound; only fire and the goat ever touched it. **Obsidian is the third exception**, and one PC carries a knife *and* a machete (east position; either may be handed to another PC or NPC — [C8 roster](../chapter-08.md#opening-situation)).
+> - **It connects.** Normal Fighting roll, normal damage, against the entity's HP 23.
+> - **It cannot kill it.** At 0 HP the Hound is driven back through its entry angle and returns; only sealing the geometry ends it. Treat every hit as **displacement**: a connecting strike forces it off that angle — it loses its next action re-establishing position (same effect as [the goat's headbutt](#la-cabra-the-goat) or a thrown brand, but on the wielder's timing and repeatable).
+> - **The obsidian chips.** Volcanic glass against something that isn't there: on any **fumble, or any roll of 96–00**, the blade shatters. The machete is two strikes' worth of luck; the knife, three. This is a resource, not a weapon.
+> - **It gets you noticed.** The entity does not retaliate against attackers as such — it removes *inefficiencies*. A PC who disrupts it more than twice becomes a persistent geometric obstacle and is the correct target for **Mindblast** or, once and memorably, the **Dread Curse of Azathoth** ([entity ref](entity-hound.md#spells)).
+> - **Striking from a ring position costs the position** for that round — the same unguarded-node penalty as anyone stepping out. Holding *and* swinging is not available. This is the whole tension of handing the second blade to someone else.
 
 **Damage Bonus table**: STR+SIZ 2–64: −2 | 65–84: −1 | 85–124: +0 | 125–164: +1D4 | 165–204: +1D6
 
@@ -44,17 +53,19 @@
 ---
 
 ### TOMÁS ARREDONDO
-*43. Foreman. Afraid, loyal, cracking.*
+*43. Foreman. Afraid, loyal, cracking. At the C8 ritual (this table, 2026-08-03): feeble — eight months of dread and a night in the ring on top of it. CON and POW dropped from baseline; treat him as one of the fragile bodies, not one of the sturdy ones.*
 
 | STR | CON | SIZ | DEX | INT | POW | EDU | APP | HP | DB | Build | Move |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 65 | 65 | 70 | 55 | 55 | 50 | 40 | 45 | 13 | +1D4 | 1 | 8 |
+| 65 | 35 | 70 | 55 | 55 | 25 | 40 | 45 | 10 | +1D4 | 1 | 8 |
+
+**Sanity**: 25 (starting = POW; down from his everyday baseline — tonight he's cracking, not holding)
 
 **Skills**: Ride 70%, Track 55%, Natural World 60%, Fighting (Brawl) 55%, Fighting (Facón) 60%, First Aid 40%, Intimidate 45%, Spot Hidden 50%
 
 **Weapons**: Facón 60% (1D6+2+1D4)
 
-**Notes**: He will not attack investigators unless he believes they are directly threatening his family. If they are: he is fast, strong, and has been using a knife since he was twelve. His hands stop trembling when he draws.
+**Notes**: He will not attack investigators unless he believes they are directly threatening his family. If they are: he is fast and has been using a knife since he was twelve — but his hands don't stop trembling anymore, not even when he draws. Outside the ritual (any other chapter) use his baseline CON 65 / POW 50; the drop above is specific to tonight.
 
 ---
 
@@ -302,6 +313,40 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 ---
 
+### LUISA (the cook)
+*30s. Estancia cook. Never left the property grounds. Recruited into the C8 ring — this table, 2026-08-03.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 40 | 55 | 55 | 50 | 50 | 40 | 11 | +0 | 0 | 7 |
+
+**Sanity**: 40 (starting = POW; no Mythos exposure, no Wrong Returned resilience)
+
+**Skills**: Craft (Cooking) 70%, First Aid 30%, Listen 45%, Persuade 40%
+
+**Weapons**: Kitchen knife 25% (1D4), only if cornered — she has never used it on a person.
+
+**Notes**: In the ring tonight because the party talked her into it, not because she has any reason to be there. Likely the first to pray under her breath, the first to flinch. High risk of breaking formation on a bad SAN or CON check — see [C8's unprepared-bodies ruling](../chapter-08.md#opening-situation).
+
+---
+
+### SAÚL CARRASCO
+*Mid-30s. Ex-postal rider. The runner from Coypac — the other ritual site — and Mercedes' courier; full arc at [REF-NPCs.md](../REF-NPCs.md#saúl-carrasco). This table: stands in the outer ring near Mercedes rather than behind the circle.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 55 | 55 | 55 | 65 | 60 | 50 | 11 | +0 | 0 | 9 |
+
+**Sanity**: 50 (starting = POW)
+
+**Skills**: Ride 75%, Navigate 60%, Stealth 45%, Listen 50%, Spot Hidden 50%, Persuade 40%
+
+**Weapons**: Belt knife 35% (1D4+1)
+
+**Notes**: Steadier than the newly recruited estancia staff — he's already survived the Coypac ride — but this is still his first ritual. **Protect his C9 arc**: he's scripted to die on the post road after the seal, not on-screen tonight. If a bad roll would kill him here, prefer insanity, a wound, or a scare over death.
+
+---
+
 ### THE GREAT WIZARD OF SALAMANCA
 *Late old age. Cult head. Genuinely believes.*
 
@@ -386,7 +431,43 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 ---
 
-### THE CURSED GAUCHO
+### MALÓN WARRIOR (generic) — the charge at the C8 closing
+*Ranquel raider, mounted. Spent by the ochre priests as expendable muscle. Run **6–8** of them; they are a wave, not individuals.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 65 | 60 | 60 | 65 | 50 | 50 | 12 | +1D4 | 1 | 8 (mounted 12) |
+
+**Skills**: Ride 80%, Fighting (Lanza, mounted) 60%, Fighting (Spear, foot) 55%, Throw 55%, Spot Hidden 45%, Stealth 55%
+
+**Weapons**: Lanza 60% mounted (1D8+1+1D4) · boleadoras 55% (1D4+1D4; on hit target DEX roll or entangled/prone) · facón 50% (1D6+2+1D4)
+
+**Morale**: They do not break from casualties — they break from *the manner* of them. After **3 are taken by the geometry**, the survivors' next action is a **POW roll**: fail = wheel away into the dark; success = one more pass, then withdraw regardless.
+
+**Tonight specifically**: they are riding for the saddlebags (the Wizard's maps), not for the ring. The [bought warrior from C6](../chapter-06.md) is among them — the priests spent him, deal and all. If the players look for him, he is the first or second one the angles take.
+
+---
+
+### OCHRE PRIEST OF COYPAC (×2, at the rim)
+*The two who drove the malón east. They do not enter. They watch, and they spend other people.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|
+| 50 | 55 | 55 | 55 | 75 | 75 | 11 | +0 | 0 | 7 |
+
+**Skills**: Cthulhu Mythos 25%, Occult 60%, Persuade 55%, Command 60%, Stealth 45%, Spot Hidden 55%
+
+**Weapons**: Knife 40% (1D4+1). They will not use it. They are not here to fight.
+
+**Behaviour tonight**: hold **60–80 m out**, beyond the ring's effective range, and do not close under any circumstance — they know exactly what a live closing does to a body that crosses it. They send warriors, watch, and take notes with their eyes. **They withdraw the moment the maps are confirmed unreachable** (inside the active ring). No spell-duel; they never engage the working directly.
+
+**If a player tries to reach them**: leaving the ring to chase 70 m across dark pasture is the same broken-position penalty as any other break, and the priests simply ride. They cannot be caught tonight. *(Arc 4: two priests who watched a closing eat their men, and remember the party's faces.)*
+
+**The horror beat**: a **Psychology** or **Occult** read on a priest's face as a warrior is unmade — nothing. Not grief, not triumph. The expression of a man watching a tool wear out on schedule.
+
+---
+
+### THE CURSED GAUCHO — EDELMIRO
 *Mid-thirties. Three years hunting. The most dangerous human in the campaign.*
 
 | STR | CON | SIZ | DEX | INT | POW | EDU | APP | HP | DB | Build | Move |

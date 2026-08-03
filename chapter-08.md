@@ -17,18 +17,28 @@
 - **La cabra le señaló el este** a uno de los del pacto; el este quedó **puesto, no redibujado**.
 - Si un Marcado la cazó en el camino, alguno lleva **la nota de anclaje** en la garganta.
 
-### Estado al empezar _(confirmar del cierre de C7 — anotar)_
-- [ ] **Centro**: Don Eusebio + el PJ Marcado (palmas con ocre).
-- [ ] **Este**: quién lo sostiene.
-- [ ] **Nota de anclaje**: ¿la cazó alguien? (sí → la lectura no flota, −1 paso a toda la noche).
-- [ ] **Quirce**: ¿adentro o afuera del anillo?
-- [ ] **Cobre**: ¿quedó puesto? Saúl detrás del círculo, la cabra en el borde.
+### Estado al empezar _(fijo — locked 2026-08-03, ver roster completo abajo)_
+- **Centro**: Don Eusebio + el PJ Marcado (palmas con ocre).
+- **Este**: un PJ sin nombrar, con cuchillo y machete de obsidiana.
+- **Nota de anclaje**: confirmar en mesa si algún Marcado la cazó en el camino.
+- **Quirce**: **adentro** del anillo desde el principio — sin penalidad (ver roster).
+- **Cobre**: puesto. Saúl **adentro del anillo**, cerca de Mercedes (no detrás del círculo). La cabra en el borde.
 
 > **Si un PJ muere o enloquece esta noche** → lista de reemplazos listos para entregar (ya están en el pozo): [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
 
 ### Apertura narrada _(leer en voz alta)_
 
-> _Cae la última luz y el campo sur queda en la oscuridad que el pozo mismo alumbra: los arcos de sangre brillan tenues, la geometría visible como un mapa de sí misma. Cada uno está en su lugar. Don Eusebio, en el centro, con las palmas marcadas de ocre. Mercedes levanta las hojas de Saens y respira. El pozo late, más fuerte que nunca, y la vibración les sube por las plantas de los pies. Nadie duerme esta noche; nadie se va. Y afuera, más allá del círculo de fuego — aunque todavía no lo saben — el pastizal se mueve sin viento. El malón esperó exactamente esto: todos clavados en su sitio, las manos llenas del trabajo. Mercedes abre la boca para empezar el canto._
+> _Cae la última luz sobre el campo del sur, y lo que queda no es oscuridad simple: el pozo se alumbra a sí mismo. Los arcos de sangre brillan tenues bajo tierra, y ahora — nadie sabría decir desde cuándo — el suelo entero tiene ese mismo brillo bajo, parejo, del color de una brasa que ya no calienta. Se siente al pisarlo: un dolor sordo que sube por las botas, como caminar sobre un hueso que nunca terminó de soldar. **La tierra duele.** No hay otra palabra para eso.
+>
+> _El pozo mismo es más ancho de lo que fue la última vez que alguien lo midió — el borde de tierra suelta se corrió otro paso hacia afuera, en algún momento entre entonces y ahora, sin que nadie lo viera correrse. Cerca del fuego más lejano, donde nadie va a mirar de cerca, siguen los cueros de las treinta y una vacas que murieron hace ocho meses. **No se pudrieron.** Siguen ahí, secos y tirantes sobre lo que queda del hueso, curtidos por algo que no es el sol ni el aire. Nadie los quemó. Nadie se anima._
+>
+> _Y alrededor de todo eso, más gente de la que el cuero de los paneles alcanzaba a prever. La cocinera — Luisa —, que hace ocho meses solo sabía de ollas, está con los pies clavados donde Marta le dijo que se parara. Tomás, más pálido que de costumbre, sin poder ocultar el temblor de las manos. Luis. Los tres hombres de Quirce, con las manos que nunca tocaron un animal, ahora quietas a los costados. Edelmiro, el Gaucho Maldito, más adentro del círculo de lo que nadie esperaba. Silvio, que mira para adentro esta vez y no para afuera. Saúl, que cabalgó desde Coypac y ahora cabalga con la mirada, quieto junto al anillo, cerca de Mercedes. Y el mismo doctor Quirce — sin el teodolito, sin la loma, adentro del anillo por primera vez en toda esta historia, el disco de cobre a los pies._
+>
+> _Don Eusebio está en el centro, las palmas marcadas de ocre, quieto como un hombre que ya decidió algo. A su lado, el Marcado que se ofreció a acompañarlo. Héctor al oeste. Marta al sur, de rodillas junto al primer panel, el Anticuario a su lado con la mano lista sobre el cuero sin dibujar todavía. Doña Mercedes camina el borde de afuera del anillo, las hojas de Saens en la mano, sin apuro — todavía._
+>
+> _Nadie duerme esta noche; nadie se va. Y afuera, más allá del círculo de fuego — aunque todavía no lo saben — el pastizal se mueve sin viento. El malón esperó exactamente esto: todos clavados en su sitio, las manos llenas del trabajo._
+>
+> _El pozo late, más fuerte que hace un minuto. Y entonces Mercedes se detiene, mira el círculo entero una vez — cuenta, casi — y abre la boca._
 
 ---
 
@@ -44,15 +54,20 @@ Nobody trained leads this ritual. It is built from what the party recovered — 
 
 **The roster and positions** (table-state):
 
-|Position|This table|
+|Position|This table (locked 2026-08-03 — see [SESSION-LOG](SESSION-LOG.md#2026-08-03--c8-ritual-begins-expanded-ring-roster-quirce-granted-a-body-in-the-ring))|
 |---|---|
 |**Center anchor**|**Don Eusebio** (he opened the wound; the geometry knows him), with **a Marked PC beside him at the center** — the pairing he agreed to in [C6](chapter-06.md#confronting-don-eusebio). **That PC is at Sanity 10** — every COR loss tonight is potentially the one that breaks them; track their COR openly and see the [Sanity-10 note at C9, Phase Five](chapter-09.md#phase-five--the-final-seal)|
-|**Ritual director / panels**|**Mercedes** guides from the manuscript; **Marta** places the panels by feel; Marked PCs adjust; **the Antiquarian** (added PC) can co-read the procedure, steadying tempo|
-|**Eastern position**|**the Antiquarian** (added PC — literate; can _try to read_ the asymmetry, not only brace it), **Héctor** (partial alignment), or a Marked PC — the side that fails first|
-|**Western position**|the **Cursed Gaucho** (he asked, Mercedes agreed, with terms), with **Marta** floating as the aligned substitute who can step into any broken position|
-|**Northern watch**|**Silvio** — back to the ritual, facing out, calling the entity's approach|
-|**Southern ring**|a standard outer position at this table — Don Eusebio is at the center, so [Scene 4](#scene-4--don-eusebio-in-the-ring) lands there, not here|
+|**Ritual director / panels**|**Mercedes** leads the chant from **outside the ring** — mobile all night, not fixed near center; **Marta** places the panels by feel from the **southern position** (below), stepping in to lay each panel as scripted, then resuming her hold. **The Antiquarian PC stands with her** and assists the Art/Craft roll each time a panel goes down (assist die, per [C7's drawing rule](chapter-07.md#drawing-the-closing-the-panels)) — he doesn't hold a separate named direction|
+|**Eastern position**|**an unnamed PC** — carries an **obsidian knife and machete**, effective against non-corporeal beings (may hand one off to another PC or NPC). Becomes the line, does not act outward — the side that fails first|
+|**Western position**|**Héctor** (Wrong Returned) — Gaucho Maldito was talked out of this slot; see "Additional ring bodies" below|
+|**Northern watch**|**an unnamed PC** — takes over the calling-the-approach role. Silvio is **still present tonight**, but as one of the additional ring bodies (below), not holding this named slot|
+|**Southern ring**|**Marta** — see "Ritual director / panels" above|
 |**Base note**|whichever **Marked PC caught the [anchoring note](chapter-07.md#the-anchoring-note-marked-pcs)** on the ride holds the low tone under Mercedes from Stage I (they keep their ring position too — it is a voice, not a station). If none caught it, the reading floats — let the silence be felt|
+|**Additional ring bodies**|**Silvio**, **Quirce** (see below), **Edelmiro** (Gaucho Maldito), **Luisa** (the estancia cook), **Quirce's three guards**, **Tomás**, **Luis**, and **Saúl** — the runner who rode in from Coypac, the other ritual site, and works with Mercedes; he's in the ring tonight near her, not behind the circle. The players talked all of these bodies into outer-ring positions beyond the C7 sheet's eight. Chant/brace support; no individual phase test unless the Keeper wants a spotlight moment. **Stats**: [assets/npc-stats.md](assets/npc-stats.md) — Silvio, Edelmiro on file at baseline; **Tomás's CON/POW are dropped for tonight specifically** (feeble, cracking — see his entry); Luis uses the Ranch Hand template; Quirce's guards use the existing ×3 escort block; **Luisa and Saúl are new blocks added this session**|
+|**Malón guard**|**a fourth PC**, posted **outside the ring** — fights raiders directly at the rim instead of the default "hold position, let the geometry cull whoever breaches" ([below](#the-malón-strikes))|
+|**Quirce — ring status**|Stands **inside** the ring from the start (not the eastern rise) — earned via the C6 copper deal. **Ruling: no difficulty penalty** — treat "Quirce outside the ring" as **met**, not failed, in the [difficulty recalibration](#scene-2--the-entity-responds); the scripted mid-Phase-2 "[Quirce crosses the ring](#scene-3--the-quirce-crisis)" crisis **does not fire** this table. Cost instead: the copper's observation window, now manned bodily, opens all the way once early in Phase 1 — see the new beat in [Scene 1](#scene-1--the-ritual-begins)|
+
+> **Unprepared bodies — house rule (this table, 2026-08-03).** Luisa, Quirce's three guards, Luis, **and Tomás** (dropped to CON 35 / POW 25 for tonight specifically — see [his stat entry](assets/npc-stats.md#tomás-arredondo)) have no Mythos exposure, no Wrong Returned resilience, and no ritual training — unlike Silvio/Héctor/Marta (already altered), Edelmiro (hardened), or Quirce (Cthulhu Mythos 40%, already composed). Saúl is steadier than this group (POW 50) but still green to ritual work. Whenever one of them fails a **ring-wide SAN check** by enough to trigger temporary insanity (losing ≥1/5 of current SAN in one hit — the Phase 1 hellscape vision at **1D10** will do this to most of them, Tomás almost automatically), or fails a **positional CON hold**, they don't just take the loss: they break — freeze, bolt, or wail — and stumble out of position for that round. A vacated position is an unguarded node, mechanically identical to [the Quirce-crossing gap](#scene-3--the-quirce-crisis) or a breaching malón warrior: the entity gets a free pass at whoever's exposed there — resolve as the [Hound's](assets/entity-hound.md) bite (1D6+DB, plus ichor 2D6/round until removed) or, for a slower horror beat, the tongue (3D6 POW drain, permanent, painless). **Exception: protect Saúl** — his C9 arc requires him alive until the post road; if his roll would kill him here, downgrade to insanity, a wound, or a bad scare instead.
 
 The entity presses whoever opened the wound, wherever Don Eusebio stands — and at this table he stands at the **center**, so **Scene 4 lands at the center.** His lower POW means the entity presses him harder there, and the Round-2 offer is not "you'll lose a geometric sense" but _"the land will be ordinary again and you will have to live in it knowing what you cost it."_ The Marked PC beside him is in the most exposed position in the working.
 
@@ -62,19 +77,102 @@ The working opens at **nightfall**, the hour the partial bindings used, when sha
 
 > **Eastern asymmetry.** If not destroyed/quarantined in C6 and not placed in the [C7 assembly](chapter-07.md#the-goat-points-to-the-east) (the goat pointed it out; a body or a Warding put on the line), it activates by Phase 2. The entity knows the gap and uses it ([the Eastern Incursion](#the-eastern-incursion)). A **Mandinga Warding** at the eastern position partially seals it; a human anchor on the eastern line holds it physically (the C3 pure-decision mechanic). Neither fully substitutes for a correct panel.
 
-> **The tarnished copper is in the geometry.** The party had Quirce fold [the copper](chapter-06.md#quirces-move) into the diagram during the [C7 wait](chapter-07.md#quirce-finishes-the-copper) to widen his observation field — which is the *entity's* field too. A **Marked PC feels it humming toward the pit** (no roll) and the party can pull it before Phase 1: doing so denies Quirce the pre-set inside reference he crossed the ring for, so his [Scene 3 crossing](#scene-3--the-quirce-crisis) is far less tempting (he observes from outside as agreed) — and the eastern contest runs **one step easier the first phase**. Leave it in place and the window is **two-way**: his crossing lands as written; the entity's outward cataloguing (the [malón cull](#the-malón-strikes)) reaches **one ring wider**; and at [Phase 5, Round 1](chapter-09.md#phase-five--the-final-seal) the final press comes **through the copper node first** — the anchor's check is Hard regardless of warning unless someone dislodges the copper (**DES or Throw**; doing it ends Quirce's recording, and he protests). After the seal, the copper is found **fused mirror-bright** at the rim; Quirce pockets it — the only piece of the working that leaves the site (an Arc 4 thread).
+> **The tarnished copper is in the geometry.** The party had Quirce fold [the copper](chapter-06.md#quirces-move) into the diagram during the [C7 wait](chapter-07.md#quirce-finishes-the-copper) to widen his observation field — which is the *entity's* field too. A **Marked PC feels it humming toward the pit** (no roll). **This table left it in, and Quirce stands in the ring beside it** — so the window is **two-way and manned**: it blows fully open once early in Phase 1 ([the window beat](#the-window-opens-new--this-table-2026-08-03), **SAN 1/1D10 ring-wide**); the entity's outward cataloguing (the [malón cull](#the-malón-strikes)) reaches **one ring wider**; and at [Phase 5, Round 1](chapter-09.md#phase-five--the-final-seal) the final press comes **through the copper node first** — the anchor's check is Hard regardless of warning unless someone dislodges the copper (**DES or Throw**; doing it ends Quirce's recording, and he protests). After the seal, the copper is found **fused mirror-bright** at the rim; Quirce pockets it — the only piece of the working that leaves the site (an Arc 4 thread).
 
 > **The Mandinga deals come due tonight.** The two deal-PCs (both outside the center) traded, respectively, **health** and **power** — and the price both accepted was *"offering their blood to ensure the scar is closed."* Tonight is the closing; the debt is literal. **The offering**: an opened palm pressed to the panel line at their position — a pure decision, no roll. **When**: usable early at the [Phase-2 eastern tear](#the-eastern-incursion) (blood on the seam counts as the **bracing second hand** for that round — CON drops from Hard to Normal for the easterner); **owed at the [Phase-5 seal](chapter-09.md#phase-five--the-final-seal) at the latest** — as Marta draws the last line, each deal-PC feels the old contract sit up, and the goat is already looking at them. **Withheld**: the health-PC's closed wound begins to reopen at the seal (1 HP/day, visible, until the debt is paid another way); the power-PC's gift inverts — penalty die on its uses — until amends. Mandinga does not renegotiate; he collects. ([The deal](assets/mandinga-sequence.md).)
 
-> ⊕ **Added PC — the Antiquarian (occultist).** A Leipzig-trained scholar who treats the geometry as the edge of the knowable — no verdict on whether it is good or evil, only the conviction that it must be _understood_. Loosely tied to the same European occult lineage as Quirce's network, never initiated. They have traveled with the party since [La Salamanca](chapter-05.md#the-whispering-tunnels) (C5); at the closing they take a position — see [The Antiquarian at the Ring](#the-antiquarian-at-the-ring-added-pc). Their best fit is **co-reader + eastern line**: a second literate hand on the procedure, and a willing body on the thin side who can attempt to _read_ the asymmetry. _(These are **sequential, not simultaneous**: they co-read during setup and Phase 1 to steady tempo, then **commit to the east** once it activates at Phase 2. The eastern position demands a still body, not an active voice — once bracing they cannot also read the procedure aloud, and reading the wedge forfeits that round's hold.)_ **Mechanically this directly mitigates the difficulty recalibration** — a human anchor holding the east is condition (2) of the [Phase-contest count](#scene-2--the-entity-responds), so each phase's contest runs **one step easier on the east** while they hold. Note their live wire: a seeker is _not_ invested in whether the pit closes — when the line breaks, whether they hold it or let it ride to see what happens is a player choice. Quirce (if present) sees a kindred observer, not a rival: _"No viene a detenerlo ni a empezarlo — viene a ver adentro. Como yo. Pero no le va a importar si se rompe."_
+> ⊕ **Added PC — the Antiquarian (occultist).** A Leipzig-trained scholar who treats the geometry as the edge of the knowable — no verdict on whether it is good or evil, only the conviction that it must be _understood_. Loosely tied to the same European occult lineage as Quirce's network, never initiated. They have traveled with the party since [La Salamanca](chapter-05.md#the-whispering-tunnels) (C5). **At this table he stands at South with Marta**, assisting each panel-draw with his Art/Craft (assist die, per [C7's drawing rule](chapter-07.md#drawing-the-closing-the-panels)) — the literate second hand went to the *figure* rather than to the east. **Note the trade**: because a PC (not the Antiquarian) holds the east, condition (2) of the [Phase-contest count](#scene-2--the-entity-responds) is still met by that PC's body — but the east has no reader on it, so the *"read the wedge"* option only exists if he shifts over mid-working, abandoning the panel assists. Note their live wire: a seeker is _not_ invested in whether the pit closes — when the line breaks, whether they hold it or let it ride to see what happens is a player choice. Quirce (if present) sees a kindred observer, not a rival: _"No viene a detenerlo ni a empezarlo — viene a ver adentro. Como yo. Pero no le va a importar si se rompe."_
 
-> **Running order — hang the set-pieces off the five phases.** The phases are the spine; everything else interleaves. The Coypac intel ([Saúl](chapter-07.md#saúl-from-coypac)) and Don Eusebio's wavering both already landed in the [C7 wait](chapter-07.md#the-wait) — do not re-run them here:
-> - **Taking positions (full dark):** [the Antiquarian chooses ring or rim](#the-antiquarian-at-the-ring-added-pc); palms marked, panels laid (all done in [C7 assembly](chapter-07.md#assembly--marta-directs) — confirm the exit state).
-> - **Phase 1 / Stage I–II** — [Scene 1: the ritual begins](#scene-1--the-ritual-begins); **[the malón strikes](#the-malón-strikes)** on the first chant.
-> - **Phase 2 / Stage III — the triple crisis** ([Scene 2](#scene-2--the-entity-responds)): [the eastern incursion](#the-eastern-incursion) tears, the [Coypac echo](#the-coypac-echo) vision lands, **[Quirce crosses the ring](#scene-3--the-quirce-crisis)**, and the **[Cursed Gaucho breaks west](#the-cursed-gaucho-breaks-formation)** — all inside one phase; run them fast and overlapping.
+---
+
+# ⚙ MASTER RUN SHEET — THE WHOLE WORKING
+
+_Built 2026-08-03 to run the closing end-to-end at this table's roster. **Phases 1–3 are below in this chapter; Phases 4–5 are in [C9](chapter-09.md#phase-four--the-deep-close)** — but the working is one continuous night, so this sheet covers all five. Read down it; everything else in the chapter is the long-form version of a line here._
+
+## The five stages at a glance
+
+| Phase | Stage (Saens) | What the ritual does | What the entity does | The set-piece |
+|---|---|---|---|---|
+| **1** | I–II · *El saludo* + *El anillo y la voz* | Wound named as a door; figure laid; chant begins | **Notices.** Responds by elaborating the geometry upward | The copper window opens · **[the malón strikes](#the-malón-strikes)** |
+| **2** | III · *El centro toma el peso* (first half) | Ring holds while the center takes weight | **Probes the east** — tests the promised door, withdraws | [Eastern Incursion](#the-eastern-incursion) · [Coypac echo](#the-coypac-echo) · [Edelmiro breaks west](#the-cursed-gaucho-breaks-formation) |
+| **3** | III (second half) | The center holds under direct attention | **Finds the opener.** Presses Don Eusebio specifically; the wordless offer | [Scene 4](#scene-4--don-eusebio-in-the-ring) — the moral hinge |
+| **4** | IV · *El cierre hondo* | Inner ring laid; figure compresses; light goes amber | **Tests every position in sequence**, like running down a list | [C9 Phase Four](chapter-09.md#phase-four--the-deep-close) — Eusebio says *"No."* |
+| **5** | V · *El sello* | Last line drawn; every voice on the chant; door closes | **Stops probing. Presses inward from all sides at once** to prevent closure | [C9 Phase Five](chapter-09.md#phase-five--the-final-seal) — 3-round climax |
+
+**Between phases**: 10–15 minutes to speak, check, re-mark smudged palms, move. Each forced restart costs **−10 minutes** off the pre-dawn clock. Dawn is the hard deadline.
+
+## Roll ledger — every check tonight, in order
+
+_Tick them off as they fire. "Ring-wide" = every PC plus every NPC in a position; fragile NPCs also test the [break rule](#opening-situation)._
+
+| # | When | Who rolls | Roll | Notes |
+|---|---|---|---|---|
+| 1 | Phase 1 opens | Ring-wide | **SAN 0/1D4** | The geometry responding |
+| 1b | Phase 1 opens | Both Marked PCs | **2d6 Hound** | First of max 3 aftershocks chapter-wide |
+| 2 | Phase 1, the window | **Ring-wide** | **SAN 1/1D10** ⚠ | The big one. Fragile NPCs likely break here |
+| 3 | Malón charge | Guard PC | **Fighting / Firearms** | Per round, at the rim |
+| 4 | Malón, per breach | Nearest PC | **SAN 0/1** | Men unmade by angles |
+| 5 | Malón, the cull | Ring-wide | **SAN 1/1D3** | The spectacle |
+| 6 | Malón, 3 taken | Surviving warriors | **POW** (NPC) | Fail = they break off |
+| 7 | Phase 2, east tears | Easterner | **CON Hard × 1D3 rounds** | Normal if braced by a second hand; each fail **1D4 SAN** + 3 min |
+| 8 | Phase 2, east tears | Ring-wide | **SAN 0/1D3** | — |
+| 9 | Phase 2, mid | A Marked PC | **POW Regular** | Coypac vision → hand [H9](assets/handouts-c8-c12.md#h9--the-coypac-vision-card-c8-marked-pcs) |
+| 10 | Phase 2, after vision | Both Marked | **SAN 1/1D4** + **2d6 Hound** | — |
+| 11 | Phase 2, El Patrón | The 3 who see him | **SAN 0/1D4** | Edelmiro, Marked PCs, Mercedes only |
+| 12 | Phase 2, Edelmiro breaks | Both Marked | **2d6 Hound** | Phase restarts −10 min |
+| 13 | Phase 3 | Those watching Eusebio | **SAN 0/1D4** | His choice is relationship-determined, not rolled |
+| 14 | Between phases | The quiet Marked PC | **SAN 0/1** | Mercedes' hook |
+| 15 | **Phase 4**, each position | Each holder | **CON Normal** (Hard if compromised) | Sequence, ~30 s each |
+| 16 | Phase 4, center | Don Eusebio | **CON Hard** · POW if solo · **Normal if braced** | Ochre palms = one step easier |
+| 17 | Phase 4 ends | Ring-wide | **SAN 0/1D4** | ~80% sealed |
+| 18 | **Phase 5** R1 | The anchor | **POW Hard** | → Normal if direction called; **Hard regardless if copper still in** |
+| 19 | Phase 5 R1 | Anyone outer | **DEX or Throw** | Optional: dislodge the copper |
+| 20 | Phase 5 R2 | Co-anchor PC | **SAN 1/1D6** + **CON** | 1D6 damage on CON fail |
+| 21 | Phase 5 R3 | Deal-PCs | **none — pure decision** | Palm to the panel line |
+| 22 | The seal completes | Ring-wide | **SAN 1/1D6** | Not horror — the shock of *over* |
+
+**After the seal: no Hound rolls ever again at this site.** Tell the Marked players their dice can go back in the bag — the silence is its own beat.
+
+## The entity tonight — behaviour ladder
+
+It does not hunt and it does not hate. It **catalogues**, and tonight it is doing so under pressure, from inside a shape that is closing on it. Full reference: [`assets/entity-hound.md`](assets/entity-hound.md). **POW 120 · MP 24 · HP 23 · bite 90% (1D6+1D6, + ichor 2D6/round) · tongue 90% (3D6 POW, permanent).**
+
+**The one rule that governs everything**: it goes for **unguarded nodes**, never for people who are standing where they were told to stand. Every mechanic tonight is a variation on that. This is why *hold the line* is the correct play and why breaking is punished — not by Keeper fiat, but because a vacated position is literally the sharpest angle available.
+
+| Phase | Its posture | What it will actually do |
+|---|---|---|
+| **1** | Noticing | Elaborates the carved walls upward — *adds* to the geometry rather than breaking it. Turns **outward** to cull breaching warriors (the only time all night its attention leaves the ring — the players get a free look at what it does to a body) |
+| **2** | Probing | Tests the east because the contaminated panel **promised** it that door. Withdraws after 1D3 rounds *on purpose* — it is rehearsing, saving the real exploitation for Phase 5. A Marked PC reads this: _"No está entrando. Está confirmando la puerta que le prometieron."_ |
+| **3** | Recognising | Finds Don Eusebio. Stops contesting broadly; presses **one man**. No attack roll — this is an offer, delivered as certainty, not words |
+| **4** | Auditing | Runs down the ring position by position like a list, ~30 s each. Mechanical, patient, impersonal — which is worse |
+| **5** | Preventing | Stops probing entirely. All distributed pressure collapses **inward** on the center. It is no longer trying to escape; it is trying to stop the door closing |
+
+**When it actually attacks a person** (bite/tongue) — only these three triggers:
+1. A **vacated ring position** — someone broke, bolted, or stepped out (including a fragile NPC who failed the break rule).
+2. A **breaching outsider** — malón warriors in Phase 1; anyone crossing uninvited.
+3. A **persistent disruptor** — someone who has interfered with it 2+ times (repeated obsidian strikes, repeated fire). For this one it escalates to **Mindblast** (1D10 MP; POW resist or stunned 1D10 rounds; **1D10 SAN either way**) and, once at most across the whole night, the **Dread Curse of Azathoth** (permanent 1D6 POW loss; POW Hard to reduce to 1). Deploy the Curse **once**, against whoever has been most effective, and let the table feel it. Never randomly.
+
+**It never attacks the center.** Don Eusebio and the Marked PC beside him are pressed, tested, and offered things — never bitten. The center is a contest of will, not HP.
+
+## Standing rules at the ring — read these to the table once
+
+1. **Hold your position.** The single instruction. Mercedes will not repeat it kindly: _"¡No rompan el círculo! Que los coma a ellos."_
+2. **A vacated position is an open door** — treat exactly as [the Quirce-gap](#scene-3--the-quirce-crisis): one round to fill it, or the phase restarts (−10 min) and a nearby PC takes **1D6 SAN**.
+3. **Mercedes must not stop reading.** The voice is the pin in the shape. Interrupting her is the worst single thing anyone can do.
+4. **The east does not act outward.** Whoever holds it *becomes the line* — still, facing inward. Reading, gesturing, or drawing from the east forfeits that round's hold.
+5. **[Obsidian](assets/npc-stats.md#weapon-notes--1821-argentina) connects but costs the position** — and chips. It displaces; it cannot kill.
+6. **[Fragile bodies break](#opening-situation)** — Luisa, the three guards, Luis, Tomás. Expect to lose positions to panic, especially at the window.
+7. **The players may say the chant aloud.** No roll. The fiction counts speaking as participation.
+
+---
+
+> **Running order — hang the set-pieces off the five phases.** The Coypac intel ([Saúl](chapter-07.md#saúl-from-coypac)) and Don Eusebio's wavering both already landed in the [C7 wait](chapter-07.md#the-wait) — do not re-run them here:
+> - **Positions are already set** — palms marked, panels laid (done in [C7 assembly](chapter-07.md#assembly--marta-directs)); the [roster](#opening-situation) is locked. The Antiquarian's ring-or-rim choice is **already made**: he is in, at South with Marta.
+> - **Phase 1 / Stage I–II** — [Scene 1: the ritual begins](#scene-1--the-ritual-begins); the copper window; **[the malón strikes](#the-malón-strikes)** on the first chant.
+> - **Phase 2 / Stage III — the crisis** ([Scene 2](#scene-2--the-entity-responds)): [the eastern incursion](#the-eastern-incursion) tears, the [Coypac echo](#the-coypac-echo) vision lands, and the **[Cursed Gaucho breaks west](#the-cursed-gaucho-breaks-formation)**. **The Quirce crossing does not fire this table** — run it as a *double*, not a triple, crisis.
 > - **Phase 3** — [Scene 4](#scene-4--don-eusebio-in-the-ring): the entity finds Don Eusebio and makes the wordless offer; he holds (or is held).
 > - **Between phases:** [Mercedes' hook](#mercedes-between-phases) to a quiet Marked PC.
-> - **Phases 4–5 / Stage IV–V are [C9](chapter-09.md#chapter-9--el-cierre).** The chapter ends mid-working, [holding](#end-of-chapter-8--the-holding-position) — write the exit state.
+> - **Phases 4–5 / Stage IV–V are [C9](chapter-09.md#chapter-9--el-cierre).** If the night runs long, C8 ends mid-working, [holding](#end-of-chapter-8--the-holding-position) — write the exit state.
 
 ### Roll for Hound — C8
 
@@ -98,6 +196,8 @@ The working opens at **nightfall**, the hour the partial bindings used, when sha
 ---
 
 ## THE ANTIQUARIAN AT THE RING (added PC)
+
+> **This table: the choice is already made — he is IN, at South with Marta**, assisting her panel-draws with Art/Craft ([roster](#opening-situation)). Do **not** run the ring-or-rim scene below; it resolved during the [C7 assembly](chapter-07.md#assembly--marta-directs). Keep from this section: the **[Prior Knowledge Occult roll](#prior-knowledge--occult-roll-at-character-creation)** (still live and still valuable — especially the Hard success's ochre-palms instruction and the Extreme's base-tone transcription), and the **[Becoming Marked](#chapter-8--la-traición)** option if he takes direct entity contact. The rest is background.
 
 _The Antiquarian is **not a stranger** here: the party met them underground in [La Salamanca's whisper tunnels](chapter-05.md#the-whispering-tunnels) (C5), came up out of the ruins together, and rode west to the pit with the group. **There is no dusk arrival.** Run this at **dusk, as positions are taken** — the panels are laid, people are finding their marks, the first chant has **not** begun — as the moment they choose what they came to be: a body **in the ring**, or a watcher at the **rim**. That choice is the live wire of a seeker who is not invested in whether the pit closes._
 
@@ -227,9 +327,21 @@ He stops. He cannot remember the third line. Ten seconds, hat in hand, eyes clos
 
 **SAN Check**: 0/1D4 — the ritual beginning, the geometry responding.
 
+### The window opens _(new — this table, 2026-08-03)_
+
+With Quirce's copper manned bodily inside the ring instead of watched at a remove, the observation window it cuts opens all the way for one breath, right behind the first chant. Everyone actively holding a ring position — PCs and the recruited NPCs alike — looks through.
+
+> _El cobre, adentro del círculo ahora, no como un instrumento sino como un cuerpo más, hace lo que Quirce quería que hiciera desde el principio: abre la ventana entera. Por un segundo — menos, un latido — todos los que están dentro del anillo ven a través. No es el pozo. Es lo que hay del otro lado del pozo: ángulos que se doblan sobre sí mismos y no vuelven, una distancia que es también una superficie, formas que el ojo intenta leer como criaturas y el cerebro corrige, y corrige mal, cada vez peor. No hay horizonte. No hay arriba. Algo, en algún lugar de esa geometría imposible, nota que están mirando — y por ese mismo instante, mira de vuelta._
+
+**SAN Check**: 1/1D10, ring-wide (bigger than the standard opening check above — this is the campaign's first direct look at the entity's side, not a response to it). Optional: anyone who holds without going insane may take **Cthulhu Mythos +1%**. Good spot for one of the recruited NPCs (the cook, Tomás, Luis, a guard) to break first — a small, human reaction before the malón hits.
+
+The malón strikes in the same breath — their minds still reeling from the window as the raiders come out of the dark.
+
 ---
 
 ## THE MALÓN STRIKES
+
+> **This table**: a fourth PC is posted outside the ring as a dedicated malón guard — they fight raiders directly at the rim instead of the ring simply holding while the geometry culls whoever breaches. Run the priests/warriors split below as written, but let that PC's combat thin the charge **before** it reaches the ring's effective range: fewer riders reach the geometry, so fewer unguarded-node penalties accrue. If they're overwhelmed, run it as written (breaching riders culled by the entity, cost to the working as below).
 
 The malón strikes **as the first chant goes up.** The party did not break the raiders on the road back from La Salamanca — they cut a deal with one warrior, and a bargain with a single warrior means nothing to the ochre priests who drive the raid and spend the warriors as expendable muscle. (The bought warrior may well be **among the first culled by the geometry** — the priests spent him, deal and all: a cold, earned horror beat if the players catch it.) Only **breaking the stalkers on the road** or **returning the maps** ever called the raid off, and the party did neither — so run the strike in full. The raiders waited for exactly this — everyone locked in position, hands full of the working — to come for the saddlebags (the Wizard's maps and notes). **What the warriors don't understand, the priests do.**
 
@@ -240,6 +352,24 @@ The malón strikes **as the first chant goes up.** The party did not break the r
 > _El primer jinete cruza la línea de los paneles al galope — y la noche se dobla alrededor de él. Su sombra cae en tres direcciones a la vez. El caballo sale del otro lado; el hombre no. No hay sonido. El segundo jinete lo ve, y sigue igual, porque el hombre detrás de él tiene una lanza en la espalda._
 
 > **Run the cull with the geometry, not the players' dice.** Breaching warriors are **picked off by the entity** (1–2 per round, no PC action). The players' job is unchanged: **hold.** The correct play is the one the ritual already demands.
+
+### Round by round — the charge
+
+_**6–8 warriors** ([stats](assets/npc-stats.md#malón-warrior-generic--the-charge-at-the-c8-closing)), **2 ochre priests** at 60–80 m who never close ([stats](assets/npc-stats.md#ochre-priest-of-coypac-2-at-the-rim)). The **guard PC** is outside the ring, between the raiders and the saddlebags. The saddlebags are at the rim, ~10 m behind the ring's edge._
+
+| Rd | The raiders | The geometry | The ring's job |
+|---|---|---|---|
+| **1** | Riders come out of the dark at the gallop, spread wide — 2 angle for the saddlebags, the rest drive straight at the ring to scatter it. Lances down | Nothing yet. They have not crossed the panel line | **Hold.** The guard PC gets one action before contact — a shot, a thrown blade, or setting to receive |
+| **2** | First contact. Guard PC engages 1–2 riders (**Fighting**, note they are mounted: +1 difficulty for a PC on foot to strike a rider, and the rider's lance outreaches a knife). **1–2 riders cross the panel line** | The first breach: read the entity's cull aloud (text above). No sound. The horse comes out; the man does not | **SAN 0/1** for the nearest PC · **+1 phase difficulty per breacher (cap +2)** |
+| **3** | The wave commits. **2–3 more cross.** One rider peels for the saddlebags if the guard PC is tied up | Cull continues, 1–2 per round. The ochre priests' faces do not change — **Psychology/Occult** to read it | **SAN 1/1D3 ring-wide** for the spectacle. Anyone who breaks formation to help = vacated node |
+| **4** | **3 taken → morale check.** Surviving warriors roll **POW**: fail = wheel away; success = one last pass | The saddlebag rider (if any) is taken three steps out; the maps drop **inside** the active ring | Last chance for a fragile NPC to bolt |
+| **5** | **The priests pull back into the dark.** The maps are inside a live closing, unreachable, and they will not throw men after them | — | The ring exhales. The chant has not stopped |
+
+> **If the guard PC fights well** (2+ riders put down before they reach the line): fewer breaches, so **cap the phase penalty at +1** instead of +2, and the saddlebags are never threatened. This is the reward for posting them outside — the ring pays less because someone stood in front of it.
+>
+> **If the guard PC is overwhelmed** (down, entangled by boleadoras, or fighting 3+): run it as originally written — the full cull, +2 phase difficulty, and the saddlebag rider gets through. **Do not kill the guard PC here** unless the player pushes it; a lance wound and a night on the ground at the rim is the honest cost. They are outside the ring, so being downed does *not* open a node.
+>
+> **If the guard PC pulls back inside the ring**: they were never in a position, so no node opens — but the raiders reach the saddlebags unopposed, and the maps are lost to the cult unless the geometry takes the carrier. Mercedes will not thank them; neither will she blame them.
 
 **Cost to the working — a real threat, not a free win:**
 - **Hold positions** _(right answer)_ → each warrior who breaches before the cull is a momentary unguarded node, exactly like [the Quirce gap](#scene-3--the-quirce-crisis): **+1 difficulty to this phase per breaching warrior (cap +2)**, and a nearby PC takes **SAN 0/1** at the wrongness of men eaten by the angles. No restart.
@@ -384,13 +514,32 @@ _(scheduled — Phase 2)_
 
 **SAN**: 0/1D3 ring-wide; CON costs above for the easterner. **No 2d6 — scheduled.** **Marked PC private read**: _No está entrando. Está confirmando la puerta que le prometieron._
 
+### Round by round — the east
+
+_**Roll 1D3 for duration before you start**, so you know how long the PC has to survive. The easterner is the **obsidian PC** at this table — which is the whole tension of the scene._
+
+| Rd | The wedge | The easterner's check | If they fail |
+|---|---|---|---|
+| **1** | The panel seam thins with that sustained-note quality, then tears — two handspans wide. Cold comes through it, and the smell of the pit | **CON Hard** — Normal if a second person braces them (hand on shoulder), or if a **deal-PC opens a palm on the seam** (blood counts as the bracing hand) | **1D4 SAN**, 3 min off the clock, wedge widens |
+| **2** | The wedge widens along the seam. Directions stop agreeing near it — east reads as *down* for anyone who looks straight at it | **CON Hard** (or Normal, as above) | as above; **second failure = east "broke"** → Phase 5 one step **harder** |
+| **3** _(if rolled)_ | Maximum width. Something is most of the way through, and then deliberately **stops** | **CON Hard** (or Normal) | as above |
+| **end** | The wedge **withdraws on its own.** It was never trying to come through tonight — it was confirming the door still opens | — | Log rounds held |
+
 > **Log rounds-held** → Phase 5's final contest is one step easier if the east held all rounds, one step harder if it broke twice or more.
 
-> ⊕ **If the Antiquarian holds the east:** they brace it like anyone (CON), and — being literate — may spend a round _reading_ the wedge instead of only resisting (**Occult/Cthulhu Mythos Hard**). Success doesn't close the tear, but it tells them, in their body, exactly what the asymmetry is and where it was drawn from — and for a seeker who crossed an ocean to understand this, that is the moment they paid for. It also means they hit the same wall Marta did (_"I can see it's wrong; I cannot draw the one that belongs"_), which is the in-fiction limit of scholarship against the real thing. Reading is **not** a substitute for bracing — a PC who reads instead of holds forfeits that round's CON, so this is a real cost/temptation, not free intel.
+> ⚑ **The obsidian temptation — the scene's real choice.** The PC holding the east is carrying the only weapons on the field that can touch this thing, and the thing is *right there*, coming through a two-handspan gap at arm's length. **They can strike it.** Obsidian connects (normal Fighting, normal damage vs HP 23) and a hit **displaces** it — the wedge collapses for a round.
+> - **But striking forfeits that round's hold**, exactly like reading or gesturing does. The east is a position that works by stillness; a body that swings is a body that is not the line. That round the seam is unguarded: the wedge widens automatically, no CON roll, and it counts as a **broken** round for the Phase 5 tally.
+> - **And it gets them noticed.** Two strikes across the night makes them a persistent disruptor — the correct target for **Mindblast**, and the one candidate all night for the **Dread Curse**.
+> - **The right answer is to not use the knife**, which is a genuinely hard thing to ask of a player holding a knife. Saens said it plainly and Marta repeated it: _the person at the east does not act outward — they become the line._ Let them make the wrong choice if they want it. It is a real trade, not a trap.
+> - **Handing a blade off** before the tear (to a neighbour, to Edelmiro, to Héctor) is the clever play — it puts obsidian in a hand that is *allowed* to move. Reward it.
+
+> ⊕ **If a literate PC holds the east** (the Antiquarian, if he shifts over from South): they may spend a round _reading_ the wedge instead of resisting (**Occult/Cthulhu Mythos Hard**). Success doesn't close the tear, but it tells them exactly what the asymmetry is and where it was drawn from — the moment a seeker crossed an ocean for. It also walks them into the same wall Marta hit (_"I can see it's wrong; I cannot draw the one that belongs"_). Reading is **not** a substitute for bracing — it forfeits that round's CON, same as swinging does.
 
 ---
 
 ## SCENE 3 — THE QUIRCE CRISIS
+
+> **This table: skip.** Quirce started the ritual inside the ring by agreement (see the roster table above) — he never crosses in, so this scene doesn't fire. He's paid for the ring seat already, in [Scene 1's window beat](#scene-1--the-ritual-begins). Skip straight to **[The Cursed Gaucho breaks formation](#the-cursed-gaucho-breaks-formation)** below for Phase 2 — note Gaucho Maldito is off his old western slot too (see roster), so his break now costs the ring a generic body, not a named direction; a nearby recruited NPC (Tomás, the cook, a guard) can cover the gap without the same structural weight the western line carried.
 
 As Phase 2 deploys, Quirce moves. He has kept his theodolite on the eastern rise, outside range, as agreed — but he now **crosses inside the outer ring** with a brass instrument and crouches at a position inside the geometry's effective range. He is not trying to disrupt the ritual; he is trying to **observe from inside**, having calculated that his body and instrument won't affect success. He is wrong. A person inside the ring who is not anchor, opener, or aligned Wrong Returned creates a **structural inconsistency** — an unguarded node the entity immediately exploits, mechanically equivalent to a gap in the ring.
 
@@ -504,6 +653,22 @@ This is the first half of his final test — the **wordless offer**, which he wi
 
 **SAN Check** (watching him take the offer): 0/1D4 — not for the entity, but for the comprehension that this is what he's been running from, and he is not running now.
 
+### Running Phase 3 — the beats
+
+_This phase has **no dice for Don Eusebio**. His outcome was decided across six chapters. The rolls belong to the people watching. Run it slow — it is the quietest phase of the night and the most important._
+
+| Beat | What happens | At the table |
+|---|---|---|
+| **1. The pressure lifts off the ring** | Everyone holding a position suddenly feels the weight go — the entity stops contesting broadly. Relief, then the understanding of what it means | Tell each position-holder privately-ish: _"It's not pushing on you anymore."_ Let them work out why |
+| **2. It finds him** | Read the *"Algo lo está mirando"* text. All attention converges on one man in the center | The Marked PCs feel the vector — they know exactly where it went |
+| **3. The offer** | Wordless, delivered as certainty: the land fertile again, the cattle fat, if he simply steps out of the ring | No roll. Play the silence. He does not speak |
+| **4. The table's instinct to help** | Someone will want to shout, move, grab him. **This is the trap** — leaving a position now opens a node during the phase where the entity's whole attention is one meter from the center | Let them choose. If they break, run the vacated-node rule; if they hold, that restraint *is* their contribution |
+| **5. He holds — or falters** | **Relationship built** → he grips the marker, says nothing, does not move. **Transactional/hostile** → one step back, out of the center; the anchor gives | Check your C4–C7 notes on how they treated him. Do not fudge this either way |
+| **6. Recovery, if needed** | The Marked PC beside him (or another) holds him in place — hand on shoulder, _"Don Eusebio. Back."_ | He goes. But the center now holds because someone holds him in it |
+| **7. Watching it** | **SAN 0/1D4** for those who understood what they just saw | Then the phase closes and the ring breathes |
+
+> **The C1 prayer callback.** If an investigator finishes _Por la tierra que fue buena_ — the third line Don Eusebio could not remember at the rim — **this is where it pays off**: he looks at them once across the geometry and nods, and stands without flinching for the rest of the night. Treat it as converting a "falters" into a "holds." It is the single most earned mechanical effect in the chapter, and it costs no roll at all.
+
 > **Keeper note — recovery aftermath**: Don Eusebio is already the center anchor (he committed to it in [C6](chapter-06.md#confronting-don-eusebio)). Holding it through this is the only thing he has to offer that costs him something — and his survival into C9 is what lets him ask the campaign's final moral question.
 
 ---
@@ -536,15 +701,20 @@ The chapter ends not at resolution but at sustained crisis. The ritual runs but 
 
 ## SESSION CHECKLIST — C8
 
-- [ ] Restructured positions table read; center anchor is **Don Eusebio (committed in C6), with a Marked PC beside him** — confirm positions before dusk.
-- [ ] Contest-difficulty recalibration: count only player-influenceable conditions (center supported / east mitigated / Quirce outside / bone-tier ≤1). **Do not** count Nahuel-dead or asymmetry-never-corrected as additional penalties — already baked in.
+- [ ] **[Master run sheet](#-master-run-sheet--the-whole-working)** open beside the screen — five-stage table, roll ledger, entity ladder, standing rules.
+- [ ] Roster read aloud and tokens placed ([roster table](#opening-situation)): center **Eusebio + Marked PC**; **N** PC; **E** obsidian PC; **W** Héctor; **S** Marta + Antiquarian; ring also **Silvio, Quirce, Edelmiro, Luisa, Tomás, Luis, 3 guards, Saúl**; **Mercedes outside**; **4th PC outside on malón watch**.
+- [ ] **New this table**: the [copper window](#the-window-opens-new--this-table-2026-08-03) fires early in Phase 1 — **SAN 1/1D10 ring-wide**, the night's biggest single check.
+- [ ] **[Fragile-body break rule](#opening-situation)** in play: Luisa, 3 guards, Luis, **Tomás (CON 35/POW 25 tonight)**. Expect to lose a position at the window.
+- [ ] **[Obsidian rules](assets/npc-stats.md#weapon-notes--1821-argentina)**: connects, displaces, chips, costs the position, draws the entity's attention. The east PC carries both blades — handing one off is the smart play.
+- [ ] Contest-difficulty recalibration: count only player-influenceable conditions (center supported / east mitigated / **Quirce counts as MET this table** / bone-tier ≤1). **Do not** count Nahuel-dead or asymmetry-never-corrected as additional penalties — already baked in.
 - [ ] [The Eastern Incursion](#the-eastern-incursion) at Phase 2 (scheduled, no 2d6); log **rounds held** for Phase 5 contest.
 - [ ] Saúl **already arrived from Coypac in [C7](chapter-07.md#saúl-from-coypac)** — do not re-run an arrival; the **Phase 3 −1 step is banked**. Coypac vision + Mercedes confirmation still land in Phase 2.
 - [ ] **Anchoring note**: if a Marked PC caught the base tone on the C7 ride, the reading no longer floats (whole-working −1 step); if not, the silence is felt all night.
 - [ ] **Goat** at the rim through the working (pointed out the east in C7); departs west at dawn in C9.
-- [ ] [Malón strikes](#the-malón-strikes) as the first chant goes up (the party's warrior-deal did not call it off). Priests stay out, **warriors charge and are culled by the geometry**; players **hold** (don't break the ring). Per breaching warrior **+1 phase difficulty (cap +2)** / SAN 0/1; stolen catalejo recovered after.
-- [ ] Cursed Gaucho breaks formation: **Marta + Marked PC** covers the western gap; Mercedes' cold line (*"Si vuelve a salir…"*).
-- [ ] Only the Cursed Gaucho, the Marked PCs, and Mercedes see El Patrón during the 5-second window.
+- [ ] [Malón strikes](#the-malón-strikes) as the first chant goes up (the party's warrior-deal did not call it off) — run the **[5-round table](#round-by-round--the-charge)**. Priests stay out at 60–80 m, **warriors charge and are culled by the geometry**; ring **holds**. Per breaching warrior **+1 phase difficulty (cap +2, or cap +1 if the guard PC fights well)** / SAN 0/1; stolen catalejo recovered after.
+- [ ] **Quirce crossing does NOT fire** — [Scene 3 is skipped](#scene-3--the-quirce-crisis) this table. Phase 2 is a **double** crisis (east + Coypac + Edelmiro), not a triple.
+- [ ] Edelmiro breaks formation for El Patrón: he holds a **generic ring slot**, not West (Héctor has West), so the gap is lighter — a nearby recruited NPC can cover. Mercedes' cold line (*"Si vuelve a salir…"*) still lands.
+- [ ] Only **Edelmiro**, the Marked PCs, and Mercedes see El Patrón during the 5-second window.
 - [ ] Scene 4 (Don Eusebio's *"No."*) runs exactly as written — **the spine**.
 - [ ] Mercedes between-phases speech; **Reader-recognition beat only if the C5 seed is logged**.
 - [ ] Hound cap: **3 aftershocks max** across the chapter.
