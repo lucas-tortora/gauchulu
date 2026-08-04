@@ -8,6 +8,21 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Full roster named; clock positions locked
+
+The 2026-08-03 roster is superseded by a fully named, clock-mapped version, given the night before the actual session:
+
+- **The four PCs, named, all inside the ring**: **Benancio** (Marked, Sanity 10) at **center** with Don Eusebio; **Negro Camba** (not Marked, Mandinga deal — health or power) at **East**, carrying the obsidian knife and machete; **Tránsito** (Marked, Mandinga deal) at **South**; **the Antiquarian** (not Marked, no deal) at **North**, drawing the panels himself (Occult + Art/Craft, his own skills). **No PC is posted outside** — the earlier "fourth/fifth PC guarding the malón" was wrong; drop it.
+- **Marta is not part of tonight's roster.** She held South and did all panel-drawing in the previous draft; both are reassigned to the Antiquarian at North. Her general campaign lore/presence elsewhere is untouched — she's simply not in tonight's ring. Downstream Phase 5 "co-anchor from outside" option and the post-seal Wrong-Returned aftermath beat are reassigned to **Héctor or Silvio** (whichever the party has rapport with), since Marta can't fill them tonight.
+- **Full clock positions locked** (12=N, 3=E, 6=S, 9=W): 1 Quirce, 2 Luisa, 3 Negro Camba, 4 Tomás, 5 Saúl, 6 Tránsito, 7 Edelmiro, 8 Silvio, 9 Héctor, 10–11 two of Quirce's guards, 12 the Antiquarian. **Only 2 of Quirce's 3 guards are in the ring** — the third is outside, alone, on malón watch.
+- **Edelmiro is confirmed off West** (clock 7, between Tránsito and Héctor) — his El Patrón sighting/break-formation beat still fires (it's about him, not the compass point), but the gap it leaves is a generic clock slot covered by Silvio or Tránsito, not a failed cardinal line.
+- **Malón defense revised**: no PC is outside — it's **Quirce's guard-3, alone**, an NPC. Rewrote the round-by-round to run him GM-side (not a player spotlight): at best he puts down one rider before the wave reaches the ring; the geometry's cull remains the real defense.
+- **No standing "Marta is the designated filler"** for broken positions during the Phase 4 audit — replaced with a call-the-nearest-clock-neighbor rule, keyed to the clock table.
+
+*Integrated into:* `chapter-08.md` (PC roster, opening read-aloud, roster table, new ring-clock table + bracing notes, Antiquarian callout, Mandinga-deal paragraph, malón guard note + round-by-round, Edelmiro break-formation scene, eastern-incursion literate-PC box, standing rules, checklist — plus a disclaimer that the chapter's inline SVG position diagrams are the pre-roster template and no longer authoritative), `chapter-09.md` (recap, Phase 4 read-aloud + audit table, Phase 5 options/round-table/blood-comes-due text, Cost section). Superseded: the 2026-08-03 entry below (kept for history — its "fourth PC outside," "Marta at South," and "3 guards in the ring" are all corrected above).
+
+---
+
 ## 2026-08-03 — C8 ritual begins: expanded ring roster, Quirce granted a body-in-the-ring
 
 Positions are set at the south-field pit; panels are laid but not yet inscribed; the working has not yet begun. Table divergences from the [C7 assembly](chapter-07.md#assembly--marta-directs)'s prepared roster, locked in as positions were taken:

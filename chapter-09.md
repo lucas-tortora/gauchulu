@@ -26,13 +26,13 @@
 - [ ] **Bajas y quiebres**: ¿quién se salió de posición? ¿quién enloqueció? ¿alguien murió?
 - [ ] **Tiempo hasta el amanecer.**
 
-> **Roster recordatorio** — el anillo de esta mesa es más grande que el previsto: centro Don Eusebio + PJ Marcado; norte un PJ; este el PJ de la obsidiana; oeste Héctor; sur Marta con el Anticuario; y en el anillo además Silvio, Quirce, Edelmiro, Luisa, Tomás, Luis, los tres hombres de Quirce y Saúl. Mercedes lleva la voz desde afuera. Un cuarto PJ quedó afuera cuidando del malón. Roster completo y reglas de la casa: [C8](chapter-08.md#opening-situation).
+> **Roster recordatorio** — los cuatro PJ están **todos adentro del anillo** esta noche: centro Don Eusebio + **Benancio** (Marcado, COR 10); norte **el Anticuario** (dibuja los paneles él mismo); este **Negro Camba** (con la obsidiana, pacto con Mandinga); sur **Tránsito** (Marcada, pacto con Mandinga). Oeste, **Héctor**. En el anillo además: Silvio, Quirce, Edelmiro, Luisa, Tomás, dos de los tres hombres de Quirce, y Saúl. Mercedes lleva la voz desde afuera. **Afuera del anillo, solo el tercer hombre de Quirce** cuida contra el malón — ningún PJ queda afuera. Roster completo, posiciones de reloj, y reglas de la casa: [C8](chapter-08.md#opening-situation).
 
 > **Si un PJ muere o enloquece** (la Fase 5 es la más peligrosa, sobre todo para el PJ de COR 10) → reemplazos listos: [C7 — Reemplazos](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece).
 
 ### Apertura narrada _(leer en voz alta)_
 
-> _La misma noche, sin corte. El pozo está casi lleno de su propia luz — un mapa de sí mismo brillando desde las paredes talladas. La entidad ya no mira desde afuera: empuja, desde todas las direcciones a la vez. Faltan dos etapas. La luz empieza a virar al ámbar, la de la entidad y la del ritual mezclándose. Están todos en su lugar, agotados, las voces roncas de un canto que no se detiene desde la primera hora. Hacia el este el cielo sigue negro — pero no falta tanto. Lo que hagan en las próximas dos etapas cierra el pozo, o lo pierde. Marta se arrodilla junto al anillo interior y estira la mano hacia el cuarto segmento._
+> _La misma noche, sin corte. El pozo está casi lleno de su propia luz — un mapa de sí mismo brillando desde las paredes talladas. La entidad ya no mira desde afuera: empuja, desde todas las direcciones a la vez. Faltan dos etapas. La luz empieza a virar al ámbar, la de la entidad y la del ritual mezclándose. Están todos en su lugar, agotados, las voces roncas de un canto que no se detiene desde la primera hora. Hacia el este el cielo sigue negro — pero no falta tanto. Lo que hagan en las próximas dos etapas cierra el pozo, o lo pierde. El Anticuario, desde el norte, se arrodilla junto al anillo interior y estira la mano hacia el cuarto segmento._
 
 ---
 
@@ -117,7 +117,7 @@ Each phase is a **sustained action**, not a single roll — positions held, the 
 <text x="140" y="155" text-anchor="middle" font-size="6.5" font-family="Georgia,serif" fill="#1a1a1a" opacity="0.35" font-style="italic">Light goes amber. Sound drops below hearing. All hold.</text>
 </svg>
 
-> _Marta tiende el cuarto segmento — el anillo interior, que comprime la geometría hacia el centro del pozo. Cuando cae, la luz del pozo pasa de un amarillo-blanco pálido al **ámbar**: la luz de la entidad y la del ritual mezclándose. El sonido se profundiza — no más fuerte, más bajo que el oído ahora. Se siente en los huesos de los pies._
+> _El Anticuario tiende el cuarto segmento — el anillo interior, que comprime la geometría hacia el centro del pozo. Cuando cae, la luz del pozo pasa de un amarillo-blanco pálido al **ámbar**: la luz de la entidad y la del ritual mezclándose. El sonido se profundiza — no más fuerte, más bajo que el oído ahora. Se siente en los huesos de los pies._
 
 The entity tests each outer-ring position **in sequence**, as if running down a list — ~30 seconds each. The investigator at the tested position holds (automatic if strong; **CON Normal** if the position was compromised in C8).
 
@@ -129,18 +129,19 @@ _Go around the ring **widdershins from the north**, one at a time, ~30 seconds e
 
 | Order | Who | Check | Notes |
 |---|---|---|---|
-| 1 | **North — PC** | **CON Normal** | Hard if the position was compromised in C8 |
-| 2 | **East — obsidian PC** | **CON Normal**, or **Hard** if the east broke 2+ rounds in the [Phase 2 Incursion](chapter-08.md#the-eastern-incursion) | The thin side is tested longest — give it ~45 s of table time |
-| 3 | **Luisa, Luis, Tomás, the 3 guards** | **CON Normal** each — but see the [break rule](chapter-08.md#opening-situation) | Roll these fast, as a batch. **Tomás at CON 35 will likely fail.** This is where you lose a body if you are going to |
-| 4 | **Saúl** | **CON Normal** (55) | Do not kill him here — a failure means he breaks and is exposed, not that he dies |
-| 5 | **Quirce** | **CON Normal** (50) | If he fails, he does *not* bolt — he goes to his knees still writing. Characterful, not fatal |
-| 6 | **Edelmiro** | **CON Normal** (70) | Holds easily. He has been waiting three years to stand still for something |
-| 7 | **West — Héctor** · **South — Marta** · **Silvio** | **automatic — no roll** | ⚑ **Wrong Returned hold by default.** Their partial alignment *is* the qualification; the geometry has no leverage on people it already changed. Say so out loud — the table should notice the three who don't flinch |
-| 8 | **CENTER — Don Eusebio** | **CON Hard** · **POW** if solo · **Normal** if the Marked PC braces him · one step easier again if his **ochre palms** are intact | The longest beat. This is where he says **"No."** |
+| 1 | **North — the Antiquarian** | **CON Normal** | He's a PC — his player rolls it, not fragile-body rules |
+| 2 | **East — Negro Camba** | **CON Normal**, or **Hard** if the east broke 2+ rounds in the [Phase 2 Incursion](chapter-08.md#the-eastern-incursion) | The thin side is tested longest — give it ~45 s of table time |
+| 3 | **South — Tránsito** | **CON Normal** | She's Marked and carries a Mandinga deal, but is not Wrong Returned — she rolls like any PC |
+| 4 | **Luisa, Tomás, the 2 in-ring guards** | **CON Normal** each — but see the [break rule](chapter-08.md#opening-situation) | Roll these fast, as a batch. **Tomás at CON 35 will likely fail.** This is where you lose a body if you are going to |
+| 5 | **Saúl** | **CON Normal** (55) | Do not kill him here — a failure means he breaks and is exposed, not that he dies |
+| 6 | **Quirce** | **CON Normal** (50) | If he fails, he does *not* bolt — he goes to his knees still writing. Characterful, not fatal |
+| 7 | **Edelmiro** | **CON Normal** (70) | Holds easily. He has been waiting three years to stand still for something |
+| 8 | **West — Héctor** · **Silvio** | **automatic — no roll** | ⚑ **Wrong Returned hold by default.** Their partial alignment *is* the qualification; the geometry has no leverage on people it already changed. Say so out loud — the table should notice the two who don't flinch |
+| 9 | **CENTER — Don Eusebio** | **CON Hard** · **POW** if solo · **Normal** if Benancio braces him · one step easier again if his **ochre palms** are intact | The longest beat. This is where he says **"No."** |
 
-> **If a fragile NPC fails here**, they break mid-audit — and unlike Phase 1, the ring is 80% closed and there is nowhere for the pressure to go but through the hole they leave. Vacated-node rule applies immediately ([C8](chapter-08.md#opening-situation)): one round to fill it or the phase restarts. **Marta is the designated filler** — she floats to any broken position; that is her standing job all night.
+> **If a fragile NPC fails here**, they break mid-audit — and unlike Phase 1, the ring is 80% closed and there is nowhere for the pressure to go but through the hole they leave. Vacated-node rule applies immediately ([C8](chapter-08.md#opening-situation)): one round to fill it or the phase restarts. **There is no designated floater this table** (Marta isn't here to do it) — use the [ring clock](chapter-08.md#the-ring-clock--who-braces-whom) to call the nearest neighbor instead: Silvio or Edelmiro cover each other, Luisa can be reached from East or North, Tomás from East or Saúl's side.
 >
-> **Re-mark smudged palms** between the audit and Phase 5 — Marta does it without being asked. If nobody thinks to, and Eusebio's palms are gone, his Phase 5 POW check loses its one-step discount.
+> **Re-mark smudged palms** between the audit and Phase 5 — **the Antiquarian does it**, stepping in from North (same logistics as a panel-draw: he leaves his position briefly, the ring absorbs it). If nobody thinks to, and Eusebio's palms are gone, his Phase 5 POW check loses its one-step discount.
 
 > _La entidad encuentra el reconocimiento que rastreó toda la noche. Don Eusebio. El que abrió. La geometría lo conoce de la manera en que una cicatriz conoce la mano que la hizo. Tiembla una vez — todo el cuerpo, como si lo golpearan — y agarra el marcador con ambas manos. Sus labios se mueven sin sonido. Después deja de temblar y se queda absolutamente quieto. Dice: "No." Una palabra. Sin drama. Final._
 
@@ -212,7 +213,7 @@ _Go around the ring **widdershins from the north**, one at a time, ~30 seconds e
 <text x="168" y="114" font-size="6.5" font-family="Georgia,serif" fill="#b03030" opacity="0.5" font-weight="bold" text-anchor="start">CRISIS</text>
 <text x="168" y="124" font-size="6.5" font-family="Georgia,serif" fill="#b03030" opacity="0.8" text-anchor="start">&#x2192; "Antu kishu lan amukey"</text>
 <text x="168" y="134" font-size="6.5" font-family="Georgia,serif" fill="#b03030" opacity="0.8" text-anchor="start">&#x2192; PC may co-anchor (SAN 1/1D6)</text>
-<text x="168" y="144" font-size="6.5" font-family="Georgia,serif" fill="#b03030" opacity="0.8" text-anchor="start">&#x2192; Marta draws the last line</text>
+<text x="168" y="144" font-size="6.5" font-family="Georgia,serif" fill="#b03030" opacity="0.8" text-anchor="start">&#x2192; the Antiquarian draws the last line</text>
 <text x="140" y="155" text-anchor="middle" font-size="6.5" font-family="Georgia,serif" fill="#1a1a1a" opacity="0.35" font-style="italic">Full inward press. Everyone chants. One PC can step to co-anchor.</text>
 </svg>
 
@@ -221,10 +222,10 @@ _Go around the ring **widdershins from the north**, one at a time, ~30 seconds e
 **Focal support for Phase Five**:
 
 1. **Anchor solo, at limit**: they hold, but the final phase demands withstanding the entity's maximum pressure. **POW Hard.** On failure they break concentration; the phase restarts (2-minute recovery) but the entity maps the failure point and the restart begins at higher pressure.
-2. **Anchor co-anchored by an investigator**: the investigator stands in the center ring, holding the anchor's hands — grounding the focus. The anchor sustains the phase. Cost to the investigator: **SAN 1/1D6** and a **CON check** (1D6 damage on failure). The volunteered sacrifice — payment, not death.
-3. **Marta steps into the center** (only if the players built genuine rapport with the Wrong Returned): she co-anchors from the outer ring by extending her partial geometric alignment to hold the center steady from outside. **Her choice; the investigators cannot make it for her.** If she does, Phase Five has near-certain success. Cost: see below.
+2. **Anchor co-anchored by an investigator**: Benancio is already there — this is his standing role, not an optional step. Cost to him: **SAN 1/1D6** and a **CON check** (1D6 damage on failure). The volunteered sacrifice — payment, not death.
+3. **Héctor or Silvio steps toward the center** (only if the players built genuine rapport with the Wrong Returned — **this table: Marta isn't present, so this option belongs to whichever of the two the party is closer to**): they co-anchor from the outer ring by extending their partial geometric alignment to hold the center steady from outside. **Their choice; the investigators cannot make it for them.** Whoever does it leaves their own position — West or clock-8 goes unheld for the phase, which is a real cost even though Wrong Returned normally hold automatically. If they do it, Phase Five has near-certain success. Cost: see below.
 
-> **The anchor survives by default.** The center anchor — Don Eusebio, with the Marked PC beside him — **survives the seal**, paying in recovery time, nightmares, and the corners going quiet. The Marked PC at the center takes **SAN 1/1D6 + a CON check** at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
+> **The anchor survives by default.** The center anchor — Don Eusebio, with Benancio beside him — **survives the seal**, paying in recovery time, nightmares, and the corners going quiet. Benancio takes **SAN 1/1D6 + a CON check** at the seal (1D6 on failure) + months of "corners felt but quiet" aftermath — on top of already being at Sanity 10, so track this one closely. **Death stays available only as the player's own dramatic choice, never the default** — Don Eusebio's _"What do I owe?"_ lands far better with him alive to ask it.
 >
 > **⚠️ That PC is at Sanity 10.** The seal's 1/1D6 cannot zero them on its own, but the night's accumulated losses can — track their COR openly with the player: if they bottom out **during the seal**, run it as the geometry closing over the last thing they were holding — **indefinite insanity with a recovery arc into Arc 4**, not removal from play. The entity's Round-2 revelation, aimed at a mind that empty, is not a threat — it is an offer of *quiet*. That is the horror; play it gently.
 
@@ -246,7 +247,7 @@ _Go around the ring **widdershins from the north**, one at a time, ~30 seconds e
 > |---|---|---|---|
 > | **1** | Full pressure inward, **through the copper node first** if it's still in | Anchor: **POW Hard** → Normal if the direction is called | **Call the direction** (Marked PC — shifts Hard→Normal) · **dislodge the copper** (DEX or Throw, doesn't break the ring) · **step in to co-anchor** (skips R2's crisis) · **hold and chant** (prevents the breach widening) |
 > | **2** | The revelation — offers the anchor *quiet* | One round to decide; a co-anchor's hands answer it wordlessly | **Co-anchor now** if not already · **speak to them by name** (a human voice from a known position is worth as much as a roll — let it matter) · **deal-PCs may pay the blood early** |
-> | **3** | Countermovement stops — no room left | Holds. Marta draws the last line | **The blood comes due** (deal-PCs, pure decision) · everyone on the chant — _Antu kishu, lan amukey_ · **obsidian is useless here** and the carrier should feel that |
+> | **3** | Countermovement stops — no room left | Holds. The Antiquarian draws the last line | **The blood comes due** (Negro Camba and Tránsito, pure decision) · everyone on the chant — _Antu kishu, lan amukey_ · **obsidian is useless here** and Negro Camba should feel that |
 
 **Round 1 — the press.** The entity applies full pressure to the center. The anchor's breathing goes ragged; the amber light flares once in the geometry and fades. Holding, barely. Player options: **co-anchor** (step into the center ring, take the cost, stabilize — skip Round 2's crisis); **maintain outer positions** (prevents the breach expanding while the anchor fights alone — anchor's POW check this round is **Hard**); **call the direction** (a Marked PC who knows the entity's approach vector — because [Saens's instructions named the east as the thin side](chapter-07.md#the-order-and-the-east) and the Marked have felt the eastern line all night — gives a moment's warning, shifting the anchor's check from **Hard** to **Normal** this round).
 
@@ -260,9 +261,9 @@ One round to decide. If a co-anchor is holding their hands, that person feels th
 
 **Round 3 — the seal.**
 
-> **The blood comes due.** As Marta kneels to draw the last line, the two **Mandinga-deal PCs** feel the old contract sit up — the wound that closed, the strength that came from nowhere, both leaning toward the pit like the candle flames once leaned toward Quirce's mouth. The price was always *"su sangre, para asegurar que la cicatriz se cierre."* **Now or never**: an opened palm pressed to the panel line at their position — a pure decision, no roll. The goat is already looking at them. Each offering made (now, or earlier at the [eastern tear](chapter-08.md#the-eastern-incursion)) runs the **seal contest one step easier**. **Withheld**: the health-PC's old wound begins reopening at the seal (1 HP/day, visible, until the debt is settled another way); the power-PC's gift inverts — penalty die on its uses — until amends. Mandinga does not renegotiate; he collects.
+> **The blood comes due.** As **the Antiquarian** kneels to draw the last line, **Negro Camba and Tránsito** feel the old contract sit up — the wound that closed, the strength that came from nowhere, both leaning toward the pit like the candle flames once leaned toward Quirce's mouth. The price was always *"su sangre, para asegurar que la cicatriz se cierre."* **Now or never**: an opened palm pressed to the panel line at their position — a pure decision, no roll. The goat is already looking at them. Each offering made (now, or earlier at the [eastern tear](chapter-08.md#the-eastern-incursion)) runs the **seal contest one step easier**. **Withheld**: the health-PC's old wound begins reopening at the seal (1 HP/day, visible, until the debt is settled another way); the power-PC's gift inverts — penalty die on its uses — until amends. Mandinga does not renegotiate; he collects.
 
-> _La contracción final. El anillo exterior aguanta, el anillo interior aguanta, el centro aguanta. El contra-movimiento de la entidad se detiene — no por retirada, sino porque ya no hay espacio. Marta dibuja la última línea, conectando el último hueco. La conexión se completa._
+> _La contracción final. El anillo exterior aguanta, el anillo interior aguanta, el centro aguanta. El contra-movimiento de la entidad se detiene — no por retirada, sino porque ya no hay espacio. El Anticuario dibuja la última línea, conectando el último hueco. La conexión se completa._
 
 The pit seals bottom-up: the carved wall-lines compress and go dark in sequence; the soil arcs fade; the panels glow amber-bright three seconds, then dark. **The sound stops** — not fades, stops. The vibration ends. The silence is not empty; it is the silence of a space that was occupied and is now not. The pit is a meter deep again; the extra two meters of carved wall are _gone_, as if they never extended.
 
@@ -280,9 +281,9 @@ The pit sealed. The dust is the reminder that something else is still open — a
 
 ## THE COST
 
-**The center anchor** (Don Eusebio, and the Marked PC who stood beside him): both alive. They look at their hands. _"Puedo sentir dónde están los ángulos, pero ya no los escucho… como la diferencia entre saber dónde está un cuarto y estar dentro."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **co-anchored or Marta-assisted**, substantially better — exhausted, not broken.
+**The center anchor** (Don Eusebio, and **Benancio** beside him): both alive. They look at their hands. _"Puedo sentir dónde están los ángulos, pero ya no los escucho… como la diferencia entre saber dónde está un cuarto y estar dentro."_ Recovery costs months; nightmares in which the geometry is the dreaming landscape; never comfortable in rooms with precise right angles again. If **a Wrong Returned co-anchored** ([Héctor or Silvio](#phase-five--the-final-seal)), substantially better — exhausted, not broken.
 
-**Héctor and Marta**: the Wrong Returned feel the closing first. As the seal completes, Marta flinches — the first genuine physical reaction in months — then **laughs**, involuntary, a sound from below calculation. Héctor takes her hand. _"Está quieto"_, dice. _"Sí"_, dice ella. They are not instantly restored; the alignment fades over weeks like dye washing out. They will always be different, but the pull, the sound in the angles, the wrong shadow — those go. _"Creo que voy a poder dormir de nuevo. Eventualmente."_ **If Marta co-anchored**: the fade burns off all at once — she spends the night unable to speak or move, not from trauma but from becoming abruptly, entirely herself; by morning she is present, quiet, and hungry for the first time in fourteen months.
+**Héctor and Silvio** _(this table — Marta is not present)_: the Wrong Returned feel the closing first. As the seal completes, whichever of the two didn't co-anchor flinches — the first genuine physical reaction in months — then **laughs**, involuntary, a sound from below calculation. The other takes their hand. _"Está quieto"_, dice uno. _"Sí"_, dice el otro. They are not instantly restored; the alignment fades over weeks like dye washing out. They will always be different, but the pull, the sound in the angles, the wrong shadow — those go. _"Creo que voy a poder dormir de nuevo. Eventualmente."_ **If one of them co-anchored** ([Phase 5, option 3](#phase-five--the-final-seal)): the fade burns off all at once for that one — they spend the night unable to speak or move, not from trauma but from becoming abruptly, entirely themselves; by morning they are present, quiet, and hungry for the first time in fourteen months.
 
 **Silvio**: collapses when the seal completes — sits down hard, catches himself, stares at the pit. _"Paró."_ He looks at his normal hands, his normal shadow, then at Don Eusebio: _"Lo hicieron."_ Not absolution. Statement of fact.
 
