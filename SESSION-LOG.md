@@ -8,6 +8,17 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Mandinga deals: no offering, life-or-death on the seal
+
+Removed the mid-ritual blood-offering mechanic entirely for **Negro Camba** (health deal) and **Tránsito** (power deal) — there is no palm-to-the-panel action, at the eastern tear or the seal, that settles their debt early or eases any contest. The price was always the scar closing, not a gesture:
+
+- **If the seal completes**: the debt is paid automatically, in full, by the closing itself. No roll, no decision.
+- **If it doesn't**: Mandinga collects **their lives**, on-screen, immediately — **Negro Camba**'s wound is the door Mandinga tears him open through, limb from limb (run as Mengua/Shrivelling cast **four times**, once per limb); **Tránsito**'s power is simply pulled back out of her. This is the one exception to the [alternate outcome](chapter-09.md#if-it-doesnt-seal--the-alternate-outcome)'s "PCs are not defaulted to death" rule — it fires whenever the seal fails, independent of anything else going right that round.
+
+*Integrated into:* `chapter-08.md` (Mandinga-deals paragraph, roster table rows, contest ledger — removed the now-nonexistent offering bonus row, eastern-incursion Round 1 check, roll ledger #21), `chapter-09.md` (Phase 5 round-options table, Round 3 text, checklist, alternate-outcome section).
+
+---
+
 ## 2026-08-04 — Marta reinstated as North's floater
 
 Correction to the same day's earlier roster lock: **Marta is back in the ring.** She doesn't hold a fixed position — she floats near North and covers it whenever the Antiquarian steps in to draw a panel, so North is never actually unguarded during a draw. She does not draw panels herself this table (that stays the Antiquarian's Occult + Art/Craft); she's the safety net under his hold, and reverts to her standing "floater to any broken position" role the rest of the time — including the Phase 4 audit, where a broken position now has an actual answer again instead of "call the nearest neighbor."
