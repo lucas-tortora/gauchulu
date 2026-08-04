@@ -8,6 +8,14 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Correction: Shrivelling ×4 applies to both deal-PCs
+
+The prior entry had Tránsito's death described only as "her power pulled back out of her," distinct from Negro Camba's Shrivelling ×4. Corrected: **both** die the identical way — Mengua/Shrivelling cast four times on each of them, once per limb — with the flavor difference being what it represents for each (his wound becoming the door in; her power leaving the way it arrived), not a different mechanism.
+
+*Integrated into:* `chapter-08.md` (Mandinga-deals paragraph), `chapter-09.md` (alternate-outcome bullet, checklist).
+
+---
+
 ## 2026-08-04 — Mandinga deals: no offering, life-or-death on the seal
 
 Removed the mid-ritual blood-offering mechanic entirely for **Negro Camba** (health deal) and **Tránsito** (power deal) — there is no palm-to-the-panel action, at the eastern tear or the seal, that settles their debt early or eases any contest. The price was always the scar closing, not a gesture:
