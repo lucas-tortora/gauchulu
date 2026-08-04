@@ -8,6 +8,19 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Table-style corrections + the broken-circle rule extracted
+
+Four corrections from Lucas, checked against the table's actual play style and history:
+
+- **No private asides.** This table doesn't run GM-pulls-one-player-aside scenes. Fixed two: "Mercedes, Between Phases" now happens openly at the ring (she still addresses one Marked PC specifically, but everyone hears it — no stepping away); the Phase 3 "pressure lifts" beat is now said once to the whole table instead of "privately-ish" to each position-holder.
+- **Reader path reconfirmed inactive** — already cut in the prior pass (no C5 page-79 seed, C12's Use ending stays closed). No further change needed; double-checked for stragglers, found none.
+- **Benancio and Don Eusebio's relationship is locked in.** Scene 4's "relationship built vs. transactional" branch used to be a judgment call against six chapters of notes — it's now a fixed outcome: **Eusebio holds, full stop**, because Benancio built that relationship. The only way it flips to "falters" is if **Benancio himself** breaks first (flees, panics, gets pulled from the center) — then Eusebio's resolve goes with him, and the original recovery mechanic (another investigator holds him in place) applies. Updated Scene 4's prose, the Phase 3 beat table, the roll ledger, and the C1 prayer callback (now insurance for the Benancio-breaks case, not the primary path to holding).
+- **The broken-circle mechanic, extracted and generalized.** Scene 3 (The Quirce Crisis) was cut last pass because it doesn't fire this table — but its underlying rule (notice → one-round window → filled-in-time vs. not) is what half the chapter's other mechanics point to by reference ("treat as the Quirce-gap"). Pulled it out into its own **`The broken-circle rule`** subsection under Standing Rules, written generically (triggers on *any* vacated position, for any reason — malón breach, a fragile-body panic, a PC choosing to step out), and repointed every reference that used to link to the now-empty Scene 3.
+
+*Integrated into:* `chapter-08.md` only.
+
+---
+
 ## 2026-08-04 — Dead scenes removed from C8
 
 Cut, not just flagged, the scenes that will not fire at this table so there's nothing left to accidentally run tomorrow:

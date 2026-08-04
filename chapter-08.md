@@ -93,7 +93,7 @@ _Given as clock positions; 12 = North, 3 = East, 6 = South, 9 = West. Use this f
 
 > **⚠ On the position diagrams throughout this chapter and C9.** The inline SVG figures (Silvio at north, Marta/the Antiquarian near center, the Cursed Gaucho at west, etc.) are the **original campaign template**, drawn before this table's roster was locked — they predate Benancio, Negro Camba, Tránsito, Edelmiro's move off West, and the Antiquarian's move to North. **The roster table and ring clock above are authoritative for this table**; treat the diagrams as illustrating the general shape of the working (rings, phases, the fact that the entity tests position-by-position), not the actual names and seats. Not worth re-drawing coordinate-by-coordinate for one session — read positions off the tables, not the pictures.
 
-> **Unprepared bodies — house rule (this table).** Luisa, Quirce's **two** in-ring guards, **and Tomás** (dropped to CON 35 / POW 25 for tonight specifically — see [his stat entry](assets/npc-stats.md#tomás-arredondo)) have no Mythos exposure, no Wrong Returned resilience, and no ritual training — unlike Silvio/Héctor (already altered), Edelmiro (hardened), or Quirce (Cthulhu Mythos 40%, already composed). Saúl is steadier than this group (POW 50) but still green to ritual work. **The four PCs (Benancio, Negro Camba, Tránsito, the Antiquarian) are not part of this rule** — they run on normal investigator rules; their players make the calls, not the dice alone. Whenever an NPC in this group fails a **ring-wide SAN check** by enough to trigger temporary insanity (losing ≥1/5 of current SAN in one hit — the Phase 1 hellscape vision at **1D10** will do this to most of them, Tomás almost automatically), or fails a **positional CON hold**, they don't just take the loss: they break — freeze, bolt, or wail — and stumble out of position for that round. A vacated position is an unguarded node, mechanically identical to [the Quirce-crossing gap](#scene-3--the-quirce-crisis) or a breaching malón warrior: the entity gets a free pass at whoever's exposed there — resolve as the [Hound's](assets/entity-hound.md) bite (1D6+DB, plus ichor 2D6/round until removed) or, for a slower horror beat, the tongue (3D6 POW drain, permanent, painless). **Exception: protect Saúl** — his C9 arc requires him alive until the post road; if his roll would kill him here, downgrade to insanity, a wound, or a bad scare instead.
+> **Unprepared bodies — house rule (this table).** Luisa, Quirce's **two** in-ring guards, **and Tomás** (dropped to CON 35 / POW 25 for tonight specifically — see [his stat entry](assets/npc-stats.md#tomás-arredondo)) have no Mythos exposure, no Wrong Returned resilience, and no ritual training — unlike Silvio/Héctor (already altered), Edelmiro (hardened), or Quirce (Cthulhu Mythos 40%, already composed). Saúl is steadier than this group (POW 50) but still green to ritual work. **The four PCs (Benancio, Negro Camba, Tránsito, the Antiquarian) are not part of this rule** — they run on normal investigator rules; their players make the calls, not the dice alone. Whenever an NPC in this group fails a **ring-wide SAN check** by enough to trigger temporary insanity (losing ≥1/5 of current SAN in one hit — the Phase 1 hellscape vision at **1D10** will do this to most of them, Tomás almost automatically), or fails a **positional CON hold**, they don't just take the loss: they break — freeze, bolt, or wail — and stumble out of position for that round. A vacated position is an unguarded node — the [broken-circle rule](#the-broken-circle-rule-what-happens-when-a-position-opens): the entity gets a free pass at whoever's exposed there — resolve as the [Hound's](assets/entity-hound.md) bite (1D6+DB, plus ichor 2D6/round until removed) or, for a slower horror beat, the tongue (3D6 POW drain, permanent, painless). **Exception: protect Saúl** — his C9 arc requires him alive until the post road; if his roll would kill him here, downgrade to insanity, a wound, or a bad scare instead.
 
 The entity presses whoever opened the wound, wherever Don Eusebio stands — and at this table he stands at the **center**, so **Scene 4 lands at the center.** His lower POW means the entity presses him harder there, and the Round-2 offer is not "you'll lose a geometric sense" but _"the land will be ordinary again and you will have to live in it knowing what you cost it."_ The Marked PC beside him is in the most exposed position in the working.
 
@@ -146,7 +146,7 @@ _Tick them off as they fire. "Ring-wide" = every PC plus every NPC in a position
 | 10 | Phase 2, after vision | Both Marked | **SAN 1/1D4** + **2d6 Hound** | — |
 | 11 | Phase 2, El Patrón | The 3 who see him | **SAN 0/1D4** | Edelmiro, Marked PCs, Mercedes only |
 | 12 | Phase 2, Edelmiro breaks | Both Marked | **2d6 Hound** | Phase restarts −10 min |
-| 13 | Phase 3 | Those watching Eusebio | **SAN 0/1D4** | His choice is relationship-determined, not rolled |
+| 13 | Phase 3 | Those watching Eusebio | **SAN 0/1D4** | **Locked: he holds** — Benancio's relationship carries him, no roll for Eusebio himself. Only flips if Benancio breaks first |
 | 14 | Between phases | The quiet Marked PC | **SAN 0/1** | Mercedes' hook |
 | 15 | **Phase 4**, each position | Each holder | **CON Normal** (Hard if compromised) | Sequence, ~30 s each |
 | 16 | Phase 4, center | Don Eusebio | **CON Hard** · POW if solo · **Normal if braced** | Ochre palms = one step easier |
@@ -183,12 +183,27 @@ It does not hunt and it does not hate. It **catalogues**, and tonight it is doin
 ## Standing rules at the ring — read these to the table once
 
 1. **Hold your position.** The single instruction. Mercedes will not repeat it kindly: _"¡No rompan el círculo! Que los coma a ellos."_
-2. **A vacated position is an open door** — treat exactly as [the Quirce-gap](#scene-3--the-quirce-crisis): one round to fill it, or the phase restarts (−10 min) and a nearby PC takes **1D6 SAN**.
+2. **A vacated position is an open door** — see the **[broken-circle rule](#the-broken-circle-rule-what-happens-when-a-position-opens)** below. This is the one mechanic underneath almost every crisis tonight (the malón, a fragile-body panic, anyone stepping out) — know it cold.
 3. **Mercedes must not stop reading.** The voice is the pin in the shape. Interrupting her is the worst single thing anyone can do.
 4. **The east does not act outward.** Whoever holds it *becomes the line* — still, facing inward. Reading, gesturing, or drawing from the east forfeits that round's hold.
 5. **[Obsidian](assets/npc-stats.md#weapon-notes--1821-argentina) connects but costs the position** — and chips. It displaces; it cannot kill.
 6. **[Fragile bodies break](#opening-situation)** — Luisa, the two in-ring guards, Tomás. Expect to lose positions to panic, especially at the window.
 7. **The players may say the chant aloud.** No roll. The fiction counts speaking as participation.
+
+### The broken-circle rule — what happens when a position opens
+
+_This was originally written as Quirce's Phase 2 crossing scene. That specific scene doesn't fire this table (he starts inside the ring by agreement), but the **mechanic** it taught the campaign is the one you'll use over and over tonight — for the malón, for a fragile body panicking, for anyone who steps out for any reason. Generalized here so it's not tied to a cut scene anymore._
+
+**Trigger**: any ring position — center, a named direction, or a clock slot — is vacated while the geometry is active. Doesn't matter why: someone bolted, someone was pulled out, someone chose to move.
+
+**Noticing**: obvious once it happens — the grass differs inside the ring, the air is a degree colder there, the pit gets louder. A **Spot Hidden** only matters if it happens somewhere nobody's looking.
+
+**The window**: **one round (~30 s)** to fill the gap or otherwise compensate, before the entity locates the inconsistency (it takes ~15 s to notice on its own).
+
+- **Filled in time** (someone steps in, covers it, or the body returns): the entity's attention goes briefly to the gap, then back to contesting — **+1 difficulty to the current phase only**, no permanent damage.
+- **Not filled** (nobody available, or the table doesn't act): the entity invades through the gap — a finger in a wound. A nearby PC takes **1D6 SAN**; the phase **restarts (−10 min)**; the entity is more deeply mapped into the geometry (harder next time).
+
+**This is the same mechanic as**: [the malón's breaching riders](#the-malón-strikes) (scaled up — multiple simultaneous gaps, capped penalty instead of a restart), the [fragile-bodies break rule](#opening-situation) (an NPC panics *into* this trigger), and any PC who chooses to leave a position mid-phase. One rule, several doors into it.
 
 ---
 
@@ -381,7 +396,7 @@ _**6–8 warriors** ([stats](assets/npc-stats.md#malón-warrior-generic--the-cha
 > **What guard-3 actually changes**: at best, he puts down one rider before the wave reaches the line — a small, honest reduction, not a clean stop. This is a lone hired man with a knife and one shot against 6–8 mounted raiders; he is there to make the malón spend a beat on him, not to hold. **Cost to the working proceeds as written below regardless** — his fight doesn't cap the phase penalty the way a PC's would. If he goes down, it's a wound and a night on the cold ground, not a death, unless the table wants the weight of losing him. Being outside the ring, whatever happens to him does **not** open a node.
 
 **Cost to the working — a real threat, not a free win:**
-- **Hold positions** _(right answer)_ → each warrior who breaches before the cull is a momentary unguarded node, exactly like [the Quirce gap](#scene-3--the-quirce-crisis): **+1 difficulty to this phase per breaching warrior (cap +2)**, and a nearby PC takes **SAN 0/1** at the wrongness of men eaten by the angles. No restart.
+- **Hold positions** _(right answer)_ → each warrior who breaches before the cull is a momentary unguarded node, per the [broken-circle rule](#the-broken-circle-rule-what-happens-when-a-position-opens): **+1 difficulty to this phase per breaching warrior (cap +2)**, and a nearby PC takes **SAN 0/1** at the wrongness of men eaten by the angles. No restart.
 - **Break formation to fight** _(wrong answer)_ → whoever leaves their station opens the ring as Quirce did: **phase restarts (−10 min)**, and now *they* are exposed to raider and geometry both. Mercedes, hard: _"¡No rompan el círculo! Que los coma a ellos."_
 - **A warrior reaches the saddlebags** (only if left unguarded at the rim) → he grabs the maps and is **taken three steps out**; the maps drop **inside the active ring**, recoverable only after the seal (or gone — Keeper's call). Either way the cult does not get them.
 
@@ -516,7 +531,7 @@ This is the campaign's most direct statement that **Coypac's failure is the Buen
 
 _(scheduled — Phase 2)_
 
-[Saens's instructions named this door before they ever reached the pit](chapter-07.md#the-order-and-the-east) — _el este cede primero_ — and the goat pointed to the exact line during [assembly](chapter-07.md#the-goat-points-to-the-east). Run at Phase 2, or the moment the Quirce gap opens — whichever is first.
+[Saens's instructions named this door before they ever reached the pit](chapter-07.md#the-order-and-the-east) — _el este cede primero_ — and the goat pointed to the exact line during [assembly](chapter-07.md#the-goat-points-to-the-east). Run at Phase 2.
 
 > _El arco este de los paneles tendidos se adelgaza — el adelgazamiento de nota sostenida — y después **se rasga**, dos palmos de ancho, en la línea que Marta dibujó de la recopia contaminada. Durante **1D3 rondas** la entidad está _pasando_ por el este: no un cuerpo, una **cuña de dirección equivocada** que se ensancha a lo largo de la costura del panel. Quien sostiene la posición del este es el enfrentamiento: **CON Difícil** por ronda para aguantar (Normal si una segunda persona lo apoya, mano en el hombro); una Protección Mandinga aguanta **automáticamente** la ronda 1, Normal después. Cada ronda fallada: 1D4 COR al hombre del este y 3 minutos del reloj de la fase. Después de 1D3 rondas la cuña se retira — la entidad está _probando_, exactamente como ensayó; guarda la explotación real para la Fase 5._
 
@@ -640,11 +655,15 @@ The chapter's most important scene. The entity has been aware of Don Eusebio sin
 >
 > _Y en esa atención, una oferta. Sin palabras. En certeza. La tierra va a producir de nuevo. El ganado va a estar gordo. La sequía va a terminar. Todo eso, disponible, si simplemente sale del anillo — de vuelta a la versión de las cosas donde él es el patrón y la tierra obedece._
 
-This is the first half of his final test — the **wordless offer**, which he withstands in silence (he says nothing here). He answers it _aloud_ in [C9, Phase Four](chapter-09.md#phase-four--the-deep-close), with the single word **"No."** Play the two as one arc — temptation here, the spoken refusal there — not as a repeated beat. Whether he steps out or stays depends on six chapters of history — specifically whether the investigators treated him as a human being capable of choice or a tool to be managed.
+This is the first half of his final test — the **wordless offer**, which he withstands in silence (he says nothing here). He answers it _aloud_ in [C9, Phase Four](chapter-09.md#phase-four--the-deep-close), with the single word **"No."** Play the two as one arc — temptation here, the spoken refusal there — not as a repeated beat.
 
-- **Relationship built (honest engagement)**: he stays. He grips the center marker with both hands and does not move. His face is not heroic — it is the face of someone experiencing something terrible and not leaving. He says nothing.
-- **Transactional or hostile**: he falters — one step back, out of the center. The anchor gives; the geometry loses the point it is built around; the phase collapses.
-- **Recovery** (if he steps out): the **Marked PC beside him at the center** — or another investigator — can hold him there: hand on shoulder, eye contact, _"Don Eusebio. Back."_ He goes. But the center now holds because someone holds him in it, not by his own will, and the geometry reflects that — the anchor is weaker.
+> **This table: locked — he holds, full stop.** **Benancio built a real relationship with Don Eusebio** across the campaign, and that relationship is what's standing beside him at the center right now. This isn't a conditional to check against six chapters of notes — it's already decided. **He stays.** He grips the center marker with both hands and does not move. His face is not heroic — it is the face of someone experiencing something terrible and not leaving. He says nothing.
+>
+> **The one exception**: if **Benancio himself** breaks — flees the center, panics, is pulled out by a failed check, anything that removes him from Eusebio's side — the relationship that's holding Eusebio up goes with him. Run it as the original "falters" branch below, but only in that specific case, and only from the moment Benancio actually leaves.
+
+- **Holds (the default, this table)**: he grips the center marker with both hands and does not move. He says nothing.
+- **Falters (only if Benancio breaks first)**: he steps back, out of the center. The anchor gives; the geometry loses the point it is built around; the phase collapses.
+- **Recovery** (if he steps out): another investigator can hold him there in Benancio's place: hand on shoulder, eye contact, _"Don Eusebio. Back."_ He goes. But the center now holds because someone holds him in it, not because of the relationship that used to be enough, and the geometry reflects that — the anchor is weaker.
 
 **SAN Check** (watching him take the offer): 0/1D4 — not for the entity, but for the comprehension that this is what he's been running from, and he is not running now.
 
@@ -654,15 +673,15 @@ _This phase has **no dice for Don Eusebio**. His outcome was decided across six 
 
 | Beat | What happens | At the table |
 |---|---|---|
-| **1. The pressure lifts off the ring** | Everyone holding a position suddenly feels the weight go — the entity stops contesting broadly. Relief, then the understanding of what it means | Tell each position-holder privately-ish: _"It's not pushing on you anymore."_ Let them work out why |
+| **1. The pressure lifts off the ring** | Everyone holding a position suddenly feels the weight go — the entity stops contesting broadly. Relief, then the understanding of what it means | Say it once, openly, to the whole table: _"It's not pushing on any of you anymore."_ Let them work out why together |
 | **2. It finds him** | Read the *"Algo lo está mirando"* text. All attention converges on one man in the center | The Marked PCs feel the vector — they know exactly where it went |
 | **3. The offer** | Wordless, delivered as certainty: the land fertile again, the cattle fat, if he simply steps out of the ring | No roll. Play the silence. He does not speak |
 | **4. The table's instinct to help** | Someone will want to shout, move, grab him. **This is the trap** — leaving a position now opens a node during the phase where the entity's whole attention is one meter from the center | Let them choose. If they break, run the vacated-node rule; if they hold, that restraint *is* their contribution |
-| **5. He holds — or falters** | **Relationship built** → he grips the marker, says nothing, does not move. **Transactional/hostile** → one step back, out of the center; the anchor gives | Check your C4–C7 notes on how they treated him. Do not fudge this either way |
-| **6. Recovery, if needed** | The Marked PC beside him (or another) holds him in place — hand on shoulder, _"Don Eusebio. Back."_ | He goes. But the center now holds because someone holds him in it |
+| **5. He holds** | **Locked this table**: he grips the marker, says nothing, does not move — Benancio's relationship carries him through | No check needed, unless Benancio has already broken (see above) — in that case run the falter/recovery branch instead |
+| **6. Recovery, if needed** | Only relevant if Benancio breaks first. Another investigator holds Eusebio in place — hand on shoulder, _"Don Eusebio. Back."_ | He goes. But the center now holds because someone holds him in it, not the relationship |
 | **7. Watching it** | **SAN 0/1D4** for those who understood what they just saw | Then the phase closes and the ring breathes |
 
-> **The C1 prayer callback.** If an investigator finishes _Por la tierra que fue buena_ — the third line Don Eusebio could not remember at the rim — **this is where it pays off**: he looks at them once across the geometry and nods, and stands without flinching for the rest of the night. Treat it as converting a "falters" into a "holds." It is the single most earned mechanical effect in the chapter, and it costs no roll at all.
+> **The C1 prayer callback — still available, now a bonus not a requirement.** If an investigator finishes _Por la tierra que fue buena_ — the third line Don Eusebio could not remember at the rim — he looks at them once across the geometry and nods. He was already going to hold because of Benancio; this just deepens it, and matters most as insurance if Benancio does end up breaking.
 
 > **Keeper note — recovery aftermath**: Don Eusebio is already the center anchor (he committed to it in [C6](chapter-06.md#confronting-don-eusebio)). Holding it through this is the only thing he has to offer that costs him something — and his survival into C9 is what lets him ask the campaign's final moral question.
 
@@ -670,7 +689,9 @@ _This phase has **no dice for Don Eusebio**. His outcome was decided across six 
 
 ## MERCEDES, BETWEEN PHASES
 
-In the gap between phases, Mercedes sits beside a quiet Marked PC, away from the ring:
+> **This table: run this openly, not as a private aside.** No pulling a player away from the table — Mercedes says this in front of everyone, at the ring, even though the words are aimed at one Marked PC specifically. Everyone hears it; only that PC is positioned to actually answer her.
+
+In the gap between phases, Mercedes turns to a quiet Marked PC, right there at the ring:
 
 > _(Watching the inner ring, not looking at the player.)_ _"Lo que están haciendo acá — alcanza para esta noche. ¿Vos sentís lo mismo que yo? Que para mañana ya no alcanza."_ _(She lets them answer; the Marked PC, looking at the geometry, can feel it — this binding holds tonight; another opening needs a different tool.)_ _"Yo leí algo, hace cuarenta años, que sí alcanza. Una sola vez, en un solo lugar. No mañana. No la próxima semana. Cuando esto termine, me vienen a buscar y hablamos."_
 
