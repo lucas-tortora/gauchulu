@@ -207,7 +207,7 @@ It does not hunt and it does not hate. It **catalogues**, and tonight it is doin
 |Trigger|When|
 |---|---|
 |**Ritual opens**|Phase 1, first chant — roll once at the opening read-aloud|
-|**Quirce crosses the ring**|As the entity locates the gap (~15 s)|
+|**The copper window opens**|Phase 1, right after — [Scene 1's new beat](#the-window-opens-new--this-table-2026-08-03)|
 |**Eastern asymmetry activates**|Phase 2 — see [the Eastern Incursion](#the-eastern-incursion) (scheduled, no roll)|
 |**Cursed Gaucho breaks formation**|During the 5-second El Patrón window|
 |**Coypac echo vision**|After the vision ends — both Marked roll|
@@ -223,20 +223,7 @@ It does not hunt and it does not hate. It **catalogues**, and tonight it is doin
 
 ## THE ANTIQUARIAN AT THE RING (added PC)
 
-> **This table: the choice is already made — he is IN, at North**, drawing the panels himself with his own Occult + Art/Craft ([roster](#opening-situation)). Do **not** run the ring-or-rim scene below; it resolved during the [C7 assembly](chapter-07.md#assembly--marta-directs). Keep from this section: the **[Prior Knowledge Occult roll](#prior-knowledge--occult-roll-at-character-creation)** (still live and still valuable — especially the Hard success's ochre-palms instruction and the Extreme's base-tone transcription), and the **[Becoming Marked](#chapter-8--la-traición)** option if he takes direct entity contact. The rest is background.
-
-_The Antiquarian is **not a stranger** here: the party met them underground in [La Salamanca's whisper tunnels](chapter-05.md#the-whispering-tunnels) (C5), came up out of the ruins together, and rode west to the pit with the group. **There is no dusk arrival.** Run this at **dusk, as positions are taken** — the panels are laid, people are finding their marks, the first chant has **not** begun — as the moment they choose what they came to be: a body **in the ring**, or a watcher at the **rim**. That choice is the live wire of a seeker who is not invested in whether the pit closes._
-
-> 
-> _No han dejado de mirar los paneles desde que el grupo desmontó en el pozo. En la Salamanca leyeron la geometría muerta, en hueso y en piedra; ésta es la misma forma, despierta. Caminan una vez el borde del anillo tendido, despacio, como quien rodea algo que cruzó un océano para ver, y después se vuelven hacia los demás y preguntan lo único que les importa: "¿Me quieren adentro del círculo, o me quedo afuera y miro?"_
-> 
-
-**The decision is the scene.** The Antiquarian asks for a place **inside** the working — or chooses the rim. **The players answer**, because they came up out of the dark with this person and will be standing beside them: known since the tunnels, but not long, and never in a working like this. **Mercedes**, who only met them when she reached camp, defers to the table: _"Ustedes vinieron con él desde la Salamanca. ¿Responden por él para el círculo? Adentro no hay lugar para dudar."_ **Quirce, if present**, gives the recommendation that is also a warning — a thin smile of recognition: _"Lo conozco de nombre. Estudió en Leipzig, con gente que sabe de esto. No viene a detenerlo ni a empezarlo — viene a ver adentro. Como yo. No va a romper nada a propósito."_ _(Beat.)_ _"Pero no le va a importar si se rompe. Ténganlo presente."_
-
-- **Into the ring** → slot them at the [eastern line / as co-reader](chapter-02.md#opening-situation) before Phase 1. Clean, full benefit: a literate second hand exactly where the table is thin, easing the eastern contest each phase. **No Hound roll** — the geometry is not yet active.
-- **At the rim (observer)** → the seeker's detachment wins; they stand back to watch the working operate, and do not leave. The ring is one body lighter and everyone feels it. If the [east tears](#the-eastern-incursion) later, they **cross the line uninvited** to reach it — converting this into a mid-ritual breach on worse terms (treat as the [Quirce-style unguarded node](#scene-3--the-quirce-crisis): one round to place them or the phase restarts and a nearby PC takes 1D6 SAN), with no one having chosen it.
-
-**SAN Check** at the rim: 0/1 — the vertigo of a lifelong belief turning out to be literally true, and now in motion in front of them.
+> **This table: the choice is already made — he is IN, at North**, drawing the panels himself with his own Occult + Art/Craft ([roster](#opening-situation)). The ring-or-rim scene below is **cut** — it resolved during the [C7 assembly](chapter-07.md#assembly--marta-directs), off-screen, in his favor. Keep from this section: the **[Prior Knowledge Occult roll](#prior-knowledge--occult-roll-at-character-creation)** (still live and still valuable — especially the Hard success's ochre-palms instruction and the Extreme's base-tone transcription), and the **[Becoming Marked](#chapter-8--la-traición)** option below if he takes direct entity contact.
 
 > ⊕ **Becoming Marked (optional).** They are **unmarked** (the [Mark](#chapter-8--la-traición) came from C3, which they missed — they only joined the party in the C5 tunnels) — useful, since an unmarked literate can _look hard_ at geometry without rolling for the Hound. But if they **co-anchor the center** ([Scene 4](#scene-4--don-eusebio-in-the-ring) / [Phase Five](chapter-09.md#phase-five--the-final-seal)) or take the entity's direct contact, that exposure can Mark them on the spot (SAN 1/1D6 + CON check). For this PC, being Marked is the proof they crossed a country to get — let them choose it with eyes open.
 
@@ -558,30 +545,15 @@ _**Roll 1D3 for duration before you start**, so you know how long the PC has to 
 
 ---
 
-## SCENE 3 — THE QUIRCE CRISIS
+## SCENE 3 — THE QUIRCE CRISIS _(cut — does not run this table)_
 
-> **This table: skip.** Quirce started the ritual inside the ring by agreement (see the roster table above) — he never crosses in, so this scene doesn't fire. He's paid for the ring seat already, in [Scene 1's window beat](#scene-1--the-ritual-begins). Skip straight to **[The Cursed Gaucho breaks formation](#the-cursed-gaucho-breaks-formation)** below for Phase 2 — note Gaucho Maldito is off his old western slot too (see roster), so his break now costs the ring a generic body, not a named direction; a nearby recruited NPC (Tomás, the cook, a guard) can cover the gap without the same structural weight the western line carried.
-
-As Phase 2 deploys, Quirce moves. He has kept his theodolite on the eastern rise, outside range, as agreed — but he now **crosses inside the outer ring** with a brass instrument and crouches at a position inside the geometry's effective range. He is not trying to disrupt the ritual; he is trying to **observe from inside**, having calculated that his body and instrument won't affect success. He is wrong. A person inside the ring who is not anchor, opener, or aligned Wrong Returned creates a **structural inconsistency** — an unguarded node the entity immediately exploits, mechanically equivalent to a gap in the ring.
-
-> _Quirce no corre. Camina — tranquilo, profesional, un instrumento de bronce en la mano — y cruza la línea de los paneles como quien entra a un cuarto a tomar una medición que lleva años esperando tomar. Por un segundo nadie reacciona; está tan seguro de lo que hace que parece que tuviera permiso. Se agacha adentro del anillo, apoya una rodilla en el pasto que brilla, y acerca el ojo al instrumento. Y entonces el aire alrededor de él cambia — un grado más frío, el pozo de golpe más fuerte, como si el lugar acabara de notar que hay alguien parado donde no debería haber nadie._
-
-**Noticing**: a **Spot Hidden** as he crosses — _"He is inside the geometry."_ Once seen, the boundary is obvious (the grass differs inside the ring, the air is a degree colder, the pit louder).
-
-**The window**: one round (~30 s) to pull Quirce out or compensate before the entity locates the inconsistency (it takes ~15 s).
-
-- **Act immediately**: the entity's attention goes briefly to the gap, then back to contesting — **+1 difficulty this phase only**, no permanent damage.
-- **Cannot act** (everyone is locked in position): the entity invades through the gap — a finger in a wound. One investigator in a nearby outer-ring position takes **1D6 SAN**; the phase fails and restarts (**−10 minutes**); the entity is more deeply mapped into the geometry.
-
-> Quirce crosses to **observe, not sabotage** — nobody dies here. The sabotage was the Wizard's line already in the panels; Quirce is negligent, not a saboteur (it sets up his C9 _"I owe a debt"_ arc). The consequence is the restart and deeper mapping.
-
-**Quirce, when pulled**: he does not resist, steps out when told — but he is **shaking**, not from cold, from what he experienced inside for those 15 seconds, writing rapidly in cipher. Whatever he saw gave him what he came for and cost him something he didn't expect to pay. He won't speak of it this chapter.
+Quirce started the ritual inside the ring by agreement (see the roster table above), so the scripted mid-Phase-2 crossing never fires — he already paid for the ring seat in [Scene 1's window beat](#scene-1--the-ritual-begins). The original scene (him crossing in, the Spot Hidden window, the restart-or-compensate choice) is removed; nothing here needs running. Go straight to **[The Cursed Gaucho breaks formation](#the-cursed-gaucho-breaks-formation)** below for Phase 2.
 
 ### The Cursed Gaucho breaks formation
 
-> **This table**: Edelmiro holds **clock position 7** (between Tránsito's South and Héctor's West), not the western cardinal itself — Héctor is West and holds it automatically ([Wrong Returned](chapter-09.md#the-audit--run-the-positions-in-this-order)). El Patrón appears in Edelmiro's sightline regardless of exactly which body he's standing at; the beat is about Edelmiro's history with him, not the compass point.
+> **This table**: Edelmiro holds **clock position 7** (between Tránsito's South and Héctor's West), not the western cardinal itself — Héctor is West and holds it automatically ([Wrong Returned](chapter-09.md#the-audit--run-the-positions-in-this-order)). El Patrón appears in Edelmiro's sightline regardless of exactly which body he's standing at; the beat is about Edelmiro's history with him, not the compass point. **Trigger it directly** — somewhere in Phase 2's chaos (the east tearing is plenty of cover), Edelmiro just looks up and sees him; it no longer needs Quirce's old gap to hang off of.
 
-In the same moment — the 5-second geometric distortion the Quirce-gap opens — Edelmiro turns his head slowly, _not_ toward Quirce, looking past him into the dark, off toward the western edge of the field. For five seconds, **El Patrón is briefly visible**, ~30 m out, standing alone, watching. **Only Edelmiro, the Marked PCs, and Mercedes see him** (Mercedes does not move — she has seen him before).
+In the middle of Phase 2's crisis, Edelmiro turns his head slowly, looking past the others into the dark, off toward the western edge of the field. For five seconds, **El Patrón is briefly visible**, ~30 m out, standing alone, watching. **Only Edelmiro, the Marked PCs, and Mercedes see him** (Mercedes does not move — she has seen him before).
 
 > **El Patrón — first sighting** _(read to the three who see him)_
 > _Un hombre común, parado en el pasto a treinta metros, del lado oeste. Ni alto ni bajo, ni joven ni viejo — la clase de cara que uno no recuerda diez minutos después de verla. No brilla, no hace nada. Está de pie, las manos a los costados, mirando el cierre con la atención tranquila de un patrón que mira trabajar a su gente. Cuando el Gaucho lo mira, él le devuelve la mirada — solo a él — y la quietud dice que sabe exactamente quién es el Gaucho, y que no le importa._
@@ -704,7 +676,7 @@ In the gap between phases, Mercedes sits beside a quiet Marked PC, away from the
 
 That is the whole speech — a hook, not a curriculum. The players already know _where_ the book is (named in [H7](assets/handouts-c5-c7.md#h7--mercedes-second-letter-c6-expansion), C6: the Necronomicón, the vault, Buenos Aires); what stays held for **Arc 4** is what it _does_, what it costs, and El Patrón's plan for it — those land _in Buenos Aires_, not here. So she does not elaborate. The load-bearing line is the question — _¿sentís lo mismo?_ — which confirms to the player that what they _see_ is real. If pushed directly ("what did you read?"), she gives two sentences and stops: _"Un libro que está en una bóveda en Buenos Aires desde antes de que existiera la ciudad arriba. No me pregunten más esta noche. Mañana sí."_
 
-> **⭐ Reader-path foreshadowing — only if the [C5 page-79 seed](chapter-05.md#reader-path-seed-use-ending-c12) is logged.** After the _¿sentís lo mismo?_ exchange, Mercedes sits with that specific PC thirty seconds longer, in silence, then — _just to them_: _"Vos leíste a Saens en voz alta. Lo escuché en mi cabeza la noche que ustedes lo leyeron, a setecientos kilómetros — porque cuando algo se lee en voz alta sobre la geometría, la geometría lo escucha y se lo cuenta a quien también lo leyó. Yo lo leí hace cuarenta años. Si en Buenos Aires necesitamos a alguien que lea — vos podés. No tenés que decidirlo ahora. Solo tenés que saber que la opción existe."_ The other players do not hear this. The Reader-PC carries the offer privately into Arc 4. **If the seed was not planted, Mercedes delivers nothing here** — the Use ending is simply not at the table (Hide and Destroyed remain). Do not retrofit.
+> **⭐ Reader-path foreshadowing — cut.** This only fires if the [C5 page-79 seed](chapter-05.md#reader-path-seed-use-ending-c12) was planted, and at this table [it wasn't](flowmap.md) — no PC read the manuscript aloud, so the C12 Use ending is closed for good (Hide and Destroyed remain). Mercedes delivers nothing extra here. Don't retrofit it.
 
 **SAN Check**: 0/1 — for the Marked player who feels her question and answers honestly.
 
@@ -712,7 +684,7 @@ That is the whole speech — a hook, not a curriculum. The players already know 
 
 ## END OF CHAPTER 8 — THE HOLDING POSITION
 
-The chapter ends not at resolution but at sustained crisis. The ritual runs but is incomplete. Live threads: the ritual may be **behind schedule** (forced restarts eat the time before dawn, after which efficacy drops); the **center anchor is at the edge** (if uncoupled); the **outer ring is intact but fragile** (Don Eusebio held or was held; Quirce is out; the entity has mapped the weak points). **Phase count carries to C9's total of five** — if Phases 1–3 completed, C9 begins at Phase 4; restarts lower it.
+The chapter ends not at resolution but at sustained crisis. The ritual runs but is incomplete. Live threads: the ritual may be **behind schedule** (forced restarts eat the time before dawn, after which efficacy drops); the **center anchor is at the edge** (if uncoupled); the **outer ring is intact but fragile** (Don Eusebio held or was held; the entity has mapped the weak points — including whoever broke and was pulled back). **Phase count carries to C9's total of five** — if Phases 1–3 completed, C9 begins at Phase 4; restarts lower it.
 
 > **Observable, fold in as the night runs**: at each phase start the inner-ring candles lean ~20° toward the next phase's pressure (watchers can read which side is tested next). When Don Eusebio takes position, his shadow is briefly _two_ — one offset and larger, gone in five seconds (the entity checking whether he'll hold). Behind Quirce, the dust does not settle — it hangs in a footprint shape for ten seconds (the geometry keeping a record). During El Patrón's manifestation, every locust within fifty meters _stops_ mid-air for five seconds. At the Phase 5 climax, anyone with a bullet still in them (the Cursed Gaucho) feels it go _cool_ — the geometry knows where iron is.
 

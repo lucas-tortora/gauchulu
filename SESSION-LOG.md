@@ -8,6 +8,19 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Dead scenes removed from C8
+
+Cut, not just flagged, the scenes that will not fire at this table so there's nothing left to accidentally run tomorrow:
+
+- **Scene 3 — The Quirce Crisis**: the crossing-in scene, the Spot Hidden window, and the restart-or-compensate choice are all removed. Quirce started inside the ring by agreement, so this never triggers. Only a one-line pointer remains, sending the Keeper straight to Edelmiro's break-formation beat.
+- **The Antiquarian's ring-or-rim decision**: the read-aloud, "the decision is the scene" text, and the two option bullets are removed — he's already at North per the locked roster, resolved off-screen at the C7 assembly. Kept: the Prior Knowledge Occult roll and the Becoming Marked option, both still live.
+- **Mercedes' Reader-path foreshadowing** (in "Mercedes, Between Phases"): this only fires if the C5 page-79 seed was planted, and it wasn't — no PC read the manuscript aloud, so the C12 Use ending is already closed. Collapsed to a one-line "cut" note instead of a conditional the Keeper has to re-check.
+- **Housekeeping**: removed the now-dead "Quirce crosses the ring" row from the Roll-for-Hound trigger table (replaced with the copper-window beat); removed a stray "Quirce is out" from the end-of-chapter observable list (he never left); untied Edelmiro's El Patrón sighting from "the Quirce-gap" so it triggers on its own during Phase 2's chaos instead of a scene that no longer exists.
+
+*Integrated into:* `chapter-08.md` only — chapter-09.md had no equivalent dead content (checked for Reader-path and Quirce-crossing references, none found).
+
+---
+
 ## 2026-08-04 — Correction: Shrivelling ×4 applies to both deal-PCs
 
 The prior entry had Tránsito's death described only as "her power pulled back out of her," distinct from Negro Camba's Shrivelling ×4. Corrected: **both** die the identical way — Mengua/Shrivelling cast four times on each of them, once per limb — with the flavor difference being what it represents for each (his wound becoming the door in; her power leaving the way it arrived), not a different mechanism.
