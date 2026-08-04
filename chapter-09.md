@@ -273,6 +273,32 @@ The pit seals bottom-up: the carved wall-lines compress and go dark in sequence;
 
 The pit sealed. The dust is the reminder that something else is still open — and it will not lift until [C12](chapter-12.md#chapter-12--el-libro).
 
+---
+
+## IF IT DOESN'T SEAL — THE ALTERNATE OUTCOME
+
+_Written 2026-08-04, because C8–C9 never had one and C3 did. Use this only if dawn genuinely arrives with the working incomplete, or the center anchor is lost with no one able to hold it, or the table pushes past every restart and the ring truly comes apart. **This should be hard to reach** — restarts, the [replacement PCs](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece), and the outer ring's redundancy this table built are all there to make the working absorb failure rather than snap. Reach for this only when those are exhausted._
+
+**It is not a TPK and it does not end the campaign.** [C3 already established the pattern](chapter-03.md#the-outcome--the-ritual-failed) at this table: a failed closing kills NPCs, costs PCs Marks/madness/wounds, and reshapes what comes after — it does not stop the story. This is the same shape, second time, higher stakes because there's no living counter-tradition left to try a third time.
+
+**What actually happens, mechanically:**
+- **Dawn arrives mid-phase.** The vibration doesn't stop — it drops in pitch and *spreads thin*, the way a held note goes when the singer runs out of breath. The geometry's resistance weakens (per the [Phase-4 opening note](#opening-situation)); the entity stops pressing and simply **remains** — present, active, unsealed. It does not attack the retreating party; it has no reason to. It got what it needed: the door stays open.
+- **The center anchor pays the price the working didn't.** Don Eusebio and Benancio (or whoever is holding by then) take the **full, un-mitigated Phase 5 pressure** — run [Round 2's offer](#phase-five--the-final-seal) as genuine rather than survivable: this time "the land ordinary again" or "you'll stop hearing the angles" is not a choice being resisted, it's simply what happens. Eusebio does **not** die by default any more than he would on a success — but he is broken in a different way: he steps out, or the geometry discards him, and either way he never gets to ask *"What do I owe?"* with the same weight. That question can still land, just harder-won.
+- **Casualties land on the exposed, not everyone.** Use the same logic as [the malón cull](#the-malón-strikes) and the [fragile-bodies rule](chapter-08.md#opening-situation): whoever is still holding a compromised position when it comes apart is at risk — Luisa, Tomás, a guard, possibly Silvio or Edelmiro if they've already taken damage tonight. **PCs are not defaulted to death** — Marked, mad, gravely wounded, or (rarely, dramatically) dead is the ladder, same as C3, and the [replacement PCs](chapter-07.md#reemplazos--pjs-para-entregar-si-un-pj-muere-o-enloquece) are already standing by if needed.
+- **Negro Camba and Tránsito's blood debt still collects** regardless of outcome — Mandinga doesn't renegotiate for a failed working any more than a successful one.
+- **The dust does not lift** — same as success. That thread was never going to resolve here either way.
+
+**What it changes going into Arc 4:**
+
+| This table's success | This table's failure |
+|---|---|
+| Coypac closes *partially* (H10) — a real but incomplete win on the other side too | Coypac closes **fully in the cult's favor** — no partial credit. The priests extract the manuscript fragment cleanly, more Keepers die confirming it, and the alarm reaching Buenos Aires is louder and earlier |
+| The entity is sealed at the pit — displaced, not destroyed, but the door is shut | **The entity remains active at La Esperanza.** Don Eusebio's land stays lost; the estancia is not survivable long-term; this becomes a live thread, not a closed one |
+| Mercedes leads with a win behind her | Mercedes leads from a second failure — her Arc 4 urgency (*"Esta es la parte difícil"*) reads as **desperation, not resolve**. Play her colder, faster, less patient with the investigators from here on |
+| Riding out is a hard-earned exhale | Riding out is a retreat. Keep the beats (goat, San Ruiz, the ruins, the smoke of Buenos Aires) but strip the relief from them |
+
+**Do not run this as a punishment.** It's a worse Arc 4, not a different game — the investigators still ride to Buenos Aires, the book is still the point, and everything in [C10](chapter-10.md#chapter-10--la-llegada) onward still applies. Adjust tone, not structure.
+
 **SAN Check** (the seal completing): 1/1D6 — not horror. The shock of genuine resolution: something was terrible for eight months and now it is _over_, and the mind does not know what to do with _over_.
 
 > **Roll for Hound (C9).** **During Phases 4–5: no Mark rolls.** The entity is fully present and engaged; there is nothing left to bleed through — the pressure mechanics _are_ the encounter. One optional roll only: in the 10-minute gap before Phase 5, a Marked PC who deliberately **looks hard** at the amber geometry to map it rolls at the **raised threshold**. **After the seal: no rolls, ever again, at this site.** The Marks go quiet — tell the Marked players their dice can stay in the bag. The first post-seal silence is itself a beat.
@@ -377,5 +403,6 @@ The travel runs without the dead riding parallel — Mercedes in a hired carriag
 - [ ] Coypac relay (a few days after the closing, before riding out — **not** dawn): anonymous relay rider, [Saráchaga letter H10](assets/handouts-c8-c12.md#h10--the-coypac-relay-report-c9-dawn), Saúl confirmed dead; Don Eusebio's east-ride choice; Cursed Gaucho's tannery rendezvous set.
 - [ ] Mandinga-deal PCs: the blood was owed **at** the closing (opened palm to the panel line — Phase 2 east or Phase 5 seal). **If offered**: private moment — the wound seals clean, the strength settles, the debt is paid; the spell remains. **If withheld**: the health-PC's wound is reopening (1 HP/day) and the power-PC's gift carries a penalty die — Mandinga collects until amends.
 - [ ] **Decision**: end at C9, continue to C10, or run hybrid closing note.
+- [ ] **If dawn arrives unsealed or the ring truly comes apart**: this is not a TPK — run [the alternate outcome](#if-it-doesnt-seal--the-alternate-outcome) instead. Should be hard to reach; restarts and the replacement-PC list exist to prevent it.
 
 ---

@@ -8,6 +8,14 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Failure outcome written (C9 never had one)
+
+Lucas asked directly whether a failed ritual is a game-over. It isn't — [C3 already established the pattern](chapter-03.md#the-outcome--the-ritual-failed) at this table: a failed closing costs NPC lives and PC Marks/madness/wounds and reshapes the next arc, but does not stop the campaign. C8–C9 never had a written equivalent (unlike C3), so it was missing exactly when it'd matter most. Added **`IF IT DOESN'T SEAL — THE ALTERNATE OUTCOME`** to `chapter-09.md`, right after the seal-completes text: what dawn-arrives-unsealed looks like mechanically (the entity remains active, not attacking, just un-displaced), who's actually at risk (the exposed, not everyone — same logic as the malón cull and the fragile-bodies rule; PCs are not defaulted to death, replacements stand by), and a success-vs-failure table for what it changes going into Arc 4 (Coypac closes fully instead of partially, the entity stays active at the estancia, Mercedes leads from desperation instead of resolve). Explicitly framed as **hard to reach** — restarts and the replacement-PC list exist to prevent it — and as a worse Arc 4, not a different game.
+
+*Integrated into:* `chapter-09.md` (new section + checklist line).
+
+---
+
 ## 2026-08-04 — Full roster named; clock positions locked
 
 The 2026-08-03 roster is superseded by a fully named, clock-mapped version, given the night before the actual session:
