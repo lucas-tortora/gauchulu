@@ -8,6 +8,16 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-04 — Marta reinstated as North's floater
+
+Correction to the same day's earlier roster lock: **Marta is back in the ring.** She doesn't hold a fixed position — she floats near North and covers it whenever the Antiquarian steps in to draw a panel, so North is never actually unguarded during a draw. She does not draw panels herself this table (that stays the Antiquarian's Occult + Art/Craft); she's the safety net under his hold, and reverts to her standing "floater to any broken position" role the rest of the time — including the Phase 4 audit, where a broken position now has an actual answer again instead of "call the nearest neighbor."
+
+Downstream effects reversed from the earlier lock: the Phase 5 co-anchor option (#3) is now **Marta, Héctor, or Silvio** — whichever the party has rapport with and whichever isn't tied up elsewhere; the post-seal Wrong-Returned aftermath beat is a three-way beat (whoever didn't co-anchor reacts, the others ground them) instead of a pair; the Phase 4 audit's "West · Silvio" auto-hold row gains Marta, wherever she's standing; and the C12 cordon-lead load-bearing note now reads "one of Marta/Héctor/Silvio," not "Héctor or Silvio."
+
+*Integrated into:* `chapter-08.md` (PC roster paragraph, roster table, ring clock, Antiquarian callout, opening read-aloud, `Estado al empezar`, checklist), `chapter-09.md` (Phase 4 audit rows 1 & 8 + designated-floater note, Phase 5 option 3, Cost section, load-bearing-NPC table, roster recordatorio), `flowmap.md`.
+
+---
+
 ## 2026-08-04 — Failure outcome written (C9 never had one)
 
 Lucas asked directly whether a failed ritual is a game-over. It isn't — [C3 already established the pattern](chapter-03.md#the-outcome--the-ritual-failed) at this table: a failed closing costs NPC lives and PC Marks/madness/wounds and reshapes the next arc, but does not stop the campaign. C8–C9 never had a written equivalent (unlike C3), so it was missing exactly when it'd matter most. Added **`IF IT DOESN'T SEAL — THE ALTERNATE OUTCOME`** to `chapter-09.md`, right after the seal-completes text: what dawn-arrives-unsealed looks like mechanically (the entity remains active, not attacking, just un-displaced), who's actually at risk (the exposed, not everyone — same logic as the malón cull and the fragile-bodies rule; PCs are not defaulted to death, replacements stand by), and a success-vs-failure table for what it changes going into Arc 4 (Coypac closes fully instead of partially, the entity stays active at the estancia, Mercedes leads from desperation instead of resolve). Explicitly framed as **hard to reach** — restarts and the replacement-PC list exist to prevent it — and as a worse Arc 4, not a different game.
