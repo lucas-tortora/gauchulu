@@ -299,6 +299,20 @@ _Written 2026-08-04, because C8–C9 never had one and C3 did. Use this only if 
 
 **Do not run this as a punishment.** It's a worse Arc 4, not a different game — the investigators still ride to Buenos Aires, the book is still the point, and everything in [C10](chapter-10.md#chapter-10--la-llegada) onward still applies. Adjust tone, not structure.
 
+### Who's actually load-bearing, if anyone dies tonight
+
+_Written 2026-08-04. Applies whether the working succeeds or fails — this is about individual deaths at the ritual, not the seal itself._
+
+| NPC | Cost if they die tonight |
+|---|---|
+| **Mercedes** | The real one. She sponsors the party into the Keeper meeting house (C10), confesses her Necronomicón backstory and hands over the parchment the C12 Destroy ending needs (C11), and calls the final choice at the dock (C12). Losing her means rewriting who does all three. **She has no mechanical exposure tonight** — outside the ring, not tested in the Phase 4 audit, not near the malón — so this should only happen by deliberate Keeper choice, not a bad roll |
+| **Edelmiro** | Costs his C11 tannery scene and his C12 last stand on Calle Belgrano — but he was **already scripted to die there** if the players let him. Dying tonight instead just moves it earlier |
+| **Quirce** | Mostly an off-stage Arc 4 role (leak, third-key holder) — reassignable, not load-bearing in person |
+| **Héctor / Silvio** | One of them surviving matters for leading the C12 cordon panel-placement (Marta's not here to do it); losing both makes C12 harder, not impossible — a Warding-PC can substitute |
+| **Don Eusebio** | Survives by default per the ritual mechanics; his Arc 4 return is already written as optional |
+| **Tomás, Luisa, the guards** | Nothing scripted depends on them by name — this is what they're built to absorb |
+| **Saúl** | Already protected — dies on the post road in C9, not tonight |
+
 **SAN Check** (the seal completing): 1/1D6 — not horror. The shock of genuine resolution: something was terrible for eight months and now it is _over_, and the mind does not know what to do with _over_.
 
 > **Roll for Hound (C9).** **During Phases 4–5: no Mark rolls.** The entity is fully present and engaged; there is nothing left to bleed through — the pressure mechanics _are_ the encounter. One optional roll only: in the 10-minute gap before Phase 5, a Marked PC who deliberately **looks hard** at the amber geometry to map it rolls at the **raised threshold**. **After the seal: no rolls, ever again, at this site.** The Marks go quiet — tell the Marked players their dice can stay in the bag. The first post-seal silence is itself a beat.
