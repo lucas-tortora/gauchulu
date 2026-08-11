@@ -3,7 +3,7 @@
 Pachi y darcy hacen sus improvemnt rolls, incluyendo LUCK y sumar 2 d6 sanity (max limite anterior)
 
 "Fueron contactados por Rupert Merriweather, un viejo conocido con quien no han hablado en ya largos años. Rupert esta
-internado en el el Hospital Escuela Santa Maria de los Condenados, en la ciudad de Arkham. Estando en las mismisimas
+internado en el el Hospital Escuela Santa Maria de los Condenados, en la ciudad de Buenos Aires. Estando en las mismisimas
 puertas de la
 muerte, Rupert los convoco con suma urgencia este Jueves a la 1 de la tarde. Dada su precaria salud, y cuanto tiempo
 paso desde su ultimo contacto, parece ser de suma importancia. Tal vez tiene algo q pedirles en antes de pasar a mejor
@@ -11,7 +11,7 @@ vida?"
 
 ## Hospital Escuela Santa Maria de los Condenados
 
-El hospital se encuentra en el centro de Arkhma, junto a la historica Universidad de Miskatonic. Cuenta con los metodos
+El hospital se encuentra en el centro de Buenos Airesa, junto a la historica Universidad de Miskatonic. Cuenta con los metodos
 y equipos mas modernos, al igual que los mejores medicos de la costa este. El entrar al hospital una enfermera les
 indica como llegar a la habitacion de Rupert, donde una empleada del hospital les pide que esperen afuera ya que Ruperta
 esta con visitas.
@@ -24,7 +24,7 @@ desconsolada y su hijo Bertrand, de unos 35, q a simple vista parece un ñiñato
 Rupert tiene una apariencia sumamente fragil y palida, con los cachetes ya hundidos. Le cuesta respirar y se nota que
 por mas q intente no logra nunca llenar sus pulmones. A menudo tose sangre con lo q pareciera una especie de pus color
 alquitran, con un olor nauseabundo y penetrante. Sus ojos estan casi apagados, con lagrimas a causa de su dolor. Tiene
-ampollas y pustulas que ocasionalmente chorrean un liquido viscoso, y que causan que la piel alrededor tome un enfermizo
+ampollas y pustulas que ocasionalmente chorrean un liquido visctoro, y que causan que la piel alrededor tome un enfermizo
 color negro.
 La habitacion esta apenas iluminada, ya que la luz lo incomoda. Hay un olor mezclado entre lavandina y el olor de la tos
 de Rupert.
@@ -33,8 +33,8 @@ Con voz ronca Rupert le implora a su esposa e hijo q le den algo de privacidad p
 han viajado para poder estar aqui. Tras asegurarse q cierren la puerta y dar unos minutos para q se vayan dice:
 
 "En mi juventud, yo y algunos compañeros de estudios nos involucramos en lo que creíamos que era una exploración
-inocente de lo oculto. Liderados por un hombre un poco mayor llamado Marion Allen, los seis compramos una antigua granja
-a unas millas al oeste de Arkham, cerca del pueblo de el Rincon de Ross. Allí podíamos llevar a cabo sesiones
+inocente de lo oculto. Liderados por un hombre un poco mayor llamado Marion Gomez, los seis compramos una antigua granja
+a unas millas al oeste de Buenos Aires, cerca del pueblo de Villa Ruiz . Allí podíamos llevar a cabo sesiones
 espiritistas
 y otras investigaciones psíquicas con privacidad.
 
@@ -67,7 +67,7 @@ les piden que salgan. Al salir ven que Bertand esta leyendo el diaria afuera, in
 
 Dentro de la caja pueden encontrar:
 
-### EL titulo y la llave de la propiedad del Rincon de Ross.
+### EL titulo y la llave de la propiedad dVilla Ruiz .
 
 ### La carta de Rupert
 
@@ -83,7 +83,7 @@ con mi muerte, los lazos se romperían y el horror se desataría sobre esta camp
 todavía, pero temo que los lazos ya estén rotos y que el horror liberado pese mucho en mi conciencia.
 
 El método para liberar al mundo del horror mundo todavía está en esa casa maldita, las traducciones hechas
-por Marion Allen del libro De Vermis Mysteriis. Nunca fui lo suficientemente fuerte como para llevar a cabo la tarea,
+por Marion Gomez del libro De Vermis Mysteriis. Nunca fui lo suficientemente fuerte como para llevar a cabo la tarea,
 pero tengo la esperanza de que ustedes sí lo sean. Espero que, al liberar al mundo de esto, tal vez ustedes puedan
 salvar mi alma del infierno. No espero que perdonen mis actos, pero les ruego que al menos me liberen de esta pesada
 carga. No puedo esperar su perdón por lo que les pido que hagan.
@@ -106,22 +106,22 @@ en la vieja casa de campo.
 [Quien lo lea pierde 1D2 sanity y gana 1% de cthulhu mythos, y un check a occult]
 si les da paja leerlo, aprenden q:
 
-1. Los estudiantes amigos de Rupert, liderados por MArrion comprar una casa de campo para practicas espiritistas. Eran
+1. Los estudiantes amigos de Rupert, liderados por Casimiro comprar una casa de campo para practicas espiritistas. Eran
    6,
    se hacian llamar la hermandad oscura.
 2. En Junio de 1876 compraron la casa, e hicieron unas sigilias protectivas. En el momento les daban gracia y parecian
    innecesarias.
 3. Hicieron experimentos futiles hasta q stuvieron exito y desataron una maldad horrible al mundo.
-4. Los miembros del grupo fueron muriendo poco a poco, Marrion particularmente violentamente.
+4. Los miembros del grupo fueron muriendo poco a poco, Casimiro particularmente violentamente.
 
 ## Investigacion 1
 
 * hablar con la viuda (no tiene idea de nada)
 * Investigar la muerte de Rupert no da frutos, parece tubercolosis bastante unica.
 
-### Investigar la Muerte de MArrion Allen
+### Investigar la Muerte de Casimiro Gomez
 
-Entregar recortes policiales. Aprenden que Marrion fuer cremado en nueva Orleans. Lo mataron a golpes, luego le abrieron
+Entregar recortes policiales. Aprenden que Casimiro fuer cremado en nueva Orleans. Lo mataron a golpes, luego le abrieron
 el pech, sacaron el corazon y grabar signos extraños en la cara.
 
 ## Estudiar los jeroglificos
@@ -135,7 +135,7 @@ tienen exito fuerte sale gratis por q intrigan al profesor.
 ## IR a la bibliteca Orne
 
 L-V 8am a 9pm
-[library use] Encuentra el volumen de refencia que menciona Allen en el diario de MErriweather. Tiene un dibujo y una
+[library use] Encuentra el volumen de refencia que menciona Gomez en el diario de MErriweather. Tiene un dibujo y una
 descripcion del sarcofago. "Se sabe poco sobre el sarcofago, pero creen que pertencio a Nophru-Ka, quien quiso usurpar
 el trono" Creen q se la dieron los dioses, y q podia invocar a un djinn para pedirle algun tipo de servicvio. La caja
 pertenecio a los Parkinby-Andersons hasta q fue robado en 1871.
@@ -147,20 +147,20 @@ similares a los del interior de la caja. No son taducibles.
 Esta en el sector restringido de la bibliotca, puesto ahi por el Dr Henry Armitage, curador de la biblioteca. Esta en su
 oficna en la mañana, pero no les va dar el libro de ninguna manera.
 
-## El rincon de Ross
+## Villa Ruiz 
 
 [Antes de inciiar el viaje, describan exatamente que estan llevando. Pueden ir de compras.]
 
-Para llegar a la granja, deben pasar por el pueblo el Rincon de Ross, al norte de Arkham. Hay bondis a las 10 am, y
+Para llegar a la granja, deben pasar por el pueblo Villa Ruiz , al norte de Buenos Aires. Hay bondis a las 10 am, y
 vuelven a las 14.
 El pueblo es pequeño, consiste en un par de casitas y edificios medio dejados. Habra unas 40 personas en total. La
 comunidad esta armada en torno a una Iglesia, y una combinacion de estacion de servicio, correo y estacion de servicio.
 
 Pueden comprar cosas, nafta o pedir direcciones y hablar con los locales.
 
-Los residentes son remarcablemten poco amistoso, suspicaces.
+Los residentes son remarcablemten poco amisttoro, suspicaces.
 [psicology] se dan cuenta q les pasa algo mas q simple hostilidad a la gente de la ciudad.
-Si estan bien vestidos y son respetuosos pueden pegar onda. Deben elegir uno para habalr con los del pueblo, si logra
+Si estan bien vestidos y son respetutoros pueden pegar onda. Deben elegir uno para habalr con los del pueblo, si logra
 alagarlos con [fast talk o charm] pueden aprender que:
 
 * Si pregunta de la granja, les dicen q esta embrujada. Ma Peters, la encargada de la tienda, les dice es gilada "los
@@ -192,7 +192,7 @@ El area de la huerta esta cubierta por flores salvajes, hay un parche particular
 casa. [spot hidden] ven unos
 vegetales en el jardin.
 
-[spot hidden] en los pastos altos encuentra un mapache que claramente murio hace poco. Pesa unos 13 kilos. Si lo dan
+[spot hidden] en los pastos altos encuentra un gato montes que claramente murio hace poco. Pesa unos 13 kilos. Si lo dan
 vuelto pueden darse cuenta claramente murio por el gran aujero que tiene en el
 pecho. [science (biology, medicine, natural world)] revela que lo abrieron al medio en las costillas, y el corazon fue
 extraido prolijamente. tal vez un zorro, pero parece demasido prolijo
@@ -206,10 +206,10 @@ de agua sin balde ni soga.
 
 Pueden econtrar el cuerpo de una mujer vieja (MAggie MCphirter). [sanity 1/1d4] Si la examinan encutnran que esta
 cubierta de sangre que
-sigue fresca, tiene un gran aujero en l pecho.  (igual que el mapache) [medicine o first aid] revela que le sacaron el
+sigue fresca, tiene un gran aujero en l pecho.  (igual que el gato montes) [medicine o first aid] revela que le sacaron el
 corazon
 
-Si reportan el cuerpoo de Maggie a la policia pueden tener complicaciones, se vuelven sospechosos.
+Si reportan el cuerpoo de Maggie a la policia pueden tener complicaciones, se vuelven sospechtoros.
 
 
 ### El granero
@@ -224,7 +224,7 @@ rechinando con el viento.
 
 En los marcos de las puertas y ventanas pueden ver simbolos extraños grabados. Si tiran [occult] con exito los
 identifican como protectores contra espiritus. Siempre y cuando esten en su lugar, si de alguna manera son separados de
-la estructura son inutiles. MArrion allen era el unico de la hermandad q sabia crearlos.
+la estructura son inutiles. Casimiro Gomez era el unico de la hermandad q sabia crearlos.
 
 Hay una unica puerta al frente, con una lampara sin mecha ni aceite. La llave al abre facilmente, y se escucha una
 chillido entre la madera y metal q pareciera protestar ser abierta dps de tantos años.
@@ -265,7 +265,7 @@ una cuchara q parece de la primera guerra.
 
 ### Sotano
 
-Esta [Jake el Rojo](#jake-el-rojo).
+Esta [El Almbre Rober](#jake-el-rojo).
 
 #### Si no bajan
 
@@ -330,7 +330,7 @@ pero se limpia facil.
 #### Los papeles amarillentos
 
 [IMPORTANTISIMO]
-Los papeles estan escritos a mano en 1877 por MArrion:
+Los papeles estan escritos a mano en 1877 por Casimiro:
 
 * Hay 6 iguales que son una copia en latin del encantamiento.
 * Una describre las hojas en latin como extractos modificados del De Vermiss Mysteriis.
@@ -364,7 +364,7 @@ Al bajar el sol (8pm) el acechador deja el atico para buscar comida. Con un grit
 hasta el bosque. SI alguno esta afuera lo ve parcialmente, aunque no entiende bien q es[sanity][0/1D3] por ver un vortex
 de hojas medio negro volando por el aire tirando las hojas de los arboles.
 
-* Si escapo Jake el rojo, va tras de el y muere una muerte horrible a las 10 pm. si pegan un [listen] escuchan los
+* Si escapo El Almbre Rober, va tras de el y muere una muerte horrible a las 10 pm. si pegan un [listen] escuchan los
   gritos...
 * Sino, es acechador caza en el bosque y escuchan un rujido de un animal grande adolorido...
 
@@ -400,7 +400,7 @@ Empiezan a oler algo putrefacto, fuerte [luck] Cae una especie de brea viscosa d
 ### 00 45
 
 El acechador parece calmarse. [listen] Si tienen exito escuchan una mujer pidiendo ayuda con un grito debil y
-quejumbroso.
+quejumbrtoro.
 Si alguno sale ve una figura en la oscuridad rengueando hacia la casa. [spot hidden] o usar una linterna revela que
 es Maggy, muy lastimada, yendo hacia la casa, su cara cubierta de sangre. 
 Al verla de cerca y darse cuenta q esta muerta [sanity][1/1D6].
@@ -415,14 +415,14 @@ Si no ataco antes, Maggie empieza a golpear las ventanas de la casa con violenci
 ### 01 15
 
 * Si lo mato el acechador, Jake empieza a golpear las ventanas traseras
-* [listen] El auto esta siendo atacado por un oso, quien luego procede a ir hacia la casa. Si alguno esta cerca y lo
+* [listen] El auto esta siendo atacado por un toro, quien luego procede a ir hacia la casa. Si alguno esta cerca y lo
   ve [sanity][0/6]
 
 ### 01 30 -2 magic
 
 [listen hard] Si tienen exito escuchan cosas cayendo por la chimenea, y no son sorprendidos por 2 ratas
 zombies [sanity][0/3]
-El oso agarra el mapache y lo tira por la ventana. Si tiene exito, entra y es inmediatamente revivido como
+El toro agarra el gato montes y lo tira por la ventana. Si tiene exito, entra y es inmediatamente revivido como
 zombie [sanity][0/3].
 
 ### 01 55 - 2 magic
@@ -446,12 +446,12 @@ cierra inmediatamente.
 
 ## Epilogo
 
-* Puede q sean sospechosos de asesinato
+* Puede q sean sospechtoros de asesinato
 * q hacen con la casa? y los cuerpos?
 
 ## NPCs
 
-### Jake el Rojo
+### El Almbre Rober
 
 DEX 60
 BRawl 45/22/9
