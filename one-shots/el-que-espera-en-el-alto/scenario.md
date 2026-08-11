@@ -1,6 +1,6 @@
 # EL QUE ESPERA EN EL ALTO
 
-*One-shot — Call of Cthulhu 7e, modo Pulp · Buenos Aires y la campaña del sur, 1827 · 4 horas · **2 investigadores** (+ aliados reclutables)*
+*One-shot — Call of Cthulhu 7e, modo Pulp · Buenos Aires y la campaña del sur, 1827 · 3 horas · **2 investigadores** (+ aliados reclutables)*
 
 *A port of "Edge of Darkness" to the Río de la Plata under the Brazilian war. Same-world, light tie-in to La Tierra Mala: same pampa, same register and voseo (see `assets/spanish-style-guide.md`), **no plot connection**. Sister one-shots: `../lo-que-se-agarra-del-subterraneo/` and `../la-casa-de-la-calle-chile/` — same house rules, same series feel.*
 
@@ -16,6 +16,7 @@
   - **Pulp talents**, one each: *Duro de matar* (regain 1D6 HP once/session, free action) · *Puntería* (one Firearms roll/session is an automatic Hard success) · *Nervios de acero* (ignore one SAN loss/session entirely) · *Manos rápidas* (act first in any round you'd be surprised).
   - **Locura abreviada**: bouts of madness last one round, not 1D10. With two players you cannot afford to bench one.
 - **The big structural change is [MESA DE DOS](#mesa-de-dos--cómo-se-ajusta-todo).** Read that before anything else. Everything downstream is built on it.
+- **Versión de tres horas.** The investigation stage (Acto II, and the research half of Acto III) is compressed. **La Biblioteca is cut by default.** Most of what the players used to have to dig for — the Cofradía's history, and whatever they're most directly on the trail of at the time (la Malena, the pattern of deaths, the nature of the thing) — is now handed to them straight, on the page or out of an NPC's mouth, with no roll standing between them and it. The time that frees up goes to the recruiting scenes and the siege, which is what the scenario is actually about.
 
 ---
 
@@ -104,7 +105,7 @@ Written for **two**. Default framing: two men of the campaña — a *gaucho* and
 
 ## ACTO I — EL LECHO DE DON RUFINO
 
-*Fifteen to twenty minutes. Buenos Aires, a shuttered bedroom on calle Venezuela, a Thursday, one in the afternoon.*
+*Ten to fifteen minutes. Buenos Aires, a shuttered bedroom on calle Venezuela, a Thursday, one in the afternoon.*
 
 > *La casa es buena y está en penumbra a las dos de la tarde, con las persianas bajas y un olor a alcanfor que no alcanza a tapar el otro olor. En la sala hay una mujer de sesenta y pico sentada muy derecha, con las manos cruzadas, que no llora porque hace tres semanas que se le acabó. Y hay un hombre de unos treinta y cinco, bien vestido, parado junto a la ventana, mirando la calle como quien espera que esto termine para poder almorzar.*
 >
@@ -198,7 +199,7 @@ Thirty-six, well-tailored, entirely indifferent. He wants the estate settled and
 
 ## ACTO II — EL CAMINO Y EL RINCÓN
 
-*Three days south by *galera* or on their own horses. Budget forty-five minutes to an hour of table time for the village. **This is where they recruit chanters — that is the act's job.** Everything else is texture.*
+*Three days south by *galera* or on their own horses. Budget twenty-five to thirty minutes of table time for the village. **This is where they recruit chanters — that is the act's job.** Everything else is texture, and in this cut, texture is given, not dug for: don't make the players roll to learn what they need to know, just tell them and spend the saved time on the recruiting conversations, which are the point.*
 
 ### EL RINCÓN
 
@@ -281,15 +282,15 @@ The third recruitable ally is **not** in the village. He is squatting in the hau
 
 ### OTRAS COSAS EN EL RINCÓN
 
-- **La capilla** has a **libro de difuntos** going back to 1791. **Library Use or Spot Hidden (Regular)**: over thirty-six years, **eleven** deaths and disappearances recorded within a league of the casco — a rate about four times the rest of the parish. Padre Timoteo's own hand wrote nine of them and never once wrote *why*.
+- **La capilla** has a **libro de difuntos** going back to 1791. **No roll — this is handed to them, not found.** Padre Timoteo shows it himself if approached (or Ña Petrona describes it, unprompted, if he wasn't): over thirty-six years, **eleven** deaths and disappearances recorded within a league of the casco — a rate about four times the rest of the parish. Padre Timoteo's own hand wrote nine of them and never once wrote *why*.
 - **La posta** — the relay station. The postmaster will rent horses, a cart for the sarcophagus, and will absolutely not go north on the old road after dark, at any price, and does not consider this worth discussing.
 - **Ambiente**: every evening at dusk the remaining families bring their stock *inside the ring of ranchos*. Nobody explains this. Nobody has explained it in years. It is simply what you do at El Rincón.
 
 ---
 
-## LA BIBLIOTECA — *opcional, en la ciudad, antes de salir*
+## LA BIBLIOTECA — *cortada por defecto en la versión de tres horas*
 
-*If the players want research before riding south. Fifteen minutes, and entirely skippable — everything here also appears in Mariano's papers at the casco.*
+*Cut this scene. Its one load-bearing payoff — that the banishment in Mariano's papers is genuine and complete, not a dying man's superstition — is now given for free where Mariano's papers themselves are found, in Acto III (see the sótano). Nobody has to detour through the city to learn the ritual works. If a table somehow has forty extra minutes and wants the texture, the original scene is kept below.*
 
 **La Biblioteca Pública**, in the Manzana de las Luces, and the six-year-old **Universidad**.
 
@@ -302,7 +303,7 @@ The third recruitable ally is **not** in the village. He is squatting in the hau
 
 ## ACTO III — EL CASCO
 
-*The house. Arrive in daylight. Budget an hour.*
+*The house. Arrive in daylight. Budget forty minutes.*
 
 > *Legua y media de camino viejo, con el pasto crecido en el medio de las huellas porque hace años que no pasa una carreta. Y después, en un alto suave, el casco: una casa larga y baja, de las de antes, con paredes de ladrillo de una vara de grueso y techo de teja a dos aguas. Fue linda. Tuvo parral, tuvo higuera, tuvo un palenque de quebracho que todavía está parado porque el quebracho no se cae.*
 >
@@ -316,7 +317,7 @@ Walking the grounds — **no roll, it is not hidden**:
 
 **SAN 0/1D3.**
 
-**Natural World or Track (Regular)**: the wounds were not made by teeth or by a knife. Something opened these animals **from the inside of the ribcage outward**, which is not a direction from which anything can reach.
+**No roll — say it straight.** The wounds were not made by teeth or by a knife. Something opened these animals **from the inside of the ribcage outward**, which is not a direction from which anything can reach.
 
 **Anyone who counts** finds that the kills get **more recent as you get closer to the house**, and the freshest is four days old, twenty paces from the door.
 
@@ -396,9 +397,9 @@ He has been sleeping in the kitchen of the most haunted building in the district
 
 **4 — LOS PAPELES DE MARIANO ALÉN** — **HANDOUT 2**. Latin extracts copied from *De Vermis Mysteriis*, heavily annotated, with the banishment worked out in Alén's own hand and — on the last two sheets, in a hastier script — **the whole chant transliterated into Spanish spelling**, for the brothers who had no Latin.
 
-Reading and understanding them: **Occult (Regular)** or **Language (Latin)**, one hour. **SAN 1D2, Cthulhu Mythos +2%.**
+Reading and understanding them: **Occult (Regular)** or **Language (Latin)**, one hour. **SAN 1D2, Cthulhu Mythos +2%.** Either way, **tell them plainly that the working is complete and correctly worked out** — Alén's hand, cross-checked against itself twice, no gaps. This is the confirmation that used to require a library trip; it now comes free with the trunk, so a two-player table walks into midnight already knowing the ritual works.
 
-**Si nadie tiene ninguna de las dos:** the transliteration page has Alén's own Spanish note explaining what to do, because he wrote it for people exactly this unlettered. **No roll. They can always do the ritual.** Never gate the finale behind a skill on a two-person sheet.
+**Si nadie tiene ninguna de las dos:** the transliteration page has Alén's own Spanish note explaining what to do, because he wrote it for people exactly this unlettered. **No roll. They can always do the ritual, and they can still be told it's complete.** Never gate the finale — or the confidence to attempt it — behind a skill on a two-person sheet.
 
 ---
 
@@ -677,19 +678,18 @@ The full transliterated banishment, verified. Genuinely useful and genuinely dan
 
 ---
 
-## RUNSHEET — 4 HORAS
+## RUNSHEET — 3 HORAS
 
 | Time | Beat |
 |---|---|
-| 0:00–0:20 | **El lecho de don Rufino.** The confession, the box, the deed. Do not rush the ask. |
-| 0:20–0:35 | *(Opcional)* **La Biblioteca.** Orzábal, the sarcophagus interior, *De Vermis Mysteriis*. Cut first if running long. |
-| 0:35–1:25 | **El Rincón.** Ña Petrona, la Malena's story, padre Timoteo. **The recruiting act — this is the two-player fix, give it room.** |
-| 1:25–2:20 | **El casco.** The dead stock, el Colorado, the loft hatch, the sótano and Mariano's trunk. Read the handout at the table. |
-| 2:20–2:40 | **Los preparativos.** The star, the sigils, the positions, the horses. Let them plan. |
-| 2:40–3:50 | **La noche.** Midnight to the end of the chant. This is the session. |
-| 3:50–4:00 | **Desenlace.** The sarcophagus problem, Rufino, the juez de paz, the coda. |
+| 0:00–0:15 | **El lecho de don Rufino.** The confession, the box, the deed. Do not rush the ask — but this is a gift of exposition, not a puzzle, so it doesn't need twenty minutes either. |
+| 0:15–0:45 | **El Rincón.** Ña Petrona, la Malena's story, padre Timoteo. **The recruiting act — this is the two-player fix, give it room.** The village's other clues (the *libro de difuntos*, the pattern of deaths) are handed over, not rolled for. |
+| 0:45–1:25 | **El casco.** The dead stock, el Colorado, the loft hatch, the sótano and Mariano's trunk. Read the handout at the table. Say the wound-direction and the ritual's authenticity straight out — no rolls gating either. |
+| 1:25–1:40 | **Los preparativos.** The star, the sigils, the positions, the horses. Let them plan. |
+| 1:40–2:45 | **La noche.** Midnight to the end of the chant. This is the session. |
+| 2:45–3:00 | **Desenlace.** The sarcophagus problem, Rufino, the juez de paz, the coda. |
 
-*Running long? Cut the Biblioteca, then compress the road. **Never cut the recruiting scenes** — with two players they are load-bearing, not optional colour.*
+*Running long? Compress the Rincón further — the recruitment pitches themselves are the only thing that can't be cut. **La Biblioteca is already cut** in this version; its one payoff (the ritual is verified genuine) now comes free with Mariano's papers in Acto III. **Never cut the recruiting scenes** — with two players they are load-bearing, not optional colour.*
 
 ---
 
