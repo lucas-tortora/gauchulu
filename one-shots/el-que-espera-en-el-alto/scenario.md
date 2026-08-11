@@ -24,7 +24,7 @@ desconsolada y su hijo Bertrand, de unos 35, q a simple vista parece un ñiñato
 Rupert tiene una apariencia sumamente fragil y palida, con los cachetes ya hundidos. Le cuesta respirar y se nota que
 por mas q intente no logra nunca llenar sus pulmones. A menudo tose sangre con lo q pareciera una especie de pus color
 alquitran, con un olor nauseabundo y penetrante. Sus ojos estan casi apagados, con lagrimas a causa de su dolor. Tiene
-ampollas y pustulas que ocasionalmente chorrean un liquido visctoro, y que causan que la piel alrededor tome un enfermizo
+ampollas y pustulas que ocasionalmente chorrean un liquido visoso, y que causan que la piel alrededor tome un enfermizo
 color negro.
 La habitacion esta apenas iluminada, ya que la luz lo incomoda. Hay un olor mezclado entre lavandina y el olor de la tos
 de Rupert.
@@ -99,7 +99,7 @@ La tapa de la caja sale facilmente, sin embargo, no hay nada dentro.
 
 ### Diario de Rupert
 
-Es un diario escrito a mano entre Junio de 1876 a Mayo de 1881. Es una cronica de las actividades de las hermandad
+Es un diario escrito a mano entre Junio de 1776 a Mayo de 1781. Es una cronica de las actividades de las hermandad
 oscura
 en la vieja casa de campo.
 
@@ -109,7 +109,7 @@ si les da paja leerlo, aprenden q:
 1. Los estudiantes amigos de Rupert, liderados por Casimiro comprar una casa de campo para practicas espiritistas. Eran
    6,
    se hacian llamar la hermandad oscura.
-2. En Junio de 1876 compraron la casa, e hicieron unas sigilias protectivas. En el momento les daban gracia y parecian
+2. En Junio de 1776 compraron la casa, e hicieron unas sigilias protectivas. En el momento les daban gracia y parecian
    innecesarias.
 3. Hicieron experimentos futiles hasta q stuvieron exito y desataron una maldad horrible al mundo.
 4. Los miembros del grupo fueron muriendo poco a poco, Casimiro particularmente violentamente.
@@ -124,28 +124,7 @@ si les da paja leerlo, aprenden q:
 Entregar recortes policiales. Aprenden que Casimiro fuer cremado en nueva Orleans. Lo mataron a golpes, luego le abrieron
 el pech, sacaron el corazon y grabar signos extraños en la cara.
 
-## Estudiar los jeroglificos
-
-[archeology o egipcio (jeroglificos)]=> Pueden traducir los jeroglificos en 1D4 dias usando materiales de la bibliotica
-Orne de la universidad. Puedne pushear, sumando otro D4, si piden ayuda al profesor Warren Rice ganan un dado de bonus.
-
-Si no tiene los skills, pueden contratar el Prof Rioce, usando Charm, fast talk o persuade. SAle $2 y tarda 1D2 dias. Si
-tienen exito fuerte sale gratis por q intrigan al profesor.
-
-## IR a la bibliteca Orne
-
-L-V 8am a 9pm
-[library use] Encuentra el volumen de refencia que menciona Gomez en el diario de MErriweather. Tiene un dibujo y una
-descripcion del sarcofago. "Se sabe poco sobre el sarcofago, pero creen que pertencio a Nophru-Ka, quien quiso usurpar
-el trono" Creen q se la dieron los dioses, y q podia invocar a un djinn para pedirle algun tipo de servicvio. La caja
-pertenecio a los Parkinby-Andersons hasta q fue robado en 1871.
-[library use 2] Encuentra un libro sobre la mitica civilizcion de Mu, con una foto de una cueva con pictogramas
-similares a los del interior de la caja. No son taducibles.
-
-### De vermiis Mysteriss
-
-Esta en el sector restringido de la bibliotca, puesto ahi por el Dr Henry Armitage, curador de la biblioteca. Esta en su
-oficna en la mañana, pero no les va dar el libro de ninguna manera.
+[CORTADO para la version de 3hs: la biblioteca Orne y la traduccion de jeroglificos (1D4+ dias, rolls de archaeology/library use, Prof Rice, Dr Armitage negandose a prestar el De Vermiis Mysteriis). Es toda investigacion de biblioteca que no hace falta para resolver el escenario. Si quieren la ambientacion (Nophru-Ka, el continente de Mu, la procedencia del sarcofago), la damos como handout directo mas adelante, sin rolls ni dias de espera.]
 
 ## Villa Ruiz 
 
@@ -158,9 +137,9 @@ comunidad esta armada en torno a una Iglesia, y una combinacion de estacion de s
 
 Pueden comprar cosas, nafta o pedir direcciones y hablar con los locales.
 
-Los residentes son remarcablemten poco amisttoro, suspicaces.
+Los residentes son remarcablemten poco amisoso, suspicaces.
 [psicology] se dan cuenta q les pasa algo mas q simple hostilidad a la gente de la ciudad.
-Si estan bien vestidos y son respetutoros pueden pegar onda. Deben elegir uno para habalr con los del pueblo, si logra
+Si estan bien vestidos y son respetosos pueden pegar onda. Deben elegir uno para habalr con los del pueblo, si logra
 alagarlos con [fast talk o charm] pueden aprender que:
 
 * Si pregunta de la granja, les dicen q esta embrujada. Ma Peters, la encargada de la tienda, les dice es gilada "los
@@ -209,7 +188,7 @@ cubierta de sangre que
 sigue fresca, tiene un gran aujero en l pecho.  (igual que el gato montes) [medicine o first aid] revela que le sacaron el
 corazon
 
-Si reportan el cuerpoo de Maggie a la policia pueden tener complicaciones, se vuelven sospechtoros.
+Si reportan el cuerpoo de Maggie a la policia pueden tener complicaciones, se vuelven sospecosos.
 
 
 ### El granero
@@ -265,7 +244,7 @@ una cuchara q parece de la primera guerra.
 
 ### Sotano
 
-Esta [El Almbre Rober](#jake-el-rojo).
+Esta [El Almbre Rober](#el-almbre-rober).
 
 #### Si no bajan
 
@@ -317,9 +296,34 @@ hay dentro del baul. En el lado interior de la tapa del baul ven los mismos sign
 la casa. Si mueven la tela negra, pueden encontrar 6 tunicas negras, una [caja de cigarros](#la-caja-de-cigarros) y una
 pila de [papeles amarillentos](#los-papeles-amarillentos) por el paso del tiempo.
 
+#### Carta del baul
+
+[Esto reemplaza lo que se cortó de jeroglíficos + biblioteca Orne — se entrega derecho, sin tirar nada.]
+
+> "Para quien encuentre esto —si es que alguna vez alguien lo encuentra—,
+>
+> Compré el sarcófago hace ya varios años, a un anticuario que a su vez lo había sacado de la colección de los
+> Parkinby-Anderson, robado en 1771 y sin que nadie supiera decirme bien cómo llegó de ahí a sus manos. Lo poco
+> que averigüé después, es esto:
+>
+> Perteneció a un tal Nophru-Ka, que quiso usurpar un trono que no le correspondía. Cuentan que los dioses le
+> dieron esta caja para que llamara a un genio y le pidiera algún servicio. Los signos de afuera son egipcios,
+> del Imperio Medio, cualquier entendido se lo va a confirmar. Los de adentro no los reconoce nadie que haya
+> consultado, y eso ya debería haberme detenido.
+>
+> En un libro sobre el continente perdido de Mu vi una fotografía de una cueva con pictogramas iguales a los de
+> adentro del sarcófago. Nadie los ha traducido. Nadie sabe si Mu y Egipto se hablaron alguna vez, hace tanto tiempo
+> que ninguno de los dos existía todavía como los conocemos, o si el sarcófago viajó por caminos que ningún libro de
+> historia describe.
+>
+> Se lo dejo a quien venga después, junto con lo demás que encontré. Que le sirva de más advertencia que de lo
+> que me sirvió a mí.
+>
+> — Casimiro Gomez"
+
 #### La caja de cigarros
 
-La caja data de 1870. Dentro de la msiam pueden encontrar una lata con un polvo marron, y una cajita de madera mas
+La caja data de 1770. Dentro de la msiam pueden encontrar una lata con un polvo marron, y una cajita de madera mas
 pequeña con una tapa corrediza, dentro de la cual hay un polvo tipo talco que deja un residuo grasiento en las manos,
 pero se limpia facil.
 
@@ -330,7 +334,7 @@ pero se limpia facil.
 #### Los papeles amarillentos
 
 [IMPORTANTISIMO]
-Los papeles estan escritos a mano en 1877 por Casimiro:
+Los papeles estan escritos a mano en 1777 por Casimiro:
 
 * Hay 6 iguales que son una copia en latin del encantamiento.
 * Una describre las hojas en latin como extractos modificados del De Vermiss Mysteriis.
@@ -377,6 +381,10 @@ El acechador quiere ver q traman los investigadores y q pueden hacer antes de at
 
 Cada 30 minutos donan 2 puntos de magia, si se quedan sin, empiezan a donar 2 de vida.
 
+[Con 2 investigadores: alcanza con que UNO este cantando en todo momento, no hace falta mas. Se turnan libremente
+-uno canta, el otro pelea- y cambiar quien canta es accion gratis en su turno. Si nadie canta por mas de una ronda
+entera, se corta y hay q esperar a la medianoche siguiente para arrancar de nuevo.]
+
 * Si logran entrar los zombies, tienen q tirar luck los q esten peleando cada ronda para q no se rompa el pentagrama.
 * Si no, atacan los simbolos protectores, o a quien este afuera.
 
@@ -400,7 +408,7 @@ Empiezan a oler algo putrefacto, fuerte [luck] Cae una especie de brea viscosa d
 ### 00 45
 
 El acechador parece calmarse. [listen] Si tienen exito escuchan una mujer pidiendo ayuda con un grito debil y
-quejumbrtoro.
+quejumbroso.
 Si alguno sale ve una figura en la oscuridad rengueando hacia la casa. [spot hidden] o usar una linterna revela que
 es Maggy, muy lastimada, yendo hacia la casa, su cara cubierta de sangre. 
 Al verla de cerca y darse cuenta q esta muerta [sanity][1/1D6].
@@ -429,7 +437,7 @@ zombie [sanity][0/3].
 
 los q estan chanteando [POW or CON]. si pushean un los zombies rompen uno de los simbolos.
 
-El lurker aparece bindeando al pentagrama con la forma de la abuela del personaje de pachi. Le ofrece conocimiento mas
+El acechador aparece bindeando al pentagrama con la forma de la abuela del personaje de pachi. Le ofrece conocimiento mas
 alla de la imaginacion del hombre. [psicology?] Cuando le dicen que saben q no es aparece en su forma
 real [sanity][1/1D8].
 
@@ -440,14 +448,27 @@ chorreando sangre"
 "Volvere, y hare un banquete con sus descendientes...." amenaza mientras es succionado dentro del sarcofago que se
 cierra inmediatamente.
 
-### Si escapa de alguna manera o huyen
-
-[sanity][1/1D4] al saber q el acechadro esta libre.
-
 ## Epilogo
 
-* Puede q sean sospechtoros de asesinato
+* Puede q sean sospecosos de asesinato
 * q hacen con la casa? y los cuerpos?
+ 
+### Si escapa de alguna manera o huyen
+
+[sanity][1/1D6] al saber q el acechadro esta libre.
+
+## Recompensas
+
+* [sanity][+1D10] si logran encerrar al acechador en el sarcofago.
+* [sanity][+1D4] si sobreviven la noche sin encerrarlo pero sin q se termine de liberar (cortaron antes de medianoche
+  y nunca llegaron a empezar).
+* Ademas, algo material o un hechizo para llevarse — elijan uno, no hace falta dar los dos:
+  * **El polvo de Ibn-Ghazi que sobre** — si no gastaron las 3 dosis, se quedan con el resto en su cajita de madera.
+    Nadie vivo sabe hacerlo de nuevo. Un tiro, 1D6+2 asaltos de algo invisible vuelto visible y solido.
+  * **El encierro de Nophru-Ka** (hechizo) — quien estudie a fondo los papeles de Casimiro (dias de estudio,
+    INT o cthulhu mythos) puede aprender una version reducida del ritual: sirve para atrapar (no matar) una
+    entidad menor dentro de un contenedor ya preparado para tal fin. Sugerido: cuesta 1D10 magic points y 1D6
+    sanity cada vez que se lanza. Peligroso y permanente en la ficha, como 
 
 ## NPCs
 
@@ -484,7 +505,7 @@ DB: 0 Build: 0 Move: 8
 * Traits: generally amiable, but recent events have made him fearful and distrustful.
 * Roleplaying hooks: wants to retrieve his belongings and get away from the farmhouse and the monster.
 
-### THE LURKER IN THE ATTIC,
+### THE acechador IN THE ATTIC,
 
 * nearly invisible monster
   STR 100 CON 90 SIZ 85 DEX 90 INT 60
@@ -503,8 +524,8 @@ DB: 0 Build: 0 Move: 8
 
 #### Special Abilities
 
-* Can animate and control the corpse of something it has killed, costing 5 magic points per large (human or bear-
-  size) creature or 1 magic point for small animals (raccoon or bird). e reanimation lasts for up to 3 hours or until
+* Can animate and control the corpse of something it has killed, costing 5 magic points per large (human or toro-
+  size) creature or 1 magic point for small animals (gato montes or bird). e reanimation lasts for up to 3 hours or until
   the
   reanimated corpse is destroyed.
 * Is able to pass through unwarded material obstructions.
@@ -514,12 +535,12 @@ DB: 0 Build: 0 Move: 8
 
 #### Sanity loss:
 
-1/1D8 Sanity points to see the Lurker in corporeal form.
+1/1D8 Sanity points to see the acechador in corporeal form.
 
 ### Reanimated Dead Creatures
 
 Thee only way to render these creatures harmless is to blow them to pieces, or to pull them past the wards into the
-house—the Lurker loses control of them when they pass the
+house—the acechador loses control of them when they pass the
 threshold, causing them to fall to the ground “dead.”
 
 ### ZOMBIE MAGGIE MCPHIRTER,
@@ -537,7 +558,7 @@ DB: 0 Build: 0 Move: 6
 * Dodge zombies do not dodge
 * Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of Margaret McPhirter.
 
-### ZOMBIE RED JAKE,
+### ZOMBIE Alambre,
 
 corpse, reanimated by the Lurker
 
@@ -552,7 +573,7 @@ DB: +1D4 Build: 1 Move: 6
 * Dodge zombies do not dodge
 * Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of Red Jake.
 
-### ZOMBIE DEAD RACCOON,
+### ZOMBIE DEAD gato montes,
 
 corpse, reanimated by the Lurker
 STR 25 CON 20 SIZ 20 DEX 40 INT –
@@ -564,9 +585,9 @@ DB: -2 Build: -2 Move: 7
 * Attacks per Round: 1 (bite or claw)
 * Fighting 30% (15/6), damage 1D3–2
 * Dodge zombies do not dodge
-* Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of a raccoon.
+* Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of a gato montes.
 
-#### ZOMBIE DEAD BROWN BEAR,
+#### ZOMBIE DEAD BROWN toro,
 
 corpse, reanimated by the Lurker
 STR 100 CON 20 SIZ 100 DEX 50 INT –
@@ -580,4 +601,4 @@ DB: +1D6 Build: 2 Move: 6
 * Dodge zombies do not dodge
 
 * Armor: 3-point fur and gristle.
-* Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of a bear
+* Sanity loss: 1/1D6 Sanity points to see the reanimated corpse of a toro
