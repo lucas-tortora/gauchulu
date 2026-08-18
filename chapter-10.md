@@ -67,8 +67,19 @@
 
 **Si el grupo entrega las armas**: Ibarra las junta, las pasa a sus hombres — y ahí, sin pausa, cambia el tono. *"Ya que estamos, bajen también las alforjas. Y las monedas, si tienen. Así no se demoran más en el camino."* La codicia los delata del todo; es la señal de que nunca hubo control ninguno, solo robo con uniforme prestado.
 
-> **⚔️ Los cuatro falsos milicianos.** Reutilizar el bloque genérico de escolta ([`assets/npc-stats.md#quirces-escort-3-generic`](assets/npc-stats.md#quirces-escort-3-generic)) para los cuatro — es la misma mano de obra oportunista que aparece más adelante como El Contador (C10) y los Limpiadores (C11), pero sin ninguna conexión con El Patrón: esto es codicia común, no conspiración. A Ibarra dele **Mando 40%** para los gritos de orden falsa; los otros tres, el bloque tal cual.
-> **Moral**: uno cae → los otros tres se dispersan al galope, cada uno para un lado distinto — no son leales entre sí, solo estaban repartiéndose el botín del día. Ibarra es el último en soltar la bravuconada (*"¡Esto es un delito, esto es un delito!"*) y el primero en huir cuando queda solo.
+> **⚔️ Los cuatro falsos milicianos.** Misma mano de obra oportunista que aparece más adelante como El Contador (C10) y los Limpiadores (C11) — mismo bloque base ([`assets/npc-stats.md#quirces-escort-3-generic`](assets/npc-stats.md#quirces-escort-3-generic)) — pero **sin ninguna conexión con El Patrón**: esto es codicia común, no conspiración.
+
+| | STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Los cuatro (base) | 65 | 60 | 65 | 55 | 50 | 45 | 12 | +1D4 | 1 | 8 |
+
+**Habilidades**: Pelear (Trompadas) 60%, Pelear (Cuchillo) 55%, Armas de Fuego (Pistola) 50%, Esquivar 45%, Intimidar 55%, Localizar Objetos 45%, Montar 50%, Sigilo 40%.
+
+**Armas**: pistola de chispa 50% (1D10, 1 disparo, recarga lenta) · cuchillo 55% (1D4+2+1D4) · puños 60% (1D3+1D4).
+
+**El cabo Prudencio Ibarra** (el que va adelante): idéntico al bloque, más **Mando 40%** — para los gritos de orden falsa y para sostener la farsa un round de más de lo que aguantarían los otros tres.
+
+**Moral**: uno cae → los otros tres se dispersan al galope, cada uno para un lado distinto — no son leales entre sí, solo estaban repartiéndose el botín del día. Ibarra es el último en soltar la bravuconada (*"¡Esto es un delito, esto es un delito!"*) y el primero en huir cuando queda solo.
 
 **Si el grupo detecta las señas antes de entregar nada**: pueden negarse de plano (Ibarra insiste una vez más, después se resigna y ordena la retirada sin pelear si el grupo se muestra armado y firme) o tenderles el mismo juego — fingir que ceden y atacar en el momento en que bajan la guardia. Cualquiera de las dos corre como escena social o como escaramuza corta, según lo que elijan los jugadores.
 

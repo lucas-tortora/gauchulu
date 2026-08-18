@@ -59,6 +59,30 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 
 > † _Canon note: the cordon is the curandera's working, normally walked by eight; here it is improvised from the Wrong Returned, the Marked, recruited civilians, soldiers, and a Warding. The mechanic — a moving city-scale binding ten meters around the carriage that El Patrón's surface manifestations cannot easily cross — is preserved, less stable._
 
+### DETALLE DE ESCENA — LA VÍSPERA
+
+**Ambientación — la casa de reunión, de mañana**:
+
+> _La casa de Saráchaga, sin Saráchaga, se siente más grande de lo que es. El segundo patio, donde antes discutían hasta la medianoche, ahora tiene mapas desplegados sobre la mesa larga de pino en vez de tazas de agua. Mercedes escribe sin parar, tres cartas a la vez, la letra cada vez más apretada a medida que avanza la mañana. Nadie se sienta en la silla de Saráchaga. Nadie lo dice — simplemente no se sientan ahí._
+
+**Ambientación — el muelle, con Galíndez**:
+
+> _El Riachuelo huele igual que siempre — sebo, sal, marea baja — pero hoy Galíndez lo camina distinto: cuenta pasos entre un punto y el siguiente, marca con tiza una cruz discreta en los pilotes donde va a parar cada relevo. El bergantín *Carmen del Pilar* ya tiene las velas sueltas, listas, aunque falten horas para la partida._
+
+**Capitán Ettore Borghi.** Genovés, cerca de cincuenta años, curtido por el sol y la sal, mentón con barba de varios días, un aro de oro en la oreja izquierda — recuerdo de un puerto que ya no visita. Habla un español marcado de acento italiano, directo, sin ceremonia. Trabaja con Galíndez desde las invasiones inglesas y no le pregunta nada que no necesite saber.
+> - Presentándose, sin dejar de revisar un cabo: *"Borghi. El barco es mío, la tripulación también. Lo demás no me interesa, con tal de que me paguen."*
+> - Si le preguntan si sabe qué está transportando: *"No. Y no pregunto. Es plata segura, eso es lo único que necesito saber."*
+> - Sobre el señuelo, si le preguntan: *"La goleta sale a la misma hora que yo, con un cajón de ladrillos adentro. Si alguien la sigue a ella, mejor para nosotros."*
+> - Su única condición, mirando a Galíndez a los ojos: *"A la primera luz, zarpo. Con carga o sin carga. Eso no se negocia."*
+
+**Ambientación — San Ignacio, la misa por Saráchaga**:
+
+> _La capilla está casi vacía a media mañana — Albarrán oficia solo, para nadie, o para el banco donde Saráchaga se sentaba siempre en las reuniones grandes de la orden, ahora ocupado únicamente por el eco de su propia voz. Termina la misa, se queda un momento más de lo necesario frente al altar, y después sale al patio a bendecir, uno por uno, a los hombres de Galíndez y sus caballos — un gesto que nadie le pidió y que nadie va a rechazar esta noche._
+
+**Ambientación — la curtiembre, preparando el cordón**:
+
+> _Los seis paneles de cuero, tendidos sobre caballetes, se secan al sol de la mañana — ocre y negro de hueso trazados con mano firme, la misma geometría que la del piso de la bóveda, repetida seis veces. Marta camina entre ellos descalza, corrigiendo un trazo acá, otro allá, sin mirar lo que corrige — los dedos encuentran el error antes que los ojos. El Gaucho Maldito la observa desde el banco de curtir, la pistola desarmada sobre las rodillas, sin cargar todavía._
+
 ---
 
 ## Dusk — departure
@@ -69,6 +93,10 @@ At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galínde
 
 **Mechanic — the Mark**: every Marked player rolls 2d6 **every two blocks**; snake eyes triggers a short Hound aftershock (1D3 rounds, the city limits its duration). A real threat tonight — the most geometrically charged place in the campaign. Reroll if a player has the binding active in hand (cordon walker) or is in the carriage (proximity to the chest). Plus one roll on arrival at **each weak point**. The [dock-lock](#the-dock-geometry) roll (Act 2) delivers **clarity, not threat**. **During the Choice (Act 3): no rolls.** And **El Patrón near = [the silence tell](chapter-11.md#midnight--the-parlor)** — on Calle Belgrano the Marks go silent _before_ he rounds the corner; the Marked PC can give the Cursed Gaucho his three seconds of warning.
 
+**Esteban** *(nombrarlo ahora, antes de que arranque la noche — su muerte en el Punto Débil 1 tiene que pesar)*: uno de los soldados de Galíndez, apenas veinte años, el más joven de los quince. Bigote que todavía no termina de crecerle, uniforme heredado de un hermano mayor que le queda un poco grande en los hombros. Es el primero en reírse de un chiste y el último en admitir que tiene miedo. Camina cerca de la galera, del lado izquierdo, con el mosquete cruzado al pecho.
+> - Charlando con un PJ antes de la partida, para llenar el silencio: *"Mi hermano hizo esto mismo en el '10, contra los ingleses. Me contó mil veces la historia. Ahora me toca a mí tener una para contar."*
+> - Si un PJ le pregunta si tiene miedo: sonríe de costado, demasiado rápido. *"¿Yo? No. Bueno... un poco. Pero el capitán confía en mí, así que."* — no termina la frase.
+
 ---
 
 ## THE THREE WEAK POINTS
@@ -76,6 +104,13 @@ At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galínde
 > **They hit in route order as the carriage moves** — [WP1 at the university exit](#weak-point-1--university-exit) (the false *vigilante* / ambush), [WP2 at Belgrano y Defensa](#weak-point-2--belgrano-and-defensa--the-stand) (the Stand — the **silence tell fires before El Patrón rounds the corner**), [WP3 at the dock](#weak-point-3--the-dock) (he arrives with the chest — the trap closes). Between each, keep the block-cadence Mark rolls going; each covered cordon corner or C11 prep lowers that point one step.
 
 ### Weak Point 1 — University exit
+
+> _La calle a la salida de la Manzana está más ancha que las demás, hecha así a propósito hace dos siglos y medio para que las carretas de la orden pudieran girar sin trabarse. Esta noche eso juega en contra: espacio de sobra para que algo se acomode a los costados sin que se note hasta que es tarde. Un farol solitario, más allá de la esquina, parpadea con una regularidad que no es del viento._
+
+**El falso *vigilante*.** Uniforme casi correcto — casi: el corte del capote es de dos temporadas atrás, las botas no son reglamentarias. Acento de la Banda Oriental que se esfuerza, sin lograrlo del todo, por sonar porteño. Sostiene los papeles de Galíndez con las dos manos y los lee moviendo los labios, más despacio de lo que cualquier lector real necesitaría.
+> - *"A ver... permiso de circulación nocturna... esto tiene que revisarlo el oficial de guardia."* — estirando el trámite, ganando segundos para los que esperan en las bocacalles.
+> - Si lo confrontan directamente: no discute — dispara la señal (una tos fuerte, deliberada) y retrocede hacia la sombra más cercana.
+> - Si Galíndez lo desarma en silencio antes de que dé la señal: sin resistencia, resignado. *"Ya está. Ya está, no hago nada."* — sabe que perdió y no arriesga el cuero por una paga que no vale tanto.
 
 > **⚔️ Stats**: the false _vigilante_ and six ambushers use the [escort block](assets/npc-stats.md#quirces-escort-3-generic) (the vigilante swaps Intimidate for Disguise 50%). Two carry pistols, fired once then knives. **Morale**: three down → the rest scatter. **Name Esteban before the night** so his death lands. **Falsified-count edge**: if the players delivered a false tally in C10, the first dock Mark-roll is one threshold safer.
 
@@ -85,19 +120,37 @@ A _vigilante urbano_ walks out and asks Galíndez for papers, then reads them _s
 
 ### Weak Point 2 — Belgrano and Defensa — the Stand
 
+> _La esquina no tiene nada de especial a simple vista — una casa de altos, una pulpería cerrada con tranca, el empedrado más parejo que en el resto de la cuadra porque acá pasa más carro que en ningún otro cruce del barrio. Esa regularidad es justamente lo que la vuelve peligrosa: un giro lento, obligado, en el único punto de todo el trayecto donde la galera tiene que casi detenerse. El panel de Marta, apoyado contra el frente de la pulpería, todavía no brilla. Va a brillar en el momento exacto en que haga falta, ni un segundo antes._
+
 The carriage slows to a walk to make the turn — the corner Galíndez feared most. **The Cursed Gaucho stands up and steps out of the moving carriage**, hits the cobblestone in stride, walks ahead of the lead horse, knife in hand, and turns to face the corner before it appears. The cordon-walker here is **Marta** (or Héctor), unrolling the panel in time; the amber glow lights the Gaucho's face from below. Around the corner, walking unhurried up the middle of the street, is **El Patrón** — alone, simply dressed, smiling: _"Llegaste primero. Bien. No quería hacer esto en el muelle."_
 
 **Run the fight cinematically, not mechanically** — a master of the _facón_ against an unkillable man, the scene about the gesture.
 
 > _Se encuentran en el medio de la calle Belgrano, a diez metros del panel que brilla de Marta. El facón del Gaucho Maldito está en su mano derecha, el cuchillo de campo en la izquierda. El Patrón está desarmado y sonríe. Dice una frase más — en mapudungun, la lengua de la madre asesinada del Gaucho. Sea lo que sea que diga, la cara del Gaucho no cambia. Se mueve._
 
+> **Keeper — la frase, si hace falta decirla en voz alta**: _"Eymi kimlaymi chem dungu."_ — *"Vos no sabés lo que estás por hacer."* No la traduzcan para la mesa a menos que un jugador tenga forma de entender mapudungún en la ficción (Marta, Héctor). El punto no es el contenido — es que El Patrón la hable sin acento, perfecta, algo que le costó a la madre del Gaucho toda una vida y a él le costó nada.
+
 **The Cursed Gaucho wounds El Patrón before he dies** — a cut on the jaw, a cut along the ribs. **El Patrón is bleeding**, which should not be possible, and he smiles wider for it. The Gaucho is dying on the cobblestone; he has bought roughly seven minutes. **If the players agreed to his terms in C11**, he lands his last word, looking up at the player who took them: _"No me lo lleves al barco. Lo dejo a vos."_ — and hands them the _cuchillo de campo_ (already theirs; the gesture matters; it primes the destroy-by-blade option). **If they did not agree**, he still fights, still wounds, still dies, but the knife never carries the same weight and the [destroy-by-blade option](#option-3--destroyed) is mechanically harder. **SAN Check**: 1/1D6.
 
 ### Weak Point 3 — the dock
 
-The carriage continues; Mercedes does not look at the Gaucho's body as it rolls past; Galíndez does, and says nothing. The dock is a hundred meters of wood on stone pilings; the brig _Carmen del Pilar_ lies fifty meters out under two stern lanterns; a launch waits, Capitán Borghi at the tiller, hand on his pistol since he saw a man die down the street. **The chest is offloaded.** And **this is where El Patrón takes the book** — he arrives at the dock as the chest does, walking down the street the carriage just left, bleeding and smiling, unarmed:
+The carriage continues; Mercedes does not look at the Gaucho's body as it rolls past; Galíndez does, and says nothing.
+
+> _El muelle es cien metros de madera sobre pilotes de piedra, gastados por dos siglos de marea y sal. El bergantín *Carmen del Pilar* espera a cincuenta metros, dos faroles de popa marcando su posición en el agua negra; más allá, apenas visible, la goleta señuelo *La Niña Encantada* ya larga amarras rumbo a ningún lado en particular. El bote está atracado al final del muelle, cuatro remeros quietos en sus puestos. Borghi está de pie en la popa, el sombrero calado, la mano cerca — no sobre, cerca — de la pistola al cinto._
+
+**Capitán Borghi, en el muelle**:
+> - Al ver acercarse la galera: *"Llegaron. Bien. Suban el cajón y salimos ya."*
+> - Si alguien le cuenta lo del Gaucho Maldito: no pregunta detalles. Se persigna, rápido, casi sin darse cuenta que lo hizo, y sigue trabajando. *"Que Dios lo tenga. Ahora, el cajón."*
+> - Cuando El Patrón aparece caminando por la calle, sangrando y sonriendo: Borghi no dice nada. Cierra la mano del todo sobre la pistola y no la suelta el resto de la escena — pero tampoco la levanta. Es un hombre que reconoce, sin entender del todo, cuándo disparar no serviría de nada.
+
+The launch waits, Capitán Borghi at the tiller, hand on his pistol since he saw a man die down the street. **The chest is offloaded.** And **this is where El Patrón takes the book** — he arrives at the dock as the chest does, walking down the street the carriage just left, bleeding and smiling, unarmed:
 
 > _"Gracias por traérmelo. Es lo único que necesitaba — que se moviera. Tenía la llave hace cuarenta años. Lo que no tenía era el dibujo afuera. Ustedes me lo dibujaron esta noche, calle por calle."_
+
+**Diálogo — si los jugadores le hablan directamente, antes del Acto 2**:
+> - *"¿Por qué no nos mató en la calle?"* — *"Porque no hacía falta, y porque un muerto de más esta noche solo iba a ensuciarme el dibujo. Ustedes trajeron el libro solitos. Eso vale más que cualquier cosa que yo pudiera forzar."*
+> - *"¿Todo esto lo planeó usted?"* — sonríe, casi con modestia. *"Planeé la oportunidad. Ustedes planearon el camino. Los dos fuimos necesarios. Eso no les debería sorprender a esta altura."*
+> - *"¿Y si no le damos el libro?"* — la sonrisa no cambia, pero algo detrás de los ojos sí. *"Entonces habré perdido cuarenta años, y ustedes van a tener que vivir con lo que decidan hacer con él en cambio. A mí no me gusta esa versión de la noche. A ustedes tal vez sí."*
 
 And **the geometry activates** — the Riachuelo's bend, the _saladero_ rooflines, the brig's masts to the water, every player's position lock into the diagram, at city scale. The carriage was the moving point drawing the line from vault to dock all night. **The transport itself was the act of completion.** **SAN Check**: 1/1D8 — everything they did tonight, and most of what they did before, was him moving them across his board.
 
@@ -120,6 +173,11 @@ The trap is not stealing the book to use elsewhere — it is opening it _here, o
 **Mercedes** stands between the chest and El Patrón, unarmed, and holds out her hand to the player carrying the parchment: _"Este es el momento que dije. Si vamos a destruir, ahora."_ She gives sixty seconds, will not pressure further, and is shaking. **El Patrón** smiles at her: _"Lo que copiaste hace cuarenta años fue lo que me dejó saber dónde estaba… No te lo cuento para hacerte sentir mal. Te lo cuento porque es justo que ellos lo sepan también."_ Mercedes does not look at him — she looks at the parchment in the player's hand: _"Decidan."_
 
 _(Because the players walked the [C11 cloister](chapter-11.md#doña-mercedes-alone), they already know about Mercedes' forty-year-old copy — from her, not from him. His attempt to weaponize it lands on inoculated ground.)_
+
+> **Base de conocimiento — El Patrón, en el muelle** *(para responder lo que los jugadores le pregunten sin guion)*:
+> - **Sabe**: los cuarenta años completos de su propia maniobra; que tiene la llave física desde hace décadas; que necesitaba el libro *afuera* de la bóveda, no adentro; el nombre y el pasado de Mercedes; que Lacasa y Quirce fueron piezas, no aliados; que el Gaucho Maldito lo iba a esperar en algún punto de la ruta (lo sabía, y decidió dejarlo pasar de todos modos — el corte que recibió es real, no actuado).
+> - **No sabe, o no controla**: qué van a elegir los jugadores en el Acto 3 — es el único punto de la noche que de verdad no tiene escrito de antemano; si el parche de Mercedes tiene una página interior legible (no la vio nunca); el detalle exacto de lo que pasó en el claustro de C11, más allá de que pasó.
+> - **No va a decir, aunque se lo pregunten directo**: el nombre real que tuvo antes de Eligio Méndez; qué es, en términos que no sean metáfora; qué pasa con el resto de él si esto sale mal esta noche.
 
 ---
 
@@ -226,6 +284,8 @@ Fewer than five Marked PCs drops the lighter tiers from the bottom.
 > _En el segundo posterior a que prende el sello — el latín de Albarrán, la última sílaba del Lector, o la palabra final de Mercedes — el polvo **se levanta**. No cae; sube en una sola capa entera, dos centímetros por encima de cada superficie que lo sostiene, queda suspendido un latido, y desaparece — no soplado, no disperso, desaparecido, como si la geometría a la que estaba pegado por fin lo hubiera soltado._
 > 
 > The Marked feel it in their cuffs first: _"Se fue."_ Inocencia's saved tin is empty by morning; Rosa's chapel, two hundred kilometers south, is dust-free for the first time in seventy years; the San Ruiz well has stood empty since the goat walked west from the sealed pit at dawn (C9). **Show it to the Marked PCs and let them name what they see.**
+
+> _El amanecer llega despacio sobre el Riachuelo, gris primero, después rosado en los bordes de las nubes bajas. El muelle, hace un rato escenario de todo, vuelve a ser solamente madera y agua — un mozo de carga bosteza en la otra punta, ajeno por completo a lo que pasó a metros de él. El olor a sebo y sal sigue igual que siempre; eso, más que cualquier otra cosa, es lo que convence de que la noche terminó: la ciudad no cambió el olor por ellos._
 
 ## The survivors
 
