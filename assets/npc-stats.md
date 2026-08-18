@@ -297,7 +297,7 @@ One weapon — knife, brand, whatever is at hand — becomes capable of harming 
 
 ### QUIRCE'S ESCORT (×3, generic)
 
-*Hired guards, Buenos Aires. Competent, unpaid-for heroics. Also the template for El Patrón's anonymous human machinery: the Counter (C10), the House Cleaners (C11), and the Weak Point 1 ambushers + false vigilante (C12 — vigilante swaps Intimidate 55% for Disguise 50%). One stat block, one labor market.*
+*Hired guards, Buenos Aires. Competent, unpaid-for heroics. Also the template for El Patrón's anonymous human machinery: the Counter (C10), the House Cleaners (C11), and the Weak Point 1 ambushers + false vigilante (C12 — vigilante swaps Intimidate 55% for Disguise 50%). One stat block, one labor market. Also doubles as the **four false militiamen on the road** ([the C9→C10 travel bridge](../chapter-10.md#día-3--los-falsos-milicianos)) — same block, no connection to El Patrón: ordinary opportunists in stolen coats, not his network. Give the leader Command 40% for the fake orders.*
 
 | STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
 |---|---|---|---|---|---|---|---|---|---|

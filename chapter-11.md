@@ -72,6 +72,17 @@ Mercedes does **not** open it — _"Lo abrimos para moverlo. No para mostrarlo."
 
 The transport is not a security problem — it is **the condition El Patrón has engineered.** The Keepers move it anyway, because leaving it under a warm-going-hot containment is worse. They walk into the trap with eyes open, banking on the cordon, Galíndez's men, and the players' Marks to break the geometry _during_ the transport. **Galíndez**: _"Entonces estamos jugando su juego, pero con nuestras reglas."_ **Mercedes**, before leaving: _"El que abrió el candado de 1810 está vivo. Está en la ciudad. Lo vamos a encontrar antes de la noche."_
 
+### DETALLE DE ESCENA — LA BÓVEDA
+
+**Los dos hombres de Galíndez.** Antiguos soldados de caballería, ahora sin uniforme, con el porte de quien todavía se para firme por costumbre. Cargan antorchas y una palanca de hierro sin que nadie se las pida — vinieron preparados para forzar, no solo para acompañar. No hablan salvo para confirmar una orden con un solo movimiento de cabeza.
+
+**Mercedes, en la sala circular — diálogo ampliado**:
+> - Al entrar, antes de que nadie hable: *"Bajen la voz acá. No porque nos escuche — porque escuchamos mejor nosotros, y hay cosas que uno no necesita oírse decir dos veces."*
+> - Contando las marcas de la pared, casi para sí misma: *"Trescientos cuarenta y cuatro. Yo hice la marca trescientos veintiuno, hace cuarenta años. Todavía me acuerdo del frío que hacía esa mañana."*
+> - Frente al cofre, antes de ver el candado nuevo: *"Cada vez que bajo, me digo que va a ser la última. Todavía no lo fue."*
+> - Al descubrir la cerradura de 1810 (ver arriba, cara pálida, mano al cuello): si un PJ le pregunta directamente *"¿Quién más tiene llave?"*, contesta después de un silencio largo: *"Eso es lo que tengo que averiguar. Y me da miedo la respuesta."*
+> - Saliendo de la sala, cerrando la puerta de hierro detrás del grupo: *"Bien. Ahora la parte fea: encontrar quién fue."*
+
 ---
 
 ## THE DOCKS
@@ -81,6 +92,19 @@ Galíndez takes whoever's interested to the river docks. He has lined up the _**
 > **Galíndez's three weak points**: _"La salida de la Universidad, la esquina de Belgrano y Defensa donde la galera tiene que doblar despacio, y el embarque al bote en el muelle. Tres puntos. Ahí es donde nos van a pegar."_
 
 **Player input matters**: recruit additional men (cordon walkers, the Cursed Gaucho's contacts, friends of Inocencia, _pulpería_ gauchos — Persuade/Credit Rating/Charm); propose routes (Galíndez adopts a defensible one); plan the dock transfer differently. **Every concrete element contributed _with reasoning_ reduces the [C12](chapter-12.md#chapter-12--el-libro) transport difficulty by one step at the relevant moment** — mark them.
+
+### DETALLE DE ESCENA — EL MUELLE
+
+**Ambientación**:
+
+> _El Riachuelo no se parece en nada a la Plaza de la Victoria: acá todo es galpón bajo, madera podrida por el agua salobre, y el olor a sebo derretido de los saladeros vecinos que se mete en la ropa y no sale ni con dos lavados. Amarrado a unos metros de la orilla, el bergantín *Carmen del Pilar* se mece despacio, las velas recogidas, un par de marineros genoveses fumando en la cubierta sin apuro. Más allá, la goleta *La Niña Encantada* espera su turno, indistinguible a simple vista — ese es exactamente el punto. Galíndez camina el muelle entero de punta a punta antes de decir una palabra, contando pasos entre un punto y otro con los labios apretados._
+
+**Galíndez, en el muelle — diálogo ampliado**:
+> - Señalando la esquina de Belgrano y Defensa a la distancia: *"Ahí. La galera tiene que doblar despacio ahí. Si nos van a pegar en algún lado, es ahí."*
+> - Si un PJ propone una ruta alternativa con buen argumento: se detiene, lo piensa en serio, no por cortesía. *"...No es mala idea. Dejame pensarlo esta noche."* — y la anota.
+> - Sobre el capitán Borghi, sin nombrarlo todavía: *"El capitán del bergantín no pregunta lo que no le conviene saber. Le pago en plata y mira para el río, no para el muelle. Así me gusta."*
+> - Si le ofrecen hombres reclutados: cuenta con los dedos, recalculando en voz alta. *"Con esos, capaz que no necesito el segundo señuelo. Bien. Sigan así."*
+> - Al terminar la inspección, mirando el agua: *"Un plan es bueno hasta que alguien más también tiene uno. Esperemos que el de él sea peor que el mío."*
 
 ---
 
@@ -105,6 +129,23 @@ City boots rule out Quirce; the Cursed Gaucho has spurred boots but no motive (S
 > **If a cleaner is caught** (either one, alive): he doesn't know _who_ _el dueño del campo de Areco_ is by name — only that Lacasa paid him through the same faceless clerk as everyone else — but he's used this tunnel twice before this week, and can be made to describe where it surfaces: a disused well-house two blocks from the Manzana. **If both escape**: a **Spot Hidden** in the cellar, once the fight is over, finds what one of them dropped in the dark — the same information, different manner. Either way, hand out **[H17 — the tunnel sketch](assets/handouts-c8-c12.md#h17--a-hand-drawn-tunnel-sketch-c11-if-a-cleaner-is-caught-or-the-cellar-is-searched)**. The clue is never single-point — only how it's earned changes.
 >
 > **Keeper — scope.** The tunnels are not a way to move the chest. The transport has to trace the surface diagram — [moving underground breaks the city-scale drawing](chapter-12.md#weak-point-3--the-dock) the whole heist depends on. Their value here is intelligence and access, not transport. If the players report the well-house to Galíndez, he posts a man on it before dawn.
+
+### DETALLE DE ESCENA — RASTREANDO LA NOCHE DE SARÁCHAGA
+
+**Luisa, la mucama.** Diecinueve años, criolla, delgada, con el pelo trenzado apretado y las manos rojas de fregar. Lleva puesto el mismo delantal desde la madrugada — nadie le dijo que podía cambiarse. Habla en voz muy baja, mirando la puerta como si esperara que alguien la mandara callar.
+> - Si le preguntan con dureza: se cierra, tiembla, repite *"Yo no vi nada, yo no vi nada"* sin agregar detalle.
+> - Si la tratan con amabilidad (ofrecerle sentarse, hablarle despacio, no acorralarla contra la pared): se ablanda de a poco. *"Vino un visitante, cerca de las once. No le vi bien la cara — el sombrero, y estaba oscuro. Pero las botas... unas botas de espuela, de las de campo. No de acá."*
+> - Si le preguntan si escuchó algo: *"El portero lo saludó por el nombre. Dijo 'Bartolomé manda decir...' y ahí ya no escuché más, me metí para adentro. No quería que me vieran mirando."*
+> - Despedida, si la trataron bien: se persigna antes de irse. *"Que Dios lo tenga en la gloria a Don Eladio. Era bueno conmigo."*
+
+**La casa de Lacasa, calle Reconquista.** Fachada angosta y prolija, dos plantas, rejas de fierro recién pintadas — una casa que quiere parecer más aburrida de lo que es. La puerta principal está entornada cuando llegan; adentro, silencio raro, el silencio de una casa que se vació apurada y no del todo.
+> - El portero, un hombre mayor, nervioso: *"El señor se fue anoche mismo, al campo. Dijo que era urgente."* Si le muestran la huella de la bota espoleada en la puerta trasera (Track/Sigilo): se queda callado, mira para otro lado. No va a contradecir a su patrón en voz alta, pero tampoco va a mentir mirando a los ojos.
+
+**Los limpiadores.** Dos hombres de aspecto común, chaqueta gastada, trabajando rápido y en silencio cuando el grupo los sorprende — cajones abiertos, papeles por el piso, un brasero encendido con la mitad de una carta ya quemándose adentro. No pelean por ganar: pelean por escapar con la valija.
+> - Si uno queda arrinconado, antes de intentar la fuga: *"Nosotros solo cumplimos. A mí me pagó un tipo que ni le vi la cara, por el mismo escribiente de siempre."*
+> - Si lo capturan: no sabe un nombre que valga nada, pero admite, entre dientes: *"Usé este túnel dos veces esta semana. Sale en un pozo abandonado, a dos cuadras de la Manzana."*
+
+**El túnel bajo la casa.** Una alfombra enrollada de apuro deja ver una trampa de madera; abajo, escalones de ladrillo bajando en espiral cerrada, y un boquete de túnel con el revoque recién saltado en el borde — reciente, no de generaciones. El aire acá abajo es distinto al de la bóveda de la Manzana: frío común, tierra común, ningún filo mineral. Un Marcado no siente nada raro — y eso, de algún modo, es lo más inquietante del hallazgo: la familia Lacasa lleva dos generaciones moviéndose bajo la ciudad sin que ninguna geometría los note.
 
 > **HANDOUT H12 — The Areco deed ("E. Dadálah")** *(always found — in the strongbox)* — [📄 player handout](assets/handouts-c8-c12.md#h12--the-areco-deed-e-dadálah)
 >
@@ -139,6 +180,21 @@ By late afternoon the players (or Mercedes, or Galíndez) connect Ana to Quirce.
 
 **Padre Albarrán arrives** from the third patio, wet — he has been at (or in) the well. He looks at the room and says one sentence: _"Dios me contestó. Lo movemos."_ He sits. Galíndez nods once. The vote is over before it is taken. _(Note: he means move the book to the dock and re-vault it under fresh consecration — not put it on a ship. By the dock in C12 that answer finishes itself; see [the Hide foreshadowing](#doña-mercedes-alone).)_
 
+### DETALLE DE ESCENA — LA CONFRONTACIÓN DE ANA
+
+**Ambientación**: el segundo patio, la misma mesa donde encontraron el cuaderno de Saráchaga. Ana está sentada muy derecha, las manos planas sobre el cuaderno cerrado, como si sostenerlo quieto pudiera detener también lo que está por decir.
+
+> - Mercedes, sentándose frente a ella, sin rodeos: *"Ana. ¿Cuánto le dijo a Quirce?"*
+> - Ana, sin negar, la voz quebrándose recién en la segunda frase: *"Me dijo que estaba estudiando los anillos sismológicos de la cuenca del Riachuelo. Yo le mandaba copias de las actas — pensaba que eran inocuas."*
+> - Si un PJ le pregunta directamente si sabía lo que hacía: *"No. Y eso es lo peor. Ni siquiera puedo decir que me engañaron del todo — yo no quise preguntar más de la cuenta."*
+> - Si le ofrecen una segunda oportunidad (alimentarla con información falsa para Quirce): se le ilumina algo en la cara, mezcla de alivio y vergüenza. *"Puedo hacer eso. Déjenme hacer eso."*
+> - Si deciden excluirla: baja la cabeza, no protesta. *"Está bien. Me lo merezco."* — y no vuelve a levantar la vista el resto de la reunión.
+> - Mercedes, cerrando el tema, ni cruel ni blanda: *"Vas a ayudar mañana. Vas a estar ahí. Y después de que esto termine, vamos a hablar de qué eras."*
+
+**Padre Albarrán, entrando** — la sotana empapada hasta las rodillas, el pelo pegado a la cabeza, una calma extraña en la cara de alguien que acaba de recibir una respuesta que temía.
+> - Antes de sentarse: *"Dios me contestó. Lo movemos."*
+> - Si un PJ le pregunta cómo fue la respuesta: *"No fue una voz. Fue más como... dejar de dudar, de golpe, mientras tenía la mano metida en el agua fría."* — no da más detalle; no hace falta.
+
 ---
 
 ## THE CURSED GAUCHO
@@ -163,9 +219,37 @@ He has chosen the place of his death and asks the players to _let him die there_
 
 > † _Canon note: the cordon is normally the curandera's working, walked by eight; the [C12 cordon worksheet](chapter-12.md#the-day-before-the-night) lists how this table fills the corners from the Wrong Returned, the Marked, recruited men, and a Warding._
 
+### DETALLE DE ESCENA — LA CURTIEMBRE
+
+**Ambientación**:
+
+> _El galpón es bajo, de ladrillo ennegrecido por años de humo de curtido, con tres tinglados de secado donde cuelgan cueros a medio curar, tiesos como tablas. El olor pega antes que la vista: cal viva, quebracho, sangre vieja. Adentro, la luz entra en franjas por los tablones separados del techo, y en esas franjas de luz flota el polvo del cuero raspado. En el tercero de los tinglados, sentado en un banco de curtir, el Gaucho Maldito afila un cuchillo con movimientos largos y parejos, sin apuro — el mismo ritmo, una y otra vez, como quien lleva tanto tiempo haciendo algo que ya no necesita pensarlo._
+
+**El Gaucho Maldito — descripción física**: treintipico años, curtido por el sol hasta un color de cuero viejo, delgado y nervudo. Una cicatriz diagonal, limpia, le cruza la cara desde el lóbulo de la oreja izquierda hasta el mentón. Bombachas negras, poncho de vicuña, sombrero de ala ancha calado bajo. Lleva dos cuchillos a la vista — un facón a la espalda, un cuchillo de campo al cinto — y una pistola de chispa sin cargar, que carga por lo que representa, no por lo que hace. Su caballo zaino, reventado de dos días de marcha forzada, espera afuera sin que nadie lo ate.
+
+**El nombre.** Nadie en la curtiembre lo llama por nombre — le dicen el Gaucho Maldito, o simplemente "él". Tiene uno: **Edelmiro**. No lo ofrece nunca. Si un PJ se lo ganó en C7 (confianza genuina, no presión) y se lo pregunta directamente acá, en la curtiembre, hay una pausa antes de la respuesta — el nombre pertenece a alguien que tenía mujer, hijo, padre, y a él le cuesta usarlo. *"Edelmiro. Hace tres años que nadie me llama así."* Es lo único parecido a un regalo que hace en toda la escena.
+
+**Registro de voz — tres modos, tal como aparece en la mesa.** El estilo de la campaña pide que el Gaucho Maldito no tenga una sola voz: habla en gaucho cerrado cuando está en guardia, en español educado cuando reclama autoridad, y cambia al mapudungún cuando el duelo se le sale de las manos. Las tres versiones deben sonar a personas distintas aunque sean la misma boca.
+> - **En guardia** (con desconocidos, al principio de la escena): *"Siéntense, si quieren. O no. A mí no me importa."*
+> - **Reclamando autoridad** (el pedido sobre El Patrón, dicho con la cadencia de quien ya negoció esto antes con otros, y perdió): *"Si lo ven a él — el que tiene el campo en Areco con el otro nombre — no me dejen darle a alguien más mi pelea. Ese hombre es mío. Si no me dejan llegar a él yo, no me hacen el favor que vine a pedir."*
+> - **El duelo, sin traducir en el momento** (solo si le preguntan por su hijo, y solo si ya ganaron su confianza en C7): dice una frase corta en mapudungún, mirando el cuchillo, no a nadie. *"Pichi che, amutuy."* — luego, en castellano, más bajo: *"Chiquito, se fue."* No la repite ni la explica más.
+> - Contando lo que sabe, en frases cortas, sin inflexión: *"Me llegó lo de Saráchaga. Y lo de la piedra. Y lo del movimiento que están por hacer."*
+> - Su compromiso: *"Mañana yo voy en la galera con ustedes. No voy a llegar al barco. Mi pelea es en la calle, no en el agua."*
+> - Si le preguntan por su familia, por Coypac: se detiene un segundo con el afilado. *"Tres años. Voy buscando. Mato cuando encuentro."* No da más que eso a quien no se lo ganó ya en C7.
+> - Si le preguntan qué piensa de los Custodios, o si sabe algo de ellos: encoge un hombro, sigue afilando. *"Guardan un libro. Yo cazo a un hombre. No es la misma pelea la de ellos que la mía — pero esta noche nos cruzamos en la misma calle. Eso me alcanza."* No les debe nada, y no lo esconde.
+> - Si aceptan su pedido, entregando el cuchillo de campo familiar: *"Si yo no llego, este es para él. Hagan lo que tengan que hacer con esto, pero llévenlo a él."*
+> - Si se niegan: no discute, no insiste. Vuelve al afilado como si no hubieran hablado. No va a estar en la calle mañana para cubrirlos.
+
+**Marta, junto a los paneles de cuero** — se arrodilla a examinarlos con las manos, no con los ojos, tanteando los bordes como quien lee una escritura que no puede ver.
+> - *"No sé las palabras que usaba Kuyen. Pero sé dónde tienen que estar las esquinas. Les puedo mostrar dónde sostener los paneles. Mi cuerpo sabe los ángulos."*
+> - Si un PJ Marcado se ofrece a ayudarla a ubicar un panel: se detiene, lo mira de una forma que no es del todo humana pero tampoco es hostil. *"Vos también sentís dónde falta. Bien. Parate ahí."*
+> - Sobre el hechizo de Mandinga, si corresponde: *"¿Usamos el hechizo de Mandinga en una esquina, o lo guardamos?"* — la pregunta que pone la decisión sobre la mesa, sin presionar en ninguna dirección.
+
 ---
 
 ## DOÑA MERCEDES, ALONE
+
+> _El claustro de San Ignacio está vacío a esta hora — un rectángulo de columnas bajas alrededor de un patio de tierra apisonada, con un aljibe seco en el centro que ya nadie usa. La luna, si hay, cae pareja sobre las baldosas de mármol del corredor, las mismas que Mercedes contó esa tarde, en voz baja, arrodillada. De noche el patrón geométrico del piso se nota más — o parece notarse más, que quizás no sea lo mismo. Los pasos de los dos resuenan distinto ahí adentro: un segundo eco, un cuarto de segundo tarde, que ninguno de los dos comenta._
 
 Late evening, the plan set. Mercedes asks the player she has spoken to most to walk with her in the empty cloister of San Ignacio, and tells them what she has carried since Arc 2:
 
@@ -193,6 +277,8 @@ She asks one thing: _"No te pido que perdones. Te pido que cuando ese hombre nos
 
 ## MIDNIGHT — THE PARLOR
 
+> _La sala de Inocencia de noche es chica y tibia: una mesa de madera oscura, dos sillas de asiento de cuero, un aparador con loza desportillada, y en el medio de la mesa una hogaza de pan que nadie cortó todavía. Un candil bajo, casi consumido, deja más sombra que luz en las esquinas. Todo en el cuarto es ordinario — y por eso mismo, cuando algo no lo es, se nota de inmediato._
+
 The players return to Inocencia's around midnight. Bread on the table. And a **visitor** in Inocencia's chair — a man they have never seen and have met in a hundred small forms across four arcs. Dressed simply, not large, his face unremarkable in a way that should be impossible (the eye keeps trying to find a feature to remember, and fails). He stands, bows slightly:
 
 > _"Qué bueno conocernos al fin. Soy Don Eligio Dadálah. Ustedes me conocen como El Patrón."_
@@ -206,6 +292,17 @@ He is telling the truth, mostly — he _will_ let them live if the move happens,
 > _"Doña Mercedes les contó esta noche lo que copió hace cuarenta años. Tomó coraje. La quiero, ¿saben? Es de las pocas personas que me han hecho trabajar. Cuando mañana terminemos, voy a pedirles un favor: déjenmela viva. Yo la voy a tratar bien."_
 
 He bows again. The door closes on its own. **SAN Check**: 1/1D6 — a single conversation with the avatar of Nyarlathotep, in a boarding-house parlor, with bread on the table.
+
+### DETALLE DE ESCENA — DON ELIGIO DADÁLAH
+
+**Descripción física**: estatura mediana, contextura mediana, ropa simple y prolija — nada que llamaría la atención en cualquier salón porteño. La cara es el problema: correcta, agradable, y absolutamente imposible de retener. El ojo busca un rasgo para recordar — la forma de la nariz, el color exacto de los ojos — y no lo encuentra, una y otra vez, en el mismo rostro. Sonríe con facilidad, como quien disfruta genuinamente de la conversación. No hay nada amenazante en su postura. Eso es lo que asusta.
+
+**Diálogo — si los jugadores insisten en preguntar**:
+> - *"¿Quién es usted, en verdad?"* — sonríe, casi con cariño. *"Soy exactamente quien les dije que era. La pregunta que en realidad quieren hacer es otra, y ya saben la respuesta."*
+> - *"¿Por qué no nos amenaza?"* — *"Porque no hace falta. Y porque las amenazas son para quien no tiene tiempo. Yo tengo todo el tiempo que quiera."*
+> - Si un PJ se muestra tentado por la oferta (dejar el libro donde está, o entregarlo directamente): no presiona, no insiste — se limita a sonreír un poco más. *"No hace falta que decidan nada esta noche. Yo puedo esperar hasta mañana. Ya esperé cuarenta años."*
+> - Si le preguntan por Mercedes: la calidez en su voz, por un instante, parece genuina. *"Es de las pocas personas que me han hecho trabajar de verdad. Eso no es un cumplido menor, viniendo de mí."*
+> - Despedida, poniéndose de pie: *"Nos vemos mañana, entonces. Con el libro en la calle, y con la geometría abierta al fin."*
 
 > ⚠️ **El Patrón = no roll — the silence tell.** Within ~20 m of him the Marks go **silent**: the city-hum the Marked have carried since the [C10 grid entry](chapter-10.md#entry-into-the-city) stops dead. The absence _is_ the detection — they feel him as a hole in the geometry, the one shape the grid cannot read; it resumes when the door closes. Retroactively, the [crested carriage at Florida y San Martín](chapter-10.md#the-streets) was him. **This pays off at the Stand in [C12](chapter-12.md#chapter-12--el-libro)** — the Marks go silent _before_ he rounds the corner, giving the Cursed Gaucho his three seconds of warning.
 
