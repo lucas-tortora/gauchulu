@@ -48,11 +48,11 @@ The players begin as **hired hunters** chasing the wrong enemy: tribes blamed fo
 
 What this makes them, by Arc 4, is the **only people who can make the C12 choice** — because they are the only people in the room with both the perception (the Mark, where it landed) and the moral standing (they didn't put the book in the vault, they didn't copy from it, they didn't strike the bargain). The Keepers are too compromised. Mercedes is the leak. The Cursed Gaucho is too narrow. The cult is the enemy. **The players are the swing.** *(If no PC took a Mark in C3, Mercedes and the Pombero pick up the perceptive load and the choice still lands on the players — by moral standing, not by perception.)*
 
-The choice in C12 is theirs alone:
+The choice in C12 is theirs alone. **At this table, USE is closed** — no PC read Saens's page 79 aloud back in C5, so the Reader path was never earned. The live choice is Hide or Destroy:
 
 - **HIDE** — the book stays in a new vault. The Keepers' three-century policy continues. Cost: Albarrán's *Hic manet*, the carriage ride, the Cursed Gaucho's fifteen minutes.
-- **USE** — the **Reader-PC** (the player who first read Saens's page 79 aloud, in C5) speaks the Latin sentence on Mercedes's parchment and binds El Patrón outside the vault. Cost: layered, distributed, named at the table.
-- **DESTROY** — the book is unmade, with the Cursed Gaucho's *cuchillo* through page 79 at the Reader's hand. Cost: the players choose who pays it (Anchor, Pillar, Wall, Witness, Bystander), publicly, around the table.
+- **USE** *(closed at this table)* — where it's open, the **Reader-PC** (the player who first read Saens's page 79 aloud, in C5) speaks the Latin sentence on Mercedes's parchment and binds El Patrón outside the vault. Not available here.
+- **DESTROY** — Mercedes reads the older Tehuelche-Tobá-Salamanca chain she's carried on her body for forty years; the Marked PC(s) form the circle and take the cost, tiered (Anchor, Pillar, Wall, Witness, Bystander — fewer tiers with fewer Marks); the Cursed Gaucho's *cuchillo*, if it made it into play, primes the first stroke. **This table has 2 Marked PCs — Tránsito and Negro Camba** (Benancio died in C9; Negro Camba was newly Marked in that same crisis) — so the cost is **Anchor + Pillar**: one dies, one survives with permanent sense-loss, unless the Marta valve is used. Named before it's paid, decided publicly around the table.
 
 There are no hidden right answers. The campaign's argument is that **the people who broke the binding are the ones who get to choose how it ends, and live with what they chose.** The Mark gives them the perception; the choice is what they do with it.
 

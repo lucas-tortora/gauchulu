@@ -8,7 +8,7 @@
 
 > **Setting reference.** For 1821 Buenos Aires — the Rivadavia reforms, the Manzana de las Luces, the portless river and the *saladero* coast, daily life and the senses, and how the real city grounds the geometry — see [`REF-BuenosAires-1821.md`](REF-BuenosAires-1821.md).
 
-> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. The two Marked PCs read the city geometry on entry more vividly for having just lived the closing.
+> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. **Two Marked PCs ride into the city — Tránsito and Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis. Both read the city geometry on entry more vividly for having just lived the closing.
 
 > **The shape of the chapter — a slow build to a fast dawn.** Run the beats in order, unhurried until the death; **Mercedes leads them from place to place — when a scene ends, she names the next one.**
 > 1. [Entry](#entry-into-the-city) + [the streets](#the-streets) — build the city; the micro-encounters; the third *"Dadálah"* on the street.
@@ -16,6 +16,14 @@
 > 3. [The Keeper meeting](#the-keeper-meeting-house) — meet the roster, the two empty chairs, the debate; the players state their case (this sets C11 receptivity).
 > 4. [The streets at night](#the-streets-at-night) — Galíndez walks them home; four wrong things.
 > 5. [Dawn](#dawn--a-keeper-is-dead) — Saráchaga dead; the vote decides itself. → [C11](chapter-11.md#chapter-11--la-decisión).
+
+---
+
+## COLD OPEN — read this before anything else tonight
+
+*(Read aloud before the chapter's own opening — this is the session's hook, not its mechanics. Then move into [Entry into the city](#entry-into-the-city) below.)*
+
+> _Cuatro días de camino y el último es el peor: no por el paisaje, que se aplana hasta no ser nada, sino por el silencio adentro del grupo. Nadie nombra a Benancio en voz alta todavía. Tránsito lo intentó una vez, la segunda noche, y no le salieron las palabras — así que ahora nadie lo intenta. Negro Camba se mira la mano derecha más de lo normal, donde el machete solía pesar, como si el peso siguiera ahí y el objeto no. Y entonces, sin aviso, el humo. Humo de saladero, humo de puerto, una mancha baja y parda en el horizonte que no estaba ahí una hora antes y ahora no se puede dejar de mirar. Alguien dice "Buenos Aires" en voz baja, como quien nombra algo que todavía no cree. Tránsito lo siente primero — un peso nuevo, geométrico, apoyándose contra las costillas desde kilómetros de distancia. Se persigna sin pensarlo. Negro Camba la mira. No hace falta preguntar qué sintió._
 
 ---
 
@@ -64,7 +72,7 @@ Mercedes leads the party to a storage room three floors _above_ the marked door 
 
 **The witness-stone**: Keeper-made, brass over a core of _piedra parada_ from the old Tehuelche tradition. To a Marked hand it reports the vault's state below — **cold and steady** (intact), **warm** (under stress), **hot** (failing). A thermometer for the binding. **Tonight it reads warm.** Mercedes watches each face: _"Sí. Eso me dijeron también."_
 
-> **⚔️ The Witness Flicker (scheduled).** When the **second** Marked PC touches the disc, it reads warm — and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Marks: the vault's geometry meeting the pit's survivors. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for the touching PC, 0/1 for the other Marked. **No 2d6 — scheduled.** The vault now knows them; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around them _by name_.
+> **⚔️ The Witness Flicker (scheduled).** When the **second** Marked PC touches the disc — **Tránsito, then Negro Camba**, in whatever order they reach for it — it reads warm, and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Marks: the vault's geometry meeting the pit's survivors. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for the touching PC, 0/1 for the other Marked. **No 2d6 — scheduled.** The vault now knows them; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around them _by name_.
 
 **SAN Check**: 0/1 — the warm stone, and the realization that the building is in active failure mode while students two floors down study Latin grammar.
 
@@ -111,7 +119,7 @@ Four small things as Galíndez walks them home:
 >
 > *La segunda columna está rodeada de un círculo. Dos veces.*
 >
-> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is always 2. If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
+> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is **2** (Tránsito and Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis). If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
 
 **SAN Check**: 0/1 — the cumulative wrongness of the city at midnight.
 
@@ -160,7 +168,7 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 
 - [ ] Entry Mark roll active (information, not manifestation); build the city **slowly** before the Keepers meet.
 - [ ] *Dadálah* mutter delivered (no-roll fallback as written — the mate seller flinches at the Marked).
-- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the **second** stone-touch (scheduled — no 2d6).
+- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the **second** stone-touch — **Tránsito and Negro Camba** (scheduled — no 2d6).
 - [ ] [The Counter](#the-streets-at-night) catchable at night (falsified-count edge available to players — El Patrón's dock geometry expects the wrong number of Marks, first dock Mark-roll one threshold safer).
 - [ ] Keeper meeting: full roster visible to players; **two empty chairs unnamed** (let them notice); Ana's planted question lands or doesn't.
 - [ ] Eleven strikes at midnight; Saráchaga **discovered**, never narrated; [H11](assets/handouts-c8-c12.md#h11--saráchagas-last-entry-c10-dawn) (his last notebook entry).

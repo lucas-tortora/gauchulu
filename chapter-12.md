@@ -10,6 +10,14 @@
 
 ---
 
+## COLD OPEN — read this before anything else tonight
+
+*(Read aloud before the chapter's own opening. Then move into [Act 1](#act-1--the-transport) below.)*
+
+> _La tarde antes de la noche que decide todo, Buenos Aires hace lo de siempre: se calienta, se enfría, cierra los negocios, enciende los faroles uno por uno. Nadie en la calle sabe que hay un cofre esperando en un sótano bajo la Manzana de las Luces, ni que esta noche va a cruzar once cuadras hasta el río. En la curtiembre del Riachuelo, el Gaucho Maldito carga por fin su pistola — algo que no había hecho en tres años. En la casa de Inocencia, Tránsito y Negro Camba se miran las manos: los dos con la misma marca, ninguno con el otro que la tenía primero. Mercedes dobla y desdobla el pergamino sin abrirlo del todo, una y otra vez, como quien cuenta algo que ya sabe de memoria. El aljibe de la tercera casa está caliente. Todos lo saben. Nadie lo dice todavía._
+
+---
+
 # ACT 1 — THE TRANSPORT
 
 ## The day before the night
@@ -42,7 +50,7 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 > |Slot|Source|
 > |---|---|
 > |1–2|**Marta + Héctor** (only if both survived C9)|
-> |3–4|**2 Marked PCs** (each counts stronger)|
+> |3–4|**Tránsito and Negro Camba** (the two Marked PCs — each counts stronger; Benancio died in C9, Negro Camba was newly Marked in the same crisis and fills the second slot)|
 > |5–6|**Inocencia's two men** (debt-motivated; Persuade or ask Inocencia)|
 > |7–8|**Galíndez's two less-armed soldiers** (costs him perimeter strength at Weak Point 1)|
 > |(one corner)|**Mandinga Warding** (replaces a walker; hardens that corner to a full panel-leg)|
@@ -169,7 +177,7 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 > **Availability**: Destroyed is _always_ available — Mercedes carried this ritual on her body for forty years so it always would be. If the parchment is lost, she rewrites it in fifteen minutes from memory. **If a player reaches for Destroyed, give it to them.** This is the campaign's safety-valve ending.
 
-**The circle forms** — the Marked PCs take the eight cardinal/intercardinal points around the chest; surviving Wrong Returned join; Mercedes is at the parchment-position just outside. **The cost is named before it is paid** — the step that distinguishes Destroyed:
+**The circle forms** — **Tránsito and Negro Camba**, the two Marked PCs, take cardinal points around the chest; surviving Wrong Returned and recruited hands fill the rest; Mercedes is at the parchment-position just outside. **The cost is named before it is paid** — the step that distinguishes Destroyed:
 
 > _"Esto es distinto. No alcanza con que yo lea. La marca de cada uno de ustedes va a contribuir al cierre. Cuanto más uno carga, menos cargan los otros. No puedo decirles cómo distribuir el costo. Eso es de ustedes… No es justo. Es un cierre. Decidan."_
 
@@ -185,9 +193,9 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 Fewer than five Marked PCs drops the lighter tiers from the bottom.
 
-> **Only 2 Marked PCs at this table** — the cost-table is **Anchor + Pillar** only: one PC dies, one survives with permanent sense-loss and a physical mark. A heavy table. Give the players real time with the assignment.
+> **2 Marked PCs at this table — Tránsito and Negro Camba.** Benancio died holding the C9 seal, but Negro Camba was newly Marked in that same crisis, so the table is back to two Marks. **The cost-table is Anchor + Pillar**: one of them dies, one survives with permanent sense-loss and a physical mark — unless the Marta valve below is invoked. A heavy table either way. Give the players real time with the assignment.
 
-> **The Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: both Marked PCs shift **down one tier (Pillar + Wall)**, Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
+> **The Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: **both Marked PCs shift down one tier (Pillar + Wall)**, Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
 
 **The reading and the burning** — Mercedes opens the parchment and reads the older chain.
 

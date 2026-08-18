@@ -8,6 +8,14 @@
 
 ---
 
+## COLD OPEN — read this before anything else tonight
+
+*(Read aloud before the chapter's own opening. Then move into [Opening Situation](#opening-situation) below.)*
+
+> _Doce horas y la ciudad sigue igual — los carros, el pregón del panadero, las campanas del Cabildo marcando las horas sin saber que una de las suyas se apagó anoche. Pero adentro de la casa de Saráchaga nada es igual: el cuaderno cerrado sobre la mesa, la silla todavía volcada donde la dejaron, y Ana Bermúdez sentada muy derecha, con las manos sobre la falda, esperando que alguien le diga qué hacer con lo que sabe traducir y todavía no quiere. Tránsito y Negro Camba llegan sintiendo la misma cosa al mismo tiempo — un aljibe, en algún patio de esta misma casa, más caliente de lo que un aljibe debería estar. Ninguno lo dice en voz alta todavía. Afuera, alguien empieza a barrer la vereda como si fuera un día cualquiera._
+
+---
+
 ## OPENING SITUATION
 
 Saráchaga has been dead twelve hours. The Keepers convene at Mercedes' insistence, in the same room where the body lay (now moved to San Ignacio for a private vigil). Galíndez walks the city openly armed now, taking different streets to and from everywhere. The courtyard well's disc is **still hot**; Padre Albarrán has been at it since first light, praying, still without his answer. He will get it today.

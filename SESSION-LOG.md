@@ -8,6 +8,21 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-08-18 — C9 played: Benancio dies holding the seal; Tránsito co-anchors; Quirce flees
+
+The ritual actually ran. Divergences from the written plan (which assumed both center PCs survive by default):
+
+- **The seal held.** Pit sealed, same as scripted.
+- **Benancio died holding the center** — not the entity's Round-2 "quiet" offer, but consumed during the press itself. He didn't step back. Death was always available as a player's dramatic choice, never the default — this is the one time it got chosen.
+- **Tránsito (South, Marked, Mandinga deal) left her position to co-anchor Eusebio** after Benancio fell — the written Phase-5 "step in to co-anchor" option, taken from the outer ring instead of the center. That's what closed the pit. South stood open for the rest of the phase; nothing exploited it before the seal landed.
+- **Negro Camba (East) was newly Marked in that same crisis** — holding the eastern line through what the Hound did to it. The campaign keeps its second Mark, just not the PC who started the night carrying it; he now carries both a Mandinga deal and a Mark, same as Tránsito. **His obsidian machete didn't survive the same exchange** — chipped to nothing (the standing rule: fumble or 96–00 shatters it). He's down to the knife alone going into Arc 4, for what that's worth once the Hound's sealed away.
+- **Quirce fled before the seal completed.** In character (his stat block already calls him no fighter, first to run), but it cuts his written aftermath beat (the theodolite, the debt-line, the notebook) and means he never reclaimed **the tarnished copper** — the party has it now, not him. The flowmap's old "copper leaves with Quirce" Arc 4 hook is dead.
+- **Net effect on C10–C12: the roster changed, the count didn't.** Every mechanic hardcoded to "2 Marked PCs" still works — it's just Tránsito + Negro Camba going forward, not Tránsito + Benancio. Updated the C10 Witness Flicker, H16's tally paper, the C12 cordon worksheet, and the C12 Destroyed ending's cost table (still Anchor+Pillar, still the Marta valve) to name the actual two. See [COMPILED-c10-c12.md](COMPILED-c10-c12.md) for the full compiled sessions 10–12 (all three chapters, plus the review writeup).
+
+*Integrated into:* `chapter-09.md` (Phase Five outcome note, the Cost section's center-anchor and Quirce paragraphs, checklist), `flowmap.md` (state ledger, chapter grid C9/C12, the Marks thread, decision points, ending state), `chapter-10.md` (opening note, the Witness Flicker, H16's inline keeper note, checklist, cold open), `chapter-11.md` (cold open), `chapter-12.md` (cordon worksheet, the Destroyed circle/tier table, the Marta valve, dust-lift line, knife-fallback, cold open), `assets/handouts-c8-c12.md` (H16), `assets/cast-one-pager.md` (DESTROY description). New doc: `COMPILED-c10-c12.md` (supersedes the earlier `OVERVIEW-c10-c12.md`, which was skim-only and got replaced with the full compiled chapters per Lucas's request).
+
+---
+
 ## 2026-08-04 — Table-style corrections + the broken-circle rule extracted
 
 Four corrections from Lucas, checked against the table's actual play style and history:

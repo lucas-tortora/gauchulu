@@ -163,7 +163,7 @@
 
 *The second column is circled. Twice.*
 
-> **Keeper**: adjust the first column to your party's actual headcount; the second is always exactly the number of Marked PCs — **2** at this table. If the players falsify the count before it is delivered, El Patrón's dock geometry expects the wrong number of Marks: first Mark-roll at the dock is one threshold safer (C12, Act 2).
+> **Keeper**: adjust the first column to your party's actual headcount; the second is always exactly the number of Marked PCs — **2** at this table (Tránsito and Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis). If the players falsify the count before it is delivered, El Patrón's dock geometry expects the wrong number of Marks: first Mark-roll at the dock is one threshold safer (C12, Act 2).
 
 ---
 
