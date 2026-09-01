@@ -6,18 +6,13 @@
 
 ## GOING IN: THE STATE THAT MATTERS
 
-Session 9 played since the campaign docs were last reviewed, diverging from the written default:
+Two sessions played since this doc was last compiled:
 
-- The seal **held** — pit sealed, same as scripted.
-- **Benancio died holding the center** — not the entity's Round-2 "quiet" offer, the press itself. He didn't step back.
-- **Tránsito left South and co-anchored Eusebio** after Benancio fell. That is the only reason the seal completed.
-- **Negro Camba (East) was newly Marked in that same crisis** — holding the eastern line through what the Hound did to it. His obsidian machete didn't survive the exchange either (chipped to nothing on a fumble) — he's down to the knife alone.
-- **Quirce fled before the end** — no debt-line, no notebook, no copper. The party has the tarnished copper now; he doesn't.
-- Everything else ran as written: Eusebio survives, the goat walks west at dawn, Rosa is hostile, Saúl is confirmed dead via the relay, the Cursed Gaucho rides for Coypac and meets the party in C11.
+**Session 9 (C9, 2026-08-18)** — the seal held; **Benancio died holding the center** (the press itself, not the entity's offer); **Tránsito left South and co-anchored Eusebio**, closing it; **Negro Camba was newly Marked in that same crisis**, obsidian machete chipped to nothing; **Quirce fled before the end**, empty-handed. Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-benancio-dies-holding-the-seal-tránsito-co-anchors-quirce-flees).
 
-Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-benancio-dies-holding-the-seal-tránsito-co-anchors-quirce-flees).
+**El camino (C10's road, 2026-09-01)** — the four-day ride from the pit played as its own session. Días 1–2 ran close to written (the yacaré hunted down rather than left to retreat; the wolf at the fire, untouched). **Día 3 — Los Falsos Milicianos — killed Tránsito.** The written encounter assumes low lethality; at this table, before the four bandits' morale broke, Tránsito took a hit she didn't survive — three days after living through the C9 seal, to ordinary greed with no connection to El Patrón. **The campaign is down to 1 Marked PC — Negro Camba.** A new PC joined the same session: a doctor with occultism leanings, written into C10's "The streets" (the customs officer redirects the gravely wounded party to him instead of processing papers). He is **not Marked** — same precedent as the Antiquarian, an added PC who joined too late for C3 or the ritual. **His name is still pending** — every reference below reads `Doctor [NOMBRE]`; find-and-replace once the player names him. Full detail: [SESSION-LOG, 2026-09-01](SESSION-LOG.md#2026-09-01--el-camino-played-tránsito-dies-to-the-falsos-milicianos-new-pc-joins).
 
-**The campaign still has 2 Marked PCs — Tránsito and Negro Camba, not Tránsito and Benancio.** Both now carry a Mark *and* a Mandinga deal. Every mechanic below that names Marked PCs specifically has been updated to this pairing. Each chapter also got a **cold open** added at the top — read it before that chapter's own mechanical opening.
+**The campaign has 2 PC deaths now, not 1 — Benancio (C9, the ritual) and Tránsito (C10, the road).** Every mechanic below that named "Tránsito and Negro Camba" as the table's two Marked PCs has been rewritten to Negro Camba alone. Each chapter still carries its **cold open** at the top — read it before that chapter's own mechanical opening; C10's and C12's were rewritten to carry Tránsito's death alongside Benancio's.
 
 ---
 
@@ -25,39 +20,38 @@ Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-bena
 
 | # | Where | Issue | Fix |
 |---|---|---|---|
-| 1 | C10, Witness Flicker | Needed the real names on the second-touch trigger | Now names **Tránsito, then Negro Camba** |
-| 2 | C10, H16 tally handout (+ `assets/handouts-c8-c12.md`) | Needed the real headcount on record | **"los marcados" = 2**, Tránsito and Negro Camba, with the Benancio/newly-Marked history spelled out |
-| 3 | C12, cordon worksheet | Slots 3–4 | Explicitly **Tránsito and Negro Camba** |
-| 4 | C12, Destroyed ending cost table | Anchor + Pillar across "2 Marked PCs" | Now names **Tránsito and Negro Camba** as the two candidates |
-| 5 | `flowmap.md` | State ledger, chapter grid (C9 + C12), the Marks thread, decision points, ending state | All updated to the real C9 outcome |
-| 6 | `flowmap.md`, tarnished copper thread | Said it "leaves with Quirce" — he fled without it | Corrected: stayed with the party |
-| 7 | `chapter-09.md` | Phase Five / Cost section written pre-session, assumed both center PCs survive | Rewritten to the actual outcome |
-| 8 | `assets/cast-one-pager.md` | Pre-existing bug, unrelated to C9: the DESTROY bullet described the **USE** mechanic instead (Reader's hand, page 79); never flagged Use is closed at this table | Rewrote to the real Destroy mechanic; added the "Use is closed" flag |
-| 9 | C10 / C11 / C12 | No dedicated session-opening hook (Arc 3 has one, Arc 4 didn't) | Added a **Cold Open** to the top of each chapter |
+| 1 | C10, "El camino" (Días 1 & 3) | Didn't exist in the prior compile — this doc was missing the whole road section, predating this session | Added in full, with this table's outcomes (yacaré hunted, Tránsito dies Día 3) |
+| 2 | C10, "The streets," customs officer | No hook existed for the new PC | Added: gravely wounded party redirected to Doctor [NOMBRE] instead of processed for papers |
+| 3 | C10, Witness Flicker | Written for two Marked PCs touching in sequence | Now a single touch — **Negro Camba only** |
+| 4 | C10, H16 tally handout (+ `assets/handouts-c8-c12.md`) | Needed the real headcount on record | **"los marcados" = 1** — Negro Camba, with the Benancio/Tránsito history spelled out |
+| 5 | C10/C11/C12 cold opens | Assumed Tránsito alive through C10–C12 | Rewritten to carry her death alongside Benancio's |
+| 6 | C12, cordon worksheet | Slots 3–4 named both Marks | Slot 3 is Negro Camba alone; slot 4 open (Doctor [NOMBRE] or another recruit) |
+| 7 | C12, Destroyed ending cost table | Anchor + Pillar across "2 Marked PCs" | Collapses to **Anchor alone** — Negro Camba dies outright unless the Marta valve drops him to Pillar |
+| 8 | `flowmap.md` | State ledger, chapter grid (C12), the Marks thread, ending-state table, NPC roster | All updated to the real C10 outcome |
+| 9 | `assets/cast-one-pager.md`, `assets/handouts-c8-c12.md` | DESTROY description / H16 still named both Marks | Updated to Negro Camba alone |
 
-**One genuine minor gap, low priority, pre-existing**: if the party refuses Ana's translation of Saráchaga's notebook (C10) *and* doesn't trust Quirce enough to ask him, there's no third path to that handout. Unlikely to bite — Ana has a clean alibi at that point — but if your table is the suspicious kind, have Galíndez rough out the cipher's gist as a last resort.
+**Not touched, correctly so**: every C1–C9 reference to "Tránsito" in already-played chapters (C8, C9) — historical run instructions, not forward state. She was alive and Marked through all of C9; only C10 onward changes.
 
 **Load-bearing clues, redundancy at a glance** (reverified against this table's actual state — nothing broke):
 
 | Fact the party needs | Primary path | Fallback(s) |
 |---|---|---|
 | Lacasa is the traitor | Bootprint Track/Stealth at his house | Luisa volunteers if treated kindly · Galíndez delivers both documents regardless if players never investigate |
-| Saráchaga died converted, agreeing with Mercedes | Ana translates the shorthand notebook | Only other reader is Quirce (see the gap above) |
+| Saráchaga died converted, agreeing with Mercedes | Ana translates the shorthand notebook | Only other reader is Quirce (see the gap below) |
 | Tiburcio Lacasa installed the 1810 lock | Mercedes' face + Hard Cthulhu Mythos | Lacasa's own unsent draft (H13), if the satchel is taken |
 | The Areco deed / E. Dadálah identity | Always found, in the strongbox | — (no roll gate) |
 | Hide is a real, costed choice | Mercedes' cloister foreshadowing (C11) | Albarrán offers again at the dock (C12) |
 | Destroyed is always available | Mercedes carries it on her body; rewrites from memory if lost | — |
 
-**Not touched, correctly so**: every C1–C9 reference to "both Marked PCs" in already-played chapters — historical run instructions, not forward state. `REVIEW-c6-c12.md` (the July pass) stays a dated snapshot; this doc supersedes it for C10–C12.
+**One genuine minor gap, low priority, pre-existing**: if the party refuses Ana's translation of Saráchaga's notebook (C10) *and* doesn't trust Quirce enough to ask him, there's no third path to that handout. Unlikely to bite — Ana has a clean alibi at that point — but if your table is the suspicious kind, have Galíndez rough out the cipher's gist as a last resort.
 
-## SESSION CHECKLIST — before you run 10, 11, 12
+## SESSION CHECKLIST — before you run 11, 12 (10 is already played)
 
-- [ ] Table knows, out loud, before session 10: Benancio's dead, Negro Camba is newly Marked (machete gone), Quirce ran without the copper.
+- [ ] Table knows, out loud: Benancio's dead (C9), Tránsito's dead (C10, the road), Negro Camba is the campaign's one remaining Mark, Doctor [NOMBRE] just joined.
 - [ ] Read each chapter's **cold open** aloud before its mechanical opening.
-- [ ] C10: Witness Flicker fires on the second touch — Tránsito, then Negro Camba. H16 reads 2.
 - [ ] C11: run as written — three threads converging on the parlor at midnight.
-- [ ] C12 Act 1: fill the cordon worksheet **before** departure. Decide the **Marta valve** in advance, not cold at the table.
-- [ ] C12 Act 3: if Destroyed, give the table real time to assign Anchor vs. Pillar between Tránsito and Negro Camba (or invoke the valve) — have that conversation ready before the dock.
+- [ ] C12 Act 1: fill the cordon worksheet **before** departure — slot 3 is Negro Camba, slot 4 is open. Decide the **Marta valve** in advance, not cold at the table.
+- [ ] C12 Act 3: if Destroyed, the cost is **Anchor alone** on Negro Camba — no Pillar to soften it unless Marta anchors instead. Have that conversation ready before the dock.
 
 ---
 ---
@@ -72,9 +66,10 @@ Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-bena
 
 > **Setting reference.** For 1821 Buenos Aires — the Rivadavia reforms, the Manzana de las Luces, the portless river and the *saladero* coast, daily life and the senses, and how the real city grounds the geometry — see [`REF-BuenosAires-1821.md`](REF-BuenosAires-1821.md).
 
-> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. **Two Marked PCs ride into the city — Tránsito and Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis. Both read the city geometry on entry more vividly for having just lived the closing.
+> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. **Only one Marked PC rides into the city — Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis; **Tránsito, who survived the seal, died three days later on the road** — the falsos milicianos of Día 3, below, killed her, not the entity. Negro Camba reads the city geometry on entry alone, and more vividly for having just lived both losses.
 
 > **The shape of the chapter — a slow build to a fast dawn.** Run the beats in order, unhurried until the death; **Mercedes leads them from place to place — when a scene ends, she names the next one.**
+> 0. *(Optional bridge, run before any of this — see [El camino](#el-camino--cuatro-días-desde-el-pozo))* the four days of road from the pit to the city: a hard crossing, a wolf at the fire, and four men pretending to be soldiers.
 > 1. [Entry](#entry-into-the-city) + [the streets](#the-streets) — build the city; the micro-encounters; the third *"Dadálah"* on the street.
 > 2. [The university](#the-university-public-face) + [the vault glimpse](#first-glimpse-of-the-vault) — the public face, then the warm witness-stone three floors up.
 > 3. [The Keeper meeting](#the-keeper-meeting-house) — meet the roster, the two empty chairs, the debate; the players state their case (this sets C11 receptivity).
@@ -83,11 +78,112 @@ Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-bena
 
 ---
 
-## COLD OPEN — C10
+## EL CAMINO — CUATRO DÍAS DESDE EL POZO
+
+> **Keeper note.** Optional, but recommended — it buys exactly the slow build the chapter note above asks for. **Run at this table**: it gave Tránsito and Negro Camba something to carry besides raw grief on Días 1–2 — and then, on Día 3, it took Tránsito. Run it as the tail end of the C9 session, or as the first 30–40 minutes of the C10 session, **before** the [Cold Open](#cold-open--read-this-before-anything-else-tonight). Three beats across the first three days of the ride; the fourth day is the Cold Open itself, rewritten below to carry both losses.
+
+### DÍA 1 — EL VADO DEL ARROYO CRECIDO
+
+> _El primer día no tiene nada de extraordinario, salvo el cansancio que ya traen desde el pozo — ese cansancio que no se cura durmiendo, solo se acumula distinto. El campo se abre parejo, pasto alto hasta el estribo, algún ombú solitario marcando la distancia como un mojón. Cerca del mediodía el camino se corta: un arroyo que en cualquier otra semana sería apenas un hilo de agua viene crecido por las lluvias, la corriente turbia y más rápida de lo que parece desde la orilla._
+
+**Mecánica**: cada jinete tira **Montar (Regular)** para cruzar sin percances; quien conduce el carro de carga tira **Conducir Carro** o **Montar** a criterio del Guardián. Una falla: el jinete cae al agua (1D3 de daño, empapado), el caballo se asusta y corre río abajo unos 200 metros — recuperarlo pide un **Montar** o **Rastrear** extra y cuesta dos horas de sol. Un fallo crítico: ver el yacaré, abajo.
+
+> **⚔️ El yacaré.** Atraído por el chapoteo, un yacaré overo — grande, casi tres metros, viejo conocido de ese vado — sale de los juncos hacia el jinete caído o hacia la pata más próxima de un caballo. No es una criatura mítica: es un animal grande, territorial, y hambriento después de la crecida. Ataca una vez, con toda la intención, y si no consigue arrastrar algo al agua, se repliega — no persigue en tierra firme ni sostiene una pelea perdida.
+
+| Yacaré overo | STR 55 | CON 50 | SIZ 45 | DEX 40 | POW 20 | HP 10 | DB +1D4 | Move 7 (tierra) / 9 (agua) |
+|---|---|---|---|---|---|---|---|---|
+
+**Ataques**: **Mordida** 45% (1D6+1D4); si conecta con éxito duro o mejor, intenta el **rollo de la muerte** — arrastrar a la víctima al agua (STR opuesta; si el yacaré gana, un round adicional bajo el agua, Aguantar la Respiración). **Moral**: recibe cualquier herida, o pierde el primer intento de arrastre → se sumerge y no vuelve a aparecer este viaje.
+
+**SAN**: ninguna — es un animal, no una entidad. El susto es físico, no mental. (Un PJ Marcado puede notar, si se detiene a pensarlo, que el yacaré no reaccionó a la geometría de nadie — solo al ruido y al movimiento. Vale la pena decirlo en voz alta: no todo lo que muerde en el camino es del Patrón.)
+
+> **Ran at this table**: el grupo no dejó que se replegara — lo persiguieron hasta rematarlo y lo cuerearon en la orilla, junto con un par de piezas más cobradas ese mismo día de camino. Textura de viaje, nada mecánico: da cuero y carne extra, y una escena de campo entre dos días pesados.
+
+### DÍA 2 — EL AGUARÁ GUAZÚ
+
+> _La segunda noche acampan junto a un bajo, pasto más corto, buena leña. La cena es callada — sigue siéndolo, desde el pozo. Quien tiene la primera guardia nota, del otro lado del fuego, dos puntos de luz baja y pareja a la altura del pasto: ojos, reflejando la brasa. Un aguará guazú — el lobo de la pampa, patas largas y negras, melena rojiza erizada — mira el campamento desde una distancia prudente, quieto como una estatua._
+
+**Mecánica**: no hay tirada obligatoria — el animal no ataca, no se acerca, y se va solo cuando el fuego baja. Es folclore de campo real: el aguará guazú tiene fama, entre los paisanos, de rondar los gallineros y de traer mal agüero si se lo mira de frente demasiado tiempo — **"no se le sostiene la mirada, que después sueña con uno."**
+
+> **El detalle que importa.** Si hay un PJ Marcado despierto o de guardia, note (sin tirada, o con **Suerte** si el Guardián prefiere dar la opción de perdérselo): el aguará guazú no está mirando el fuego, ni los caballos, ni a quien tiene el arma más cerca. Está mirando exactamente al PJ Marcado — al lugar donde está parado, no a su cara — el mismo tipo de mirada que el vendedor de mate va a tener [dos días después, en la ciudad](#the-streets). Ningún animal de este viaje reacciona así con nadie más. No lo expliquen. Que se acumule.
+
+**SAN**: ninguna. Es inquietante, no traumático — guárdenlo como una nota baja, no como un susto de mesa.
+
+### DÍA 3 — LOS FALSOS MILICIANOS
+
+> _El tercer día el camino se junta con la ruta grande que baja de las postas del norte, y con la ruta llega más tránsito: alguna carreta, un arriero con tropilla, y, a media mañana, cuatro jinetes que vienen al trote parejo desde una loma, directo hacia el grupo, como quien ya sabía que iban a pasar por ahí. Uniformes — o algo que quiere parecer uniforme: casacas de corte militar, alguna sobre otra ropa que no combina, un cinto con hebilla de latón deslustrada. El que va adelante levanta una mano abierta, gesto de autoridad practicado más de una vez._
+
+**El que se hace llamar cabo Prudencio Ibarra**, al frente: treinta y pico, bigote engominado con grasa de sebo, la voz alta y ensayada de quien dio esta misma orden muchas veces con éxito.
+> - *"¡Alto! Patrulla de milicia, control de armas antes del ingreso a la ciudad. Por orden del gobierno, no se permite el paso de armamento de guerra a Buenos Aires sin guía. Entréguenlas acá, se las devolvemos en el puesto de control."*
+> - Si le piden ver la orden por escrito, o el nombre del regimiento: duda medio segundo de más antes de contestar. *"Y... del Regimiento de Blandengues, ¿no ve el uniforme? La orden la tiene el capitán, más adelante."* — no hay capitán, no hay "más adelante".
+> - Si lo presionan con Persuadir/Categoría Social en vez de entregar nada: dos de sus hombres se ponen tensos, buscan mirarse entre ellos. Ibarra insiste, subiendo la voz para tapar la duda: *"¡No se haga el vivo conmigo, que estoy en función!"*
+
+**Las señas** *(Suerte Localizar Objetos, Regular; una segunda tirada Difícil da un detalle extra cada vez)*:
+- Los uniformes no combinan entre sí — una casaca de caballería, otra de infantería, ninguna con la charretera que le correspondería al grado que dicen tener.
+- Uno de los mosquetes no tiene piedra en el serpentín; a otro le falta directamente el gatillo, roto y nunca arreglado.
+- Los caballos son de tiro o de arado, no de tropa — mal herrados, nerviosos, uno con una matadura vieja sin curar bajo la montura.
+- Botas de trabajo, gastadas, asomando bajo el ruedo de las casacas prestadas.
+- Ninguno sabe nombrar, si se lo preguntan directo y por separado, el mismo comandante dos veces.
+
+**Si el grupo entrega las armas**: Ibarra las junta, las pasa a sus hombres — y ahí, sin pausa, cambia el tono. *"Ya que estamos, bajen también las alforjas. Y las monedas, si tienen. Así no se demoran más en el camino."* La codicia los delata del todo; es la señal de que nunca hubo control ninguno, solo robo con uniforme prestado.
+
+> **⚔️ Los cuatro falsos milicianos.** Misma mano de obra oportunista que aparece más adelante como El Contador (C10) y los Limpiadores (C11) — mismo bloque base ([`assets/npc-stats.md#quirces-escort-3-generic`](assets/npc-stats.md#quirces-escort-3-generic)) — pero **sin ninguna conexión con El Patrón**: esto es codicia común, no conspiración.
+
+| | STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Los cuatro (base) | 65 | 60 | 65 | 55 | 50 | 45 | 12 | +1D4 | 1 | 8 |
+
+**Habilidades**: Pelear (Trompadas) 60%, Pelear (Cuchillo) 55%, Armas de Fuego (Pistola) 50%, Esquivar 45%, Intimidar 55%, Localizar Objetos 45%, Montar 50%, Sigilo 40%.
+
+**Armas**: pistola de chispa 50% (1D10, 1 disparo, recarga lenta) · cuchillo 55% (1D4+2+1D4) · puños 60% (1D3+1D4).
+
+**El cabo Prudencio Ibarra** (el que va adelante): idéntico al bloque, más **Mando 40%** — para los gritos de orden falsa y para sostener la farsa un round de más de lo que aguantarían los otros tres.
+
+**Moral**: uno cae → los otros tres se dispersan al galope, cada uno para un lado distinto — no son leales entre sí, solo estaban repartiéndose el botín del día. Ibarra es el último en soltar la bravuconada (*"¡Esto es un delito, esto es un delito!"*) y el primero en huir cuando queda solo.
+
+**Si el grupo detecta las señas antes de entregar nada**: pueden negarse de plano (Ibarra insiste una vez más, después se resigna y ordena la retirada sin pelear si el grupo se muestra armado y firme) o tenderles el mismo juego — fingir que ceden y atacar en el momento en que bajan la guardia. Cualquiera de las dos corre como escena social o como escaramuza corta, según lo que elijan los jugadores.
+
+**Botín, si los reducen o los registran**: unas pocas monedas de cobre y plata suelta, un reloj de bolsillo que no es de ninguno de los cuatro, y un pañuelo bordado con iniciales que tampoco coinciden — señal callada de que el grupo no es su primera parada del mes.
+
+**SAN**: ninguna — violencia humana común, sin nada mítico de por medio.
+
+> **Ran at this table — Tránsito murió acá.** La pelea no corrió como el bloque de arriba la asume (moral quiebra rápido, letalidad baja): antes de que el primer miliciano cayera y los otros tres se dispersaran, Tránsito recibió un golpe que no aguantó. Ella sobrevivió el sello de C9 solo para morir tres días después, a cuchillo o bala de cuatro ladrones comunes sin ninguna conexión con El Patrón — la muerte más mundana de la campaña, y por eso pesa distinto en la mesa. Con su muerte, **el campamento queda con un solo PJ Marcado — Negro Camba** — y todo lo que en C10–C12 asumía dos Marcados (el Parpadeo del Testigo, la hoja de conteo de El Contador, la planilla de cordón, la mesa de costo de Destroyed) se reescribe más abajo. El resto de la escaramuza corre como está escrito: uno cae, los otros tres se dispersan al galope; Ibarra es el último en soltar la bravuconada y el primero en huir.
+
+---
+
+## COLD OPEN — read this before anything else tonight
 
 *(Read aloud before the chapter's own opening — this is the session's hook, not its mechanics. Then move into [Entry into the city](#entry-into-the-city) below.)*
 
-> _Cuatro días de camino y el último es el peor: no por el paisaje, que se aplana hasta no ser nada, sino por el silencio adentro del grupo. Nadie nombra a Benancio en voz alta todavía. Tránsito lo intentó una vez, la segunda noche, y no le salieron las palabras — así que ahora nadie lo intenta. Negro Camba se mira la mano derecha más de lo normal, donde el machete solía pesar, como si el peso siguiera ahí y el objeto no. Y entonces, sin aviso, el humo. Humo de saladero, humo de puerto, una mancha baja y parda en el horizonte que no estaba ahí una hora antes y ahora no se puede dejar de mirar. Alguien dice "Buenos Aires" en voz baja, como quien nombra algo que todavía no cree. Tránsito lo siente primero — un peso nuevo, geométrico, apoyándose contra las costillas desde kilómetros de distancia. Se persigna sin pensarlo. Negro Camba la mira. No hace falta preguntar qué sintió._
+> _Cuatro días de camino y el último es el peor: no por el paisaje, que se aplana hasta no ser nada, sino por el silencio adentro del grupo — un silencio distinto al de antes, con un cuerpo más adentro. Nadie nombra a Benancio en voz alta. Nadie nombra a Tránsito tampoco, todavía; hace un día que la enterraron junto al camino, una cruz de dos palos atados con tiento, y el grupo sigue porque seguir es lo único que queda por hacer. Negro Camba se mira la mano derecha más de lo normal, donde el machete solía pesar, como si el peso siguiera ahí y el objeto no — y ahora también mira la izquierda, donde estaba Tránsito cuando caminaban en fila. Y entonces, sin aviso, el humo. Humo de saladero, humo de puerto, una mancha baja y parda en el horizonte que no estaba ahí una hora antes y ahora no se puede dejar de mirar. Alguien dice "Buenos Aires" en voz baja, como quien nombra algo que todavía no cree. Negro Camba lo siente primero — un peso nuevo, geométrico, apoyándose contra las costillas desde kilómetros de distancia. Nadie más lo siente con él esta vez. Se persigna sin pensarlo. No hay nadie a su lado para mirarlo hacerlo._
+
+---
+
+## LA CARTA DE MERCEDES
+
+> **Keeper.** Mercedes no los espera en la puerta de la ciudad — hay ojos que no debe encender antes de tiempo. En cambio, un chico corre este mensaje hasta ellos apenas cruzan a la cuadrícula (ver [Entrada a la ciudad](#entry-into-the-city), abajo). Léanlo en voz alta, tal cual está escrito — es la carta, no un resumen. Fija los tres datos que necesitan para arrancar el capítulo sin que Mercedes tenga que estar físicamente presente en la entrada: dónde alojarse, a qué hora encontrarla, y el primer rumor sobre Quirce.
+
+> _Un chico descalzo, de unos diez años, se cruza en el camino apenas pisan la cuadrícula — como si los estuviera esperando desde antes de que llegaran. No pregunta nombres. Le pone un papel doblado en la mano al que va adelante, dice "Es de la señora," y se pierde entre los carros antes de que nadie pueda contestarle nada. El papel está sellado con una gota de cera sin marca — Mercedes no usa sello, por costumbre, o por precaución._
+
+**HANDOUT — La carta de Mercedes** *(entregada al entrar a la cuadrícula; leer completa, en voz alta)*
+
+> *Queridos:*
+>
+> *Si están leyendo esto es porque ya cruzaron a la cuadrícula y la sintieron cerrarse un poco sobre ustedes — no se asusten, es la ciudad, no es otra cosa, todavía.*
+>
+> *No los puedo recibir yo misma en la puerta; hay ojos donde menos se los espera, y prefiero que nos vean juntos recién cuando yo elija el momento. Vayan a la calle Belgrano, a la casa de Inocencia Vallejos — pregunten por "la casa de la viuda", cualquiera en la cuadra la conoce. Díganle que van de mi parte, de cuando yo estaba en el colegio. Ella les va a dar cuarto y no les va a preguntar nada, y eso, en esta ciudad, vale más de lo que parece.*
+>
+> *Tómense el día para llegar, para mirar, para que la ciudad los mire a ustedes también — no hay apuro esta tarde, lo va a haber después. A las cuatro los espero en la puerta de la Manzana de las Luces, la de San Ignacio, donde antes estaban los jesuitas. Pregunten por mí sin nombrarme fuerte.*
+>
+> *Una cosa más, para que no la escuchen primero de boca de otro. Aldao Quirce anda por la ciudad — lo vieron en lo de un platero de la calle Perú, y también, dicen, cenando con gente que no es de aquí, gente de campo, con botas que no son de acá. No sé bien qué está haciendo, y eso ya me dice bastante. Si se cruzan con su nombre, no lo repitan en la calle. Las paredes de esta ciudad escuchan mejor de lo que uno cree.*
+>
+> *Y ya que van a estar acá un tiempo, mejor que lo sepan por mí. Esta noche van a conocer a los demás — a los que somos, entre nosotros, los Custodios. No es una orden religiosa, aunque hay un cura entre nosotros. No es una logia, aunque más de uno nos trató de eso alguna vez. Somos gente que decidió, hace mucho, cuidar algo que es mejor que no se sepa qué es hasta que haga falta saberlo — y hace generaciones que se cuida solo, sin que la ciudad de arriba se entere de nada. Van a ser pocos alrededor de la mesa. Deberían ser siete. Cuenten las sillas cuando lleguen. Ya vamos a hablar de por qué no todas están ocupadas.*
+>
+> *Cuídense hasta las cuatro.*
+>
+> *M.*
+
+> **Keeper — uso de la carta.** Fija reloj y rumbo sin gastar la aparición de Mercedes: alojamiento resuelto (Inocencia), punto de encuentro y hora fija (las cuatro, puerta de San Ignacio — cae naturalmente después de [la calle](#the-streets) y antes de [la universidad](#the-university-public-face)), el primer hilo de Quirce sin nombrar a Lacasa — *"gente de campo, con botas que no son de acá"* es la misma bota espoleada que en [C11](chapter-11.md#tracing-saráchagas-last-hours) identifica al segundo Custodio comprometido — y una primera mención de **los Custodios** como institución, sin explicarla del todo: alcanza con "cuidan algo" y "deberían ser siete." Siembra las **dos sillas vacías** de la reunión de esta noche antes de que los jugadores las vean — para que cuando las cuenten en [la casa de Saráchaga](#the-keeper-meeting-house), la pregunta ya sea de ellos, no impuesta por el GM. No lo expliquen ahora. Que quede flotando.
 
 ---
 
@@ -108,6 +204,8 @@ Full detail: [SESSION-LOG, 2026-08-18](SESSION-LOG.md#2026-08-18--c9-played-bena
 Not a montage — a full scene; the players spend hours just _getting_ anywhere. Build the city before the Keepers. Run two or three micro-encounters:
 
 1. **The customs officer.** Junior, polite, lazy; demands papers the party doesn't have in order. A bribe, a name-drop (Mercedes supplies one), or Persuade/Credit Rating resolves it — but **he logs the names anyway**, and someone reads that log within twelve hours. It is how a compromised Keeper learns the players are in town.
+
+> **Ran at this table — the doctor, not the papers.** The party crosses into the grid still carrying Día 3: one horse without a rider, the rest cut up and hastily bandaged. The customs officer takes one look and drops the routine entirely — no papers, no questions yet. _"Eso no espera al papeleo. Dos cuadras al río, la puerta verde — pregunten por el Doctor [NOMBRE]. Él no les va a preguntar cómo se hicieron eso."_ The logged-names beat still happens, just later, once someone circles back to finish the paperwork. **Doctor [NOMBRE]** — a physician with a quiet, unlicensed practice in occultism on the side, known on this stretch of the waterfront for treating wounds no one wants explained — is where the party actually lands first, and where the table's new PC joins: he tends the wounded, doesn't flinch at what he half-notices in the telling, and by the end of the scene is riding with them.
 2. **The friend of a friend.** Mercedes hands the party to **Inocencia Vallejos**, a widow running a boarding house on Calle Belgrano — rooms at half-price, no questions, and she knew Mercedes _"de cuando estabas en el colegio."_ (Mercedes was in the Keepers' apprentice cohort. She left. Then she came back.)
 3. **The street vendor who flinches.** A _mate_ seller the party crosses several times; on the third pass an investigator notices he flinches whenever the Marked PC passes. **Spot Hidden / Psychology**: he is not afraid of their appearance — he is afraid of where their _body sits in space_ relative to the corner. Twenty years on that corner; he has seen who else has it. He won't say more.
 4. **The carriage.** A black carriage, two grays, shutters drawn, passes at Florida y San Martín. The driver does not look at the party but tips his hat _to_ them, deliberately. **Spot Hidden** on the door crest: a stylized angle, three lines forming a partial geometry. If anyone asks Mercedes, her face goes still: _"No lo miren directo."_ She does not say whose it is. She knows.
@@ -115,6 +213,45 @@ Not a montage — a full scene; the players spend hours just _getting_ anywhere.
 > **The name, a third time.** As the carriage passes, the _mate_ seller mutters — barely audible, **Listen** (Regular), or simply _given_ to the nearest investigator if the pace drags: _"…Dadálah…"_ The only word. He spits, looks at his hands, keeps making _mate_. He will not repeat or confirm it, and will be on a different corner tomorrow. The players have now heard _Dadálah_ through [Quirce's mediumship](chapter-06.md#the-mediumship) (C6), in [Mercedes' note](chapter-08.md#the-coypac-echo) (C8), and now on the street attached to the carriage — **three independent sources, no one explaining the connection. They make it themselves.** That is the Mark's job at city scale.
 
 **SAN Check**: 0/1 — for the Marked, the cumulative recognition of city-as-geometry; for the unmarked, the disorientation of arrival.
+
+---
+
+### DETALLE DE ESCENA — LA CALLE
+
+**Ambientación general** *(leer o parafrasear al arrancar la escena, después de la entrada)*:
+
+> _El sol ya está alto y la calle no perdona: polvo seco que se levanta con cada rueda de carreta y no termina de asentarse, el chirrido de los ejes sin grasa, un vigilante urbano parado en una esquina con el uniforme nuevo y la cara de no saber bien para qué lo pusieron ahí. Cada dos cuadras, una pulpería con la puerta abierta y el olor a caña y a tabaco negro saliendo a la vereda. Los carteles se repiten: un boticario, una escribanía, un platero. Nadie los mira dos veces y todos los miran una vez — botas de campo, no de ciudad; eso alcanza. Cruzar once manzanas por nueve, a pie, con el sol cayendo parejo sobre la cuadrícula, no lleva minutos. Lleva la tarde entera._
+
+**Reparto de la escena — descripciones y diálogo**
+
+**1. El oficial de aduana — Anselmo Duarte.** Veintipocos años, criollo, bigote ralo que se acaricia cuando piensa. Uniforme nuevo, todavía le queda grande en los hombros. Escribe despacio, con la lengua entre los dientes, en un libro de tapas de cuero gastado. No es cruel — es joven y le gusta sentirse importante por diez minutos.
+> - *"A ver, a ver. ¿De dónde vienen? ¿Y la guía, la tienen?"* — pide papeles que el grupo no trae en regla.
+> - Si le ofrecen plata: *"Yo no... bueno. No hace falta que conste todo, ¿no?"* — cede, pero de todas formas anota los nombres en el libro "para el registro", casi sin pensarlo, por costumbre de oficinista.
+> - Si le nombran a Mercedes: se pone derecho de golpe. *"¿La conocen a la doña Mercedes? Ah. Eso es distinto."* Los deja pasar rápido — y anota los nombres igual, más rápido todavía, sin que se note.
+> - Si lo persuaden por las buenas (Persuade/Categoría Social): sonríe, aliviado de no tener que decidir nada. *"Bueno, pasen, pasen. Yo cumplí, ¿eh? Quede constancia."*
+> **Keeper**: pase lo que pase, anota los nombres. Alguien lee ese libro antes de la noche — así sabe un Custodio comprometido que el grupo está en la ciudad.
+
+**2. Inocencia Vallejos.** Cerca de setenta, viuda, menuda, canas recogidas en un rodete prolijo. Vestido negro cerrado hasta el cuello, un delantal encima que nunca se saca del todo. Manos ásperas de lavandera aunque hace años que no lava para nadie. Recibe en la puerta con un candil en la mano aunque sea de día — costumbre.
+> - Al verlos: *"¿Ustedes son los que manda la señora Mercedes?"* — no es pregunta, es confirmación; ya los estaba esperando.
+> - Si le preguntan cómo la conoce: *"De cuando estaba en el colegio, ella. Hace mucho de eso."* Se cierra ahí — no da más detalle, y su cara dice que no va a insistir en el punto.
+> - Sobre las reglas de la casa: *"Acá no se pregunta nada, y a mí tampoco me pregunten. La comida es a las ocho, y a las diez cierro con tranca."*
+> - Si algún PJ intenta averiguar más de los Custodios a través de ella: *"Yo no sé de eso. Yo hago la cama y caliento el agua. Lo demás no es cosa mía."* — y lo dice mirando a un costado, no a los ojos.
+> **Ambientación de la pensión**: patio chico con un limonero, cuartos con catre de tientos y un aguamanil desportillado, olor a jabón de lejía y a pan recién horneado en la cocina del fondo.
+
+**3. El vendedor de mate.** Un hombre de sesenta y tantos, piel curtida como cuero viejo, poncho pampa raído en los hombros. Trabaja parado detrás de un carrito bajo con la pava siempre al fuego de un brasero de latón. Veinte años en la misma esquina — la gente del barrio lo saluda por costumbre, no por nombre; nadie recuerda cómo se llama, y él nunca lo dice.
+> - Ofrece mate sin que se lo pidan: *"¿Un amargo? Total, ya está cebado."* — es su forma de mirar de cerca sin que parezca que mira.
+> - Si le preguntan por qué se sobresalta cerca del PJ Marcado (Psicología/Suerte Localizar Objetos exitoso): no contesta con palabras. Deja de cebar un segundo, mira el punto exacto donde está parado el Marcado — no la cara, el lugar — y después sigue como si nada.
+> - Presionado directamente: *"Yo no vi nada. Yo cebo mate."* Repite la frase, invariable, ante cualquier insistencia.
+> - Si le muestran amabilidad genuina (compartir mate, no interrogar): baja un poco la guardia, aunque nunca del todo. *"Hace veinte años que estoy en esta esquina. Uno aprende a mirar sin que se note."* Es lo máximo que va a admitir.
+
+**4. El cochero del carruaje negro.** No baja, no habla, casi no se le ve la cara bajo el ala del sombrero. Guantes negros, chaqueta cerrada pese al calor. Dos caballos tordillos, bien cuidados, con la crin recortada pareja — un lujo que no pega con el resto de la calle. El carruaje cruza Florida y San Martín despacio, como si tuviera todo el tiempo del mundo.
+> - No responde si le hablan — sigue de largo.
+> - El gesto es todo: se toca el ala del sombrero, apenas, mirando directamente al PJ Marcado más cercano — a nadie más.
+> - Si le preguntan a Mercedes qué es ese carruaje: se le va el color de la cara. *"No lo miren directo."* Si insisten: *"Todavía no. Cuando tengan que saberlo, lo van a saber."* No dice una palabra más, y camina más rápido el resto de la cuadra.
+
+**5. El nombre, otra vez.** Al mate seller se lo puede volver a abordar apenas pasa el carruaje — está más pálido que antes, y por primera vez no ofrece mate.
+> - *"…Dadálah…"* — lo dice bajo, casi sin mover los labios, mirando la pava.
+> - Si insisten en que repita: escupe al costado, se limpia la mano en el delantal. *"Yo no dije nada."* No lo va a repetir ni lo va a confirmar. Mañana esa esquina va a tener otro vendedor, o ninguno.
 
 ---
 
@@ -128,6 +265,24 @@ What the players see: the public library (the librarian **Mateo Quiroga** — no
 
 > **The tunnels — legend, for now.** Ask Mateo about the block and he lights up; every _porteño_ child grows up on this one. The Jesuits, expelled in 1767, are said to have dug — or found and widened — passages under the Manzana connecting to the Cabildo, the old Fuerte, and the convents of La Merced and San Francisco: used, depending on who's telling it, for defense, for confession without being overheard, for moving men and supplies during the English invasions of 1806–07, or plain smuggling. _"Nadie sabe hasta dónde llegan de verdad. Cada tanto alguien cava un pozo nuevo y encuentra ladrillo donde no debería haber nada."_ He doesn't know the half of it — but he's said something true. A **Spot Hidden**, crossing toward the locked stairwell, finds an old **bricked-up archway** low in the corridor wall — plastered over decades ago, older and wider stonework than the passage around it, running off in a direction the stairwell does not. **Keeper**: this is the real network, still there, sealed off from the Keepers' own spur generations ago. Don't explain it yet — the hook pays off in [C11](chapter-11.md#the-vault-finally).
 
+### DETALLE DE ESCENA — LA UNIVERSIDAD
+
+**Ambientación — el patio y la biblioteca**:
+
+> _El patio de la Manzana huele distinto al resto de la ciudad: papel viejo, cera de piso, un poco de incienso que quedó pegado a las paredes desde antes de que los jesuitas se fueran. Ventanas altas, rejas de fierro forjado, el murmullo parejo de estudiantes leyendo en voz baja en el corredor. La biblioteca es un salón largo, de cielo raso alto, con escaleras de mano apoyadas contra los estantes y un solo bibliotecario detrás de un escritorio demasiado grande para él._
+
+**Mateo Quiroga, el bibliotecario.** Cerca de cuarenta años, calvo salvo por una corona de pelo canoso, anteojos de armazón fino que se le resbalan por la nariz cada dos minutos. Manga de trabajo sobre la camisa para no mancharla de tinta. Habla con las manos, siempre tocando algo — un lomo de libro, el borde de una hoja — como si necesitara confirmar que las cosas siguen ahí.
+> - Al ver a Mercedes: *"¡Doña Mercedes! Qué milagro. ¿Vino a buscar algo, o solo a asustarme el catálogo?"* — la trata con calidez genuina, la conoce de años.
+> - Si le preguntan por el corredor cerrado: *"¿El Archivo Privado? Ah, eso es cosa de los rectores viejos, guardan actas coloniales, contratos, esas cosas. Aburrido, se lo aseguro."* No miente — solo no sabe.
+> - Si le preguntan por los túneles (ver arriba): se le ilumina la cara, deja lo que está haciendo. *"Ah, eso sí que es una buena historia..."* y no para más.
+> - Si un PJ insiste demasiado en la puerta cerrada o en el corredor: se pone un poco nervioso, no por sospecha sino por hospitalidad herida. *"No, no, ahí no puedo dejarlos pasar. Ni yo tengo llave, para serles sincero."*
+> - Despedida, si lo tratan bien: *"Vuelvan cuando quieran. La puerta de la biblioteca nunca se cierra antes que el sol."*
+
+**La escalera cerrada.** Una puerta de madera oscura, maciza, con un cartel pintado a mano: _Archivo Privado — No Pasar_. Dos candados nuevos, de fábrica inglesa, que desentonan con la madera vieja del marco. El corredor que lleva hasta ahí está en penumbra incluso de día — las ventanas de ese tramo dan a un patio interior sin uso.
+
+**La capilla de San Ignacio.** Nave angosta, techo de bóveda baja, el olor a cera derretida y a humedad de piedra vieja. Los bancos de madera oscura están gastados en el medio, donde generación tras generación se arrodilló en el mismo lugar exacto. El piso, bajo el altar, tiene inlays de mármol en un patrón geométrico que a simple vista parece solo decorativo — hasta que alguien empieza a contarlo en voz baja.
+> _Mercedes se arrodilla sola, quince minutos, sin pedir compañía. Los labios se le mueven pero no sale sonido — salvo, hacia el final, un conteo apenas audible, como quien reza un rosario que no es un rosario. Al levantarse, se persigna rápido, casi de más: "Eso fue para confirmar algo. Vamos."_
+
 ---
 
 ## FIRST GLIMPSE OF THE VAULT
@@ -136,9 +291,22 @@ Mercedes leads the party to a storage room three floors _above_ the marked door 
 
 **The witness-stone**: Keeper-made, brass over a core of _piedra parada_ from the old Tehuelche tradition. To a Marked hand it reports the vault's state below — **cold and steady** (intact), **warm** (under stress), **hot** (failing). A thermometer for the binding. **Tonight it reads warm.** Mercedes watches each face: _"Sí. Eso me dijeron también."_
 
-> **⚔️ The Witness Flicker (scheduled).** When the **second** Marked PC touches the disc — **Tránsito, then Negro Camba**, in whatever order they reach for it — it reads warm, and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Marks: the vault's geometry meeting the pit's survivors. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for the touching PC, 0/1 for the other Marked. **No 2d6 — scheduled.** The vault now knows them; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around them _by name_.
+> **⚔️ The Witness Flicker (scheduled).** *(Written for two Marked PCs touching in sequence — this table has one. Below is what actually ran.)* **Ran at this table**: only **Negro Camba** is Marked going into this scene — Tránsito died on the road (Día 3). When he touches the disc it reads warm, and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Mark: the vault's geometry meeting the pit's last survivor. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for Negro Camba. **No 2d6 — scheduled.** The vault now knows him; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around him _by name_.
 
 **SAN Check**: 0/1 — the warm stone, and the realization that the building is in active failure mode while students two floors down study Latin grammar.
+
+### DETALLE DE ESCENA — LA OFICINA DEL RECTOR
+
+**Ambientación**:
+
+> _El cuarto es chico, casi vacío — un escritorio sin usar, un ropero cerrado con llave, la alfombra persa gastada en el centro como si generaciones de pies hubieran caminado el mismo camino sin saberlo. Por la ventana entra el ruido sordo del patio, tres pisos abajo: alumnos, un profesor que levanta la voz, una campana. Mercedes cierra la puerta con cuidado, echa el pasador, y recién entonces se agacha a levantar la alfombra por una punta, como quien destapa algo que preferiría no tener que mostrar._
+
+**Diálogo — Mercedes, en la oficina**:
+> - Antes de que toquen el disco: *"Pongan la mano acá. Uno a la vez. No la dejen mucho rato."* — Su tono es de instrucción médica, no de ceremonia.
+> - Si preguntan qué es exactamente: *"Es un testigo. Como un termómetro, si quieren pensarlo así. Dice cómo está la bóveda, sin que tengamos que bajar a mirar."*
+> - Después de que Negro Camba toque el disco y ocurra [el Parpadeo](#first-glimpse-of-the-vault): se queda mirando el punto donde estaba la alfombra un segundo de más. *"Eso no lo hace con los Custodios."* No explica más — se nota que tampoco tiene toda la respuesta.
+> - Si le preguntan si esto pasó antes: *"Tibia, sí, alguna vez. Así, respondiendo... no. No que yo sepa."* Es la primera vez que Mercedes admite, en voz alta, no saber algo.
+> - Al salir, bajando la alfombra otra vez sobre el disco: *"Vamos. Todavía nos falta la parte difícil de la tarde."*
 
 ---
 
@@ -158,6 +326,36 @@ Present: **Saráchaga** (host, the dissenter), **Mercedes** (the players' sponso
 **The debate** (two hours). Mercedes: _"La piedra está tibia. Eusebio Valdez vivió. Los gauchos han visto a El Patrón. Quirce nos vendió. La luz mala se ve dentro de las paredes de la ciudad. Tenemos que mover el libro antes de que él nos obligue."_ Saráchaga: _"Forzar es exactamente lo que él quiere. La piedra estuvo tibia en 1810. En 1776. Cada vez que se discutió moverlo, era porque alguien lo estaba pidiendo. La pregunta es: ¿quién está pidiendo esto, en realidad?"_
 
 **The players are asked their position** — _"Ustedes han visto su mano de cerca. Cuéntenles."_ A real player moment: **Persuade / Credit Rating / Psychology** here set how many Keepers are receptive in C11 (not a binary). **No vote tonight** — Saráchaga won't allow one until _"la piedra esté caliente, no tibia."_ He is buying time. The Keepers leave around midnight; **Galíndez** walks the players back, reading the streets like a battlefield.
+
+### DETALLE DE ESCENA — LA CASA DE SARÁCHAGA
+
+**Ambientación — la casa chorizo**:
+
+> _Una casa chorizo típica de la ciudad vieja: fachada angosta a la calle, y adentro, en fila, patio-cuarto-patio-cuarto, tres veces, como vagones. El primer patio tiene macetas de malvón, un aljibe tapado, y desde el zaguán se ve un clavicordio que nadie toca hace años, cubierto con una sábana. El segundo patio — donde se reúnen los Custodios — tiene una mesa larga de pino, catorce sillas desparejas juntadas de a poco a lo largo de treinta años, y contra la pared del fondo un cofre herrado con tres candados distintos, cada uno de una época diferente. El tercer patio, el más chico, tiene una huerta descuidada y un aljibe más viejo que la casa misma — dicen que es de antes de la fundación de esta manzana, aunque nadie sabe bien de dónde sale ese dicho._
+
+**Don Eladio Saráchaga.** Setenta y un años, delgado, pelo blanco cortado corto, postura de quien fue militar de joven y no lo olvidó nunca. Un solo anillo de hierro sin adornos en la mano derecha — la marca de Custodio — que gira con el pulgar cuando escucha. Frac de corte anticuado, sin joyas. Sirve el agua a los invitados él mismo, nunca deja que un criado lo haga.
+> - Recibiendo al grupo: *"Así que estos son los que vienen del pozo. Siéntense. Acá no hay lugar para parados."*
+> - Su posición, sin rodeos: *"Mientras esté abajo, está. El movimiento es lo que él quiere."*
+> - Si le preguntan por qué está tan seguro: *"Porque ya lo vi tres veces. Vaticano, Coímbra, una fragata inglesa en 1810. Cada vez que lo movieron, alguien murió que no debía morir. Y la mitad de las veces, lo que se quería evitar ocurrió igual."*
+> - Si insisten en que la piedra ya está tibia: *"Tibia no es caliente. Cuando esté caliente, hablamos de votar. Esta noche, no."* — No cede ni un centímetro, y no es terquedad: es método.
+> - Despedida, sirviendo la última ronda de agua antes de que se retiren: *"Buenas noches. Mañana seguimos discutiendo, si Dios quiere."* — Última línea que le dirige a alguien con vida.
+
+**Padre Ramón Albarrán.** Cincuenta y cuatro años, hábito franciscano marrón, calvo con una corona de pelo gris. Manos grandes, con un temblor leve en la izquierda — la malaria que se trajo del Chaco, quince años entre los tobas. Habla despacio, sin apuro, como quien ya aprendió que apurar la palabra de Dios no sirve de nada.
+> - Presentándose: *"Padre Ramón Albarrán. No se paren por mí — yo tampoco sé todavía qué pienso de todo esto."*
+> - Si le preguntan su posición: *"Dios todavía no me contesta sobre el libro. Cuando me conteste, voy a saber. Esta noche todavía no sé."*
+> - Si un PJ le habla de fe o de dudas: cita indistintamente a Agustín y a un proverbio toba, con el mismo peso. *"Un maestro toba me dijo una vez: el río no discute con la orilla, la cambia despacio. A veces pienso que Dios trabaja así con nosotros."*
+> - Retirándose hacia el tercer patio, donde va a pasar la noche rezando junto al aljibe: *"Recen, si saben. Si no saben, esperen conmigo un rato. A veces alcanza."*
+
+**Capitán Juan Pablo Galíndez.** Cuarenta y nueve años, ex militar de caballería colonial, complexión delgada y nervuda, sien canosa, una cicatriz de sable que le cruza la mandíbula y que no se molesta en disimular. Es el único en la sala visiblemente armado — una pistola de caballería al cinto, sin ostentación. Cuenta con los dedos cuando habla de logística.
+> - Presentándose, de pie, sin sentarse a la mesa como los demás: *"Galíndez. Si lo mueven, lo mueven con quince hombres armados, dos rutas falsas, y un barco esperando. Cualquier cosa menos, no salgo. Yo no muero por un plan flojo."*
+> - Si le preguntan por qué confía en el grupo: *"Todavía no confío. Pero sé reconocer a alguien que piensa antes de actuar. Ustedes lo hicieron, allá en el pozo. Eso ya es algo."*
+> - Caminando de vuelta a la pensión, después: *"Sigan caminando, no miren."* — su primera instrucción de la noche, dicha sin levantar la voz.
+
+**Ana Bermúdez.** Veintiséis años, la única persona menor de cincuenta en la sala. Vestido oscuro sin adorno, manos manchadas de tinta, zurda — escribe con la muñeca torcida en un ángulo que a cualquiera le dolería en media hora. Toma nota de todo en una letra apretada, en clave, que solo ella y Saráchaga saben leer.
+> - Presentándose, sin levantar mucho la vista del cuaderno: *"Ana Bermúdez. Yo llevo el acta. No se preocupen, nadie más la va a poder leer."*
+> - Si un PJ le pregunta por qué escribe en clave: *"Costumbre de Custodios. Don Eladio me enseñó. Dice que un papel que cualquiera puede leer es un papel que cualquiera puede usar."* — lo dice con orgullo genuino, sin sospechar todavía lo que ese mismo hábito la volvió.
+> - Su pregunta plantada (hacia el final, dirigida a Mercedes, con un **Psicología Difícil** para notar que llega adelantada a la conversación): *"Si la piedra se pone caliente esta semana, ¿quién decide cuándo movemos?"*
+> - Si un PJ charla con ella aparte, informalmente: se relaja un poco, casi tímida. *"Yo entré de aprendiza hace dos años. Todavía me sorprende que confíen en mí con las actas."* — línea que, mirada en retrospectiva desde C11, es más triste de lo que suena aquí.
 
 ---
 
@@ -183,9 +381,26 @@ Four small things as Galíndez walks them home:
 >
 > *La segunda columna está rodeada de un círculo. Dos veces.*
 >
-> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is **2** (Tránsito and Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis). If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
+> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is **1** (Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis; Tránsito, the campaign's other Mark, died on the road three days later). If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
 
 **SAN Check**: 0/1 — the cumulative wrongness of the city at midnight.
+
+### DETALLE DE ESCENA — LA CALLE DE NOCHE
+
+**Ambientación — el Barrio del Alto, después de medianoche**:
+
+> _De noche la ciudad cambia de tamaño. Las calles que de día parecían anchas se angostan entre las sombras de los aleros; los faroles de aceite de ballena dan una luz amarilla y corta, con más sombra que luz entre uno y el siguiente. Un sereno grita la hora en la esquina de Defensa — "¡Las once han dado, y sereno!" — y su voz se pierde rápido, como si el aire mismo se la tragara antes de tiempo. Galíndez camina un paso adelante, la mano cerca de la pistola, leyendo cada esquina como si fuera terreno de combate. Sus pasos, y los del grupo, son el único sonido parejo en cuadras enteras._
+
+**El hombre de la esquina.** Sombrero calado, poncho oscuro, parado con la quietud de quien no tiene apuro y no lo va a tener. No se mueve cuando lo miran — eso es lo que lo delata: nadie se queda tan quieto por accidente.
+> - Si lo confrontan directamente: no contesta, retrocede un paso hacia la sombra del zaguán más cercano.
+> - Si lo acorralan (ver **El Contador**, arriba): forcejea un round con el cuchillo, después intenta huir o se rinde según cómo vaya la pelea. No da nombre. Acento de la Banda Oriental, marcado.
+> - Bajo presión, lo único que suelta antes de que lo até: *"A mí me pagaron esta mañana. Yo no sé nada más. Yo cuento, nomás."*
+> - **Galíndez**, mientras lo sostiene contra la pared: *"Contá. ¿Quién te pagó?"* — el hombre no contesta, y Galíndez no insiste más de la cuenta: sabe que un mercenario de paso no va a saber el nombre que importa.
+
+**Inocencia, si un Retornado Equivocado desapareció** — la encuentran despierta, con un candil, mirando el catre vacío.
+> - *"Salieron temprano, dijeron que iban al sur."* — lo dice con la voz apretada, sin llorar todavía pero cerca.
+> - Si le preguntan si vio algo raro antes: *"No. Se levantaron calladitos, como saben hacer ellos. Yo los sentí más por el silencio que por el ruido."*
+> - Si intentan tranquilizarla: agradece con la cabeza, pero no se calma del todo. *"Ustedes vayan. Yo me quedo con la puerta abierta, por si vuelven."*
 
 ---
 
@@ -216,6 +431,23 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 > >
 > > *"Hot, not warm. The well-stone is hot. There is less time than I thought. Mercedes was right. Let's move it."*
 
+### DETALLE DE ESCENA — EL AMANECER
+
+**Ana Bermúdez, traduciendo** — llega al segundo patio con la cara lavada de golpe, blanca, el cuaderno de Saráchaga apretado contra el pecho como si pudiera protegerlo de algo.
+> - Ofreciéndose: *"Yo puedo leerlo. Nadie más en esta casa sabe la taquigrafía de Don Eladio. Nadie más... salvo Quirce."* — lo dice mirando al piso, consciente de lo que ese nombre implica.
+> - Mientras traduce, en voz baja, casi para adentro: *"Caliente, no tibia... Mercedes tenía razón..."* — se le corta la voz en la última palabra, *"Movámoslo."*
+> - Si le preguntan si está bien: *"No. Pero eso no importa ahora."* — sigue escribiendo la traducción en limpio, la mano zurda temblando apenas.
+
+**Galíndez, en la puerta del segundo patio**, con la mano todavía en la culata de la pistola aunque no hay nada que disparar:
+> - *"Saráchaga está muerto. Vengan."* — su primera línea del día, sin adornos.
+> - Si le preguntan qué pasó: *"No sé. Y eso me asusta más que si supiera."*
+> - Mirando el cuerpo, después de un silencio largo: *"Yo lo conocía hace veinte años. Nunca lo vi asustado. Ni una vez."*
+
+**Mercedes, arrodillada junto al cuerpo** — le cierra los ojos con dos dedos, despacio, como quien ya hizo este gesto antes y no quisiera volver a aprenderlo.
+> - *"Ya está."* — es lo único que dice al principio, antes del largo silencio.
+> - Si un PJ le pregunta si esto es su culpa: no contesta enseguida. Cuando lo hace, la voz le sale plana: *"Todo esto es mi culpa, de una forma o de otra. Pero no es momento de hablar de eso."*
+> - Al final, poniéndose de pie con esfuerzo, apoyada en el bastón que normalmente no necesita: *"Ya está. Mañana votamos."*
+
 **SAN Check**: 1/1D4 — the body, the silent geometry of his last hour, the recognition that the strongest argument against moving the book was given the fact that he was wrong, then killed before he could speak it.
 
 > **Observable, describe in transit (no rolls)**: a Marked PC's footfalls in the Manzana de las Luces corridor echo with a faint _second click_ a half-beat late — the floor tiles are laid on the 1610 pattern, doubling their steps in the twelve-syllable rhythm from the [Salamanca tunnels](chapter-05.md#the-whispering-tunnels). Oil lamps citywide burn a taller flame on the side facing the Manzana (Inocencia: _"Las lámparas miran a la Manzana. Siempre fue así."_). Pigeons never land within four meters of the Cabildo clock tower. After his death, Saráchaga's well-water runs _clear_, with faint concentric rings around the disc that do not move. At certain corners the wind is a beat behind the neighboring corner — the corners the cordon panels will fix in C12.
@@ -232,7 +464,7 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 
 - [ ] Entry Mark roll active (information, not manifestation); build the city **slowly** before the Keepers meet.
 - [ ] *Dadálah* mutter delivered (no-roll fallback as written — the mate seller flinches at the Marked).
-- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the **second** stone-touch — **Tránsito and Negro Camba** (scheduled — no 2d6).
+- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the stone-touch — **Negro Camba only** (Tránsito died Día 3; scheduled — no 2d6).
 - [ ] [The Counter](#the-streets-at-night) catchable at night (falsified-count edge available to players — El Patrón's dock geometry expects the wrong number of Marks, first dock Mark-roll one threshold safer).
 - [ ] Keeper meeting: full roster visible to players; **two empty chairs unnamed** (let them notice); Ana's planted question lands or doesn't.
 - [ ] Eleven strikes at midnight; Saráchaga **discovered**, never narrated; [H11](assets/handouts-c8-c12.md#h11--saráchagas-last-entry-c10-dawn) (his last notebook entry).
@@ -251,11 +483,11 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 
 ---
 
-## COLD OPEN — C11
+## COLD OPEN — read this before anything else tonight
 
 *(Read aloud before the chapter's own opening. Then move into [Opening Situation](#opening-situation) below.)*
 
-> _Doce horas y la ciudad sigue igual — los carros, el pregón del panadero, las campanas del Cabildo marcando las horas sin saber que una de las suyas se apagó anoche. Pero adentro de la casa de Saráchaga nada es igual: el cuaderno cerrado sobre la mesa, la silla todavía volcada donde la dejaron, y Ana Bermúdez sentada muy derecha, con las manos sobre la falda, esperando que alguien le diga qué hacer con lo que sabe traducir y todavía no quiere. Tránsito y Negro Camba llegan sintiendo la misma cosa al mismo tiempo — un aljibe, en algún patio de esta misma casa, más caliente de lo que un aljibe debería estar. Ninguno lo dice en voz alta todavía. Afuera, alguien empieza a barrer la vereda como si fuera un día cualquiera._
+> _Doce horas y la ciudad sigue igual — los carros, el pregón del panadero, las campanas del Cabildo marcando las horas sin saber que una de las suyas se apagó anoche. Pero adentro de la casa de Saráchaga nada es igual: el cuaderno cerrado sobre la mesa, la silla todavía volcada donde la dejaron, y Ana Bermúdez sentada muy derecha, con las manos sobre la falda, esperando que alguien le diga qué hacer con lo que sabe traducir y todavía no quiere. Negro Camba llega sintiendo algo que ya no tiene con quién compartir — un aljibe, en algún patio de esta misma casa, más caliente de lo que un aljibe debería estar. Antes se lo habría dicho a Tránsito sin palabras, con una mirada. Ahora lo carga solo. No lo dice en voz alta todavía. Afuera, alguien empieza a barrer la vereda como si fuera un día cualquiera._
 
 ---
 
@@ -315,6 +547,17 @@ Mercedes does **not** open it — _"Lo abrimos para moverlo. No para mostrarlo."
 
 The transport is not a security problem — it is **the condition El Patrón has engineered.** The Keepers move it anyway, because leaving it under a warm-going-hot containment is worse. They walk into the trap with eyes open, banking on the cordon, Galíndez's men, and the players' Marks to break the geometry _during_ the transport. **Galíndez**: _"Entonces estamos jugando su juego, pero con nuestras reglas."_ **Mercedes**, before leaving: _"El que abrió el candado de 1810 está vivo. Está en la ciudad. Lo vamos a encontrar antes de la noche."_
 
+### DETALLE DE ESCENA — LA BÓVEDA
+
+**Los dos hombres de Galíndez.** Antiguos soldados de caballería, ahora sin uniforme, con el porte de quien todavía se para firme por costumbre. Cargan antorchas y una palanca de hierro sin que nadie se las pida — vinieron preparados para forzar, no solo para acompañar. No hablan salvo para confirmar una orden con un solo movimiento de cabeza.
+
+**Mercedes, en la sala circular — diálogo ampliado**:
+> - Al entrar, antes de que nadie hable: *"Bajen la voz acá. No porque nos escuche — porque escuchamos mejor nosotros, y hay cosas que uno no necesita oírse decir dos veces."*
+> - Contando las marcas de la pared, casi para sí misma: *"Trescientos cuarenta y cuatro. Yo hice la marca trescientos veintiuno, hace cuarenta años. Todavía me acuerdo del frío que hacía esa mañana."*
+> - Frente al cofre, antes de ver el candado nuevo: *"Cada vez que bajo, me digo que va a ser la última. Todavía no lo fue."*
+> - Al descubrir la cerradura de 1810 (ver arriba, cara pálida, mano al cuello): si un PJ le pregunta directamente *"¿Quién más tiene llave?"*, contesta después de un silencio largo: *"Eso es lo que tengo que averiguar. Y me da miedo la respuesta."*
+> - Saliendo de la sala, cerrando la puerta de hierro detrás del grupo: *"Bien. Ahora la parte fea: encontrar quién fue."*
+
 ---
 
 ## THE DOCKS
@@ -324,6 +567,19 @@ Galíndez takes whoever's interested to the river docks. He has lined up the _**
 > **Galíndez's three weak points**: _"La salida de la Universidad, la esquina de Belgrano y Defensa donde la galera tiene que doblar despacio, y el embarque al bote en el muelle. Tres puntos. Ahí es donde nos van a pegar."_
 
 **Player input matters**: recruit additional men (cordon walkers, the Cursed Gaucho's contacts, friends of Inocencia, _pulpería_ gauchos — Persuade/Credit Rating/Charm); propose routes (Galíndez adopts a defensible one); plan the dock transfer differently. **Every concrete element contributed _with reasoning_ reduces the [C12](chapter-12.md#chapter-12--el-libro) transport difficulty by one step at the relevant moment** — mark them.
+
+### DETALLE DE ESCENA — EL MUELLE
+
+**Ambientación**:
+
+> _El Riachuelo no se parece en nada a la Plaza de la Victoria: acá todo es galpón bajo, madera podrida por el agua salobre, y el olor a sebo derretido de los saladeros vecinos que se mete en la ropa y no sale ni con dos lavados. Amarrado a unos metros de la orilla, el bergantín *Carmen del Pilar* se mece despacio, las velas recogidas, un par de marineros genoveses fumando en la cubierta sin apuro. Más allá, la goleta *La Niña Encantada* espera su turno, indistinguible a simple vista — ese es exactamente el punto. Galíndez camina el muelle entero de punta a punta antes de decir una palabra, contando pasos entre un punto y otro con los labios apretados._
+
+**Galíndez, en el muelle — diálogo ampliado**:
+> - Señalando la esquina de Belgrano y Defensa a la distancia: *"Ahí. La galera tiene que doblar despacio ahí. Si nos van a pegar en algún lado, es ahí."*
+> - Si un PJ propone una ruta alternativa con buen argumento: se detiene, lo piensa en serio, no por cortesía. *"...No es mala idea. Dejame pensarlo esta noche."* — y la anota.
+> - Sobre el capitán Borghi, sin nombrarlo todavía: *"El capitán del bergantín no pregunta lo que no le conviene saber. Le pago en plata y mira para el río, no para el muelle. Así me gusta."*
+> - Si le ofrecen hombres reclutados: cuenta con los dedos, recalculando en voz alta. *"Con esos, capaz que no necesito el segundo señuelo. Bien. Sigan así."*
+> - Al terminar la inspección, mirando el agua: *"Un plan es bueno hasta que alguien más también tiene uno. Esperemos que el de él sea peor que el mío."*
 
 ---
 
@@ -348,6 +604,23 @@ City boots rule out Quirce; the Cursed Gaucho has spurred boots but no motive (S
 > **If a cleaner is caught** (either one, alive): he doesn't know _who_ _el dueño del campo de Areco_ is by name — only that Lacasa paid him through the same faceless clerk as everyone else — but he's used this tunnel twice before this week, and can be made to describe where it surfaces: a disused well-house two blocks from the Manzana. **If both escape**: a **Spot Hidden** in the cellar, once the fight is over, finds what one of them dropped in the dark — the same information, different manner. Either way, hand out **[H17 — the tunnel sketch](assets/handouts-c8-c12.md#h17--a-hand-drawn-tunnel-sketch-c11-if-a-cleaner-is-caught-or-the-cellar-is-searched)**. The clue is never single-point — only how it's earned changes.
 >
 > **Keeper — scope.** The tunnels are not a way to move the chest. The transport has to trace the surface diagram — [moving underground breaks the city-scale drawing](chapter-12.md#weak-point-3--the-dock) the whole heist depends on. Their value here is intelligence and access, not transport. If the players report the well-house to Galíndez, he posts a man on it before dawn.
+
+### DETALLE DE ESCENA — RASTREANDO LA NOCHE DE SARÁCHAGA
+
+**Luisa, la mucama.** Diecinueve años, criolla, delgada, con el pelo trenzado apretado y las manos rojas de fregar. Lleva puesto el mismo delantal desde la madrugada — nadie le dijo que podía cambiarse. Habla en voz muy baja, mirando la puerta como si esperara que alguien la mandara callar.
+> - Si le preguntan con dureza: se cierra, tiembla, repite *"Yo no vi nada, yo no vi nada"* sin agregar detalle.
+> - Si la tratan con amabilidad (ofrecerle sentarse, hablarle despacio, no acorralarla contra la pared): se ablanda de a poco. *"Vino un visitante, cerca de las once. No le vi bien la cara — el sombrero, y estaba oscuro. Pero las botas... unas botas de espuela, de las de campo. No de acá."*
+> - Si le preguntan si escuchó algo: *"El portero lo saludó por el nombre. Dijo 'Bartolomé manda decir...' y ahí ya no escuché más, me metí para adentro. No quería que me vieran mirando."*
+> - Despedida, si la trataron bien: se persigna antes de irse. *"Que Dios lo tenga en la gloria a Don Eladio. Era bueno conmigo."*
+
+**La casa de Lacasa, calle Reconquista.** Fachada angosta y prolija, dos plantas, rejas de fierro recién pintadas — una casa que quiere parecer más aburrida de lo que es. La puerta principal está entornada cuando llegan; adentro, silencio raro, el silencio de una casa que se vació apurada y no del todo.
+> - El portero, un hombre mayor, nervioso: *"El señor se fue anoche mismo, al campo. Dijo que era urgente."* Si le muestran la huella de la bota espoleada en la puerta trasera (Track/Sigilo): se queda callado, mira para otro lado. No va a contradecir a su patrón en voz alta, pero tampoco va a mentir mirando a los ojos.
+
+**Los limpiadores.** Dos hombres de aspecto común, chaqueta gastada, trabajando rápido y en silencio cuando el grupo los sorprende — cajones abiertos, papeles por el piso, un brasero encendido con la mitad de una carta ya quemándose adentro. No pelean por ganar: pelean por escapar con la valija.
+> - Si uno queda arrinconado, antes de intentar la fuga: *"Nosotros solo cumplimos. A mí me pagó un tipo que ni le vi la cara, por el mismo escribiente de siempre."*
+> - Si lo capturan: no sabe un nombre que valga nada, pero admite, entre dientes: *"Usé este túnel dos veces esta semana. Sale en un pozo abandonado, a dos cuadras de la Manzana."*
+
+**El túnel bajo la casa.** Una alfombra enrollada de apuro deja ver una trampa de madera; abajo, escalones de ladrillo bajando en espiral cerrada, y un boquete de túnel con el revoque recién saltado en el borde — reciente, no de generaciones. El aire acá abajo es distinto al de la bóveda de la Manzana: frío común, tierra común, ningún filo mineral. Un Marcado no siente nada raro — y eso, de algún modo, es lo más inquietante del hallazgo: la familia Lacasa lleva dos generaciones moviéndose bajo la ciudad sin que ninguna geometría los note.
 
 > **HANDOUT H12 — The Areco deed ("E. Dadálah")** *(always found — in the strongbox)* — [📄 player handout](assets/handouts-c8-c12.md#h12--the-areco-deed-e-dadálah)
 >
@@ -382,6 +655,21 @@ By late afternoon the players (or Mercedes, or Galíndez) connect Ana to Quirce.
 
 **Padre Albarrán arrives** from the third patio, wet — he has been at (or in) the well. He looks at the room and says one sentence: _"Dios me contestó. Lo movemos."_ He sits. Galíndez nods once. The vote is over before it is taken. _(Note: he means move the book to the dock and re-vault it under fresh consecration — not put it on a ship. By the dock in C12 that answer finishes itself; see [the Hide foreshadowing](#doña-mercedes-alone).)_
 
+### DETALLE DE ESCENA — LA CONFRONTACIÓN DE ANA
+
+**Ambientación**: el segundo patio, la misma mesa donde encontraron el cuaderno de Saráchaga. Ana está sentada muy derecha, las manos planas sobre el cuaderno cerrado, como si sostenerlo quieto pudiera detener también lo que está por decir.
+
+> - Mercedes, sentándose frente a ella, sin rodeos: *"Ana. ¿Cuánto le dijo a Quirce?"*
+> - Ana, sin negar, la voz quebrándose recién en la segunda frase: *"Me dijo que estaba estudiando los anillos sismológicos de la cuenca del Riachuelo. Yo le mandaba copias de las actas — pensaba que eran inocuas."*
+> - Si un PJ le pregunta directamente si sabía lo que hacía: *"No. Y eso es lo peor. Ni siquiera puedo decir que me engañaron del todo — yo no quise preguntar más de la cuenta."*
+> - Si le ofrecen una segunda oportunidad (alimentarla con información falsa para Quirce): se le ilumina algo en la cara, mezcla de alivio y vergüenza. *"Puedo hacer eso. Déjenme hacer eso."*
+> - Si deciden excluirla: baja la cabeza, no protesta. *"Está bien. Me lo merezco."* — y no vuelve a levantar la vista el resto de la reunión.
+> - Mercedes, cerrando el tema, ni cruel ni blanda: *"Vas a ayudar mañana. Vas a estar ahí. Y después de que esto termine, vamos a hablar de qué eras."*
+
+**Padre Albarrán, entrando** — la sotana empapada hasta las rodillas, el pelo pegado a la cabeza, una calma extraña en la cara de alguien que acaba de recibir una respuesta que temía.
+> - Antes de sentarse: *"Dios me contestó. Lo movemos."*
+> - Si un PJ le pregunta cómo fue la respuesta: *"No fue una voz. Fue más como... dejar de dudar, de golpe, mientras tenía la mano metida en el agua fría."* — no da más detalle; no hace falta.
+
 ---
 
 ## THE CURSED GAUCHO
@@ -406,9 +694,37 @@ He has chosen the place of his death and asks the players to _let him die there_
 
 > † _Canon note: the cordon is normally the curandera's working, walked by eight; the [C12 cordon worksheet](chapter-12.md#the-day-before-the-night) lists how this table fills the corners from the Wrong Returned, the Marked, recruited men, and a Warding._
 
+### DETALLE DE ESCENA — LA CURTIEMBRE
+
+**Ambientación**:
+
+> _El galpón es bajo, de ladrillo ennegrecido por años de humo de curtido, con tres tinglados de secado donde cuelgan cueros a medio curar, tiesos como tablas. El olor pega antes que la vista: cal viva, quebracho, sangre vieja. Adentro, la luz entra en franjas por los tablones separados del techo, y en esas franjas de luz flota el polvo del cuero raspado. En el tercero de los tinglados, sentado en un banco de curtir, el Gaucho Maldito afila un cuchillo con movimientos largos y parejos, sin apuro — el mismo ritmo, una y otra vez, como quien lleva tanto tiempo haciendo algo que ya no necesita pensarlo._
+
+**El Gaucho Maldito — descripción física**: treintipico años, curtido por el sol hasta un color de cuero viejo, delgado y nervudo. Una cicatriz diagonal, limpia, le cruza la cara desde el lóbulo de la oreja izquierda hasta el mentón. Bombachas negras, poncho de vicuña, sombrero de ala ancha calado bajo. Lleva dos cuchillos a la vista — un facón a la espalda, un cuchillo de campo al cinto — y una pistola de chispa sin cargar, que carga por lo que representa, no por lo que hace. Su caballo zaino, reventado de dos días de marcha forzada, espera afuera sin que nadie lo ate.
+
+**El nombre.** Nadie en la curtiembre lo llama por nombre — le dicen el Gaucho Maldito, o simplemente "él". Tiene uno: **Edelmiro**. No lo ofrece nunca. Si un PJ se lo ganó en C7 (confianza genuina, no presión) y se lo pregunta directamente acá, en la curtiembre, hay una pausa antes de la respuesta — el nombre pertenece a alguien que tenía mujer, hijo, padre, y a él le cuesta usarlo. *"Edelmiro. Hace tres años que nadie me llama así."* Es lo único parecido a un regalo que hace en toda la escena.
+
+**Registro de voz — tres modos, tal como aparece en la mesa.** El estilo de la campaña pide que el Gaucho Maldito no tenga una sola voz: habla en gaucho cerrado cuando está en guardia, en español educado cuando reclama autoridad, y cambia al mapudungún cuando el duelo se le sale de las manos. Las tres versiones deben sonar a personas distintas aunque sean la misma boca.
+> - **En guardia** (con desconocidos, al principio de la escena): *"Siéntense, si quieren. O no. A mí no me importa."*
+> - **Reclamando autoridad** (el pedido sobre El Patrón, dicho con la cadencia de quien ya negoció esto antes con otros, y perdió): *"Si lo ven a él — el que tiene el campo en Areco con el otro nombre — no me dejen darle a alguien más mi pelea. Ese hombre es mío. Si no me dejan llegar a él yo, no me hacen el favor que vine a pedir."*
+> - **El duelo, sin traducir en el momento** (solo si le preguntan por su hijo, y solo si ya ganaron su confianza en C7): dice una frase corta en mapudungún, mirando el cuchillo, no a nadie. *"Pichi che, amutuy."* — luego, en castellano, más bajo: *"Chiquito, se fue."* No la repite ni la explica más.
+> - Contando lo que sabe, en frases cortas, sin inflexión: *"Me llegó lo de Saráchaga. Y lo de la piedra. Y lo del movimiento que están por hacer."*
+> - Su compromiso: *"Mañana yo voy en la galera con ustedes. No voy a llegar al barco. Mi pelea es en la calle, no en el agua."*
+> - Si le preguntan por su familia, por Coypac: se detiene un segundo con el afilado. *"Tres años. Voy buscando. Mato cuando encuentro."* No da más que eso a quien no se lo ganó ya en C7.
+> - Si le preguntan qué piensa de los Custodios, o si sabe algo de ellos: encoge un hombro, sigue afilando. *"Guardan un libro. Yo cazo a un hombre. No es la misma pelea la de ellos que la mía — pero esta noche nos cruzamos en la misma calle. Eso me alcanza."* No les debe nada, y no lo esconde.
+> - Si aceptan su pedido, entregando el cuchillo de campo familiar: *"Si yo no llego, este es para él. Hagan lo que tengan que hacer con esto, pero llévenlo a él."*
+> - Si se niegan: no discute, no insiste. Vuelve al afilado como si no hubieran hablado. No va a estar en la calle mañana para cubrirlos.
+
+**Marta, junto a los paneles de cuero** — se arrodilla a examinarlos con las manos, no con los ojos, tanteando los bordes como quien lee una escritura que no puede ver.
+> - *"No sé las palabras que usaba Kuyen. Pero sé dónde tienen que estar las esquinas. Les puedo mostrar dónde sostener los paneles. Mi cuerpo sabe los ángulos."*
+> - Si un PJ Marcado se ofrece a ayudarla a ubicar un panel: se detiene, lo mira de una forma que no es del todo humana pero tampoco es hostil. *"Vos también sentís dónde falta. Bien. Parate ahí."*
+> - Sobre el hechizo de Mandinga, si corresponde: *"¿Usamos el hechizo de Mandinga en una esquina, o lo guardamos?"* — la pregunta que pone la decisión sobre la mesa, sin presionar en ninguna dirección.
+
 ---
 
 ## DOÑA MERCEDES, ALONE
+
+> _El claustro de San Ignacio está vacío a esta hora — un rectángulo de columnas bajas alrededor de un patio de tierra apisonada, con un aljibe seco en el centro que ya nadie usa. La luna, si hay, cae pareja sobre las baldosas de mármol del corredor, las mismas que Mercedes contó esa tarde, en voz baja, arrodillada. De noche el patrón geométrico del piso se nota más — o parece notarse más, que quizás no sea lo mismo. Los pasos de los dos resuenan distinto ahí adentro: un segundo eco, un cuarto de segundo tarde, que ninguno de los dos comenta._
 
 Late evening, the plan set. Mercedes asks the player she has spoken to most to walk with her in the empty cloister of San Ignacio, and tells them what she has carried since Arc 2:
 
@@ -436,6 +752,8 @@ She asks one thing: _"No te pido que perdones. Te pido que cuando ese hombre nos
 
 ## MIDNIGHT — THE PARLOR
 
+> _La sala de Inocencia de noche es chica y tibia: una mesa de madera oscura, dos sillas de asiento de cuero, un aparador con loza desportillada, y en el medio de la mesa una hogaza de pan que nadie cortó todavía. Un candil bajo, casi consumido, deja más sombra que luz en las esquinas. Todo en el cuarto es ordinario — y por eso mismo, cuando algo no lo es, se nota de inmediato._
+
 The players return to Inocencia's around midnight. Bread on the table. And a **visitor** in Inocencia's chair — a man they have never seen and have met in a hundred small forms across four arcs. Dressed simply, not large, his face unremarkable in a way that should be impossible (the eye keeps trying to find a feature to remember, and fails). He stands, bows slightly:
 
 > _"Qué bueno conocernos al fin. Soy Don Eligio Dadálah. Ustedes me conocen como El Patrón."_
@@ -449,6 +767,17 @@ He is telling the truth, mostly — he _will_ let them live if the move happens,
 > _"Doña Mercedes les contó esta noche lo que copió hace cuarenta años. Tomó coraje. La quiero, ¿saben? Es de las pocas personas que me han hecho trabajar. Cuando mañana terminemos, voy a pedirles un favor: déjenmela viva. Yo la voy a tratar bien."_
 
 He bows again. The door closes on its own. **SAN Check**: 1/1D6 — a single conversation with the avatar of Nyarlathotep, in a boarding-house parlor, with bread on the table.
+
+### DETALLE DE ESCENA — DON ELIGIO DADÁLAH
+
+**Descripción física**: estatura mediana, contextura mediana, ropa simple y prolija — nada que llamaría la atención en cualquier salón porteño. La cara es el problema: correcta, agradable, y absolutamente imposible de retener. El ojo busca un rasgo para recordar — la forma de la nariz, el color exacto de los ojos — y no lo encuentra, una y otra vez, en el mismo rostro. Sonríe con facilidad, como quien disfruta genuinamente de la conversación. No hay nada amenazante en su postura. Eso es lo que asusta.
+
+**Diálogo — si los jugadores insisten en preguntar**:
+> - *"¿Quién es usted, en verdad?"* — sonríe, casi con cariño. *"Soy exactamente quien les dije que era. La pregunta que en realidad quieren hacer es otra, y ya saben la respuesta."*
+> - *"¿Por qué no nos amenaza?"* — *"Porque no hace falta. Y porque las amenazas son para quien no tiene tiempo. Yo tengo todo el tiempo que quiera."*
+> - Si un PJ se muestra tentado por la oferta (dejar el libro donde está, o entregarlo directamente): no presiona, no insiste — se limita a sonreír un poco más. *"No hace falta que decidan nada esta noche. Yo puedo esperar hasta mañana. Ya esperé cuarenta años."*
+> - Si le preguntan por Mercedes: la calidez en su voz, por un instante, parece genuina. *"Es de las pocas personas que me han hecho trabajar de verdad. Eso no es un cumplido menor, viniendo de mí."*
+> - Despedida, poniéndose de pie: *"Nos vemos mañana, entonces. Con el libro en la calle, y con la geometría abierta al fin."*
 
 > ⚠️ **El Patrón = no roll — the silence tell.** Within ~20 m of him the Marks go **silent**: the city-hum the Marked have carried since the [C10 grid entry](chapter-10.md#entry-into-the-city) stops dead. The absence _is_ the detection — they feel him as a hole in the geometry, the one shape the grid cannot read; it resumes when the door closes. Retroactively, the [crested carriage at Florida y San Martín](chapter-10.md#the-streets) was him. **This pays off at the Stand in [C12](chapter-12.md#chapter-12--el-libro)** — the Marks go silent _before_ he rounds the corner, giving the Cursed Gaucho his three seconds of warning.
 
@@ -486,11 +815,11 @@ He bows again. The door closes on its own. **SAN Check**: 1/1D6 — a single con
 
 ---
 
-## COLD OPEN — C12
+## COLD OPEN — read this before anything else tonight
 
 *(Read aloud before the chapter's own opening. Then move into [Act 1](#act-1--the-transport) below.)*
 
-> _La tarde antes de la noche que decide todo, Buenos Aires hace lo de siempre: se calienta, se enfría, cierra los negocios, enciende los faroles uno por uno. Nadie en la calle sabe que hay un cofre esperando en un sótano bajo la Manzana de las Luces, ni que esta noche va a cruzar once cuadras hasta el río. En la curtiembre del Riachuelo, el Gaucho Maldito carga por fin su pistola — algo que no había hecho en tres años. En la casa de Inocencia, Tránsito y Negro Camba se miran las manos: los dos con la misma marca, ninguno con el otro que la tenía primero. Mercedes dobla y desdobla el pergamino sin abrirlo del todo, una y otra vez, como quien cuenta algo que ya sabe de memoria. El aljibe de la tercera casa está caliente. Todos lo saben. Nadie lo dice todavía._
+> _La tarde antes de la noche que decide todo, Buenos Aires hace lo de siempre: se calienta, se enfría, cierra los negocios, enciende los faroles uno por uno. Nadie en la calle sabe que hay un cofre esperando en un sótano bajo la Manzana de las Luces, ni que esta noche va a cruzar once cuadras hasta el río. En la curtiembre del Riachuelo, el Gaucho Maldito carga por fin su pistola — algo que no había hecho en tres años. En la casa de Inocencia, Negro Camba se mira la mano, la marca sola en la palma — la de Tránsito murió con ella en el camino, tres días antes de ver esta ciudad. Mercedes dobla y desdobla el pergamino sin abrirlo del todo, una y otra vez, como quien cuenta algo que ya sabe de memoria. El aljibe de la tercera casa está caliente. Todos lo saben. Nadie lo dice todavía._
 
 ---
 
@@ -526,7 +855,8 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 > |Slot|Source|
 > |---|---|
 > |1–2|**Marta + Héctor** (only if both survived C9)|
-> |3–4|**Tránsito and Negro Camba** (the two Marked PCs — each counts stronger; Benancio died in C9, Negro Camba was newly Marked in the same crisis and fills the second slot)|
+> |3|**Negro Camba** (the table's one Marked PC — counts stronger; Benancio died in C9 and Tránsito, the other Mark, died on the road before reaching the city)|
+> |4|**Doctor [NOMBRE]** (the new PC, or another recruited hand — no Mark bonus, but a body in the cordon)|
 > |5–6|**Inocencia's two men** (debt-motivated; Persuade or ask Inocencia)|
 > |7–8|**Galíndez's two less-armed soldiers** (costs him perimeter strength at Weak Point 1)|
 > |(one corner)|**Mandinga Warding** (replaces a walker; hardens that corner to a full panel-leg)|
@@ -534,6 +864,30 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 > **Mercedes assigns it explicitly**: _"Hoy ustedes hacen dos cosas: caminan la ruta, y consiguen ocho personas para el cordón. Galíndez pone el hierro. El cordón pone la geometría. Sin las dos cosas, esta noche es de él."_
 
 > † _Canon note: the cordon is the curandera's working, normally walked by eight; here it is improvised from the Wrong Returned, the Marked, recruited civilians, soldiers, and a Warding. The mechanic — a moving city-scale binding ten meters around the carriage that El Patrón's surface manifestations cannot easily cross — is preserved, less stable._
+
+### DETALLE DE ESCENA — LA VÍSPERA
+
+**Ambientación — la casa de reunión, de mañana**:
+
+> _La casa de Saráchaga, sin Saráchaga, se siente más grande de lo que es. El segundo patio, donde antes discutían hasta la medianoche, ahora tiene mapas desplegados sobre la mesa larga de pino en vez de tazas de agua. Mercedes escribe sin parar, tres cartas a la vez, la letra cada vez más apretada a medida que avanza la mañana. Nadie se sienta en la silla de Saráchaga. Nadie lo dice — simplemente no se sientan ahí._
+
+**Ambientación — el muelle, con Galíndez**:
+
+> _El Riachuelo huele igual que siempre — sebo, sal, marea baja — pero hoy Galíndez lo camina distinto: cuenta pasos entre un punto y el siguiente, marca con tiza una cruz discreta en los pilotes donde va a parar cada relevo. El bergantín *Carmen del Pilar* ya tiene las velas sueltas, listas, aunque falten horas para la partida._
+
+**Capitán Ettore Borghi.** Genovés, cerca de cincuenta años, curtido por el sol y la sal, mentón con barba de varios días, un aro de oro en la oreja izquierda — recuerdo de un puerto que ya no visita. Habla un español marcado de acento italiano, directo, sin ceremonia. Trabaja con Galíndez desde las invasiones inglesas y no le pregunta nada que no necesite saber.
+> - Presentándose, sin dejar de revisar un cabo: *"Borghi. El barco es mío, la tripulación también. Lo demás no me interesa, con tal de que me paguen."*
+> - Si le preguntan si sabe qué está transportando: *"No. Y no pregunto. Es plata segura, eso es lo único que necesito saber."*
+> - Sobre el señuelo, si le preguntan: *"La goleta sale a la misma hora que yo, con un cajón de ladrillos adentro. Si alguien la sigue a ella, mejor para nosotros."*
+> - Su única condición, mirando a Galíndez a los ojos: *"A la primera luz, zarpo. Con carga o sin carga. Eso no se negocia."*
+
+**Ambientación — San Ignacio, la misa por Saráchaga**:
+
+> _La capilla está casi vacía a media mañana — Albarrán oficia solo, para nadie, o para el banco donde Saráchaga se sentaba siempre en las reuniones grandes de la orden, ahora ocupado únicamente por el eco de su propia voz. Termina la misa, se queda un momento más de lo necesario frente al altar, y después sale al patio a bendecir, uno por uno, a los hombres de Galíndez y sus caballos — un gesto que nadie le pidió y que nadie va a rechazar esta noche._
+
+**Ambientación — la curtiembre, preparando el cordón**:
+
+> _Los seis paneles de cuero, tendidos sobre caballetes, se secan al sol de la mañana — ocre y negro de hueso trazados con mano firme, la misma geometría que la del piso de la bóveda, repetida seis veces. Marta camina entre ellos descalza, corrigiendo un trazo acá, otro allá, sin mirar lo que corrige — los dedos encuentran el error antes que los ojos. El Gaucho Maldito la observa desde el banco de curtir, la pistola desarmada sobre las rodillas, sin cargar todavía._
 
 ---
 
@@ -545,6 +899,10 @@ At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galínde
 
 **Mechanic — the Mark**: every Marked player rolls 2d6 **every two blocks**; snake eyes triggers a short Hound aftershock (1D3 rounds, the city limits its duration). A real threat tonight — the most geometrically charged place in the campaign. Reroll if a player has the binding active in hand (cordon walker) or is in the carriage (proximity to the chest). Plus one roll on arrival at **each weak point**. The [dock-lock](#the-dock-geometry) roll (Act 2) delivers **clarity, not threat**. **During the Choice (Act 3): no rolls.** And **El Patrón near = [the silence tell](chapter-11.md#midnight--the-parlor)** — on Calle Belgrano the Marks go silent _before_ he rounds the corner; the Marked PC can give the Cursed Gaucho his three seconds of warning.
 
+**Esteban** *(nombrarlo ahora, antes de que arranque la noche — su muerte en el Punto Débil 1 tiene que pesar)*: uno de los soldados de Galíndez, apenas veinte años, el más joven de los quince. Bigote que todavía no termina de crecerle, uniforme heredado de un hermano mayor que le queda un poco grande en los hombros. Es el primero en reírse de un chiste y el último en admitir que tiene miedo. Camina cerca de la galera, del lado izquierdo, con el mosquete cruzado al pecho.
+> - Charlando con un PJ antes de la partida, para llenar el silencio: *"Mi hermano hizo esto mismo en el '10, contra los ingleses. Me contó mil veces la historia. Ahora me toca a mí tener una para contar."*
+> - Si un PJ le pregunta si tiene miedo: sonríe de costado, demasiado rápido. *"¿Yo? No. Bueno... un poco. Pero el capitán confía en mí, así que."* — no termina la frase.
+
 ---
 
 ## THE THREE WEAK POINTS
@@ -552,6 +910,13 @@ At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galínde
 > **They hit in route order as the carriage moves** — [WP1 at the university exit](#weak-point-1--university-exit) (the false *vigilante* / ambush), [WP2 at Belgrano y Defensa](#weak-point-2--belgrano-and-defensa--the-stand) (the Stand — the **silence tell fires before El Patrón rounds the corner**), [WP3 at the dock](#weak-point-3--the-dock) (he arrives with the chest — the trap closes). Between each, keep the block-cadence Mark rolls going; each covered cordon corner or C11 prep lowers that point one step.
 
 ### Weak Point 1 — University exit
+
+> _La calle a la salida de la Manzana está más ancha que las demás, hecha así a propósito hace dos siglos y medio para que las carretas de la orden pudieran girar sin trabarse. Esta noche eso juega en contra: espacio de sobra para que algo se acomode a los costados sin que se note hasta que es tarde. Un farol solitario, más allá de la esquina, parpadea con una regularidad que no es del viento._
+
+**El falso *vigilante*.** Uniforme casi correcto — casi: el corte del capote es de dos temporadas atrás, las botas no son reglamentarias. Acento de la Banda Oriental que se esfuerza, sin lograrlo del todo, por sonar porteño. Sostiene los papeles de Galíndez con las dos manos y los lee moviendo los labios, más despacio de lo que cualquier lector real necesitaría.
+> - *"A ver... permiso de circulación nocturna... esto tiene que revisarlo el oficial de guardia."* — estirando el trámite, ganando segundos para los que esperan en las bocacalles.
+> - Si lo confrontan directamente: no discute — dispara la señal (una tos fuerte, deliberada) y retrocede hacia la sombra más cercana.
+> - Si Galíndez lo desarma en silencio antes de que dé la señal: sin resistencia, resignado. *"Ya está. Ya está, no hago nada."* — sabe que perdió y no arriesga el cuero por una paga que no vale tanto.
 
 > **⚔️ Stats**: the false _vigilante_ and six ambushers use the [escort block](assets/npc-stats.md#quirces-escort-3-generic) (the vigilante swaps Intimidate for Disguise 50%). Two carry pistols, fired once then knives. **Morale**: three down → the rest scatter. **Name Esteban before the night** so his death lands. **Falsified-count edge**: if the players delivered a false tally in C10, the first dock Mark-roll is one threshold safer.
 
@@ -561,19 +926,37 @@ A _vigilante urbano_ walks out and asks Galíndez for papers, then reads them _s
 
 ### Weak Point 2 — Belgrano and Defensa — the Stand
 
+> _La esquina no tiene nada de especial a simple vista — una casa de altos, una pulpería cerrada con tranca, el empedrado más parejo que en el resto de la cuadra porque acá pasa más carro que en ningún otro cruce del barrio. Esa regularidad es justamente lo que la vuelve peligrosa: un giro lento, obligado, en el único punto de todo el trayecto donde la galera tiene que casi detenerse. El panel de Marta, apoyado contra el frente de la pulpería, todavía no brilla. Va a brillar en el momento exacto en que haga falta, ni un segundo antes._
+
 The carriage slows to a walk to make the turn — the corner Galíndez feared most. **The Cursed Gaucho stands up and steps out of the moving carriage**, hits the cobblestone in stride, walks ahead of the lead horse, knife in hand, and turns to face the corner before it appears. The cordon-walker here is **Marta** (or Héctor), unrolling the panel in time; the amber glow lights the Gaucho's face from below. Around the corner, walking unhurried up the middle of the street, is **El Patrón** — alone, simply dressed, smiling: _"Llegaste primero. Bien. No quería hacer esto en el muelle."_
 
 **Run the fight cinematically, not mechanically** — a master of the _facón_ against an unkillable man, the scene about the gesture.
 
 > _Se encuentran en el medio de la calle Belgrano, a diez metros del panel que brilla de Marta. El facón del Gaucho Maldito está en su mano derecha, el cuchillo de campo en la izquierda. El Patrón está desarmado y sonríe. Dice una frase más — en mapudungun, la lengua de la madre asesinada del Gaucho. Sea lo que sea que diga, la cara del Gaucho no cambia. Se mueve._
 
+> **Keeper — la frase, si hace falta decirla en voz alta**: _"Eymi kimlaymi chem dungu."_ — *"Vos no sabés lo que estás por hacer."* No la traduzcan para la mesa a menos que un jugador tenga forma de entender mapudungún en la ficción (Marta, Héctor). El punto no es el contenido — es que El Patrón la hable sin acento, perfecta, algo que le costó a la madre del Gaucho toda una vida y a él le costó nada.
+
 **The Cursed Gaucho wounds El Patrón before he dies** — a cut on the jaw, a cut along the ribs. **El Patrón is bleeding**, which should not be possible, and he smiles wider for it. The Gaucho is dying on the cobblestone; he has bought roughly seven minutes. **If the players agreed to his terms in C11**, he lands his last word, looking up at the player who took them: _"No me lo lleves al barco. Lo dejo a vos."_ — and hands them the _cuchillo de campo_ (already theirs; the gesture matters; it primes the destroy-by-blade option). **If they did not agree**, he still fights, still wounds, still dies, but the knife never carries the same weight and the [destroy-by-blade option](#option-3--destroyed) is mechanically harder. **SAN Check**: 1/1D6.
 
 ### Weak Point 3 — the dock
 
-The carriage continues; Mercedes does not look at the Gaucho's body as it rolls past; Galíndez does, and says nothing. The dock is a hundred meters of wood on stone pilings; the brig _Carmen del Pilar_ lies fifty meters out under two stern lanterns; a launch waits, Capitán Borghi at the tiller, hand on his pistol since he saw a man die down the street. **The chest is offloaded.** And **this is where El Patrón takes the book** — he arrives at the dock as the chest does, walking down the street the carriage just left, bleeding and smiling, unarmed:
+The carriage continues; Mercedes does not look at the Gaucho's body as it rolls past; Galíndez does, and says nothing.
+
+> _El muelle es cien metros de madera sobre pilotes de piedra, gastados por dos siglos de marea y sal. El bergantín *Carmen del Pilar* espera a cincuenta metros, dos faroles de popa marcando su posición en el agua negra; más allá, apenas visible, la goleta señuelo *La Niña Encantada* ya larga amarras rumbo a ningún lado en particular. El bote está atracado al final del muelle, cuatro remeros quietos en sus puestos. Borghi está de pie en la popa, el sombrero calado, la mano cerca — no sobre, cerca — de la pistola al cinto._
+
+**Capitán Borghi, en el muelle**:
+> - Al ver acercarse la galera: *"Llegaron. Bien. Suban el cajón y salimos ya."*
+> - Si alguien le cuenta lo del Gaucho Maldito: no pregunta detalles. Se persigna, rápido, casi sin darse cuenta que lo hizo, y sigue trabajando. *"Que Dios lo tenga. Ahora, el cajón."*
+> - Cuando El Patrón aparece caminando por la calle, sangrando y sonriendo: Borghi no dice nada. Cierra la mano del todo sobre la pistola y no la suelta el resto de la escena — pero tampoco la levanta. Es un hombre que reconoce, sin entender del todo, cuándo disparar no serviría de nada.
+
+The launch waits, Capitán Borghi at the tiller, hand on his pistol since he saw a man die down the street. **The chest is offloaded.** And **this is where El Patrón takes the book** — he arrives at the dock as the chest does, walking down the street the carriage just left, bleeding and smiling, unarmed:
 
 > _"Gracias por traérmelo. Es lo único que necesitaba — que se moviera. Tenía la llave hace cuarenta años. Lo que no tenía era el dibujo afuera. Ustedes me lo dibujaron esta noche, calle por calle."_
+
+**Diálogo — si los jugadores le hablan directamente, antes del Acto 2**:
+> - *"¿Por qué no nos mató en la calle?"* — *"Porque no hacía falta, y porque un muerto de más esta noche solo iba a ensuciarme el dibujo. Ustedes trajeron el libro solitos. Eso vale más que cualquier cosa que yo pudiera forzar."*
+> - *"¿Todo esto lo planeó usted?"* — sonríe, casi con modestia. *"Planeé la oportunidad. Ustedes planearon el camino. Los dos fuimos necesarios. Eso no les debería sorprender a esta altura."*
+> - *"¿Y si no le damos el libro?"* — la sonrisa no cambia, pero algo detrás de los ojos sí. *"Entonces habré perdido cuarenta años, y ustedes van a tener que vivir con lo que decidan hacer con él en cambio. A mí no me gusta esa versión de la noche. A ustedes tal vez sí."*
 
 And **the geometry activates** — the Riachuelo's bend, the _saladero_ rooflines, the brig's masts to the water, every player's position lock into the diagram, at city scale. The carriage was the moving point drawing the line from vault to dock all night. **The transport itself was the act of completion.** **SAN Check**: 1/1D8 — everything they did tonight, and most of what they did before, was him moving them across his board.
 
@@ -596,6 +979,11 @@ The trap is not stealing the book to use elsewhere — it is opening it _here, o
 **Mercedes** stands between the chest and El Patrón, unarmed, and holds out her hand to the player carrying the parchment: _"Este es el momento que dije. Si vamos a destruir, ahora."_ She gives sixty seconds, will not pressure further, and is shaking. **El Patrón** smiles at her: _"Lo que copiaste hace cuarenta años fue lo que me dejó saber dónde estaba… No te lo cuento para hacerte sentir mal. Te lo cuento porque es justo que ellos lo sepan también."_ Mercedes does not look at him — she looks at the parchment in the player's hand: _"Decidan."_
 
 _(Because the players walked the [C11 cloister](chapter-11.md#doña-mercedes-alone), they already know about Mercedes' forty-year-old copy — from her, not from him. His attempt to weaponize it lands on inoculated ground.)_
+
+> **Base de conocimiento — El Patrón, en el muelle** *(para responder lo que los jugadores le pregunten sin guion)*:
+> - **Sabe**: los cuarenta años completos de su propia maniobra; que tiene la llave física desde hace décadas; que necesitaba el libro *afuera* de la bóveda, no adentro; el nombre y el pasado de Mercedes; que Lacasa y Quirce fueron piezas, no aliados; que el Gaucho Maldito lo iba a esperar en algún punto de la ruta (lo sabía, y decidió dejarlo pasar de todos modos — el corte que recibió es real, no actuado).
+> - **No sabe, o no controla**: qué van a elegir los jugadores en el Acto 3 — es el único punto de la noche que de verdad no tiene escrito de antemano; si el parche de Mercedes tiene una página interior legible (no la vio nunca); el detalle exacto de lo que pasó en el claustro de C11, más allá de que pasó.
+> - **No va a decir, aunque se lo pregunten directo**: el nombre real que tuvo antes de Eligio Méndez; qué es, en términos que no sean metáfora; qué pasa con el resto de él si esto sale mal esta noche.
 
 ---
 
@@ -623,7 +1011,7 @@ Then, to El Patrón, in Latin — the binding form Saráchaga taught him in 1798
 
 The geometry **dissolves** — El Patrón is no longer at the center of a door, just a man bleeding from two cuts on a dock at midnight. **The book returns to the vault** under Albarrán's blessing and Mercedes' hand; the 1810 lock is removed and melted; the chest goes a meter deeper; the witness-stone returns to **cool**.
 
-**The cost**: whoever spoke the Latin **dies within twenty-four hours**. If Albarrán, in his cell at San Ignacio, peacefully, looking at a candle: _"Dios me contestó. Era esto."_ If Mercedes, in her chair at the Manzana de las Luces, an open notebook in her lap: _"He estado esperando esto cuarenta años. Llegó tarde, pero llegó."_ And **Mercedes es permanently weakened** — she loses an eye over the next month (the cornea clouds white; painless) — _"Esto era lo justo. He estado evitándolo cuarenta años."_ **El Patrón is not destroyed** — he withdraws north, to Areco, to his other names; he will be back, not in the players' lifetimes. The Marks remain, quiet; the witness-stones cool; the Cabildo clock strikes twelve on the hour again.
+**The cost**: whoever spoke the Latin **dies within twenty-four hours**. If Albarrán, in his cell at San Ignacio, peacefully, looking at a candle: _"Dios me contestó. Era esto."_ If Mercedes, in her chair at the Manzana de las Luces, an open notebook in her lap: _"He estado esperando esto cuarenta años. Llegó tarde, pero llegó."_ And **Mercedes is permanently weakened** — she loses an eye over the next month (the cornea clouds white; painless) — _"Esto era lo justo. He estado evitándolo cuarenta años."_ **El Patrón is not destroyed** — he withdraws north, to Areco, to his other names; he will be back, not in the players' lifetimes. The Marks remain, quiet; the witness-stones cool; the Cabildo clock strikes twelve on the hour again.
 
 > _Imagen final:_ El libro vuelve abajo. La bóveda se sella. Mercedes apoya la mano sobre la cerradura nueva y cierra el ojo que se le va a nublar. Albarrán camina hacia San Ignacio en el primer gris del amanecer, sonriendo. El Riachuelo está vacío. El cuerpo del Gaucho Maldito no está — se lo llevó su propia gente. Buenos Aires se despierta y no sabe.
 
@@ -653,7 +1041,7 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 > **Availability**: Destroyed is _always_ available — Mercedes carried this ritual on her body for forty years so it always would be. If the parchment is lost, she rewrites it in fifteen minutes from memory. **If a player reaches for Destroyed, give it to them.** This is the campaign's safety-valve ending.
 
-**The circle forms** — **Tránsito and Negro Camba**, the two Marked PCs, take cardinal points around the chest; surviving Wrong Returned and recruited hands fill the rest; Mercedes is at the parchment-position just outside. **The cost is named before it is paid** — the step that distinguishes Destroyed:
+**The circle forms** — **Negro Camba**, the table's one remaining Marked PC, takes a cardinal point around the chest; surviving Wrong Returned and recruited hands fill the rest; Mercedes is at the parchment-position just outside. **The cost is named before it is paid** — the step that distinguishes Destroyed:
 
 > _"Esto es distinto. No alcanza con que yo lea. La marca de cada uno de ustedes va a contribuir al cierre. Cuanto más uno carga, menos cargan los otros. No puedo decirles cómo distribuir el costo. Eso es de ustedes… No es justo. Es un cierre. Decidan."_
 
@@ -669,9 +1057,9 @@ When the last syllable lands, the geometry closes **on El Patrón specifically**
 
 Fewer than five Marked PCs drops the lighter tiers from the bottom.
 
-> **2 Marked PCs at this table — Tránsito and Negro Camba.** Benancio died holding the C9 seal, but Negro Camba was newly Marked in that same crisis, so the table is back to two Marks. **The cost-table is Anchor + Pillar**: one of them dies, one survives with permanent sense-loss and a physical mark — unless the Marta valve below is invoked. A heavy table either way. Give the players real time with the assignment.
+> **1 Marked PC at this table — Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis; **Tránsito, the table's other Mark, died three days later on the road** (killed by the falsos milicianos, not the entity) and never reached the city. With only one Mark to pay the cost, the tier list collapses to its top rung: **the cost-table is Anchor alone — Negro Camba dies, full stop** — unless the Marta valve below is invoked. There is no Pillar to soften it this time. Give the players real time to sit with that before the dock.
 
-> **The Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (2 Marks) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: **both Marked PCs shift down one tier (Pillar + Wall)**, Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
+> **The Marta valve (Keeper decision point, decide _before_ the session).** This is the only branch where the table state alone (1 Mark) kills a PC with no alternative. An optional valve, consistent with canon (Marta provides _"structural substitution"_): **Marta may volunteer for the Anchor tier.** She is the only living person geometrically aligned enough to qualify; she traced the diagram from memory in the dark; and she has just gotten herself back — which makes the offer the campaign's cruelest gift. If she anchors: **Negro Camba shifts down one tier, to Pillar** — he survives with permanent sense-loss instead of dying — Marta dies between one breath and the next, and Héctor's epilogue is rewritten in silence. **She offers only if the table treated the Wrong Returned as people, not resources** — the same condition canon set for her C9 co-anchor offer. A decision point, not a default; the PC-death version is equally honest.
 
 **The reading and the burning** — Mercedes opens the parchment and reads the older chain.
 
@@ -702,6 +1090,8 @@ Fewer than five Marked PCs drops the lighter tiers from the bottom.
 > _En el segundo posterior a que prende el sello — el latín de Albarrán, la última sílaba del Lector, o la palabra final de Mercedes — el polvo **se levanta**. No cae; sube en una sola capa entera, dos centímetros por encima de cada superficie que lo sostiene, queda suspendido un latido, y desaparece — no soplado, no disperso, desaparecido, como si la geometría a la que estaba pegado por fin lo hubiera soltado._
 > 
 > The Marked feel it in their cuffs first: _"Se fue."_ Inocencia's saved tin is empty by morning; Rosa's chapel, two hundred kilometers south, is dust-free for the first time in seventy years; the San Ruiz well has stood empty since the goat walked west from the sealed pit at dawn (C9). **Show it to the Marked PCs and let them name what they see.**
+
+> _El amanecer llega despacio sobre el Riachuelo, gris primero, después rosado en los bordes de las nubes bajas. El muelle, hace un rato escenario de todo, vuelve a ser solamente madera y agua — un mozo de carga bosteza en la otra punta, ajeno por completo a lo que pasó a metros de él. El olor a sebo y sal sigue igual que siempre; eso, más que cualquier otra cosa, es lo que convence de que la noche terminó: la ciudad no cambió el olor por ellos._
 
 ## The survivors
 
