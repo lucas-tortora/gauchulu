@@ -8,6 +8,21 @@ A dated, per-session record of how this table diverges from the written campaign
 
 ---
 
+## 2026-09-01 — El camino played: Tránsito dies to the falsos milicianos; new PC joins
+
+The road from the pit to Buenos Aires (chapter-10.md's "El camino — cuatro días") ran as its own session — the crocodile crossing, the wolf at the fire, and the fake-militia ambush all fired. Two divergences from the written texture:
+
+- **Día 1 — the yacaré wasn't just survived, it was hunted.** The party didn't let it retreat after one bite; they ran it down, killed it, and skinned it on the bank, plus a couple more animals taken that same day of travel. Texture only — extra hide and meat, no mechanical change.
+- **Día 3 — Los Falsos Milicianos: Tránsito died.** The written encounter assumes low lethality (moral breaks fast — one of the four falsos milicianos falls, the other three scatter). At this table, before that break came, **Tránsito took a hit she didn't survive** — killed by ordinary greed, four bandits with no connection to El Patrón, three days after she survived the C9 seal itself. The rest of the fight ran as scripted: one miliciano down, the other three (Ibarra included) fled. The party rode into the city carrying a body and no time to process it.
+
+**Downstream effect — the campaign is down to 1 Marked PC.** Benancio died in C9; Negro Camba was newly Marked in that same crisis; Tránsito, the second Mark, is now also dead. Every C10–C12 mechanic that named "Tránsito and Negro Camba" as the two Marked PCs has been rewritten to Negro Camba alone: the Witness Flicker (single touch, not a second-touch trigger), H16's tally paper ("los marcados" = 1), the C12 cordon worksheet (slot 4 now open), and — the big one — **the C12 Destroyed ending's cost table collapses to Anchor alone: Negro Camba dies outright if the party chooses Destroyed, unless the Marta valve is invoked to drop him to Pillar.** There is no Pillar tier to soften it on its own anymore.
+
+**A new PC joins, replacing Tránsito at the table.** The player rolled up a doctor with occultism leanings. Written into the hook already in chapter-10.md's "The streets" (micro-encounter 1, the customs officer): the party arrives at the city gate visibly, gravely wounded from Día 3, and the customs officer waves off the papers and sends them straight to this doctor two blocks toward the river instead — that's the scene where the new PC joins. **Name still pending** — every reference is written as `Doctor [NOMBRE]`; find-and-replace once the player names him. He is **not Marked** (joined too late for C3 or the C8–C9 ritual, same as the Antiquarian's precedent as an added, unmarked PC) — his addition does not restore the second Mark or change the Destroyed math above.
+
+*Integrated into:* `chapter-10.md` (opening note, "El camino" Keeper note + Día 1 + Día 3, the cold open rewrite, the Witness Flicker, H16's inline Keeper note, the checklist, the new customs-officer/doctor beat), `chapter-11.md` (cold open), `chapter-12.md` (cold open, cordon worksheet, the Destroyed circle/cost table, the Marta valve), `flowmap.md` (chapter grid C12, the state ledger, the Marks thread, ending-state table, the Destroyed description, the NPC roster), `assets/cast-one-pager.md` (DESTROY description), `assets/handouts-c8-c12.md` (H16). `COMPILED-c10-c12.md` resynced to match — also found and fixed independently stale (it was missing "El camino" entirely, predating this session).
+
+---
+
 ## 2026-08-18 — C9 played: Benancio dies holding the seal; Tránsito co-anchors; Quirce flees
 
 The ritual actually ran. Divergences from the written plan (which assumed both center PCs survive by default):

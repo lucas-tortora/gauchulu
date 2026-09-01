@@ -8,7 +8,7 @@
 
 > **Setting reference.** For 1821 Buenos Aires — the Rivadavia reforms, the Manzana de las Luces, the portless river and the *saladero* coast, daily life and the senses, and how the real city grounds the geometry — see [`REF-BuenosAires-1821.md`](REF-BuenosAires-1821.md).
 
-> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. **Two Marked PCs ride into the city — Tránsito and Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis. Both read the city geometry on entry more vividly for having just lived the closing.
+> No tribal allies from the curandera's people reached Buenos Aires — the tribe died in C3. Only **Héctor and/or Marta** (Wrong Returned, if they lived through C9) are present, and 1821 Buenos Aires does not know what to do with them — that visibility is itself a danger. **Only one Marked PC rides into the city — Negro Camba.** Benancio died holding the C9 seal; Negro Camba was newly Marked in that same crisis; **Tránsito, who survived the seal, died three days later on the road** — the falsos milicianos of Día 3, below, killed her, not the entity. Negro Camba reads the city geometry on entry alone, and more vividly for having just lived both losses.
 
 > **The shape of the chapter — a slow build to a fast dawn.** Run the beats in order, unhurried until the death; **Mercedes leads them from place to place — when a scene ends, she names the next one.**
 > 0. *(Optional bridge, run before any of this — see [El camino](#el-camino--cuatro-días-desde-el-pozo))* the four days of road from the pit to the city: a hard crossing, a wolf at the fire, and four men pretending to be soldiers.
@@ -22,7 +22,7 @@
 
 ## EL CAMINO — CUATRO DÍAS DESDE EL POZO
 
-> **Keeper note.** Optional, but recommended — it buys exactly the slow build the chapter note above asks for, and gives **Tránsito** and **Negro Camba** something to carry into the city besides raw grief. Run it as the tail end of the C9 session, or as the first 30–40 minutes of the C10 session, **before** the [Cold Open](#cold-open--read-this-before-anything-else-tonight). Nothing here gates the chapter — treat it as texture and a warm-up fight, not a puzzle. Three beats across the first three days of the ride; the fourth day is the Cold Open itself, already written above. Keep each beat to fifteen or twenty minutes.
+> **Keeper note.** Optional, but recommended — it buys exactly the slow build the chapter note above asks for. **Run at this table**: it gave Tránsito and Negro Camba something to carry besides raw grief on Días 1–2 — and then, on Día 3, it took Tránsito. Run it as the tail end of the C9 session, or as the first 30–40 minutes of the C10 session, **before** the [Cold Open](#cold-open--read-this-before-anything-else-tonight). Three beats across the first three days of the ride; the fourth day is the Cold Open itself, rewritten below to carry both losses.
 
 ### DÍA 1 — EL VADO DEL ARROYO CRECIDO
 
@@ -38,6 +38,8 @@
 **Ataques**: **Mordida** 45% (1D6+1D4); si conecta con éxito duro o mejor, intenta el **rollo de la muerte** — arrastrar a la víctima al agua (STR opuesta; si el yacaré gana, un round adicional bajo el agua, Aguantar la Respiración). **Moral**: recibe cualquier herida, o pierde el primer intento de arrastre → se sumerge y no vuelve a aparecer este viaje.
 
 **SAN**: ninguna — es un animal, no una entidad. El susto es físico, no mental. (Un PJ Marcado puede notar, si se detiene a pensarlo, que el yacaré no reaccionó a la geometría de nadie — solo al ruido y al movimiento. Vale la pena decirlo en voz alta: no todo lo que muerde en el camino es del Patrón.)
+
+> **Ran at this table**: el grupo no dejó que se replegara — lo persiguieron hasta rematarlo y lo cuerearon en la orilla, junto con un par de piezas más cobradas ese mismo día de camino. Textura de viaje, nada mecánico: da cuero y carne extra, y una escena de campo entre dos días pesados.
 
 ### DÍA 2 — EL AGUARÁ GUAZÚ
 
@@ -87,13 +89,15 @@
 
 **SAN**: ninguna — violencia humana común, sin nada mítico de por medio.
 
+> **Ran at this table — Tránsito murió acá.** La pelea no corrió como el bloque de arriba la asume (moral quiebra rápido, letalidad baja): antes de que el primer miliciano cayera y los otros tres se dispersaran, Tránsito recibió un golpe que no aguantó. Ella sobrevivió el sello de C9 solo para morir tres días después, a cuchillo o bala de cuatro ladrones comunes sin ninguna conexión con El Patrón — la muerte más mundana de la campaña, y por eso pesa distinto en la mesa. Con su muerte, **el campamento queda con un solo PJ Marcado — Negro Camba** — y todo lo que en C10–C12 asumía dos Marcados (el Parpadeo del Testigo, la hoja de conteo de El Contador, la planilla de cordón, la mesa de costo de Destroyed) se reescribe más abajo. El resto de la escaramuza corre como está escrito: uno cae, los otros tres se dispersan al galope; Ibarra es el último en soltar la bravuconada y el primero en huir.
+
 ---
 
 ## COLD OPEN — read this before anything else tonight
 
 *(Read aloud before the chapter's own opening — this is the session's hook, not its mechanics. Then move into [Entry into the city](#entry-into-the-city) below.)*
 
-> _Cuatro días de camino y el último es el peor: no por el paisaje, que se aplana hasta no ser nada, sino por el silencio adentro del grupo. Nadie nombra a Benancio en voz alta todavía. Tránsito lo intentó una vez, la segunda noche, y no le salieron las palabras — así que ahora nadie lo intenta. Negro Camba se mira la mano derecha más de lo normal, donde el machete solía pesar, como si el peso siguiera ahí y el objeto no. Y entonces, sin aviso, el humo. Humo de saladero, humo de puerto, una mancha baja y parda en el horizonte que no estaba ahí una hora antes y ahora no se puede dejar de mirar. Alguien dice "Buenos Aires" en voz baja, como quien nombra algo que todavía no cree. Tránsito lo siente primero — un peso nuevo, geométrico, apoyándose contra las costillas desde kilómetros de distancia. Se persigna sin pensarlo. Negro Camba la mira. No hace falta preguntar qué sintió._
+> _Cuatro días de camino y el último es el peor: no por el paisaje, que se aplana hasta no ser nada, sino por el silencio adentro del grupo — un silencio distinto al de antes, con un cuerpo más adentro. Nadie nombra a Benancio en voz alta. Nadie nombra a Tránsito tampoco, todavía; hace un día que la enterraron junto al camino, una cruz de dos palos atados con tiento, y el grupo sigue porque seguir es lo único que queda por hacer. Negro Camba se mira la mano derecha más de lo normal, donde el machete solía pesar, como si el peso siguiera ahí y el objeto no — y ahora también mira la izquierda, donde estaba Tránsito cuando caminaban en fila. Y entonces, sin aviso, el humo. Humo de saladero, humo de puerto, una mancha baja y parda en el horizonte que no estaba ahí una hora antes y ahora no se puede dejar de mirar. Alguien dice "Buenos Aires" en voz baja, como quien nombra algo que todavía no cree. Negro Camba lo siente primero — un peso nuevo, geométrico, apoyándose contra las costillas desde kilómetros de distancia. Nadie más lo siente con él esta vez. Se persigna sin pensarlo. No hay nadie a su lado para mirarlo hacerlo._
 
 ---
 
@@ -142,6 +146,8 @@
 Not a montage — a full scene; the players spend hours just _getting_ anywhere. Build the city before the Keepers. Run two or three micro-encounters:
 
 1. **The customs officer.** Junior, polite, lazy; demands papers the party doesn't have in order. A bribe, a name-drop (Mercedes supplies one), or Persuade/Credit Rating resolves it — but **he logs the names anyway**, and someone reads that log within twelve hours. It is how a compromised Keeper learns the players are in town.
+
+> **Ran at this table — the doctor, not the papers.** The party crosses into the grid still carrying Día 3: one horse without a rider, the rest cut up and hastily bandaged. The customs officer takes one look and drops the routine entirely — no papers, no questions yet. _"Eso no espera al papeleo. Dos cuadras al río, la puerta verde — pregunten por el Doctor [NOMBRE]. Él no les va a preguntar cómo se hicieron eso."_ The logged-names beat still happens, just later, once someone circles back to finish the paperwork. **Doctor [NOMBRE]** — a physician with a quiet, unlicensed practice in occultism on the side, known on this stretch of the waterfront for treating wounds no one wants explained — is where the party actually lands first, and where the table's new PC joins: he tends the wounded, doesn't flinch at what he half-notices in the telling, and by the end of the scene is riding with them.
 2. **The friend of a friend.** Mercedes hands the party to **Inocencia Vallejos**, a widow running a boarding house on Calle Belgrano — rooms at half-price, no questions, and she knew Mercedes _"de cuando estabas en el colegio."_ (Mercedes was in the Keepers' apprentice cohort. She left. Then she came back.)
 3. **The street vendor who flinches.** A _mate_ seller the party crosses several times; on the third pass an investigator notices he flinches whenever the Marked PC passes. **Spot Hidden / Psychology**: he is not afraid of their appearance — he is afraid of where their _body sits in space_ relative to the corner. Twenty years on that corner; he has seen who else has it. He won't say more.
 4. **The carriage.** A black carriage, two grays, shutters drawn, passes at Florida y San Martín. The driver does not look at the party but tips his hat _to_ them, deliberately. **Spot Hidden** on the door crest: a stylized angle, three lines forming a partial geometry. If anyone asks Mercedes, her face goes still: _"No lo miren directo."_ She does not say whose it is. She knows.
@@ -227,7 +233,7 @@ Mercedes leads the party to a storage room three floors _above_ the marked door 
 
 **The witness-stone**: Keeper-made, brass over a core of _piedra parada_ from the old Tehuelche tradition. To a Marked hand it reports the vault's state below — **cold and steady** (intact), **warm** (under stress), **hot** (failing). A thermometer for the binding. **Tonight it reads warm.** Mercedes watches each face: _"Sí. Eso me dijeron también."_
 
-> **⚔️ The Witness Flicker (scheduled).** When the **second** Marked PC touches the disc — **Tránsito, then Negro Camba**, in whatever order they reach for it — it reads warm, and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Marks: the vault's geometry meeting the pit's survivors. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for the touching PC, 0/1 for the other Marked. **No 2d6 — scheduled.** The vault now knows them; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around them _by name_.
+> **⚔️ The Witness Flicker (scheduled).** *(Written for two Marked PCs touching in sequence — this table has one. Below is what actually ran.)* **Ran at this table**: only **Negro Camba** is Marked going into this scene — Tránsito died on the road (Día 3). When he touches the disc it reads warm, and then, for three heartbeats, it reads _back_. The room's corners go two degrees wrong; the Persian rug's pattern is briefly the dual diagram; in the doorway's shadow, at the angle where door meets jamb, something old turns its attention through the disc the way a finger taps a wire to see if anyone's on the line. **1 round.** It does not act — it _registers_ the Mark: the vault's geometry meeting the pit's last survivor. Then the rug is a rug. Mercedes: _"Eso no lo hace con los Custodios."_ **SAN**: 0/1D3 for Negro Camba. **No 2d6 — scheduled.** The vault now knows him; in [C12](chapter-12.md#chapter-12--el-libro) the dock geometry will lock around him _by name_.
 
 **SAN Check**: 0/1 — the warm stone, and the realization that the building is in active failure mode while students two floors down study Latin grammar.
 
@@ -240,7 +246,7 @@ Mercedes leads the party to a storage room three floors _above_ the marked door 
 **Diálogo — Mercedes, en la oficina**:
 > - Antes de que toquen el disco: *"Pongan la mano acá. Uno a la vez. No la dejen mucho rato."* — Su tono es de instrucción médica, no de ceremonia.
 > - Si preguntan qué es exactamente: *"Es un testigo. Como un termómetro, si quieren pensarlo así. Dice cómo está la bóveda, sin que tengamos que bajar a mirar."*
-> - Después de que el segundo Marcado toque el disco y ocurra [el Parpadeo](#first-glimpse-of-the-vault): se queda mirando el punto donde estaba la alfombra un segundo de más. *"Eso no lo hace con los Custodios."* No explica más — se nota que tampoco tiene toda la respuesta.
+> - Después de que Negro Camba toque el disco y ocurra [el Parpadeo](#first-glimpse-of-the-vault): se queda mirando el punto donde estaba la alfombra un segundo de más. *"Eso no lo hace con los Custodios."* No explica más — se nota que tampoco tiene toda la respuesta.
 > - Si le preguntan si esto pasó antes: *"Tibia, sí, alguna vez. Así, respondiendo... no. No que yo sepa."* Es la primera vez que Mercedes admite, en voz alta, no saber algo.
 > - Al salir, bajando la alfombra otra vez sobre el disco: *"Vamos. Todavía nos falta la parte difícil de la tarde."*
 
@@ -317,7 +323,7 @@ Four small things as Galíndez walks them home:
 >
 > *La segunda columna está rodeada de un círculo. Dos veces.*
 >
-> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is **2** (Tránsito and Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis). If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
+> > **Keeper**: set "todos" to your actual party headcount; "los marcados" is **1** (Negro Camba — Benancio died in C9, Negro Camba was newly Marked in the same crisis; Tránsito, the campaign's other Mark, died on the road three days later). If players falsify the count before it reaches the Cabildo wall, El Patrón's dock geometry expects the wrong number of Marks — first Mark-roll at the dock in C12 is one threshold safer. He was paid this morning by a clerk he can't describe to _"contar a los marcados"_ and leave the paper in a crack in the Cabildo wall at dawn. He does not know what "marked" means. **SAN**: 0/1 — the city's most ordinary man, doing El Patrón's census. **Carry-forward**: the paper never gets delivered — or the players deliver a **falsified count**, a free player-invented edge (El Patrón's dock geometry in [C12](chapter-12.md#chapter-12--el-libro) expects the wrong number of Marks; the first dock Mark-roll is one threshold safer).
 
 **SAN Check**: 0/1 — the cumulative wrongness of the city at midnight.
 
@@ -400,7 +406,7 @@ Non-negotiable. The players are woken at first light; Galíndez at the door: _"S
 
 - [ ] Entry Mark roll active (information, not manifestation); build the city **slowly** before the Keepers meet.
 - [ ] *Dadálah* mutter delivered (no-roll fallback as written — the mate seller flinches at the Marked).
-- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the **second** stone-touch — **Tránsito and Negro Camba** (scheduled — no 2d6).
+- [ ] [The Witness Flicker](#first-glimpse-of-the-vault) at the stone-touch — **Negro Camba only** (Tránsito died Día 3; scheduled — no 2d6).
 - [ ] [The Counter](#the-streets-at-night) catchable at night (falsified-count edge available to players — El Patrón's dock geometry expects the wrong number of Marks, first dock Mark-roll one threshold safer).
 - [ ] Keeper meeting: full roster visible to players; **two empty chairs unnamed** (let them notice); Ana's planted question lands or doesn't.
 - [ ] Eleven strikes at midnight; Saráchaga **discovered**, never narrated; [H11](assets/handouts-c8-c12.md#h11--saráchagas-last-entry-c10-dawn) (his last notebook entry).

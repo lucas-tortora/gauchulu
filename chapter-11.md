@@ -12,7 +12,7 @@
 
 *(Read aloud before the chapter's own opening. Then move into [Opening Situation](#opening-situation) below.)*
 
-> _Doce horas y la ciudad sigue igual — los carros, el pregón del panadero, las campanas del Cabildo marcando las horas sin saber que una de las suyas se apagó anoche. Pero adentro de la casa de Saráchaga nada es igual: el cuaderno cerrado sobre la mesa, la silla todavía volcada donde la dejaron, y Ana Bermúdez sentada muy derecha, con las manos sobre la falda, esperando que alguien le diga qué hacer con lo que sabe traducir y todavía no quiere. Tránsito y Negro Camba llegan sintiendo la misma cosa al mismo tiempo — un aljibe, en algún patio de esta misma casa, más caliente de lo que un aljibe debería estar. Ninguno lo dice en voz alta todavía. Afuera, alguien empieza a barrer la vereda como si fuera un día cualquiera._
+> _Doce horas y la ciudad sigue igual — los carros, el pregón del panadero, las campanas del Cabildo marcando las horas sin saber que una de las suyas se apagó anoche. Pero adentro de la casa de Saráchaga nada es igual: el cuaderno cerrado sobre la mesa, la silla todavía volcada donde la dejaron, y Ana Bermúdez sentada muy derecha, con las manos sobre la falda, esperando que alguien le diga qué hacer con lo que sabe traducir y todavía no quiere. Negro Camba llega sintiendo algo que ya no tiene con quién compartir — un aljibe, en algún patio de esta misma casa, más caliente de lo que un aljibe debería estar. Antes se lo habría dicho a Tránsito sin palabras, con una mirada. Ahora lo carga solo. No lo dice en voz alta todavía. Afuera, alguien empieza a barrer la vereda como si fuera un día cualquiera._
 
 ---
 
