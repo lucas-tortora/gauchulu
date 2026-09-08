@@ -10,6 +10,93 @@
 
 ---
 
+# ⚙ MASTER RUN SHEET — SESSION 2 OF 2
+
+_Built to be run off this sheet alone. **Read down the table; everything below it is the long-form version of a line here.** Open the chapter only for the italic read-aloud blocks (every beat names its own). **[Session 1](chapter-11.md#-master-run-sheet--session-1-of-2) normally already ran [the day-before prep](#the-day-before-the-night--run-at-the-end-of-session-1-not-the-start-of-session-2)**, so this session opens cold on the carriage — **if session 1 ran long and pushed that beat, run it first here (15 min) and start the clock after it.**_
+
+## ⚠ Three things to settle BEFORE the players arrive
+
+1. **Use is closed.** No Reader at this table (the C5 page-79 seed was never planted). **The Choice is Hide or Destroyed only.** Do not offer Use, do not retrofit it, do not hint at it. The parchment's inner page is unreadable to everyone present.
+2. **Destroyed kills Negro Camba** — one Mark left means the cost table collapses to **Anchor alone**, no Pillar to soften it. **Decide the [Marta valve](#option-3--destroyed) now**: does she volunteer to anchor instead (he drops to Pillar and lives, maimed; she dies)? She offers **only if the table has treated the Wrong Returned as people, not resources.** Both versions are honest. Pick one before the dock.
+3. **Pull the session-1 decision log** ([the table in C11](chapter-11.md#-decision-log--write-these-down-c12-reads-them-back)): docks contributions, tunnel reported?, Ana's intel, Gaucho's terms, Warding, cordon count, Quirce, falsified tally. Each one changes a specific beat below.
+
+## The 10 beats at a glance — run them in this order
+
+| # | Beat | Where | Who matters | What MUST happen | Roll | ~min |
+|---|---|---|---|---|---|---|
+| 1 | [Cold open](#cold-open--read-this-before-anything-else-tonight) | — | — | Read the italic block aloud. Then hand out [`city-grid.svg`](assets/city-grid.svg) | — | 5 |
+| 2 | [Dusk — departure](#dusk--departure) | Manzana, 11:30 PM | Galíndez, **Esteban** | **Players pick positions** (carriage / ahead / cordon / mobile). **Name Esteban and let him talk** — his death must cost something | — | 15 |
+| 3 | The road between points | 11 blocks | — | Mark each completed leg on the players' grid. **They are drawing the diagram** — let them watch it being drawn | **2d6 Hound every 2 blocks** | 5 |
+| 4 | [WP1 — University exit](#weak-point-1--university-exit) ⚔ | Wide street outside the Manzana | False _vigilante_, 6 ambushers | He reads the papers **too slowly** — that's the tell. Caught in time → Ana's false intel bought 10 min. Not caught → 3-round ambush, **Esteban dies** | Spot Hidden/Psychology · combat · 2d6 | 25 |
+| 5 | [WP2 — the Stand](#weak-point-2--belgrano-and-defensa--the-stand) ⭐ | Belgrano y Defensa | **Cursed Gaucho vs El Patrón** | **Silence tell fires FIRST** — the Marks go quiet before he rounds the corner. Gaucho steps out of the moving carriage. **Cinematic, not mechanical.** He wounds him, he dies, **he hands over the knife** | SAN 1/1D6 · **no combat rolls** | 20 |
+| 6 | [WP3 — the dock](#weak-point-3--the-dock) | Riachuelo dock | Borghi, El Patrón | Chest offloaded → **he walks up the street they just came down, bleeding and smiling**: _"Gracias por traérmelo."_ **The geometry activates** | SAN 1/1D8 · 2d6 | 20 |
+| 7 | [Act 2 — the reveal](#the-dock-geometry) | dock | El Patrón, Galíndez, Mercedes | It is **a doorframe, not a cage** — the book is the key, the far side is the rest of him. Galíndez frozen by one word. **Mercedes gives them 60 seconds** | Marked roll = **clarity, not threat** · Galíndez 1D6 | 20 |
+| 8 | [Act 3 — the Choice](#act-3--the-choice) ⭐⭐ | dock | **The players** | **Hide or Destroyed. Put both on the table in their words, then shut up.** No steering, no rolls, no time pressure beyond Mercedes' 60 seconds | **⛔ NO ROLLS** | 45 |
+| 9 | Act 3 — playing it out | dock | Albarrán *or* Mercedes + Negro Camba | **Hide** → Albarrán's Latin, and whoever speaks it dies within 24h. **Destroyed** → name the cost first, then the circle, the knife on the chest, the burning | — | 25 |
+| 10 | [Act 4 — live beat only](#live-at-the-table--keep-this-short) | dawn, the dock | Mercedes | **The dust lifts** — show it, let the Marked name it. 2–3 survivor lines. Stop. **[Send the rest as written epilogue](#written-epilogue--send-after-the-session-not-run-live)** | — | 15 |
+
+**Total ≈ 195 min.** See [pacing](#pacing--if-youre-running-behind) below for the trim order.
+
+## Roll ledger — every check tonight, in order
+
+_**One Marked PC — Negro Camba.** Every "Marked" line below is him alone._
+
+| # | When | Who rolls | Roll | Notes |
+|---|---|---|---|---|
+| 1 | Every 2 blocks, all night | Negro Camba | **2d6 Hound** | Snake eyes = **short aftershock, 1D3 rounds** — the city limits it. **Reroll** if he's a cordon walker or in the carriage |
+| 2 | Arrival at each weak point | Negro Camba | **2d6 Hound** | One extra roll per weak point, on top of the block cadence |
+| 3 | WP1, the _vigilante_ | Anyone | **Spot Hidden / Psychology** | Stalling, too clean, Banda Oriental accent. Success → Galíndez disarms him quietly |
+| 4 | WP1, the ambush | All | **combat, 3 rounds** | 6 ambushers, [escort block](assets/npc-stats.md#quirces-escort-3-generic); 2 pistols fired once then knives. **Morale: 3 down → scatter** |
+| 5 | WP1, if tunnel NOT reported in C11 | Anyone | **Spot Hidden** | Fail, or past round 2 → **one extra ambusher climbs out of the old well-house** behind them |
+| 6 | WP2, the Stand | All | **SAN 1/1D6** | **Run the duel with no combat rolls** — it's about the gesture, not the dice |
+| 7 | WP3, the geometry locks | All | **SAN 1/1D8** | Everything they did tonight was him moving them across the board |
+| 8 | WP3, first dock Mark-roll | Negro Camba | **2d6 Hound** | **One threshold safer** if the C10 tally was falsified |
+| 9 | Act 2, the dock geometry | Negro Camba | **roll — but it threatens CLARITY, not a Hound** | He sees the doorframe for what it is |
+| 10 | Act 2, Galíndez raises his pistol | Galíndez (NPC) | **SAN 1D6** | One word — _"Quieto."_ — and he's no use the rest of the night |
+| 11 | **Act 3, the Choice** | — | **⛔ NOTHING** | **No Mark rolls, no SAN, no Keeper steering.** Twelve chapters have been asking this question |
+| 12 | Act 3, Destroyed, no knife | The Marked PC who bleeds | **—** | If the _cuchillo_ wasn't earned: a Marked PC bleeds at the chest instead and takes **one tier higher** |
+
+## Standing rules — know these cold, don't look them up
+
+1. **⛔ No rolls in El Patrón's presence — ever.** The [silence tell](chapter-11.md#midnight--the-parlor) replaces the dice: the Marks go quiet before he arrives. At WP2 that silence **is** the Cursed Gaucho's three-second warning; let Negro Camba's player be the one who calls it.
+2. **He never hisses, looms, or threatens.** Courteous on Calle Belgrano, courteous on the dock, courteous while bleeding. **The horror is that you almost agree with him.** If he ever sounds like a monster, you've lost the scene.
+3. **The Choice belongs to the players.** Do not argue for an option, do not have an NPC argue past their one line, do not impose a clock beyond Mercedes' 60 seconds. If they stall, silence is the correct Keeper move.
+4. **Destroyed is always available.** Mercedes carried that ritual on her body for forty years so it always would be. If the parchment is lost she rewrites it in 15 minutes. **If a player reaches for it, give it to them.**
+5. **The transport was the trap, and they knew.** They walked in with eyes open in C11. Don't play the reveal as a gotcha — play it as the thing they already accepted.
+6. **The cordon is drawn, not described.** Every panel that lights, mark the leg on the players' grid handout. The picture completing in front of them is the whole horror of Act 2.
+
+## ⭐ THE CHOICE — one page, don't fumble this
+
+**Say this, in the players' hearing, then stop talking:**
+
+> Mercedes, holding out her hand for the parchment: _"Este es el momento que dije. Si vamos a destruir, ahora."_ · _"Decidan."_
+
+|  | **HIDE** | **DESTROYED** |
+|---|---|---|
+| **What they do** | Chest goes **back** to the carriage, never reaches the brig; re-vaulted under fresh consecration | Open Mercedes' parchment; the older Tehuelche–Tobá–Salamanca chain; the Gaucho's knife laid across the closed chest |
+| **Who acts** | **Albarrán** sprints in from Belgrano y Defensa — _"Dios me contestó dos veces."_ (Mercedes may take it instead, if the players ask) | **Mercedes** reads; **Negro Camba** takes a cardinal point; recruited hands fill the rest |
+| **The cost** | **Whoever speaks the Latin dies within 24 hours.** Mercedes also loses an eye over the next month | **Anchor tier only — Negro Camba dies**, unless the **Marta valve** was pre-decided (she anchors, dies; he survives as Pillar, one sense gone) |
+| **El Patrón** | **Not destroyed.** Withdraws north to Areco and his other names. Back, but not in their lifetimes | **Gone.** Not banished, not bound — he stops existing. The Network can't find him because there's nothing to find |
+| **The book** | Survives, a meter deeper, 1810 lock melted off | **Ash.** The chest and locks remain; the book as an object no longer exists |
+| **The name it costs** | _"Hic locus est. Hic manet."_ — the third and final saying of _Por la tierra que fue buena_ | The **third line is unspoken** — the curandera is dead. Run it as felt silence |
+
+**Both are available. Use is not.** If they try to combine them ([Hidden + Destroyed](#combinations)): Albarrán's binding holds the geometry open while Mercedes burns the book — **the cleanest ending and the most expensive**; Albarrán dies AND the Marks pay.
+
+**Before Destroyed resolves, say the cost out loud** — this is the step that distinguishes it: _"La marca de cada uno de ustedes va a contribuir al cierre… No puedo decirles cómo distribuir el costo. Eso es de ustedes. No es justo. Es un cierre. Decidan."_
+
+## Pacing — if you're running behind
+
+**Trim in this order:**
+
+1. **The road texture (beat 3)** → keep the Hound cadence, drop the observable flourishes. 5 → 2 min.
+2. **WP1 (beat 4)** → if they catch the _vigilante_, take the clean version and move; skip the ambush entirely. 25 → 10 min.
+3. **Dusk departure (beat 2)** → Esteban gets one line, positions chosen fast. 15 → 8 min.
+4. **WP3 dialogue (beat 6)** → El Patrón's dock Q&A trimmed to the opening line and the geometry locking. 20 → 12 min.
+
+**Never cut, never rush**: WP2's Stand (5), the reveal (7), **the Choice (8–9)**, the dust lifting (10). **If you have 45 minutes left and haven't reached the Choice, skip straight to the dock** — the players' decision is the campaign's ending and everything else is scaffolding for it.
+
+---
+
 ## COLD OPEN — read this before anything else tonight
 
 *(Read aloud before the chapter's own opening. Then move into [Act 1](#act-1--the-transport) below.)*
@@ -20,16 +107,21 @@
 
 # ACT 1 — THE TRANSPORT
 
-## The day before the night
+## The day before the night — run at the end of Session 1, not the start of Session 2
 
-Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignacio holding a small mass for Saráchaga (doubling as a quiet blessing of the carriage and the men); Ana writing the false intel under supervision. What the players do with the day:
+**Run this as a montage to close out session 1**, so session 2 opens cold on [Dusk — departure](#dusk--departure) with the chest already loaded and every commitment already made. One paragraph of narration for the whole day:
 
-1. **Walk the route** — ~1.5 km, eleven streets, Manzana de las Luces to the Riachuelo dock. **Spot Hidden / Track / Stealth** successes lower difficulty at specific later moments.
-2. **Prepare the cordon at the tannery.** The six scaled-up leather panels are being painted in red ochre and bone-black. **Marta leads** (geometric alignment; traced the diagram from memory in C9). The cordon is _moving_ — panels carried by walkers, drawn at sequential corners. **Eight walkers needed; Marked PCs count stronger.** A Mandinga Warding covers one corner without a walker.
-3. **Speak with the Cursed Gaucho** — terse, clear. He'll be in the carriage with the chest; he knows he is bait. He has not loaded his flintlock yet: _"Si lo cargo ahora me lo llevo a la cama y no quiero soñar con esto más de lo que ya."_ He loads it at dusk.
-4. **Inspect the chest** — Mercedes allows a final look (not opened) at 4 PM. The chest is colder than the room. **SAN 0/1.**
-5. **Recover Quirce's brass markers** (if remembered) — a **Hard Spot Hidden / Library Use** in the rector's office finds his surveying marks; pulling them denies him a pre-recorded observation reference for tonight.
-6. **Quirce's letter** arrives at 6 PM. Mercedes hands it straight to the players: _"Léanlo. Decidan ustedes qué hacemos con él."_
+> Mercedes writes at the meeting-house table no one sits at anymore. Galíndez walks the dock counting paces, chalking a discreet cross on each piling where a relay will stand. Albarrán says a near-empty mass for Saráchaga at San Ignacio, then blesses Galíndez's men and horses in the courtyard — a gesture nobody asked for and nobody refuses tonight. Ana writes the false intel under supervision. At the tannery, six leather panels dry in the morning sun — ochre and bone-black, the same geometry as the vault floor, repeated six times — **Marta** walking them barefoot, correcting a line by touch before her eyes find it; the **Cursed Gaucho** watches from the tanning bench, an unloaded pistol on his knees. He loads it at dusk: _"Si lo cargo ahora me lo llevo a la cama y no quiero soñar con esto más de lo que ya."_
+
+Ask the players what they want to spend the day on and resolve each with **one roll**, narrated in a line or two — don't stage these as separate scenes:
+
+- **Recruit the cordon** (Persuade/Credit Rating/Charm) — fills the worksheet below.
+- **Inspect the chest** — Mercedes allows one last look at 4 PM, not opened. Colder than the room. **SAN 0/1.**
+- **Walk the route / recover Quirce's markers** — one Spot Hidden/Track/Stealth roll each if a player pushes for it; success lowers difficulty at the relevant weak point tonight.
+
+**Capitán Ettore Borghi** doesn't need his own scene here — Galíndez's line covers him: _"El capitán del bergantín no pregunta lo que no le conviene saber. Le pago en plata y mira para el río, no para el muelle."_ The players meet Borghi properly [at the dock tonight](#weak-point-3--the-dock).
+
+**Quirce's letter** still arrives at 6 PM as its own short beat — a real include-or-refuse decision, not filler. Mercedes hands it straight to the players: _"Léanlo. Decidan ustedes qué hacemos con él."_
 
 > **HANDOUT H14 — Quirce's letter to Mercedes** — [📄 player handout](assets/handouts-c8-c12.md#h14--quirces-letter-to-mercedes-c12-morning)
 >
@@ -60,29 +152,35 @@ Mercedes is at the meeting house; Galíndez at the docks; Albarrán at San Ignac
 
 > † _Canon note: the cordon is the curandera's working, normally walked by eight; here it is improvised from the Wrong Returned, the Marked, recruited civilians, soldiers, and a Warding. The mechanic — a moving city-scale binding ten meters around the carriage that El Patrón's surface manifestations cannot easily cross — is preserved, less stable._
 
-### DETALLE DE ESCENA — LA VÍSPERA
+### DETALLE DE ESCENA — LA VÍSPERA (pull from this if a player lingers at one location instead of taking the montage)
 
-**Ambientación — la casa de reunión, de mañana**:
+**La casa de reunión, de mañana.**
+> _Ambientación:_ _La casa de Saráchaga, sin Saráchaga, se siente más grande de lo que es. El segundo patio, donde antes discutían hasta la medianoche, ahora tiene mapas desplegados sobre la mesa larga de pino en vez de tazas de agua. Nadie se sienta en la silla de Saráchaga. Nadie lo dice — simplemente no se sientan ahí._
 
-> _La casa de Saráchaga, sin Saráchaga, se siente más grande de lo que es. El segundo patio, donde antes discutían hasta la medianoche, ahora tiene mapas desplegados sobre la mesa larga de pino en vez de tazas de agua. Mercedes escribe sin parar, tres cartas a la vez, la letra cada vez más apretada a medida que avanza la mañana. Nadie se sienta en la silla de Saráchaga. Nadie lo dice — simplemente no se sientan ahí._
+**Mercedes**, escribiendo sin parar, tres cartas a la vez, la letra cada vez más apretada a medida que avanza la mañana:
+> - Si le preguntan cómo sigue: no levanta la vista de la carta. *"Escribiendo. Es lo único que me tranquiliza hoy."*
+> - Sobre el plan, cerrando el tema para volver a escribir: *"Ustedes caminen la ruta y consigan gente para el cordón. Yo me ocupo de esto."*
 
-**Ambientación — el muelle, con Galíndez**:
+**El muelle, con Galíndez y Capitán Borghi.**
+> _Ambientación:_ _El Riachuelo huele igual que siempre — sebo, sal, marea baja — pero hoy Galíndez lo camina distinto: cuenta pasos entre un punto y el siguiente, marca con tiza una cruz discreta en los pilotes donde va a parar cada relevo. El bergantín Carmen del Pilar ya tiene las velas sueltas, listas, aunque falten horas para la partida._
 
-> _El Riachuelo huele igual que siempre — sebo, sal, marea baja — pero hoy Galíndez lo camina distinto: cuenta pasos entre un punto y el siguiente, marca con tiza una cruz discreta en los pilotes donde va a parar cada relevo. El bergantín *Carmen del Pilar* ya tiene las velas sueltas, listas, aunque falten horas para la partida._
-
-**Capitán Ettore Borghi.** Genovés, cerca de cincuenta años, curtido por el sol y la sal, mentón con barba de varios días, un aro de oro en la oreja izquierda — recuerdo de un puerto que ya no visita. Habla un español marcado de acento italiano, directo, sin ceremonia. Trabaja con Galíndez desde las invasiones inglesas y no le pregunta nada que no necesite saber.
+**Capitán Ettore Borghi.** Genovés, cerca de cincuenta años, curtido por el sol y la sal, un aro de oro en la oreja izquierda. Español marcado de acento italiano, directo, sin ceremonia. Trabaja con Galíndez desde las invasiones inglesas y no pregunta lo que no le conviene saber.
 > - Presentándose, sin dejar de revisar un cabo: *"Borghi. El barco es mío, la tripulación también. Lo demás no me interesa, con tal de que me paguen."*
 > - Si le preguntan si sabe qué está transportando: *"No. Y no pregunto. Es plata segura, eso es lo único que necesito saber."*
 > - Sobre el señuelo, si le preguntan: *"La goleta sale a la misma hora que yo, con un cajón de ladrillos adentro. Si alguien la sigue a ella, mejor para nosotros."*
-> - Su única condición, mirando a Galíndez a los ojos: *"A la primera luz, zarpo. Con carga o sin carga. Eso no se negocia."*
+> - Su única condición: *"A la primera luz, zarpo. Con carga o sin carga. Eso no se negocia."*
 
-**Ambientación — San Ignacio, la misa por Saráchaga**:
+**San Ignacio, la misa por Saráchaga.**
+> _Ambientación:_ _La capilla está casi vacía a media mañana — Albarrán oficia solo, para nadie, o para el banco donde Saráchaga se sentaba siempre en las reuniones grandes de la orden, ahora ocupado únicamente por el eco de su propia voz._
 
-> _La capilla está casi vacía a media mañana — Albarrán oficia solo, para nadie, o para el banco donde Saráchaga se sentaba siempre en las reuniones grandes de la orden, ahora ocupado únicamente por el eco de su propia voz. Termina la misa, se queda un momento más de lo necesario frente al altar, y después sale al patio a bendecir, uno por uno, a los hombres de Galíndez y sus caballos — un gesto que nadie le pidió y que nadie va a rechazar esta noche._
+**Padre Albarrán**, terminando la misa, se queda un momento de más frente al altar, y después sale al patio a bendecir, uno por uno, a los hombres de Galíndez y sus caballos — un gesto que nadie le pidió y que nadie va a rechazar esta noche.
+> - Si un PJ le pregunta si ya tiene su respuesta: *"Todavía no. Pero la estoy esperando en el lugar correcto, por primera vez."*
+> - Bendiciendo a un PJ que se lo pida: pone la mano en la frente, sin apuro. *"Que lo que tenga que pasar esta noche, los encuentre listos, no solos."*
 
-**Ambientación — la curtiembre, preparando el cordón**:
-
-> _Los seis paneles de cuero, tendidos sobre caballetes, se secan al sol de la mañana — ocre y negro de hueso trazados con mano firme, la misma geometría que la del piso de la bóveda, repetida seis veces. Marta camina entre ellos descalza, corrigiendo un trazo acá, otro allá, sin mirar lo que corrige — los dedos encuentran el error antes que los ojos. El Gaucho Maldito la observa desde el banco de curtir, la pistola desarmada sobre las rodillas, sin cargar todavía._
+**La curtiembre, preparando el cordón.**
+> _Ambientación:_ _Los seis paneles de cuero, tendidos sobre caballetes, se secan al sol de la mañana — ocre y negro de hueso trazados con mano firme, la misma geometría que la del piso de la bóveda, repetida seis veces. Marta camina entre ellos descalza, corrigiendo un trazo acá, otro allá, sin mirar lo que corrige — los dedos encuentran el error antes que los ojos. El Gaucho Maldito la observa desde el banco de curtir, la pistola desarmada sobre las rodillas, sin cargar todavía._
+> - Marta, si le preguntan cómo sabe dónde corregir: *"No miro. Toco. Los dedos se acuerdan de lo que vieron en C9, aunque los ojos no."*
+> - El Gaucho Maldito, sin dejar de mirar los paneles: *"Esta noche cargo la pistola. Hace tres años que no la cargo."* No da más explicación que esa.
 
 ---
 
@@ -278,33 +376,38 @@ Fewer than five Marked PCs drops the lighter tiers from the bottom.
 
 # ACT 4 — AFTERMATH
 
-## The dust lifts
+## Live at the table — keep this short
 
-> **The campaign-spanning dust runner resolves here, at the binding** (any ending). For ten months the players have carried a fine pale grit on cuffs, seams, hatbands, saddle-leather — the dust from the pit, noticed by Rosa (C2), the curandera (C3), Silvio (C4), the ranch hands (C6), Mercedes (C7, C10), Inocencia (C11).
-> 
-> _En el segundo posterior a que prende el sello — el latín de Albarrán, la última sílaba del Lector, o la palabra final de Mercedes — el polvo **se levanta**. No cae; sube en una sola capa entera, dos centímetros por encima de cada superficie que lo sostiene, queda suspendido un latido, y desaparece — no soplado, no disperso, desaparecido, como si la geometría a la que estaba pegado por fin lo hubiera soltado._
-> 
-> The Marked feel it in their cuffs first: _"Se fue."_ Inocencia's saved tin is empty by morning; Rosa's chapel, two hundred kilometers south, is dust-free for the first time in seventy years; the San Ruiz well has stood empty since the goat walked west from the sealed pit at dawn (C9). **Show it to the Marked PCs and let them name what they see.**
+**Run only this much live, then close the session.** The rest is a written epilogue (below) sent afterward — the table's last minutes should stay on the weight of the Choice, not turn into a checklist.
 
-> _El amanecer llega despacio sobre el Riachuelo, gris primero, después rosado en los bordes de las nubes bajas. El muelle, hace un rato escenario de todo, vuelve a ser solamente madera y agua — un mozo de carga bosteza en la otra punta, ajeno por completo a lo que pasó a metros de él. El olor a sebo y sal sigue igual que siempre; eso, más que cualquier otra cosa, es lo que convence de que la noche terminó: la ciudad no cambió el olor por ellos._
+> **The dust lifts** — the campaign-spanning dust runner resolves here, at the binding (any ending). Ten months of fine pale grit on cuffs, seams, hatbands — gone in one beat: _en el segundo posterior a que prende el sello, el polvo **se levanta**. No cae; sube en una sola capa entera, queda suspendido un latido, y desaparece — como si la geometría a la que estaba pegado por fin lo hubiera soltado._ The Marked feel it in their cuffs first: _"Se fue."_ **Show it to the Marked PCs and let them name what they see.**
 
-## The survivors
-
-Each surviving NPC and PC gets one line, around dawn light:
+Then **2–3 survivor lines, picked for the ending actually reached** — not the full round below. Always give Mercedes hers; add whichever other line matters most for this table's ending (Albarrán's, if he lived; the Anchor's last words, if Destroyed was chosen):
 
 - **Mercedes**: _"Esta es la última vez que les pido algo. Vayan a casa. Si vuelven, vienen como amigos, no como Custodios."_
 - **Galíndez**: _"Pasé treinta años pensando que sabía cómo se libraba una guerra. Hoy aprendí que no sé. Ustedes saben."_
+
+Close on the dawn image: _el amanecer llega despacio sobre el Riachuelo; el muelle vuelve a ser solamente madera y agua; el olor a sebo y sal sigue igual que siempre — eso, más que cualquier otra cosa, es lo que convence de que la noche terminó._
+
+---
+
+## Written epilogue — send after the session, not run live
+
+*(Everything from here down is prose to paste/send once the table breaks, not table time.)*
+
+### The rest of the survivors
+
 - **Albarrán** (if he survived — not the Hide ending): _"Voy a confesarme cuando llegue a San Ignacio, y voy a confesar nada, porque no hay palabras para esto. Dios va a entender."_
 - **Ana Bermúdez**: _"Voy a Coimbra. Quirce me ofreció una carta. La acepté. No voy a la Red. Voy a estudiar lejos. Voy a aprender qué hice."_
 - **Quirce** (if encountered): _"Observé. No participé. Saráchaga estaba equivocado y tenía razón al mismo tiempo. Mi Red va a saber lo que pasó esta noche; lo que hagan con eso es de ellos. Yo me quedo con Ana."_
 - **Héctor / Marta** (if alive): they continue fading out of geometric alignment over the months; see the [C9 epilogues](chapter-09.md#the-cost).
 - **Inocencia**: keeps her boarding house, does not remember El Patrón, remembers the players fondly and — oddly clearly — _the bread on the table_ the night before, which she tells her grandchildren about for the rest of her life.
 
-## The land
+### The land
 
 > _La estancia La Esperanza está tranquila — el ganado del pastizal sur vuelve a morirse, pero normalmente; los anillos de pasto se borraron. San Ruiz se repuebla despacio: la capilla con techo nuevo de chapa, Rosa cultivando maíz en lo que fue el pozo, el aljibe vacío donde antes estaba la cabra. Las ruinas jesuíticas siguen en ruinas — la higuera, inexplicablemente, da fruto este año por primera vez, y dos chicos de un paraje lo juntan. La cordillera está en silencio; el Zonda llegó tarde y sin nada de particular; las langostas no volvieron. Buenos Aires se despertó a la mañana siguiente y no supo. La Universidad abrió a las ocho; los estudiantes discutían gramática latina._
 
-## The final image
+### The final image
 
 > _La Luz Mala parpadea, una vez, al borde del cuadro — sobre el pozo, las ruinas jesuíticas, o el muelle, según el final. Queda colgada dos segundos. Después —_
 > 
@@ -320,16 +423,16 @@ _The campaign closes where the players decide it closes: with the book Hidden, U
 
 ---
 
-## SESSION CHECKLIST — C12
+## SESSION CHECKLIST — C12 (Session 2 of 2 — pacing target ~3h)
 
-- [ ] **Cordon worksheet filled before Act 1** (Mercedes assigns it): 8 walkers needed; Marked PCs count stronger; Mandinga Warding covers one corner. Every unfilled corner = one weak point runs one step harder. Fill [the table in the opening](#act-1--the-transport) now.
+- [ ] **"The day before the night" already ran at the end of session 1** — open this session cold on [Dusk — departure](#dusk--departure). Confirm the cordon worksheet and chest-inspection outcome are logged, not re-run.
 - [ ] Commitments audit from C11 GM notes: terms, intel, recruits, parchment, notebook, cuchillo, pencil, Ana's intel accuracy.
-- [ ] Quirce's letter decision: include him (theodolite-spotter at Weak Point 3, calls El Patrón's approach one round early) or not.
+- [ ] Quirce's letter decision (made in session 1): include him (theodolite-spotter at Weak Point 3, calls El Patrón's approach one round early) or not.
 - [ ] Act 1: block-cadence Mark rolls live; escort stats for Weak Point 1 ambushers; **name Esteban before the night starts** so his death lands.
 - [ ] The Stand: **silence tell fires before he rounds Calle Belgrano**; give the Cursed Gaucho his three seconds; cinematic, not mechanical.
 - [ ] Act 2: dock lock; SAN 1/1D8; the three options on paper in front of the players — their words, not yours.
 - [ ] Act 3: **no Keeper steering, no Mark rolls.** Availability checks: *Use* = C5 + C8 + C11 all logged; *Destroyed* always available; *Hide* default. **Marta valve decided in advance** (offer only if Wrong Returned were treated as people; PC-death version equally valid). At this table there is no Reader, so **Use is closed — the Choice is Hide or Destroyed.**
-- [ ] Act 4: dust lifts (show it — don't narrate it, show it); epilogue lines around the table; the goat walked west from the pit at dawn in C9 and does not reappear; annual dream noted for any future epilogue play.
+- [ ] Act 4: **live beat only** — the dust lifts (show it, don't narrate it) + 2–3 survivor lines for the ending reached. **Send the rest as a written epilogue after the session** (full survivor round, the land, the final image, annual-dream hook) — don't run it at the table.
 - [ ] **Hide ending — know this before the session**: Mercedes survives but **loses an eye over the following month** (cornea clouds white; painless; her line: _"Esto era lo justo. He estado evitándolo cuarenta años."_). Prime it in the closing image so the table isn't surprised mid-narration.
 
 ---

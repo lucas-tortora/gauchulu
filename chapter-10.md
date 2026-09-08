@@ -348,6 +348,8 @@ Four small things as Galíndez walks them home:
 
 ## DAWN — A KEEPER IS DEAD
 
+> **⚠ At this table this beat opens SESSION 11, not the end of session 10.** The players hear of the death as the [C11 cold open](chapter-11.md#cold-open--read-this-before-anything-else-tonight) — the knock at first light — and the death room runs as [C11 beat 2](chapter-11.md#el-amanecer--la-casa-de-saráchaga-the-death-room), which repeats everything below so you can run it from that file. **Do not run this scene twice.** One change when it runs there: Mercedes' closing line is **_"Hoy votamos"_**, not *"Mañana votamos"* — C11 plays the death-dawn and the vote-day as one continuous day.
+
 Non-negotiable. The players are woken at first light; Galíndez at the door: _"Saráchaga está muerto. Vengan."_
 
 > _La casa chorizo al amanecer: el primer patio lleno de_ vigilantes urbanos _— la policía municipal de la ciudad, de apenas un año, insegura de su propia autoridad — y dos curas de San Ignacio que fingen no ser Custodios. La mesa larga de pino está como estaba. El cuaderno de Saráchaga sigue cerrado, en la misma posición en que lo dejó. La silla está volcada; el cuerpo está en el piso, entre la silla y el cofre herrado, boca arriba. Sin sangre, sin golpe, sin herida. Los ojos abiertos. La mano derecha apretada alrededor del anillo de hierro — se lo arrancó del dedo antes de morir._
