@@ -524,8 +524,8 @@ The most powerful moment: if an investigator says *"We were working for the man 
 
 **Arc**:
 - **C10**: Argues operational floor (fifteen men, two routes, a ship). Walks the players home from the meeting.
-- **C11**: Investigates Saráchaga's death with the players. Tracks Lacasa's spurred-boot prints. Coordinates the heist by midnight.
-- **C12**: Drives or rides escort with the carriage. His pistol-butt breaks the 1810 lock at the dock. He buries El Patrón's body at the Recoleta in an unmarked grave.
+- **C11**: Investigates Saráchaga's death with the players — *at this table, cut short.* The party skips the investigation; Galíndez brings in a locksmith he trusts, **Anacleto Bazán**, to crack the second-patio document chest instead. The powder charge kills Bazán and hurts everyone in the room, **Galíndez worst of all** — he stood closest, having vouched for the man. He goes into C12 hurt — one arm bound, directing rather than fighting. See [SESSION-LOG 2026-09-14](SESSION-LOG.md).
+- **C12**: Present for the finale hurt, not at full strength — hands off the physically demanding beats (disarming, breaking the lock) to a soldier or a PC. He buries El Patrón's body at the Recoleta in an unmarked grave, if that ending is reached.
 
 **Key Hook**: He treats the players as colleagues from the moment they prove they can think tactically. He is the easiest Keeper to convince and the hardest to lose.
 

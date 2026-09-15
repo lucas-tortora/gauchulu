@@ -380,7 +380,7 @@ By late afternoon the players (or Mercedes, or Galíndez) connect Ana to Quirce.
 
 ## THE CURSED GAUCHO
 
-> *Skipped at this table — no runner reaches the party, no tannery scene, no terms, no cuchillo hand-off, no cordon panels. He is not part of the finale unless you choose to bring him in some other way. His absence is priced into [THE VOTE](chapter-12.md#the-vote) and into [C12's degraded transport / vault-siege branches](chapter-12.md#-four-things-to-settle-before-the-players-arrive).*
+> *Skipped at this table — no runner reaches the party, no tannery scene, no terms, no cuchillo hand-off, no cordon panels. He is not part of the finale unless you choose to bring him in some other way. His absence is priced into [THE VOTE](chapter-12.md#the-vote) and into [C12's degraded transport / vault-siege branches](chapter-12.md#-six-things-to-settle-before-the-players-arrive).*
 
 Mid-evening, a runner: the Cursed Gaucho is at the Riachuelo tannery and will not come to the meeting house. He wants the players, alone, before midnight.
 
