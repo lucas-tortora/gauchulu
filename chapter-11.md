@@ -12,6 +12,8 @@
 
 _Built to be run off this sheet alone. **Read down the table; everything below it in the chapter is the long-form version of a line here.** The only things you must actually open the chapter for are the italic read-aloud blocks (every beat says which one). Session 1 ends with the chest loaded and every commitment logged; [session 2](chapter-12.md#-master-run-sheet--session-2-of-2) opens cold on the carriage rolling._
 
+> **This table only ran beats 1–4.** Everything from the docks onward went to a gunpowder accident at Saráchaga's house instead — see the [divergence note after the vault section](#the-vault-finally) for what happened and [THE VOTE](chapter-12.md#the-vote) for what replaces beats 5–14. Session 2 now opens on that vote, not on the carriage.
+
 ## The 14 beats at a glance — run them in this order
 
 **The session opens on the death announcement** (beat 1) and runs one continuous day: dawn → mid-morning vault → afternoon investigation → dusk vote → midnight parlor → next-day prep montage.
@@ -259,7 +261,11 @@ The transport is not a security problem — it is **the condition El Patrón has
 
 ---
 
+> **Ran at this table — the investigation never happened.** The session ended here, at the vault. Back in Saráchaga's second patio, the party found the *other* locked chest — the Custodios' own document chest by the body, three mismatched padlocks, not the vault's — and decided to blow it open with gunpowder instead of running the beats below. It went badly: everyone was hurt, **Galíndez worst of all** (he'd been with them the whole time — see his arc in `REF-NPCs.md`). The rest of the night went to patching up. **Beats 5–14 — [the docks](#the-docks) through [the tannery](#the-cursed-gaucho), [the cloister](#doña-mercedes-alone), and [the parlor](#midnight--the-parlor) — did not run and are not being run as written.** The sections below are kept for their material (dialogue, stats, lore you may still want) but skip-marked; go straight to **[THE VOTE](chapter-12.md#the-vote)** for what replaces them. **Consequence going into that vote**: no docks contributions, no tunnel reported, Ana never confronted (the leak is still live — he may already know more than he's letting on), the Cursed Gaucho never recruited, **zero of the cordon's eight corners filled**, and Mercedes' cloister confession never delivered in scene (folded into the vote in C12 instead).
+
 ## THE DOCKS
+
+> *Skipped at this table — the players never walked the docks with Galíndez, so none of the player-side contributions below landed (no extra recruits, no route input). His own baseline plan (the* Carmen del Pilar*, the decoy schooner, his fifteen men) stands regardless — that part is his doing, off-screen, per the text below — it's just unimproved by anything the party added.*
 
 **Run as a montage, not a full scene** — but open it with the ambientación below so it still lands as a place, not a bullet list.
 
@@ -278,6 +284,8 @@ Galíndez has already scouted while the players were elsewhere. He has lined up 
 ---
 
 ## TRACING SARÁCHAGA'S LAST HOURS
+
+> *Skipped at this table — Lacasa is never named, the Cleaners are never met, the tunnel is never found. If you want the Areco deed ([H12](assets/handouts-c8-c12.md#h12--the-areco-deed-e-dadálah)) on the table anyway, Galíndez — laid up from the gunpowder, not laid out — can still hand it over secondhand: he sent a man to Lacasa's house once things calmed down and got this much back. Everything else here (Luisa, the Cleaners fight, the tunnel chase, H13, H17) stays unrun; Lacasa is simply gone to "el campo" and nobody follows.*
 
 The murder investigation yields the most dangerous information.
 
@@ -345,6 +353,8 @@ The half-burned letter is in **Quirce's** hand (a courtesy — Lacasa was El Pat
 
 ## ANA BERMÚDEZ
 
+> *Skipped at this table — Ana is never confronted. She stays a live, unresolved leak: for all the party knows, Quirce (and through him, Lacasa and El Patrón) is still getting every meeting minute. There is no false-intel play available at the finale, and no scene where Albarrán walks in and settles the vote for them — see [THE VOTE](chapter-12.md#the-vote) in C12, which the players now settle themselves.*
+
 By late afternoon the players (or Mercedes, or Galíndez) connect Ana to Quirce. Mercedes confronts her quietly, players present if they wish: _"Ana. ¿Cuánto te dijo Quirce?"_ Ana goes white, does not deny, sits, lays both hands flat on her notebook: _"Me dijo que estaba estudiando los anillos sismológicos de la cuenca del Riachuelo… Yo le mandaba copias de las actas de las reuniones — pensaba que eran inocuas."_ She is not lying — she believed it, and is realizing in real time exactly what she did. Quirce paid her in books; she sent him six months of minutes; Quirce passed pieces to a third party (Lacasa → El Patrón) she never knew about. **A leak, not yet a traitor.**
 
 **The decision** — Mercedes does not throw her out: _"Vas a ayudar mañana. Vas a estar ahí. Y después de que esto termine, vamos a hablar de qué eras."_ Mercy and a knife at once.
@@ -369,6 +379,8 @@ By late afternoon the players (or Mercedes, or Galíndez) connect Ana to Quirce.
 ---
 
 ## THE CURSED GAUCHO
+
+> *Skipped at this table — no runner reaches the party, no tannery scene, no terms, no cuchillo hand-off, no cordon panels. He is not part of the finale unless you choose to bring him in some other way. His absence is priced into [THE VOTE](chapter-12.md#the-vote) and into [C12's degraded transport / vault-siege branches](chapter-12.md#-four-things-to-settle-before-the-players-arrive).*
 
 Mid-evening, a runner: the Cursed Gaucho is at the Riachuelo tannery and will not come to the meeting house. He wants the players, alone, before midnight.
 
@@ -416,6 +428,8 @@ He has chosen the place of his death and asks the players to _let him die there_
 
 ## DOÑA MERCEDES, ALONE
 
+> *Skipped at this table as a standalone scene — no late-evening walk in the cloister. But this beat is where the **parchment** (the required prop for the Destroyed ending) and the **Hide-cost foreshadowing** (Albarrán's Latin costs his life) are supposed to reach the players — those two things are load-bearing for Act 3 in [C12](chapter-12.md#-the-choice--one-page-dont-fumble-this) and can't just disappear. [THE VOTE](chapter-12.md#the-vote) in C12 folds both in, compressed, as part of Mercedes laying out the stakes before the table decides. The full confession text stays here if you want more than the compressed version — read from it directly if a player asks Mercedes a follow-up question the vote scene doesn't cover.*
+
 > _El claustro de San Ignacio está vacío a esta hora — un rectángulo de columnas bajas alrededor de un patio de tierra apisonada, con un aljibe seco en el centro que ya nadie usa. La luna, si hay, cae pareja sobre las baldosas de mármol del corredor, las mismas que Mercedes contó esa tarde, en voz baja, arrodillada. De noche el patrón geométrico del piso se nota más — o parece notarse más, que quizás no sea lo mismo. Los pasos de los dos resuenan distinto ahí adentro: un segundo eco, un cuarto de segundo tarde, que ninguno de los dos comenta._
 
 Late evening, the plan set. Mercedes asks the player she has spoken to most to walk with her in the empty cloister of San Ignacio, and tells them what she has carried since Arc 2:
@@ -442,7 +456,15 @@ She asks one thing: _"No te pido que perdones. Te pido que cuando ese hombre nos
 
 ---
 
+## THE VOTE — moved to C12
+
+**What used to run here now runs in C12 instead.** Lucas added a fuller cold open first: the gunpowder charge killed the locksmith Galíndez brought in to crack the second-patio chest, the blast drew the rest of the Custodios that same night, and his nephew comes looking for him that evening. The vote itself — Mercedes' resolution speech, the parchment hand-off, the Hide-cost foreshadowing — now runs the morning after all of that, still with no NPC-delivered answer and still a real table vote. **Full text: [C12, from the explosion through the vote](chapter-12.md#cold-open--the-explosion).** Everything below this point in this section is superseded; kept only as source material.
+
+---
+
 ## MIDNIGHT — THE PARLOR
+
+> **Retimed at this table.** This scene no longer opens at midnight on the investigation night — it runs immediately after [the vote](chapter-12.md#the-vote), same next session, whatever time of day that lands. The content below is otherwise unchanged, with one addition: **he now knows which way they voted**, and his opening line should reflect it — if they voted to move, run the text as written (*"quiero que mañana hagan exactamente lo que están planeando"*); if they voted to keep it below, he says so plainly instead: _"Entonces lo van a dejar abajo. Está bien. Ya se lo dije: voy a romper la bóveda yo mismo, y les va a costar más que un viaje de carruaje. Nos vemos esta noche, entonces — abajo, en vez de en la calle."_ Everything else in the scene — the silence tell, the pencil, no rolls in his presence — runs the same regardless of branch.
 
 > _La sala de Inocencia de noche es chica y tibia: una mesa de madera oscura, dos sillas de asiento de cuero, un aparador con loza desportillada, y en el medio de la mesa una hogaza de pan que nadie cortó todavía. Un candil bajo, casi consumido, deja más sombra que luz en las esquinas. Todo en el cuarto es ordinario — y por eso mismo, cuando algo no lo es, se nota de inmediato._
 

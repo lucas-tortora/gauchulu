@@ -14,17 +14,21 @@
 
 _Built to be run off this sheet alone. **Read down the table; everything below it is the long-form version of a line here.** Open the chapter only for the italic read-aloud blocks (every beat names its own). **[Session 1](chapter-11.md#-master-run-sheet--session-1-of-2) normally already ran [the day-before prep](#the-day-before-the-night--run-at-the-end-of-session-1-not-the-start-of-session-2)**, so this session opens cold on the carriage — **if session 1 ran long and pushed that beat, run it first here (15 min) and start the clock after it.**_
 
-## ⚠ Three things to settle BEFORE the players arrive
+> **Not at this table.** Session 1 ended at the vault, not with the chest loaded — see [the divergence note in C11](chapter-11.md#the-vault-finally). **This session opens live, in the smoke** — see [the new cold open](#cold-open--the-explosion) below — then runs [the Custodios arriving](#the-custodios-arrive), [the locksmith's nephew that evening](#that-evening--the-assistant), [the vote](#the-vote) the next morning, then El Patrón's retimed parlor visit, and only then one of the two Act 1 branches, depending which way the vote goes. The day-before prep never ran either — no cordon recruits, no chest inspection, no Quirce letter. Treat the cordon worksheet as **0 of 8 filled** and skip Quirce entirely unless you want to reintroduce him some other way.
+
+## ⚠ Four things to settle BEFORE the players arrive
 
 1. **Use is closed.** No Reader at this table (the C5 page-79 seed was never planted). **The Choice is Hide or Destroyed only.** Do not offer Use, do not retrofit it, do not hint at it. The parchment's inner page is unreadable to everyone present.
 2. **Destroyed kills Negro Camba** — one Mark left means the cost table collapses to **Anchor alone**, no Pillar to soften it. **Decide the [Marta valve](#option-3--destroyed) now**: does she volunteer to anchor instead (he drops to Pillar and lives, maimed; she dies)? She offers **only if the table has treated the Wrong Returned as people, not resources.** Both versions are honest. Pick one before the dock.
-3. **Pull the session-1 decision log** ([the table in C11](chapter-11.md#-decision-log--write-these-down-c12-reads-them-back)): docks contributions, tunnel reported?, Ana's intel, Gaucho's terms, Warding, cordon count, Quirce, falsified tally. Each one changes a specific beat below.
+3. **Pull the session-1 decision log** ([the table in C11](chapter-11.md#-decision-log--write-these-down-c12-reads-them-back)): docks contributions, tunnel reported?, Ana's intel, Gaucho's terms, Warding, cordon count, Quirce, falsified tally. **At this table every one of these is empty/no** — the log is blank across the board, which is itself the information: nothing was prepared. The knife is unavailable either way (the Cursed Gaucho was never recruited), so **Destroyed's no-knife fallback is already live by default**: a Marked PC draws their own blood at the chest instead. Since Negro Camba is already locked at Anchor — the tier table's ceiling — that fallback doesn't push him any higher; it's just how the moment reads at the table, not an extra cost.
+4. **Which Act 1 to run** depends on [the vote](#the-vote): **[the transport, degraded](#act-1--the-transport)** if they move it, **[the siege](#alternate-act-1--the-siege-at-the-vault)** if they don't. Both land at the same Act 2 (the reveal) and Act 3 (the Choice) — decide before the table sits down which one you're prepping harder for, but keep the other's beat list in reach.
+5. **Two new NPCs, one scene each, before any of the above**: **Anacleto Bazán**, the locksmith Galíndez brought in to crack the second-patio chest — dead in the blast — and **Cosme**, his nephew and apprentice, who comes looking for him that evening. Neither is in `REF-NPCs.md`; both are written out in full below, where they appear.
 
 ## The 10 beats at a glance — run them in this order
 
 | # | Beat | Where | Who matters | What MUST happen | Roll | ~min |
 |---|---|---|---|---|---|---|
-| 1 | [Cold open](#cold-open--read-this-before-anything-else-tonight) | — | — | Read the italic block aloud. Then hand out [`city-grid.svg`](assets/city-grid.svg) | — | 5 |
+| 1 | [Cold open](#cold-open--the-explosion) ⭐ | — | — | **At this table, replaced** — see [the explosion](#cold-open--the-explosion), [the Custodios arriving](#the-custodios-arrive), [that evening](#that-evening--the-assistant), and [the vote](#the-vote) above Act 1. Hand out [`city-grid.svg`](assets/city-grid.svg) once the transport (not the siege) is actually running | — | 45+ |
 | 2 | [Dusk — departure](#dusk--departure) | Manzana, 11:30 PM | Galíndez, **Esteban** | **Players pick positions** (carriage / ahead / cordon / mobile). **Name Esteban and let him talk** — his death must cost something | — | 15 |
 | 3 | The road between points | 11 blocks | — | Mark each completed leg on the players' grid. **They are drawing the diagram** — let them watch it being drawn | **2d6 Hound every 2 blocks** | 5 |
 | 4 | [WP1 — University exit](#weak-point-1--university-exit) ⚔ | Wide street outside the Manzana | False _vigilante_, 6 ambushers | He reads the papers **too slowly** — that's the tell. Caught in time → Ana's false intel bought 10 min. Not caught → 3-round ambush, **Esteban dies** | Spot Hidden/Psychology · combat · 2d6 | 25 |
@@ -97,17 +101,103 @@ _**One Marked PC — Negro Camba.** Every "Marked" line below is him alone._
 
 ---
 
-## COLD OPEN — read this before anything else tonight
+## COLD OPEN — THE EXPLOSION
 
-*(Read aloud before the chapter's own opening. Then move into [Act 1](#act-1--the-transport) below.)*
+> **This replaces the written cold open below**, which assumed a peaceful day-before that never happened at this table. Open session 2 *here*, in the smoke, with no recap — same rule as C11's own cold open: the players lived the vault that morning; they don't need it summarized back to them.
 
-> _La tarde antes de la noche que decide todo, Buenos Aires hace lo de siempre: se calienta, se enfría, cierra los negocios, enciende los faroles uno por uno. Nadie en la calle sabe que hay un cofre esperando en un sótano bajo la Manzana de las Luces, ni que esta noche va a cruzar once cuadras hasta el río. En la curtiembre del Riachuelo, el Gaucho Maldito carga por fin su pistola — algo que no había hecho en tres años. En la casa de Inocencia, Negro Camba se mira la mano, la marca sola en la palma — la de Tránsito murió con ella en el camino, tres días antes de ver esta ciudad. Mercedes dobla y desdobla el pergamino sin abrirlo del todo, una y otra vez, como quien cuenta algo que ya sabe de memoria. El aljibe de la tercera casa está caliente. Todos lo saben. Nadie lo dice todavía._
+> _El sonido no es un estampido, es más un golpe — algo que se siente en el pecho antes de escucharse. Para cuando el humo se despeja lo suficiente para ver, **Anacleto Bazán** está contra la pared del fondo, quieto de una manera que ya no admite duda. El cofre — abierto al fin, la tapa arrancada de una de sus bisagras — humea despacio, los tres candados esparcidos por el piso, dos todavía cerrados. Todo lo demás en el segundo patio está roto, volcado, o ardiendo despacio en un rincón. A todos les pitan los oídos igual._
+
+**Anacleto Bazán, cerrajero** — dead in the blast, the one non-Custodio in the room. Galíndez brought him in: a man he's used before, quietly, for locks that needed opening without a warrant behind them. Fifty-something, missing two fingers on his left hand already — an old story about a strongbox in Montevideo he liked to tell, and won't tell again. He worked with a small charge of powder packed into the weakest lock's mechanism, the way he'd done a dozen times before without incident, and this time it took the whole chest, and him with it. **A mundane death, same as Tránsito's** — no entity, no geometry, just bad luck and too much powder in a room too small. Give it that weight rather than a mythos one.
+
+**Galíndez was standing closest** — he vouched for Bazán, stayed to watch the work himself rather than send a soldier. That's why he's hurt worst. If a player asks him how he's holding up, one line, no more: _"Yo lo traje. Eso es todo lo que necesito pensar por ahora."_
+
+**First aid, before anyone else shows up.** Nobody sits with the shock — whoever has Medicine or First Aid gets to work immediately, on Galíndez first, then each other: shirts torn into strips, a flask of something stronger than water for the worst of it, hands not quite steady doing careful work anyway. **Roll it out**: one Medicine/First Aid check per patient is plenty — this isn't a scene to stage line by line, it's texture for the half hour that follows. Mercedes, hurt herself, directs more than she helps: _"Eso primero. Lo demás espera."_ **This is the half hour [the Custodios' knock](#the-custodios-arrive) below interrupts** — the room still smells of blood and spent powder, bandages still being tied off, when the first knock lands.
+
+---
+
+## THE CUSTODIOS ARRIVE
+
+**The blast draws exactly the attention Mercedes has spent a career avoiding.** Within the half hour, knocking — then more knocking — at the street door: three or four of the order's other members, the ones who live close enough in the barrio to have heard it, alarmed and half-dressed, wanting to know what happened to the house where their senior Keeper died less than a day ago.
+
+> _Se abren paso al segundo patio sin esperar respuesta — gente mayor en su mayoría, batas y sobretodos puestos apurados sobre ropa de dormir, una vela cada uno porque nadie pensó en un candil. Se quedan en la puerta del patio, mirando el cofre roto, el cuerpo de un hombre que ninguno de ellos reconoce, y a Mercedes, sentada en el piso con la espalda contra la pared, sin apurarse a levantarse._
+
+**This is the political cost of the night, not a mechanical one** — run it as pressure, not a fight. A useful voice: **Don Casimiro Vega**, a Custodio in his seventies, cautious by temperament, one of the fourteen chairs at that long pine table for longer than Mercedes has. He says, in front of everyone, the thing Saráchaga can't anymore:
+
+> _"Un extraño. En esta casa. La misma noche que enterramos a Eladio. Y ahora está muerto también, y el cofre de la orden abierto en el piso como una fruta podrida."_ Se vuelve hacia Mercedes, no hostil, algo peor — decepcionado. _"Eladio decía que moverlo era el error. Yo empiezo a pensar que se quedó corto. Quizás el error fue siempre tocarlo. Cualquier cosa."_
+
+**He doesn't win the argument tonight — nobody does.** But he's the first person in the whole campaign to make the *"leave it alone entirely"* case out loud, to Mercedes' face, in front of the players. **Let his voice stand as the other half of [the vote](#the-vote) tomorrow** — Mercedes has been arguing alone up to now; she shouldn't be anymore. If a player wants to press him, he has one more line, quieter: _"No los culpo a ustedes. Culpo a cuarenta años de gente que decidió que esto era su problema en vez de dejarlo donde estaba."_
+
+**Mechanically**: no rolls, no combat — this is a roomful of frightened, grieving old men and women, not a threat. Give the players (and Mercedes, and a hurt Galíndez) the work of managing it: explaining Bazán, explaining Saráchaga, holding the room together. It costs time and goodwill, not blood. By the time it's over, it's full dark.
+
+---
+
+## THAT EVENING — THE ASSISTANT
+
+> _Ya de noche, un golpe distinto en la puerta — más débil, más inseguro que los anteriores. Es un chico, dieciséis años, la ropa de trabajo todavía puesta, una bolsa de herramientas de cuero colgada del hombro que le queda grande. **Cosme**, sobrino y aprendiz de Bazán. Su tío salió a un trabajo esa mañana y no volvió a la casa a comer, ni a cerrar el taller, ni a nada. Preguntó en dos direcciones antes de que alguien le dijera, sin querer, hacia dónde había ido._
+
+**Cosme** doesn't know what the Custodios are, what the chest held, or what his uncle actually did for a living beyond "locks." He knows Bazán mentioned "un trabajo para el capitán" before he left, and he knows his uncle hasn't come home. He is not going to leave without an answer, and he is not going to be talked down the way Luisa was — he isn't scared of the players, he's scared *for* someone, which is a different thing to manage.
+
+> - Si le dicen que no saben nada: no se lo cree, ni por un segundo. *"Mi tío no desaparece. Nunca. Díganme dónde está."*
+> - Si alguien intenta despedirlo con plata sin explicación: la mira, no la toca. *"No vine a cobrar nada. Vine a buscarlo a él."*
+> - Si le dicen la verdad: se queda muy quieto un momento largo, y después una sola pregunta, muy baja: *"¿Lo dejaron solo?"*
+
+**A real decision, no correct answer** — same pattern as Luisa, as Ana, as everyone else this campaign has asked the players to be honest or not with:
+
+- **Tell him the truth.** He's owed a body to bury and a story that makes sense of it, even the strange parts. Costs: a civilian outside the order now knows a Keeper meeting house exists, that his uncle died opening a locked chest inside it, and that "El Patrón," Saráchaga, and a dead senior Keeper are all connected. Mercedes may object, quietly, once he's gone. **Gain**: Cosme is sixteen, grieving, sharp-handed, and knows his uncle's trade — a live thread for later if you ever want a locksmith's apprentice again, in this campaign or the next one.
+- **Send him away with a story.** Bazán took ill on the job, or never arrived, or left for the campo like Lacasa — pick one and Galíndez or Mercedes delivers it smoothly, practiced liars both. Costs nothing tonight. **Risk**: a sixteen-year-old who doesn't believe the story keeps asking, at exactly the worst week for the order to be asked questions.
+- **Recruit him quietly** — Galíndez's instinct, if a player doesn't take the lead: offer Cosme paid work finishing his uncle's outstanding jobs, under the order's eye, in exchange for silence and access. Costs a promise the Custodios now owe a child; buys a controlled version of the truth instead of an uncontrolled one.
+
+> _Imagen final de la escena: Cosme se va — solo, o acompañado, según lo que decidieron — cargando la bolsa de herramientas de su tío como si pesara mucho más que antes. Nadie en el patio dice nada hasta que sus pasos se pierden en la calle._
+
+---
+
+## THE VOTE
+
+**Run this the next morning** — everyone patched up, nobody fully healed, Galíndez worst of the lot, and now with **Don Casimiro's words from the night before** sitting in the room alongside Mercedes'. **This replaces the scripted resolution.** In the written chapter, Albarrán walks in wet and says *"Dios me contestó. Lo movemos"* and the vote is over before it's taken. That line depends on the Ana beat, which didn't run — so there is no NPC answer waiting for them this time. **This is a real table vote, with no correct answer, run the same way Act 3's Choice is run later in this chapter: put it on the table in the players' words, then stop talking.**
+
+Mercedes gathers them at the meeting-house table — the same one, the chest (Saráchaga's, emptied, the vault's untouched) still visible through the doorway to the second patio.
+
+> _Mercedes no se sienta. Tiene la voz más cansada que enojada, aunque lo segundo también está ahí, abajo. Nadie mencionó a Casimiro todavía, pero todos piensan en lo que dijo._
+
+She lays out exactly where they are, reusing the argument she's been making since the vault, because now it's not hypothetical:
+
+> _"¿Dejarlo? Eladio dijo eso durante cuarenta años, y tuvo razón cuarenta años. Pero anoche estuvo_ **caliente**_, y no la vio caliente en toda su vida — la vio una sola vez, unas horas antes de morirse, y lo primero que escribió fue 'movámoslo'. Eso no es una piedra cansada. Eso es una mano apretando."_
+>
+> _"Y fíjense en lo peor: si nos quedamos quietos no estamos ganando tiempo — le estamos regalando la hora a él. Va a romper la bóveda una noche que elija él, no nosotros, y nos va a encontrar durmiendo, sin cordón, sin gente, sin nada en la mano."_
+
+**Let that last line land without comment — it isn't rhetorical anymore.** No cordon, no Cursed Gaucho, an injured Galíndez, a dead outsider, a room full of frightened Custodios: that's not a hypothetical worst case, it's this week, whichever way they vote.
+
+**If a player raises Casimiro's argument, Mercedes doesn't dismiss it**: _"Casimiro tiene razón en una cosa. Tocarlo fue el error, hace cuarenta años, cuando yo lo copié. Ese error ya está hecho. Lo que decidimos ahora no es si tocarlo — es qué hacemos con haberlo tocado."_
+
+**She also says, flatly, what they don't have**: _"Ana. Quirce. No sé cuánto sabe él ya. No tuvimos tiempo de averiguarlo."_ — the leak was never caught, and neither Mercedes nor the players know if El Patrón is already ahead of whatever they decide. Don't resolve this either way; let it sit as a live unknown through the finale.
+
+**Then she gives the two required pieces this table's cut cloister scene ([C11](chapter-11.md#doña-mercedes-alone)) would otherwise have delivered** — both are load-bearing for [Act 3](#-the-choice--one-page-dont-fumble-this):
+
+> She hands the player she trusts most a folded, wax-sealed square of parchment: _"Si en algún momento tienen que destruir — ábranlo. Es de mi mano. Es la única forma que conozco de cerrar el libro entero."_ **Do not open it now.**
+>
+> And, unprompted, the cost of the other option: _"Si en cambio lo escondemos de nuevo, Ramón sabe la fórmula latina. Se la aprendió a Saráchaga en 1798. No es magia. Es un intercambio: quien la diga, no ve pasar el día siguiente."_ **The Hide ending now has a known price before anyone chooses it.**
+
+*(If a player asks how she came to carry all this, the full forty-year confession is still written out in [C11's cloister section](chapter-11.md#doña-mercedes-alone) — read from it directly rather than re-staging the scene.)*
+
+**Put the choice on the table in these terms, then let them talk it out — no roll, no clock beyond what the table needs:**
+
+| | **MOVE IT NOW** | **KEEP IT BELOW** |
+|---|---|---|
+| **What it means** | Run the transport tonight, as planned, minus everything they never got: no cordon, no Cursed Gaucho at the Stand, Galíndez leading hurt | Refuse the move. El Patrón keeps his own promise and forces the vault instead — **on his hour, not theirs** |
+| **Runs as** | [Act 1 — the transport, degraded](#act-1--the-transport) | [Alternate Act 1 — the siege at the vault](#alternate-act-1--the-siege-at-the-vault) |
+| **What's unchanged** | Act 2 (the reveal) and Act 3 (the Choice — Hide or Destroyed) happen either way, once he's in front of them | Same |
+
+**El Patrón's parlor visit happens next, whichever way the vote lands** — see [C11](chapter-11.md#midnight--the-parlor). He already knows what they're planning either way; the visit is him confirming it to their faces and stating his terms one more time before the night runs its course.
 
 ---
 
 # ACT 1 — THE TRANSPORT
 
+> **Run this branch only if [the vote](#the-vote) goes to move the book.** If it doesn't, skip straight to [the alternate Act 1 — the siege at the vault](#alternate-act-1--the-siege-at-the-vault).
+
 ## The day before the night — run at the end of Session 1, not the start of Session 2
+
+> **Never ran at this table.** No day-before montage, no recruiting, no chest inspection, no Quirce letter — the party spent that day and night on the gunpowder accident at Saráchaga's house instead. **Cordon worksheet: 0 of 8 filled.** Read the rest of this section for reference (what the worksheet *would* have given them), then skip to [Dusk — departure](#dusk--departure), which is adjusted below for what they actually have.
 
 **Run this as a montage to close out session 1**, so session 2 opens cold on [Dusk — departure](#dusk--departure) with the chest already loaded and every commitment already made. One paragraph of narration for the whole day:
 
@@ -186,6 +276,14 @@ Ask the players what they want to spend the day on and resolve each with **one r
 
 ## Dusk — departure
 
+> **Degraded at this table — read this before running the scene below.** No cordon, no Cursed Gaucho, Galíndez hurt. Concretely:
+> - **No cordon walkers, no panels, no Marta.** The moving city-scale binding described in the mechanic note below simply isn't there — there is nothing softening any of the three weak points. Treat every weak point as running its hardest version (the tunnel-not-reported extra ambusher at WP1; no falsified-tally safety margin; nothing narrows El Patrón's approach anywhere).
+> - **No Cursed Gaucho at [Weak Point 2](#weak-point-2--belgrano-and-defensa--the-stand).** Nobody steps out of the carriage to meet El Patrón at Belgrano y Defensa. Cut his duel entirely — El Patrón simply continues down the street toward the dock, unwounded, unhurried, and says something to that effect if the players expected an ally there: _"¿Esperaban a alguien? Yo también. No vino."_ **This also means the knife-hand-off never happens** — already covered by [the no-knife fallback](#-four-things-to-settle-before-the-players-arrive) above.
+> - **Galíndez directs, doesn't fight.** He rides in the carriage or a cart instead of ahead on horseback, one arm bound, and hands command of the street work to whichever of his two soldiers is left standing (or to a PC, if one steps up). He's still sharp, still useful — just physically out of the fight. If a scripted beat below has him personally disarming or striking someone, give that action to Esteban, his other soldier, or a player instead.
+> - **Ana's false intel was never an option** — there was no confrontation to produce it. WP1's ambush runs at full strength with no ten-minute head start.
+>
+> None of this closes any ending — Hide and Destroyed are both still reachable — it just means tonight is close to the worst case Mercedes warned about in [the vote](#the-vote). Let the table feel that.
+
 At 11:30 PM the carriage leaves the Manzana de las Luces, chest inside. Galíndez rides ahead; two men flank; Mercedes is in the carriage with the chest and the Cursed Gaucho; eight men walk in pairs; the cordon walkers are fanned along the route, panels rolled and ready. **Players choose positions**: in the carriage (highest risk, closest to the truth); ahead with Galíndez (first to engage); in the cordon walk with Marta / surviving Wrong Returned (best for catching anomalies, supporting the binding); or free and mobile (the Marked have the edge — the city's geometry tells them where to go).
 
 > _Buenos Aires a medianoche no es una ciudad que hayan visto antes. Las calles están vacías de una manera que no es natural — no porque no haya nadie afuera, sino porque nadie está en el lugar equivocado. Los borrachos en su casa, los perros callados, los serenos metidos en sus garitas. El reloj del Cabildo no ha dado la hora. La ciudad contiene el aliento. La galera avanza — ruedas de hierro sobre el empedrado, el único sonido por dos cuadras enteras. Los que caminan el cordón, cuando miran para atrás, son figuras oscuras que entran a una esquina y salen, los paneles de cuero soltando un breve resplandor ámbar cuando el cuerpo de Marta los activa al ubicarse — menos firme que un canto, pero todavía visible._
@@ -257,7 +355,62 @@ And **the geometry activates** — the Riachuelo's bend, the _saladero_ roofline
 
 ---
 
+## ALTERNATE ACT 1 — THE SIEGE AT THE VAULT
+
+> **Run this branch only if [the vote](#the-vote) goes to keep the book below.** New content, written for this table — there is no equivalent scene in the published module, because the module assumes the transport happens. It replaces [ACT 1 — THE TRANSPORT](#act-1--the-transport) above entirely; **Act 2 (the reveal) and Act 3 (the Choice) still run afterward, unchanged except for setting** — everywhere those sections say "the dock," read "the vault chamber" instead.
+
+**The premise, already established, not invented here**: Mercedes said it herself at the vault in C11 — _"El candado lo puede abrir él. La bóveda no lo deja entrar… Mientras el libro esté abajo, dentro del dibujo, él puede tocar el cofre pero no puede llevárselo."_ He has held the 1810 lock's key for decades. What he cannot do — what he told them himself in the parlor he would have to do instead — is **break the 1610 seal on the room itself**, from outside, on a night of his choosing. He said he'd do exactly that if they refused to move it. This is that night.
+
+**Cold open — the runner (or the silence, if there's a Marked PC to feel it).** Hours after the vote and the parlor — the same night, or the next; don't let it breathe too long — word reaches them wherever they're resting.
+
+> _No hace falta un mensajero elegante. Es uno de los dos soldados que le quedan a Galíndez, corriendo, sin sombrero, la respiración hecha pedazos: "¡Capitán! ¡La Manzana! Algo... algo se está rompiendo abajo. Los otros dos de guardia no contestan."_
+
+If Negro Camba is present, he doesn't need the runner — **the silence tell fires wrong**: instead of the clean, total quiet that marks El Patrón's presence nearby, the city-hum he's carried since C10 goes *ragged*, stuttering, like something enormous grinding against something that isn't built to hold it. He knows before anyone speaks: _"Algo se está rompiendo. Grande. Abajo."_
+
+**Everyone who can walk goes.** Galíndez comes — hurt, slower, one arm bound, but he does not stay behind; give him a line establishing that this table's version of him doesn't sit out his own city's worst night: _"Treinta años esperando no tener que hacer esto de nuevo. Vamos."_
+
+### The corridor, wrong
+
+> _El corredor que bajaron con Mercedes esa misma mañana está distinto. Las antorchas de los hombres de Galíndez — los que quedan — tiemblan sin viento. Las marcas de conteo en la pared, trescientas cuarenta y cuatro rayas en grupos de siete, no se ven quietas: por el rabillo del ojo parecen correrse, reagruparse, como si algo las estuviera recontando desde adentro de la piedra. El aire, que esa mañana era solamente seco y mineral, ahora tiene un peso — presión, no olor, como bajar demasiado rápido a un pozo._
+
+**Roll**: **SAN 0/1** on the descent alone, before anyone sees the chamber — the corridor itself announcing that the geometry holding it is under a strain it was never built for.
+
+### The chamber
+
+> _La sala circular ya no está silenciosa. Un sonido grave, por debajo del oído, sale de la piedra misma — no un rugido, más como el crujido lento de un barco que carga demasiado. En el piso, el diagrama tallado — el mismo de la piedra de Saens, el mismo de la bóveda — brilla apenas, una línea de luz sucia corriendo por los surcos como si algo lo estuviera empujando desde abajo. Y de pie, justo en el borde del círculo interior — el que rodea el cofre — está él. Quieto. Sonriendo, aunque algo en la sonrisa le cuesta sostener._
+
+**El Patrón is already inside the room — not inside the inner ring.** He forced the outer seal (the corridor, the room itself, the 1610 working) from the other side; the *inner* diagram, drawn tight around the chest, is the true last line and it is still, barely, holding him at its edge. He has not touched the chest. He is not attacking anyone. He is **straining**, visibly, for the first time in the entire campaign — and he is still, absolutely, polite:
+
+> _"Buenas noches. Perdón por el desorden — no era mi primera opción, pero ustedes eligieron por los dos. Esto—"_ una mano, sin apuro, señala el aire vibrando a su alrededor — _"—no va a aguantar mucho más. Ni para mí, ni para ustedes. Así que hagamos esto rápido."_
+
+**Run this as a ticking clock, not a fight.** He does not cross the inner line himself — he can't, yet — but **the chamber is failing around everyone in it**, and that is the real threat. 3–4 rounds, escalating:
+
+| Round | What happens | Roll |
+|---|---|---|
+| 1 | Dust and grit fall from the ceiling; the wall-marks blur further; Mercedes, if present, plants herself between the chest and him anyway, out of habit more than use | — |
+| 2 | A hairline crack opens across the inner circle's outer edge — not through it, but close enough that everyone sees it happen | **Negro Camba: 2d6 Hound** — this is no longer the near-miss-only vault rule from C11; a double 1 here is a real, short manifestation (1D3 rounds), not a free pass |
+| 3 | One of the older two locks on the chest itself pops open on its own — not his doing, the strain doing it for him; the third (1810) lock, his, stays shut, almost mockingly | **All present: SAN 0/1** |
+| 4+ | If the table hasn't reached [the Choice](#act-3--the-choice) by now, the crack reaches the inner line. **Stop rolling and go straight to the reveal below** — do not let mechanics resolve what the players' decision should |
+
+**Galíndez, hurt, still useful**: he can't fight in this — there's nothing here to shoot — but he can hold the room's nerve. Give him a line at round 2 or 3: _"Lo que sea que tengan que hacer, háganlo ahora. Yo cubro la puerta, aunque no sé de qué."_
+
+**If the players try to attack El Patrón directly**: he doesn't dodge, doesn't retaliate — the same rule as the dock applies here, only sharper, because he is *strained*, not idle. A blow lands if they commit to it (there is no Cursed Gaucho to do this instead this time — if anyone draws blood on him, or at the chest, that's the [no-knife Destroyed fallback](#-four-things-to-settle-before-the-players-arrive) discharging itself naturally, in scene, rather than as an abstract rule you announce).
+
+### Into the reveal
+
+The moment the players commit to an ending — Hide or Destroyed — or the crack reaches the inner line, whichever comes first, **run [Act 2 — the reveal](#the-dock-geometry) exactly as written**, with the location swapped: it is not the Riachuelo dock closing around them, it is this room, and the "doorframe" Mercedes/the Marked PC describes is the crack in the wall they've been watching grow for the last several minutes — the same image, indoors, at arm's length instead of across a city. Galíndez's pistol-raise beat still works if he's there and able; if he's too hurt to react physically, give the line to whichever soldier is left, or let Mercedes be the one who has to be told _"Quieto."_
+
+**Act 3 — the Choice — runs unchanged**, with two small adjustments, both already covered by rules stated elsewhere in this chapter, gathered here for convenience:
+- **Hide** doesn't require carrying the chest anywhere — it never left. Whoever speaks the Latin does it standing right where they are, hand on the chest. Everything else (who dies within 24 hours, Mercedes' eye) is identical.
+- **Destroyed** uses [the no-knife fallback](#-four-things-to-settle-before-the-players-arrive) by default — there is no Cursed Gaucho blade to lay across the chest. A Marked PC bleeds at it instead. Since Negro Camba is already at the tier table's ceiling (Anchor, alone), this doesn't add a cost on top — it's simply how the ritual's first stroke happens here, in scene.
+
+> _Imagen final, si esta rama corrió: la sala circular, la piedra todavía caliente al tacto por horas. Trescientas cuarenta y cuatro rayas en la pared — trescientas cuarenta y cinco, si alguien deja la suya. Arriba, Buenos Aires no se enteró de nada — ni un farol tembló, ni un perro ladró distinto. Todo lo que pasó, pasó dos pisos bajo tierra, y se queda ahí._
+
+---
+
 # ACT 2 — THE REVEAL
+
+> **If [the siege branch](#alternate-act-1--the-siege-at-the-vault) ran**: everything below happens in the vault chamber, not on the dock — reread "dock" as "vault chamber" throughout Act 2 and Act 3. The content is otherwise unchanged.
 
 ## The dock geometry
 
