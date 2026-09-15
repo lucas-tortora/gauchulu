@@ -639,4 +639,27 @@ This means the Keeper rolls for her, not in response to player instructions. Pla
 
 ---
 
+### BYAKHEE
+*Malleus Monstrorum stats, verbatim. Summoned, not native to Earth — El Patrón calls it with a word at [C12 Weak Point 2](../chapter-12.md#weak-point-2--belgrano-and-defensa--the-byakhee) and again at [the siege's cold open](../chapter-12.md#alternate-act-1--the-siege-at-the-vault). Composed of ordinary matter — mundane weapons work; the horror is the shape and the sound, not invulnerability.*
+
+| STR | CON | SIZ | DEX | INT | POW | HP | DB | Build | Move | MP |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 90 | 50 | 90 | 70 | 50 | 50 | 14 | +1D6 | 2 | 5 / Fly 16 | 10 |
+
+**Attacks per round**: 2. **Armor**: 2 (fur and tough hide). **Skills**: Listen 50%, Spot Hidden 50%.
+
+| Attack | Roll | Effect |
+|---|---|---|
+| **Fighting** (claw or crash) | 55% (27/11) | Damage 1D6 + DB |
+| **Bite and hold** (maneuver) | as Fighting | Latches on; drains **3D10 STR per round**, including the first, until the victim dies at STR 0 or breaks free with an opposed STR roll. Holds one victim at a time. |
+| **Dodge** | 35% (17/7) | — |
+
+**SAN loss**: 1/1D6 to see one.
+
+> **⚠️ At this table, claws only — never let it Bite and Hold.** Both C12 encounters are written as harassment (chase the carriage, rattle the descent), not a kill attempt; the drain maneuver can gut a PC's STR to zero in a couple of rounds and isn't the scene either beat is going for. Keep it to the Fighting/claw line above and let it break off before it presses further, per the encounter text.
+
+**Also on the record, essentially never relevant here**: can carry a rider through interstellar space given proper protection from vacuum and cold; 40% chance of knowing 1D4 spells, usually Hastur-associated. Neither comes up over the Riachuelo.
+
+---
+
 *Cross-reference: `assets/entity-hound.md` for El Sabueso stats. `assets/ritual-diagram-c3.md` for Cata's escape mechanics, `assets/mandinga-sequence.md` for the goat deal terms, and `flowmap.md` for La Llorona's trajectory.*
